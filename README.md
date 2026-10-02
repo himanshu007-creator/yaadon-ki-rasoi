@@ -31,14 +31,14 @@ cp .env.example .env.local      # add SERPAPI_API_KEY (and optionally ANTHROPIC_
 npm run verify                  # The Gate: ~12 credits, writes docs/contract-report.md
 npm run record                  # records 3 flagship investigations (~36 credits) into fixtures/
 npm run voices                  # grandmother clips per language via Cartesia (needs CARTESIA_API_KEY)
-npm run dev                     # now hybrid: fixtures → cache → live
+npm run dev                     # now live first (cache → live), recordings only as fallback
 DEMO_MODE=replay npm run dev    # demo without spending credits
 ```
 
 | Env | Default | Meaning |
 |---|---|---|
 | `SERPAPI_API_KEY` | — | Server-only. Without it: replay mode. |
-| `DEMO_MODE` | `hybrid` with a key, `replay` without | `replay` · `live` · `hybrid` |
+| `DEMO_MODE` | `hybrid` with a key, `replay` without | `replay` (recordings only) · `live` · `hybrid` (live first, recording if a live call fails) |
 | `DAILY_CREDIT_CAP` | 40 | Hard cap of live credits per IST day |
 | `PER_IP_LIVE_PER_DAY` | 2 | Live investigations per visitor; the rest are served recorded |
 | `ANTHROPIC_API_KEY` | — | Optional. Claude Haiku 4.5 for parsing/extraction/step summaries. Without it, deterministic rules run. |
@@ -58,7 +58,7 @@ Set these in the Vercel project:
 | `KV_REST_API_URL`, `KV_REST_API_TOKEN` | from Vercel KV / Upstash | Durable family pages (serverless instances don't share disk). |
 | `ANTHROPIC_API_KEY` | optional | Better parsing/extraction; rules work without it. |
 
-The backend is stateless: every step is one streaming `POST` (`/api/investigate`, `/api/reveal`) and the browser holds the state, so it works across serverless instances. [Vercel Analytics](https://vercel.com/docs/analytics) is built in (cookie-less). In public mode only the shipped grandmother clips play, so visitors can't spend your Cartesia credits.
+The backend is stateless: every step is one streaming `POST` (`/api/investigate`, `/api/reveal`) and the browser holds the state, so it works across serverless instances. [Vercel Analytics](https://vercel.com/docs/analytics) is built in (cookie-less). Grandmother voices are static files: a dish-specific line for the recorded flagships and one generic line per language for every other search, so playback never costs Cartesia credits.
 
 ## Feature → SerpApi engine
 

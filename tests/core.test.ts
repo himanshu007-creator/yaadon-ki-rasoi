@@ -151,3 +151,36 @@ describe("whose SerpApi key a request uses", async () => {
     delete process.env.NEXT_PUBLIC_VERCEL_DEPLOY;
   });
 });
+
+describe("live first, recordings only as fallback", async () => {
+  const fs = await import("node:fs/promises");
+  const { fixtureFile } = await import("@/lib/serp");
+  it("prefers a live call over a recorded fixture, and falls back to it when live fails", async () => {
+    process.env.DEMO_MODE = "hybrid";
+    const params = { q: `fixture-test-${Date.now()}` };
+    const file = fixtureFile("google", cacheKey("google", params));
+    await fs.mkdir((await import("node:path")).dirname(file), { recursive: true });
+    await fs.writeFile(file, JSON.stringify({ engine: "google", params, recordedAt: "2026-10-03", data: { recorded: true } }));
+    getJson.mockClear();
+    expect((await serp("google", params, "retrieve")).meta.source).toBe("live");
+
+    getJson.mockRejectedValueOnce(new Error("boom"));
+    const params2 = { q: `${params.q}-2` };
+    const file2 = fixtureFile("google", cacheKey("google", params2));
+    await fs.writeFile(file2, JSON.stringify({ engine: "google", params: params2, recordedAt: "2026-10-03", data: { recorded: true } }));
+    const r = await serp("google", params2, "retrieve");
+    expect(r.meta.source).toBe("replay");
+    await Promise.all([fs.rm(file), fs.rm(file2)]);
+    process.env.DEMO_MODE = "live";
+  });
+});
+
+describe("grandmother voices", async () => {
+  const { voiceFor } = await import("@/lib/voices");
+  it("uses the dish's own clip when shipped, else the language's generic line", () => {
+    expect(voiceFor("ta", "Adhirasam").src).toBe("/voices/ta-adhirasam.mp3");
+    const g = voiceFor("ta", "Besan Ladoo");
+    expect(g.src).toBe("/voices/ta-generic.mp3");
+    expect(g.roman).not.toContain("Besan Ladoo");
+  });
+});

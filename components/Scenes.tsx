@@ -4,7 +4,7 @@ import type { CallMeta } from "@/lib/serp";
 import { haversineKm } from "@/lib/geo";
 import { stateById } from "@/lib/states";
 import { titleCase } from "@/lib/text";
-import { byLanguage, clipUrl, fill, LANG_NAME, langOf, LINE_EN, LINES } from "@/lib/voices";
+import { byLanguage, LANG_NAME, langOf, voiceFor } from "@/lib/voices";
 import type { AliasMap, Candidate, City, Heartbeat, ShopsPack, StepsPack } from "@/lib/types";
 import { Diya } from "./Diya";
 import { IndiaSvg, type Lit } from "./IndiaSvg";
@@ -140,14 +140,14 @@ export function NamesMap({ map }: { map: AliasMap }) {
   const lit: Lit[] = ranked.map(([id, v], i) => ({ state: id, color: colorOf(v.name), label: v.name, delay: 200 + i * 120 }));
   const srcFor = (state: string) => {
     const lang = langOf(state);
-    const dish = langs.get(lang)?.dish ?? titleCase(map.byState[state]?.name ?? "");
-    return { lang, dish, src: clipUrl(lang, dish) ?? `/api/voice?lang=${lang}&dish=${encodeURIComponent(dish)}` };
+    return { lang, ...voiceFor(lang, langs.get(lang)?.dish ?? titleCase(map.byState[state]?.name ?? "")) };
   };
   const tap = (state: string) => {
     setSel(state);
-    voice.play([{ state, src: srcFor(state).src }]);
+    const { src } = srcFor(state);
+    if (src) voice.play([{ state, src }]);
   };
-  const playAll = () => voice.play([...langs.values()].map((l) => ({ state: l.state, src: srcFor(l.state).src })));
+  const playAll = () => voice.play([...langs.values()].flatMap((l) => { const { src } = srcFor(l.state); return src ? [{ state: l.state, src }] : []; }));
   const focus = voice.playing ?? sel ?? ranked[0]?.[0];
   const f = focus ? { st: stateById(focus), v: map.byState[focus], ...srcFor(focus) } : null;
 
@@ -171,9 +171,9 @@ export function NamesMap({ map }: { map: AliasMap }) {
             <p className="font-display m-0 text-[30px] capitalize" style={{ color: "#b34700" }}>
               {f.v.name}
             </p>
-            <p className="hand m-0 text-[19px] leading-[30px]">“{fill(LINES[f.lang].roman, f.dish)}”</p>
+            <p className="hand m-0 text-[19px] leading-[30px]">“{f.roman}”</p>
             <p className="m-0 text-[13px] text-[var(--ink-dim)]">
-              {t("meaning")}: {fill(LINE_EN, f.dish)}
+              {t("meaning")}: {f.en}
             </p>
             {voice.failed && <p className="m-0 text-[12px] text-[var(--kumkum)]">{t("noVoice")}</p>}
           </div>

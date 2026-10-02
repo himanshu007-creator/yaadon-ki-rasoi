@@ -111,16 +111,31 @@ export async function serp<T = any>(
   }
 
   const m = mode();
-  if (m !== "live") {
+  const recorded = async () => {
     const fx = await readJson<Fixture>(fixtureFile(engine, key));
-    if (fx) {
-      const meta: CallMeta = { ...base, source: "replay", credits: 0, ms: 0, recordedAt: fx.recordedAt };
-      log(meta);
-      return { data: fx.data, meta };
-    }
-    if (m === "replay") throw new ReplayMiss(`${engine} ${key}`);
+    if (!fx) return null;
+    const meta: CallMeta = { ...base, source: "replay", credits: 0, ms: 0, recordedAt: fx.recordedAt };
+    log(meta);
+    return { data: fx.data as T, meta };
+  };
+  if (m === "replay") {
+    const r = await recorded();
+    if (r) return r;
+    throw new ReplayMiss(`${engine} ${key}`);
   }
 
+  // With a key, live comes first; in hybrid mode a recording is only the fallback when live fails.
+  try {
+    return await liveCall<T>(engine, params, tag, key);
+  } catch (e) {
+    const r = m === "hybrid" ? await recorded() : null;
+    if (r) return r;
+    throw e;
+  }
+}
+
+async function liveCall<T>(engine: Engine, params: Params, tag: Tag, key: string): Promise<{ data: T; meta: CallMeta }> {
+  const base = { engine, tag, params };
   const running = inflight.get(key);
   if (running) return running as Promise<{ data: T; meta: CallMeta }>;
   const p = (async () => {

@@ -75,6 +75,21 @@ export const LINES: Record<Lang, { native: string; roman: string }> = {
 
 export const LINE_EN = "Oh my! You remember {dish}? Here we call it {dish}, my child… come, sit. This Diwali I'll make it hot and fresh for you!";
 
+/** Dish-free lines, so every live search has a voice without generating audio per dish. */
+export const GENERIC: Record<Lang, { native: string; roman: string }> = {
+  hi: { native: "हाय राम! यह स्वाद याद आ गया? आ बेटा, बैठ जा मेरे पास... इस दिवाली गरमा-गरम बनाऊँगी तेरे लिए!", roman: "Haay Raam! Yeh swaad yaad aa gaya? Aa beta, baith ja mere paas… Is Diwali garma-garam banaungi tere liye!" },
+  ta: { native: "அய்யோ, கண்ணு! இந்த ருசி ஞாபகம் வந்துடுச்சா? வா, பக்கத்துல உட்காரு... இந்த தீபாவளிக்கு சூடா செஞ்சு தரேன்!", roman: "Ayyo, kannu! Indha rusi nyabagam vandhuduchaa? Vaa, pakkathula utkaaru… Indha Deepavalikku sooda senju tharen!" },
+  te: { native: "అయ్యో, నాన్నా! ఈ రుచి గుర్తొచ్చిందా? రా, నా దగ్గర కూర్చో... ఈ దీపావళికి వేడి వేడిగా చేసి పెడతాను!", roman: "Ayyo, naanna! Ee ruchi gurtochinda? Raa, naa daggara koorcho… Ee Deepavaliki vedi vedigaa chesi pedataanu!" },
+  bn: { native: "ওমা! এই স্বাদটা মনে পড়ে গেল? আয় সোনা, আমার কাছে বোস... এই দীপাবলিতে গরম গরম বানিয়ে দেব!", roman: "Oma! Ei swadta mone pore gelo? Aay shona, amar kachhe bosh… Ei Dipaboli-te gorom gorom baniye debo!" },
+  mr: { native: "अगं बाई! ही चव आठवली का? ये बाळा, माझ्याजवळ बस... या दिवाळीला गरमागरम करून देते!", roman: "Aga bai! Hi chav aathavli ka? Ye baala, majhyajaval bas… Ya Diwalila garmagaram karun dete!" },
+  gu: { native: "અરે વાહ, દીકરા! આ સ્વાદ યાદ આવી ગયો? આવ, મારી પાસે બેસ... આ દિવાળીએ ગરમાગરમ બનાવી આપું!", roman: "Are vaah, dikra! Aa swaad yaad aavi gayo? Aav, maari paase bes… Aa Diwalie garmagaram banavi aapu!" },
+  kn: { native: "ಅಯ್ಯೋ, ಮಗೂ! ಈ ರುಚಿ ನೆನಪಾಯಿತಾ? ಬಾ, ನನ್ನ ಹತ್ತಿರ ಕೂತ್ಕೋ... ಈ ದೀಪಾವಳಿಗೆ ಬಿಸಿಬಿಸಿಯಾಗಿ ಮಾಡಿ ಕೊಡ್ತೀನಿ!", roman: "Ayyo, magu! Ee ruchi nenapaayitaa? Baa, nanna hattira kootko… Ee Deepavalige bisibisiyaagi maadi kodteeni!" },
+  ml: { native: "അയ്യോ, മക്കളേ! ഈ രുചി ഓർമ്മ വന്നോ? വാ, എന്റെ അടുത്ത് ഇരിക്ക്... ഈ ദീപാവലിക്ക് ചൂടോടെ ഉണ്ടാക്കിത്തരാം!", roman: "Ayyo, makkale! Ee ruchi orma vanno? Vaa, ente aduthu irikku… Ee Deepavalikku choodode undaakki tharaam!" },
+  pa: { native: "ਹਾਏ ਮੇਰਿਆ ਰੱਬਾ! ਇਹ ਸੁਆਦ ਯਾਦ ਆ ਗਿਆ? ਆ ਪੁੱਤਰ, ਮੇਰੇ ਕੋਲ ਬਹਿ ਜਾ... ਇਸ ਦੀਵਾਲੀ ਗਰਮ-ਗਰਮ ਬਣਾ ਕੇ ਦਿਆਂਗੀ!", roman: "Haaye mereya Rabba! Ih suaad yaad aa gaya? Aa puttar, mere kol beh ja… Is Diwali garam-garam bana ke diyangi!" },
+  or: { native: "ଆରେ ମୋ ଧନ! ଏଇ ସ୍ୱାଦ ମନେ ପଡ଼ିଗଲା? ଆ, ମୋ ପାଖରେ ବସ... ଏଇ ଦୀପାବଳିରେ ଗରମ ଗରମ କରି ଦେବି!", roman: "Are mo dhana! Ei swaada mane padigala? Aa, mo paakhare basa… Ei Deepabalire garama garama kari debi!" },
+};
+export const GENERIC_EN = "Oh my! You remember this taste? Come, my child, sit with me… this Diwali I'll make it hot and fresh for you!";
+
 export const fill = (s: string, dish: string) => s.split("{dish}").join(dish);
 
 /** Per language: the name most of that language's states search for, plus the strongest state. */
@@ -90,10 +105,12 @@ export function byLanguage(byState: Record<string, { name: string; share: number
   for (const e of out.values()) e.dish = titleCase([...e.votes].sort((a, b) => b[1] - a[1])[0][0]);
   return out;
 }
-export const clipKey = (lang: Lang, dish: string) => `${lang}-${norm(dish).replace(/ /g, "-")}`;
+export const clipKey = (lang: Lang, dish?: string) => `${lang}-${dish ? norm(dish).replace(/ /g, "-") : "generic"}`;
 
-/** Pre-generated clip shipped in /public, if any. */
-export function clipUrl(lang: Lang, dish: string): string | null {
-  const key = clipKey(lang, dish);
-  return (manifest as Record<string, string>)[key] ?? null;
+/** The shipped clip for this dish (recorded flagships), else the language's generic line. Text matches the audio. */
+export function voiceFor(lang: Lang, dish: string) {
+  const shipped = manifest as Record<string, string>;
+  const own = shipped[clipKey(lang, dish)];
+  if (own) return { src: own, roman: fill(LINES[lang].roman, dish), en: fill(LINE_EN, dish) };
+  return { src: shipped[clipKey(lang)] ?? null, roman: GENERIC[lang].roman, en: GENERIC_EN };
 }

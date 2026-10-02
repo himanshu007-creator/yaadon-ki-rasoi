@@ -28,5 +28,15 @@
  "or-pinni": "/voices/or-pinni.mp3",
  "ml-pinni": "/voices/ml-pinni.mp3",
  "gu-pinni": "/voices/gu-pinni.mp3",
- "bn-pinni": "/voices/bn-pinni.mp3"
+ "bn-pinni": "/voices/bn-pinni.mp3",
+ "hi-generic": "/voices/hi-generic.mp3",
+ "ta-generic": "/voices/ta-generic.mp3",
+ "te-generic": "/voices/te-generic.mp3",
+ "bn-generic": "/voices/bn-generic.mp3",
+ "mr-generic": "/voices/mr-generic.mp3",
+ "gu-generic": "/voices/gu-generic.mp3",
+ "kn-generic": "/voices/kn-generic.mp3",
+ "ml-generic": "/voices/ml-generic.mp3",
+ "pa-generic": "/voices/pa-generic.mp3",
+ "or-generic": "/voices/or-generic.mp3"
 }
