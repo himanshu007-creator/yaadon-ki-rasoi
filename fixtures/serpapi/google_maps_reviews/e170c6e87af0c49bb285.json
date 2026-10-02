@@ -1,0 +1,219 @@
+{
+ "engine": "google_maps_reviews",
+ "params": {
+  "data_id": "0x390cfba8f905de7d:0x48b7cd5894d0b879",
+  "hl": "en",
+  "sort_by": "qualityScore",
+  "query": "gujiya"
+ },
+ "recordedAt": "2026-10-02T19:12:03.868Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac002010c3a089d69888de2",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/ck6kqGITyaCCmeAbq9nNHb6scb07oqTOjWQ4QObf9l4/6ac002010c3a089d69888de2.md",
+   "created_at": "2026-10-02 19:12:01 UTC",
+   "processed_at": "2026-10-02 19:12:01 UTC",
+   "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x390cfba8f905de7d:0x48b7cd5894d0b879!5m2!4m1!1i2!9m1!1b1?hl=en",
+   "total_time_taken": 2.27
+  },
+  "search_parameters": {
+   "engine": "google_maps_reviews",
+   "data_id": "0x390cfba8f905de7d:0x48b7cd5894d0b879",
+   "hl": "en",
+   "sort_by": "qualityScore",
+   "query": "gujiya"
+  },
+  "reviews": [
+   {
+    "position": 1,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xaak9VUnJORkJmYzNSNVdHUnZUMmRhUzJjM01WRRAB!2m1!1s0x0:0x48b7cd5894d0b879!3m1!1s2@1:CAIQACodChtycF9oOlZjOURrNFBfc3R5WGRvT2daS2c3MVE%7C%7C?hl=en",
+    "rating": 3,
+    "date": "a month ago",
+    "iso_date": "2026-08-25T20:47:45Z",
+    "iso_date_of_last_edit": "2026-08-25T20:47:45Z",
+    "source": "Google",
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaak9VUnJORkJmYzNSNVdHUnZUMmRhUzJjM01WRRAB",
+    "user": {
+     "name": "Amar Kumar",
+     "link": "https://www.google.com/maps/contrib/107470995026008577567?hl=en",
+     "contributor_id": "107470995026008577567",
+     "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLEElO1-fxkKQOirOFIa_dCi1tq4dOY4lXqGvvhxArxm8q3qcnV=s120-c-rp-mo-ba12-br100",
+     "reviews": 46,
+     "photos": 6
+    },
+    "snippet": "Best place to dine in. Grab a table on 2nd floor, you will have a nice and lavish experience there instead of 1st floor. 1st floor are always crowded but 2nd floor is peaceful.\nExtra tip: Don't ever buy sweets from them before or during festivals, because they sell old and expired products to clear their stock. I have experienced it 2 times with GUJIYA.",
+    "extracted_snippet": {
+     "original": "Best place to dine in. Grab a table on 2nd floor, you will have a nice and lavish experience there instead of 1st floor. 1st floor are always crowded but 2nd floor is peaceful.\nExtra tip: Don't ever buy sweets from them before or during festivals, because they sell old and expired products to clear their stock. I have experienced it 2 times with GUJIYA."
+    },
+    "likes": 0
+   },
+   {
+    "position": 2,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChRDSUhNMG9nS0VJQ0FnSURXbXUweBAB!2m1!1s0x0:0x48b7cd5894d0b879!3m1!1s2@1:CIHM0ogKEICAgIDWmu0x%7C%7C?hl=en",
+    "rating": 4,
+    "date": "Edited 4 years ago",
+    "iso_date": "2022-03-21T15:18:21Z",
+    "iso_date_of_last_edit": "2022-06-22T12:22:16Z",
+    "source": "Google",
+    "review_id": "ChRDSUhNMG9nS0VJQ0FnSURXbXUweBAB",
+    "user": {
+     "name": "deepak bothwal",
+     "link": "https://www.google.com/maps/contrib/109562666668526179844?hl=en",
+     "contributor_id": "109562666668526179844",
+     "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXR3p-osXlFwHJMWaQXhbOyzpeeEKdLTYPK5-FuKZX7DWo3w8GTQQ=s120-c-rp-mo-ba12-br100",
+     "reviews": 30,
+     "photos": 27
+    },
+    "snippet": "The sweets of Hira sweets are best in East Delhi. The bestselling sweets are Balusahi, Patisha, Ghewar, Gujiya and many more. Hira sweets also provides snacks, lunch, and dinner in Laxmi nagar and Connaught place outlet with reasonable rates.",
+    "extracted_snippet": {
+     "original": "The sweets of Hira sweets are best in East Delhi. The bestselling sweets are Balusahi, Patisha, Ghewar, Gujiya and many more. Hira sweets also provides snacks, lunch, and dinner in Laxmi nagar and Connaught place outlet with reasonable rates."
+    },
+    "likes": 1
+   },
+   {
+    "position": 3,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNEdUxuczZ3RRAB!2m1!1s0x0:0x48b7cd5894d0b879!3m1!1s2@1:CIHM0ogKEICAgICDuLns6wE%7C%7C?hl=en",
+    "rating": 4,
+    "date": "2 years ago",
+    "iso_date": "2024-03-24T08:13:22Z",
+    "iso_date_of_last_edit": "2024-03-24T08:13:22Z",
+    "source": "Google",
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEdUxuczZ3RRAB",
+    "user": {
+     "name": "Pulkit Arora",
+     "link": "https://www.google.com/maps/contrib/115891966523479507442?hl=en",
+     "contributor_id": "115891966523479507442",
+     "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUtFeuFQutuYfnII6za0-snsguOEvJCnobbnnGaMmzrB6RRXFAQ=s120-c-rp-mo-ba12-br100",
+     "reviews": 266,
+     "photos": 2863
+    },
+    "snippet": "It's too expensive,  hira sweets gujiya @740\nAny other shop like indian sweets where gujiya @400",
+    "extracted_snippet": {
+     "original": "It's too expensive,  hira sweets gujiya @740\nAny other shop like indian sweets where gujiya @400"
+    },
+    "details": {
+     "order_type": "Take out",
+     "meal_type": "Other",
+     "price_per_person": "₹1,200–1,400",
+     "food": 4,
+     "service": 3,
+     "atmosphere": 3,
+     "recommended_dishes": "Chole Bhature, Jalebi with Rabri 100 Grams, Pav Bhaji, Gulab Jamun, Veg Manchurian Gravy",
+     "recommendation_for_vegetarians": "Would not recommend",
+     "vegetarian_offerings": "Menu is all vegetarian",
+     "vegetarian_options": "Ok",
+     "dietary_restrictions": "Ok",
+     "parking_space": "Difficult to find parking",
+     "parking_options": "Valet",
+     "parking": "Ok",
+     "kid_friendliness": "Ok",
+     "wheelchair_accessibility": "Ok"
+    },
+    "likes": 2
+   },
+   {
+    "position": 4,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURNOWNhU3pnRRAB!2m1!1s0x0:0x48b7cd5894d0b879!3m1!1s2@1:CIHM0ogKEICAgIDM9caSzgE%7C%7C?hl=en",
+    "rating": 4,
+    "date": "6 years ago",
+    "iso_date": "2020-01-07T10:33:11Z",
+    "iso_date_of_last_edit": "2020-01-07T10:33:11Z",
+    "source": "Google",
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNOWNhU3pnRRAB",
+    "user": {
+     "name": "Nishtha Sagar",
+     "link": "https://www.google.com/maps/contrib/106887386368499135478?hl=en",
+     "contributor_id": "106887386368499135478",
+     "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJn40J6vd4OC9z5essTt7L8SKlu2hTndNxofEvZyXFujpD1-hs=s120-c-rp-mo-ba12-br100",
+     "reviews": 17,
+     "photos": 2
+    },
+    "snippet": "Little bit pricey for some items. Really good for any sort of sweet except gujiya 😂",
+    "extracted_snippet": {
+     "original": "Little bit pricey for some items. Really good for any sort of sweet except gujiya 😂"
+    },
+    "likes": 0
+   },
+   {
+    "position": 5,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM1d1pDUjVBRRAB!2m1!1s0x0:0x48b7cd5894d0b879!3m1!1s2@1:CIHM0ogKEICAgIC5wZCR5AE%7C%7C?hl=en",
+    "rating": 4,
+    "date": "2 years ago",
+    "iso_date": "2023-10-14T07:22:18Z",
+    "iso_date_of_last_edit": "2023-10-14T07:22:18Z",
+    "source": "Google",
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1d1pDUjVBRRAB",
+    "user": {
+     "name": "Gaurav agrawal",
+     "link": "https://www.google.com/maps/contrib/101948611051141846373?hl=en",
+     "contributor_id": "101948611051141846373",
+     "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWk115zEnfAoYcBdvOfHdqPIFlLOYZqkLvMrJXAFkxflxqL96niIA=s120-c-rp-mo-ba12-br100",
+     "reviews": 148,
+     "photos": 301
+    },
+    "snippet": "Bought gujiya and mathri a bit costly",
+    "extracted_snippet": {
+     "original": "Bought gujiya and mathri a bit costly"
+    },
+    "likes": 0,
+    "response": {
+     "date": "2 years ago",
+     "iso_date": "2023-10-16T10:31:06Z",
+     "iso_date_of_last_edit": "2023-10-16T10:31:06Z",
+     "snippet": "Dear Guest,\n\nThank you for sharing your feedback. We have taken it constructively and will make all efforts to improve your experience during next visits or online orders.\n\nWarm Regards,\nCustomer Care\nHira Sweets\n",
+     "extracted_snippet": {
+      "original": "Dear Guest,\n\nThank you for sharing your feedback. We have taken it constructively and will make all efforts to improve your experience during next visits or online orders.\n\nWarm Regards,\nCustomer Care\nHira Sweets\n"
+     }
+    }
+   },
+   {
+    "position": 6,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25kMGNWRnZORlZSUm1VeGJIUnpUR0p1ZEhWQ0xVRRAB!2m1!1s0x0:0x48b7cd5894d0b879!3m1!1s2@1:CAIQACodChtycF9oOnd0cVFvNFVRRmUxbHRzTGJudHVCLUE%7C%7C?hl=en",
+    "rating": 1,
+    "date": "6 months ago",
+    "iso_date": "2026-03-04T05:03:08Z",
+    "iso_date_of_last_edit": "2026-03-04T05:03:08Z",
+    "source": "Google",
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kMGNWRnZORlZSUm1VeGJIUnpUR0p1ZEhWQ0xVRRAB",
+    "user": {
+     "name": "Himanshu Sharma",
+     "link": "https://www.google.com/maps/contrib/105542257636838327710?hl=en",
+     "contributor_id": "105542257636838327710",
+     "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKROwaNu6Te99NH3bvDOiVaa3lhhc1-9OdLYOU5ymmcCXQb_Q=s120-c-rp-mo-br100",
+     "reviews": 1,
+     "photos": 0
+    },
+    "snippet": "Doo kodi ki gujiya iti bekar lg rha h khi din se rakhi  ho !!!",
+    "extracted_snippet": {
+     "original": "Doo kodi ki gujiya iti bekar lg rha h khi din se rakhi  ho !!!",
+     "translated": "Gujiya worth two rupees is looking so useless, I have kept it for a long time!!!"
+    },
+    "likes": 0
+   },
+   {
+    "position": 7,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURNeHBXWTNRRRAB!2m1!1s0x0:0x48b7cd5894d0b879!3m1!1s2@1:CIHM0ogKEICAgIDMxpWY3QE%7C%7C?hl=en",
+    "rating": 5,
+    "date": "6 years ago",
+    "iso_date": "2019-12-28T10:26:59Z",
+    "iso_date_of_last_edit": "2019-12-28T10:26:59Z",
+    "source": "Google",
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNeHBXWTNRRRAB",
+    "user": {
+     "name": "Rohit Singh",
+     "link": "https://www.google.com/maps/contrib/108278090442018112149?hl=en",
+     "contributor_id": "108278090442018112149",
+     "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLHgWTAoemWF308nnHPpgi6-vigTxyBbrVDHJ0V-P3pAeajNg=s120-c-rp-mo-br100",
+     "reviews": 8,
+     "photos": 2
+    },
+    "snippet": "Marvellous gujiya and balushahi",
+    "extracted_snippet": {
+     "original": "Marvellous gujiya and balushahi"
+    },
+    "likes": 0
+   }
+  ]
+ }
+}

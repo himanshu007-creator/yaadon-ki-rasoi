@@ -1,0 +1,194 @@
+{
+ "engine": "google_maps_reviews",
+ "params": {
+  "data_id": "0x390cfba8f905de7d:0x48b7cd5894d0b879",
+  "hl": "en",
+  "sort_by": "qualityScore",
+  "query": "childhood"
+ },
+ "recordedAt": "2026-10-02T19:12:06.031Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac002046372f3780a680ad6",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/6ZWEkOUSOUSuOw1uiYo3Xcv-pLn7rtXDFAvYgFv7Wo4/6ac002046372f3780a680ad6.md",
+   "created_at": "2026-10-02 19:12:04 UTC",
+   "processed_at": "2026-10-02 19:12:04 UTC",
+   "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x390cfba8f905de7d:0x48b7cd5894d0b879!5m2!4m1!1i2!9m1!1b1?hl=en",
+   "total_time_taken": 1.18
+  },
+  "search_parameters": {
+   "engine": "google_maps_reviews",
+   "data_id": "0x390cfba8f905de7d:0x48b7cd5894d0b879",
+   "hl": "en",
+   "sort_by": "qualityScore",
+   "query": "childhood"
+  },
+  "reviews": [
+   {
+    "position": 1,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR3NHJMX0VREAE!2m1!1s0x0:0x48b7cd5894d0b879!3m1!1s2@1:CIHM0ogKEICAgIDw4rL_EQ%7C%7C?hl=en",
+    "rating": 5,
+    "date": "Edited 2 years ago",
+    "iso_date": "2018-02-26T10:05:15Z",
+    "iso_date_of_last_edit": "2024-09-16T07:25:36Z",
+    "source": "Google",
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR3NHJMX0VREAE",
+    "user": {
+     "name": "ANUPAM BHARTI",
+     "link": "https://www.google.com/maps/contrib/115430107558343074612?hl=en",
+     "contributor_id": "115430107558343074612",
+     "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXtCJjrfgaBlcQbOmrAtPp1Nki74QVDxYuTDd8GQT4syz9r-8oN-w=s120-c-rp-mo-ba12-br100",
+     "reviews": 536,
+     "photos": 1163
+    },
+    "snippet": "Awesome food taste... you can have any of there food items without any second thought.\n\nDon't forget to savour their signature sweet that is very old also - BaluShahi.. we used to enjoy this sweet from childhood",
+    "extracted_snippet": {
+     "original": "Awesome food taste... you can have any of there food items without any second thought.\n\nDon't forget to savour their signature sweet that is very old also - BaluShahi.. we used to enjoy this sweet from childhood"
+    },
+    "details": {
+     "order_type": "Delivery",
+     "meal_type": "Other",
+     "price_per_person": "₹1–200",
+     "food": 5,
+     "service": 4,
+     "atmosphere": 4
+    },
+    "likes": 0,
+    "response": {
+     "date": "2 years ago",
+     "iso_date": "2024-09-17T10:58:57Z",
+     "iso_date_of_last_edit": "2024-09-17T10:58:57Z",
+     "snippet": "Dear Mr. Anupam,\n\nWe sincerely appreciate your kind response regarding our efforts at Hira Sweets. Please accept our deepest gratitude in return and we look forward to welcoming you at our outlets in future as well.\n\nWarm Regards,\nCustomer Care\nHira Sweets\n",
+     "extracted_snippet": {
+      "original": "Dear Mr. Anupam,\n\nWe sincerely appreciate your kind response regarding our efforts at Hira Sweets. Please accept our deepest gratitude in return and we look forward to welcoming you at our outlets in future as well.\n\nWarm Regards,\nCustomer Care\nHira Sweets\n"
+     }
+    }
+   },
+   {
+    "position": 2,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR5eVlfazZ3RRAB!2m1!1s0x0:0x48b7cd5894d0b879!3m1!1s2@1:CIHM0ogKEICAgIDyyY_k6wE%7C%7C?hl=en",
+    "rating": 5,
+    "date": "5 years ago",
+    "iso_date": "2021-03-12T02:45:38Z",
+    "iso_date_of_last_edit": "2021-03-12T02:50:47Z",
+    "source": "Google",
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5eVlfazZ3RRAB",
+    "user": {
+     "name": "Anuj Kumar Jain",
+     "link": "https://www.google.com/maps/contrib/100463518368614078613?hl=en",
+     "contributor_id": "100463518368614078613",
+     "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUZEe-y72CXFvWo1vpTHZsB-Ametr_S7pyJSw03tDwHp23NMy5I=s120-c-rp-mo-ba12-br100",
+     "reviews": 60,
+     "photos": 0
+    },
+    "snippet": "Hira Sweets is a very good place for sweets and restaurant. Its all the food items are mouth watering and delecious. I know this place from my childhood days. It is famous for Balooshai (A traditional Indian Sweet). Its Its oldest Branch is in Chota Bazar, Shahdra, Delhi.",
+    "extracted_snippet": {
+     "original": "Hira Sweets is a very good place for sweets and restaurant. Its all the food items are mouth watering and delecious. I know this place from my childhood days. It is famous for Balooshai (A traditional Indian Sweet). Its Its oldest Branch is in Chota Bazar, Shahdra, Delhi."
+    },
+    "likes": 0
+   },
+   {
+    "position": 3,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNjalA3cm9BRRAB!2m1!1s0x0:0x48b7cd5894d0b879!3m1!1s2@1:CIHM0ogKEICAgICcjP7roAE%7C%7C?hl=en",
+    "rating": 5,
+    "date": "6 years ago",
+    "iso_date": "2020-03-11T04:39:43Z",
+    "iso_date_of_last_edit": "2020-03-11T04:39:43Z",
+    "source": "Google",
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNjalA3cm9BRRAB",
+    "user": {
+     "name": "Taarun M Bharadwaj",
+     "link": "https://www.google.com/maps/contrib/111773746735219345741?hl=en",
+     "contributor_id": "111773746735219345741",
+     "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWEhFyAsZctKtgrzyyhoY51OmEbm5f3tlhE1Ngk33Eowp4BDQThUg=s120-c-rp-mo-ba12-br100",
+     "reviews": 28,
+     "photos": 8
+    },
+    "snippet": "The most loved sweetshop of east delhi ..\nFrom childhood i am having balushahi from there and lots more..\nMust try is balushahi, boondi ladoo..\nAnd it has its own restaurant on upper floor.\nIts tasty and hygenic with pocket friendly rates..",
+    "extracted_snippet": {
+     "original": "The most loved sweetshop of east delhi ..\nFrom childhood i am having balushahi from there and lots more..\nMust try is balushahi, boondi ladoo..\nAnd it has its own restaurant on upper floor.\nIts tasty and hygenic with pocket friendly rates.."
+    },
+    "likes": 0
+   },
+   {
+    "position": 4,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR1cC12UW1RRRAB!2m1!1s0x0:0x48b7cd5894d0b879!3m1!1s2@1:CIHM0ogKEICAgIDup-vQmQE%7C%7C?hl=en",
+    "rating": 4,
+    "date": "4 years ago",
+    "iso_date": "2022-08-31T10:14:39Z",
+    "iso_date_of_last_edit": "2022-08-31T10:14:39Z",
+    "source": "Google",
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1cC12UW1RRRAB",
+    "user": {
+     "name": "Dr. Ramakant Rana",
+     "link": "https://www.google.com/maps/contrib/105457164590931188757?hl=en",
+     "contributor_id": "105457164590931188757",
+     "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUjuXUtiGv-45oP_CxVwTCW3zS_IMKKsvP6gMKuc45eteJqwFTFwA=s120-c-rp-mo-ba12-br100",
+     "reviews": 51,
+     "photos": 1025
+    },
+    "snippet": "This place has the same taste which we used to enjoy in our childhood. Same authentic taste of sweets. Do visit once and have those same memories relived.",
+    "extracted_snippet": {
+     "original": "This place has the same taste which we used to enjoy in our childhood. Same authentic taste of sweets. Do visit once and have those same memories relived."
+    },
+    "likes": 0,
+    "response": {
+     "date": "3 years ago",
+     "iso_date": "2022-12-27T07:49:40Z",
+     "iso_date_of_last_edit": "2022-12-27T07:49:40Z",
+     "snippet": "Dear Dr. Rana,\n\nWe sincerely appreciate your kind response regarding our efforts at Hira Sweets. Please accept our deepest gratitude in return and we look forward to welcoming you at our outlets in future as well.\n\nWarm Regards,\nCustomer Care\nHira Sweets\n",
+     "extracted_snippet": {
+      "original": "Dear Dr. Rana,\n\nWe sincerely appreciate your kind response regarding our efforts at Hira Sweets. Please accept our deepest gratitude in return and we look forward to welcoming you at our outlets in future as well.\n\nWarm Regards,\nCustomer Care\nHira Sweets\n"
+     }
+    }
+   },
+   {
+    "position": 5,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNncmFIWkRnEAE!2m1!1s0x0:0x48b7cd5894d0b879!3m1!1s2@1:CIHM0ogKEICAgICgraHZDg%7C%7C?hl=en",
+    "rating": 5,
+    "date": "8 years ago",
+    "iso_date": "2017-11-06T18:20:12Z",
+    "iso_date_of_last_edit": "2017-11-06T18:20:12Z",
+    "source": "Google",
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNncmFIWkRnEAE",
+    "user": {
+     "name": "Harsh Bala",
+     "link": "https://www.google.com/maps/contrib/110374761019779144190?hl=en",
+     "contributor_id": "110374761019779144190",
+     "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWtRgZqDRvwjF8sxL24uyU4zekx4H8FYJRIZTd4V_FyT4Nj9ud-=s120-c-rp-mo-ba12-br100",
+     "reviews": 85,
+     "photos": 222
+    },
+    "snippet": "it reminds me the childhood memories wid this shop , when we visited to shahdara branch for balushahi...... oh very nice shop....",
+    "extracted_snippet": {
+     "original": "it reminds me the childhood memories wid this shop , when we visited to shahdara branch for balushahi...... oh very nice shop...."
+    },
+    "likes": 0
+   },
+   {
+    "position": 6,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURVc3NYV2h3RRAB!2m1!1s0x0:0x48b7cd5894d0b879!3m1!1s2@1:CIHM0ogKEICAgIDUssXWhwE%7C%7C?hl=en",
+    "rating": 5,
+    "date": "7 years ago",
+    "iso_date": "2019-08-19T07:14:25Z",
+    "iso_date_of_last_edit": "2019-08-19T07:14:25Z",
+    "source": "Google",
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVc3NYV2h3RRAB",
+    "user": {
+     "name": "Md Zubair",
+     "link": "https://www.google.com/maps/contrib/100875896931653096572?hl=en",
+     "contributor_id": "100875896931653096572",
+     "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjULYmvyotiOCCitXHGx5GVBTn14YFyMGnXfo9GoKP2XVYfoPGBNnA=s120-c-rp-mo-ba12-br100",
+     "reviews": 155,
+     "photos": 73
+    },
+    "snippet": "Childhood",
+    "extracted_snippet": {
+     "original": "Childhood"
+    },
+    "likes": 0
+   }
+  ]
+ }
+}

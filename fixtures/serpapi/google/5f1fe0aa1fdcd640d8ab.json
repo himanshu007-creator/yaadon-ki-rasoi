@@ -1,0 +1,417 @@
+{
+ "engine": "google",
+ "params": {
+  "q": "jaggery sesame deep fried round sweet name India",
+  "gl": "in",
+  "hl": "en",
+  "google_domain": "google.co.in",
+  "device": "mobile"
+ },
+ "recordedAt": "2026-10-02T19:06:16.486Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac000a7207037ea95315485",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/_R6biMrizrS4l035OgcTBw2mvuPxUzeUhnecYUTFDcM/6ac000a7207037ea95315485.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/_R6biMrizrS4l035OgcTBw2mvuPxUzeUhnecYUTFDcM/6ac000a7207037ea95315485.json_with_pixel_position",
+   "created_at": "2026-10-02 19:06:15 UTC",
+   "processed_at": "2026-10-02 19:06:15 UTC",
+   "google_url": "https://www.google.co.in/search?q=jaggery+sesame+deep+fried+round+sweet+name+India&oq=jaggery+sesame+deep+fried+round+sweet+name+India&hl=en&gl=in&sourceid=chrome-mobile&ie=UTF-8",
+   "total_time_taken": 0.73
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "jaggery sesame deep fried round sweet name India",
+   "google_domain": "google.co.in",
+   "hl": "en",
+   "gl": "in",
+   "device": "mobile"
+  },
+  "search_information": {
+   "query_displayed": "jaggery sesame deep fried round sweet name India"
+  },
+  "inline_videos": [
+   {
+    "position": 1,
+    "title": "Til Ke Laddu Recipe | How To Make Til Ke Ladoo | Sesame Jaggery Sweets #ladoo #sweets #sesamesweets",
+    "link": "https://www.youtube.com/shorts/l5QsDkYCc0E?vl=en",
+    "thumbnail": "https://serpapi.com/searches/6ac000a7207037ea95315485/images/wKykQfBY_R6ylZxGacrlvLitCWD7lSvN30lmFdTuLFY.jpeg",
+    "channel": "N'Oven - Cake & Cookies",
+    "duration": "1:27",
+    "platform": "YouTube",
+    "date": "2 Feb 2026",
+    "snippet": "Make til laddu by roasting sesame seeds, adding coconut and peanuts, then mixing with melted jaggery and cardamom powder."
+   },
+   {
+    "position": 2,
+    "title": "Til Ladoo | Healthy & Traditional Sweet Recipe",
+    "link": "https://www.youtube.com/watch?v=aXfFRbSsUFc",
+    "thumbnail": "https://serpapi.com/searches/6ac000a7207037ea95315485/images/AJkc46tMY4CJ13L11PU1nomJ-6FNDf_Vi3A-LUcxG6A.jpeg",
+    "channel": "Yummy",
+    "duration": "3:11",
+    "platform": "YouTube",
+    "date": "11 Feb 2026"
+   },
+   {
+    "position": 3,
+    "title": "Egg Besan Ladoo Recipe | Danedar Desi Mithai With Sesame & Nuts | Easy Winter Sweet",
+    "link": "https://www.youtube.com/shorts/04NGMBAZe3E",
+    "thumbnail": "https://serpapi.com/searches/6ac000a7207037ea95315485/images/GgVrzMqKS7T7s-x-mfTKAefJ2fSiu2c7FM55bqlGMEM.jpeg",
+    "channel": "Easy Delights with Asra",
+    "duration": "2:06",
+    "platform": "YouTube",
+    "date": "1 day ago",
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQLw5XpoLBvKts-zhEBVei2_Wqhj3Mxi1PEKg"
+   },
+   {
+    "position": 4,
+    "title": "Sesame Laddu Recipe: Healthy Coconut Sesame Ladoo with Jaggery",
+    "link": "https://www.facebook.com/HomeCookingShow/videos/sesame-laddu-til-laddu-laddu-recipe-nuvvula-laddu-recipe-healthy-recipes-indian-/1137534978324166/",
+    "thumbnail": "https://serpapi.com/searches/6ac000a7207037ea95315485/images/b0PSyItvc1gGTZLNO7Ff1DtusxOcDoiZ5Ts2z_wjBNY.jpeg",
+    "channel": "Home cooking",
+    "duration": "5:01",
+    "platform": "Facebook",
+    "date": "26 Sept 2025"
+   }
+  ],
+  "related_questions": [
+   {
+    "question": "Which sweet is made from sesame seeds and jaggery?",
+    "type": "ai_overview",
+    "page_token": "IjM4TnicHdBNjpswGIBh9TKzTPiZUE2kaCQCJh0NTrGxAW9G8DkJITamxA0Ju96hR-ipepqOunulZ_f--qPO_eXvl9-ttcN1vVxO07Q4GXNShwWYxblf1tdHD0uolWpquKyDr4H7eoRNfINwO0KYsWHgEXEow3PliVB2CBdsteVbt2LMDpkKw9JBt_f8m20iMfKCBOC5LU2IBuasaGJt6stA5PzHfqc6ibDHLtWds7uuO0wgRxEpVFHP4HAHpbiUCWh3kvF1oiWzTbzyAMHMc_6d-W97KNmnyfGQv21xYvyCv5TQk6Shjk-j9DnVq15EnOIC_azKeD5olQiPaOHwCWsbioREhRpMyj67FLyIWzfn2OwRHmk_PKSnxriVk3RIWJX4sY-NxT17gH7J5I4EzHNJGppzxsgMndI8kXfYkU44csC6veXlkDY-rmpNkFSCvjPcZ9nTEW4b_-n_683HUdv1MJrTPyYVjkg",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=IjM4TnicHdBNjpswGIBh9TKzTPiZUE2kaCQCJh0NTrGxAW9G8DkJITamxA0Ju96hR-ipepqOunulZ_f--qPO_eXvl9-ttcN1vVxO07Q4GXNShwWYxblf1tdHD0uolWpquKyDr4H7eoRNfINwO0KYsWHgEXEow3PliVB2CBdsteVbt2LMDpkKw9JBt_f8m20iMfKCBOC5LU2IBuasaGJt6stA5PzHfqc6ibDHLtWds7uuO0wgRxEpVFHP4HAHpbiUCWh3kvF1oiWzTbzyAMHMc_6d-W97KNmnyfGQv21xYvyCv5TQk6Shjk-j9DnVq15EnOIC_azKeD5olQiPaOHwCWsbioREhRpMyj67FLyIWzfn2OwRHmk_PKSnxriVk3RIWJX4sY-NxT17gH7J5I4EzHNJGppzxsgMndI8kXfYkU44csC6veXlkDY-rmpNkFSCvjPcZ9nTEW4b_-n_683HUdv1MJrTPyYVjkg",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlNHdE5SQzFQVkROd2JEUjNNbnB2VGt4Qk1XSm5WM0ZrYlMxSWJ6VkdSbEJHYnpnNGQwUlhORkoxV1RrMVJuRTFiV1pDYldoeFoyUlNZelkxTFZGZk5WOWFiVFZ3YVRGNlR6UjFVamxEVm1Sc2NFTklSbXh2YXpKMFp4SVhjSGRFUVdGemNqaEtMVFoxTW5KdlVIUjBlbE50VVRBYUlrRkVjM0k1WmxSaE5sOUhjVlpPUmpGdFRucFdNV3RxTjNWQ1NWVkZTRE13VTJjIiwiZmN2IjoiMyIsImVpIjoicHdEQWFzcjhKLTZ1MnJvUHR0elNtUTAiLCJxYyI6IkNqQnFZV2RuWlhKNUlITmxjMkZ0WlNCa1pXVndJR1p5YVdWa0lISnZkVzVrSUhOM1pXVjBJRzVoYldVZ2FXNWthV0VRQUgyMHlEWV8iLCJxdWVzdGlvbiI6IldoaWNoIHN3ZWV0IGlzIG1hZGUgZnJvbSBzZXNhbWUgc2VlZHMgYW5kIGphZ2dlcnk/IiwibGsiOiJHakYzYUdsamFDQnpkMlZsZENCcGN5QnRZV1JsSUdaeWIyMGdjMlZ6WVcxbElITmxaV1J6SUdGdVpDQnFZV2RuWlhKNSIsImJzIjoiYzVYT1BRc0NNUXdHWUZ5RG9pQTRkQXE0ZUc3MmZrQm5mMEhuWUhQWHlMV0Y5cUQ0N18zQXIxc0VwNUR3dkM4QkFXMjluRHlXeWp5aUZBemtHTHVjQWhZdUZQZzIyQldrNlBCTWZjXzVZblNyRHZYZkZHeGhiVDA5OUNnREJoazlpZEZ6Qlo4Vkd0aTgwTE5vSU9kU01ucXBGcE1MV0dqZWZaN3hHSjFReEhnWFhjcVRQNHplcTEzOXd2SURyMlpYIiwiaWQiOiJmY19wd0RBYXNyOEotNnUycm9QdHR6U21RMF81In0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlNHdE5SQzFQVkROd2JEUjNNbnB2VGt4Qk1XSm5WM0ZrYlMxSWJ6VkdSbEJHYnpnNGQwUlhORkoxV1RrMVJuRTFiV1pDYldoeFoyUlNZelkxTFZGZk5WOWFiVFZ3YVRGNlR6UjFVamxEVm1Sc2NFTklSbXh2YXpKMFp4SVhjSGRFUVdGemNqaEtMVFoxTW5KdlVIUjBlbE50VVRBYUlrRkVjM0k1WmxSaE5sOUhjVlpPUmpGdFRucFdNV3RxTjNWQ1NWVkZTRE13VTJjIiwiZmN2IjoiMyIsImVpIjoicHdEQWFzcjhKLTZ1MnJvUHR0elNtUTAiLCJxYyI6IkNqQnFZV2RuWlhKNUlITmxjMkZ0WlNCa1pXVndJR1p5YVdWa0lISnZkVzVrSUhOM1pXVjBJRzVoYldVZ2FXNWthV0VRQUgyMHlEWV8iLCJxdWVzdGlvbiI6IldoaWNoIHN3ZWV0IGlzIG1hZGUgZnJvbSBzZXNhbWUgc2VlZHMgYW5kIGphZ2dlcnk%2FIiwibGsiOiJHakYzYUdsamFDQnpkMlZsZENCcGN5QnRZV1JsSUdaeWIyMGdjMlZ6WVcxbElITmxaV1J6SUdGdVpDQnFZV2RuWlhKNSIsImJzIjoiYzVYT1BRc0NNUXdHWUZ5RG9pQTRkQXE0ZUc3MmZrQm5mMEhuWUhQWHlMV0Y5cUQ0N18zQXIxc0VwNUR3dkM4QkFXMjluRHlXeWp5aUZBemtHTHVjQWhZdUZQZzIyQldrNlBCTWZjXzVZblNyRHZYZkZHeGhiVDA5OUNnREJoazlpZEZ6Qlo4Vkd0aTgwTE5vSU9kU01ucXBGcE1MV0dqZWZaN3hHSjFReEhnWFhjcVRQNHplcTEzOXd2SURyMlpYIiwiaWQiOiJmY19wd0RBYXNyOEotNnUycm9QdHR6U21RMF81In0%3D"
+   },
+   {
+    "question": "What is til mithai?",
+    "type": "ai_overview",
+    "page_token": "rr3LjnicHdBRboIwAADQ7DJ-Ki3OOROzpKMFO4VZSqv9WWoRQSo0k0nwb3fZqXaaJXtHeN8_tmrq3wdVdp27LiaTvu_Hp7Y92ePYtOOqmejr0JiJ0dYetKkXs6cZeCnMEl979Nr2aJs5JwLmpXcU5X680h4tcl5mHK4gvyvBcD0VjQUGsj4DiKTBttvBeKcwKHlNZUpiqUL7JQhT8izKRHbhNmMd56I4XPIoJy4xg_eYBNTp2gVMzv21iAGX9rbz9r2xSOidWh-J3eZctEYqHGctzCF741jpWD77-7uaZUGJN4S2zCLCzvZdhzglPvIZJqXxV9O08mDO6XAAyMsjxw8C92FFEYviIZGKyUBtlHR1CuZTPoAo43TPIL3wC_00dxJkMEajwtyW_uh_bPlRXLqF-2xPfypTdwY",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rr3LjnicHdBRboIwAADQ7DJ-Ki3OOROzpKMFO4VZSqv9WWoRQSo0k0nwb3fZqXaaJXtHeN8_tmrq3wdVdp27LiaTvu_Hp7Y92ePYtOOqmejr0JiJ0dYetKkXs6cZeCnMEl979Nr2aJs5JwLmpXcU5X680h4tcl5mHK4gvyvBcD0VjQUGsj4DiKTBttvBeKcwKHlNZUpiqUL7JQhT8izKRHbhNmMd56I4XPIoJy4xg_eYBNTp2gVMzv21iAGX9rbz9r2xSOidWh-J3eZctEYqHGctzCF741jpWD77-7uaZUGJN4S2zCLCzvZdhzglPvIZJqXxV9O08mDO6XAAyMsjxw8C92FFEYviIZGKyUBtlHR1CuZTPoAo43TPIL3wC_00dxJkMEajwtyW_uh_bPlRXLqF-2xPfypTdwY",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlNHdE5SQzFQVkROd2JEUjNNbnB2VGt4Qk1XSm5WM0ZrYlMxSWJ6VkdSbEJHYnpnNGQwUlhORkoxV1RrMVJuRTFiV1pDYldoeFoyUlNZelkxTFZGZk5WOWFiVFZ3YVRGNlR6UjFVamxEVm1Sc2NFTklSbXh2YXpKMFp4SVhjSGRFUVdGemNqaEtMVFoxTW5KdlVIUjBlbE50VVRBYUlrRkVjM0k1WmxSaE5sOUhjVlpPUmpGdFRucFdNV3RxTjNWQ1NWVkZTRE13VTJjIiwiZmN2IjoiMyIsImVpIjoicHdEQWFzcjhKLTZ1MnJvUHR0elNtUTAiLCJxYyI6IkNqQnFZV2RuWlhKNUlITmxjMkZ0WlNCa1pXVndJR1p5YVdWa0lISnZkVzVrSUhOM1pXVjBJRzVoYldVZ2FXNWthV0VRQUgyMHlEWV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGlsIG1pdGhhaT8iLCJsayI6IkdncDBhV3dnYldsMGFHRnAiLCJicyI6ImM1WE9QUXNDTVF3R1lGeURvaUE0ZEFxNGVHNzJma0JuZjBIbllIUFh5TFdGOXFENDdfM0FyMXNFcDVEd3ZDOEJBVzI5bkR5V3lqeWlGQXprR0x1Y0FoWXVGUGcyMkJXazZQQk1mY181WW5TckR2WGZGR3hoYlQwOTlDZ0RCaGs5aWRGekJaOFZHdGk4MExOb0lPZFNNbnFwRnBNTFdHamVmWjd4R0oxUXhIZ1hYY3FUUDR6ZXExMzl3dklEcjJaWCIsImlkIjoiZmNfcHdEQWFzcjhKLTZ1MnJvUHR0elNtUTBfNSJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlNHdE5SQzFQVkROd2JEUjNNbnB2VGt4Qk1XSm5WM0ZrYlMxSWJ6VkdSbEJHYnpnNGQwUlhORkoxV1RrMVJuRTFiV1pDYldoeFoyUlNZelkxTFZGZk5WOWFiVFZ3YVRGNlR6UjFVamxEVm1Sc2NFTklSbXh2YXpKMFp4SVhjSGRFUVdGemNqaEtMVFoxTW5KdlVIUjBlbE50VVRBYUlrRkVjM0k1WmxSaE5sOUhjVlpPUmpGdFRucFdNV3RxTjNWQ1NWVkZTRE13VTJjIiwiZmN2IjoiMyIsImVpIjoicHdEQWFzcjhKLTZ1MnJvUHR0elNtUTAiLCJxYyI6IkNqQnFZV2RuWlhKNUlITmxjMkZ0WlNCa1pXVndJR1p5YVdWa0lISnZkVzVrSUhOM1pXVjBJRzVoYldVZ2FXNWthV0VRQUgyMHlEWV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGlsIG1pdGhhaT8iLCJsayI6IkdncDBhV3dnYldsMGFHRnAiLCJicyI6ImM1WE9QUXNDTVF3R1lGeURvaUE0ZEFxNGVHNzJma0JuZjBIbllIUFh5TFdGOXFENDdfM0FyMXNFcDVEd3ZDOEJBVzI5bkR5V3lqeWlGQXprR0x1Y0FoWXVGUGcyMkJXazZQQk1mY181WW5TckR2WGZGR3hoYlQwOTlDZ0RCaGs5aWRGekJaOFZHdGk4MExOb0lPZFNNbnFwRnBNTFdHamVmWjd4R0oxUXhIZ1hYY3FUUDR6ZXExMzl3dklEcjJaWCIsImlkIjoiZmNfcHdEQWFzcjhKLTZ1MnJvUHR0elNtUTBfNSJ9"
+   },
+   {
+    "question": "What is sesame laddoo?",
+    "type": "ai_overview",
+    "page_token": "cI2sO3icHdBfToMwHADgeJk9DgpsJksWIxP2xwzkV9pCX0yhMBgFqhCRvXkXT-VpNN7gy_f1requ-bnj1TjqYWMY0zQtL31_UcUy75d1Z4hh7nIjF0plIm826_s1eijzrTdM7q6f3IhoTZ_AxB1NM8ItGsPEqbKArCxCFI7Z6YMmkIgrrzJbA_UmlLe8pB288abSYAJnVz4yMjghRkcRB4ezJ9WZfLbMkw6QMQxYkJAdajGrdgniYYKql0BVQsbQE6ppGLtnackR9v4gbvwmGt-XxLGZoj3rICp8dw5pior9GRUtlAUbO0wfsW-7Nnh-ldtHB9emJePTnCHXlAcdZ3_QfX1y4RDMIeMQEWSn1yCO2GqNWx_zFvXCC55TMgaS6C6yNCzK_GNrL_7Htq9lO270e3_5BbQOeT8",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=cI2sO3icHdBfToMwHADgeJk9DgpsJksWIxP2xwzkV9pCX0yhMBgFqhCRvXkXT-VpNN7gy_f1requ-bnj1TjqYWMY0zQtL31_UcUy75d1Z4hh7nIjF0plIm826_s1eijzrTdM7q6f3IhoTZ_AxB1NM8ItGsPEqbKArCxCFI7Z6YMmkIgrrzJbA_UmlLe8pB288abSYAJnVz4yMjghRkcRB4ezJ9WZfLbMkw6QMQxYkJAdajGrdgniYYKql0BVQsbQE6ppGLtnackR9v4gbvwmGt-XxLGZoj3rICp8dw5pior9GRUtlAUbO0wfsW-7Nnh-ldtHB9emJePTnCHXlAcdZ3_QfX1y4RDMIeMQEWSn1yCO2GqNWx_zFvXCC55TMgaS6C6yNCzK_GNrL_7Htq9lO270e3_5BbQOeT8",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlNHdE5SQzFQVkROd2JEUjNNbnB2VGt4Qk1XSm5WM0ZrYlMxSWJ6VkdSbEJHYnpnNGQwUlhORkoxV1RrMVJuRTFiV1pDYldoeFoyUlNZelkxTFZGZk5WOWFiVFZ3YVRGNlR6UjFVamxEVm1Sc2NFTklSbXh2YXpKMFp4SVhjSGRFUVdGemNqaEtMVFoxTW5KdlVIUjBlbE50VVRBYUlrRkVjM0k1WmxSaE5sOUhjVlpPUmpGdFRucFdNV3RxTjNWQ1NWVkZTRE13VTJjIiwiZmN2IjoiMyIsImVpIjoicHdEQWFzcjhKLTZ1MnJvUHR0elNtUTAiLCJxYyI6IkNqQnFZV2RuWlhKNUlITmxjMkZ0WlNCa1pXVndJR1p5YVdWa0lISnZkVzVrSUhOM1pXVjBJRzVoYldVZ2FXNWthV0VRQUgyMHlEWV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgc2VzYW1lIGxhZGRvbz8iLCJsayI6IkdnMXpaWE5oYldVZ2JHRmtaRzl2IiwiYnMiOiJjNVhPUFFzQ01Rd0dZRnlEb2lBNGRBcTRlRzcyZmtCbmYwSG5ZSFBYeUxXRjlxRDQ3XzNBcjFzRXA1RHd2QzhCQVcyOW5EeVd5anlpRkF6a0dMdWNBaFl1RlBnMjJCV2s2UEJNZmNfNVluU3JEdlhmRkd4aGJUMDk5Q2dEQmhrOWlkRnpCWjhWR3RpODBMTm9JT2RTTW5xcEZwTUxXR2plZlo3eEdKMVF4SGdYWGNxVFA0emVxMTM5d3ZJRHIyWlgiLCJpZCI6ImZjX3B3REFhc3I4Si02dTJyb1B0dHpTbVEwXzUifQ==",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlNHdE5SQzFQVkROd2JEUjNNbnB2VGt4Qk1XSm5WM0ZrYlMxSWJ6VkdSbEJHYnpnNGQwUlhORkoxV1RrMVJuRTFiV1pDYldoeFoyUlNZelkxTFZGZk5WOWFiVFZ3YVRGNlR6UjFVamxEVm1Sc2NFTklSbXh2YXpKMFp4SVhjSGRFUVdGemNqaEtMVFoxTW5KdlVIUjBlbE50VVRBYUlrRkVjM0k1WmxSaE5sOUhjVlpPUmpGdFRucFdNV3RxTjNWQ1NWVkZTRE13VTJjIiwiZmN2IjoiMyIsImVpIjoicHdEQWFzcjhKLTZ1MnJvUHR0elNtUTAiLCJxYyI6IkNqQnFZV2RuWlhKNUlITmxjMkZ0WlNCa1pXVndJR1p5YVdWa0lISnZkVzVrSUhOM1pXVjBJRzVoYldVZ2FXNWthV0VRQUgyMHlEWV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgc2VzYW1lIGxhZGRvbz8iLCJsayI6IkdnMXpaWE5oYldVZ2JHRmtaRzl2IiwiYnMiOiJjNVhPUFFzQ01Rd0dZRnlEb2lBNGRBcTRlRzcyZmtCbmYwSG5ZSFBYeUxXRjlxRDQ3XzNBcjFzRXA1RHd2QzhCQVcyOW5EeVd5anlpRkF6a0dMdWNBaFl1RlBnMjJCV2s2UEJNZmNfNVluU3JEdlhmRkd4aGJUMDk5Q2dEQmhrOWlkRnpCWjhWR3RpODBMTm9JT2RTTW5xcEZwTUxXR2plZlo3eEdKMVF4SGdYWGNxVFA0emVxMTM5d3ZJRHIyWlgiLCJpZCI6ImZjX3B3REFhc3I4Si02dTJyb1B0dHpTbVEwXzUifQ%3D%3D"
+   },
+   {
+    "question": "What is the Indian name for sesame seeds?",
+    "type": "ai_overview",
+    "page_token": "B24QPXicHdBbjpswFABQdTPzmdgwSdVIUSXKK6lwxMU2wT-VsZNAMI8MzhD46166qq6mUs8Szu8_pu6av19elbXDuFuvp2la3fr-Zi4r1a_qbi3HuVNrJY0ppWp2269b_P2q9sHz4P14HLyUDQP3AWWtPbKQLWXHfybnxC3z4wwmRCXnEpzKphm-CsRT4cNBMtIUVLeXGlvaohfzCWS4mQVim4sZTH6H5yk6ptSFB6MBkmdSMf8I3CVF1g2RQIcJZuwQR0QpDz0RQE4bm6qYD4DCLFl4rmIYOSafLBg3aVu9n-LweWHkg1G467y3WTNEvPN8oPoh72IRsSYl9QRZyKvAlRdUetIIvOJM5lPQW9KxWbXfUh3DljkYEq-vUwaLupuWIZHIyI76HBri8A11DaameJc15oqKMW95qKe3q_rcu2__P_e_rq3dDR_97R8zmYRB",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=B24QPXicHdBbjpswFABQdTPzmdgwSdVIUSXKK6lwxMU2wT-VsZNAMI8MzhD46166qq6mUs8Szu8_pu6av19elbXDuFuvp2la3fr-Zi4r1a_qbi3HuVNrJY0ppWp2269b_P2q9sHz4P14HLyUDQP3AWWtPbKQLWXHfybnxC3z4wwmRCXnEpzKphm-CsRT4cNBMtIUVLeXGlvaohfzCWS4mQVim4sZTH6H5yk6ptSFB6MBkmdSMf8I3CVF1g2RQIcJZuwQR0QpDz0RQE4bm6qYD4DCLFl4rmIYOSafLBg3aVu9n-LweWHkg1G467y3WTNEvPN8oPoh72IRsSYl9QRZyKvAlRdUetIIvOJM5lPQW9KxWbXfUh3DljkYEq-vUwaLupuWIZHIyI76HBri8A11DaameJc15oqKMW95qKe3q_rcu2__P_e_rq3dDR_97R8zmYRB",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlNHdE5SQzFQVkROd2JEUjNNbnB2VGt4Qk1XSm5WM0ZrYlMxSWJ6VkdSbEJHYnpnNGQwUlhORkoxV1RrMVJuRTFiV1pDYldoeFoyUlNZelkxTFZGZk5WOWFiVFZ3YVRGNlR6UjFVamxEVm1Sc2NFTklSbXh2YXpKMFp4SVhjSGRFUVdGemNqaEtMVFoxTW5KdlVIUjBlbE50VVRBYUlrRkVjM0k1WmxSaE5sOUhjVlpPUmpGdFRucFdNV3RxTjNWQ1NWVkZTRE13VTJjIiwiZmN2IjoiMyIsImVpIjoicHdEQWFzcjhKLTZ1MnJvUHR0elNtUTAiLCJxYyI6IkNqQnFZV2RuWlhKNUlITmxjMkZ0WlNCa1pXVndJR1p5YVdWa0lISnZkVzVrSUhOM1pXVjBJRzVoYldVZ2FXNWthV0VRQUgyMHlEWV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIEluZGlhbiBuYW1lIGZvciBzZXNhbWUgc2VlZHM/IiwibGsiOiJjNVBTS005SUxGSElMRllveVVoVnlNeEx5VXpNVThoTHpFMVZTTXN2VWloT0xRWXhpMU5UVTRvQiIsImJzIjoiYzVYT1BRc0NNUXdHWUZ5RG9pQTRkQXE0ZUc3MmZrQm5mMEhuWUhQWHlMV0Y5cUQ0N18zQXIxc0VwNUR3dkM4QkFXMjluRHlXeWp5aUZBemtHTHVjQWhZdUZQZzIyQldrNlBCTWZjXzVZblNyRHZYZkZHeGhiVDA5OUNnREJoazlpZEZ6Qlo4Vkd0aTgwTE5vSU9kU01ucXBGcE1MV0dqZWZaN3hHSjFReEhnWFhjcVRQNHplcTEzOXd2SURyMlpYIiwiaWQiOiJmY19wd0RBYXNyOEotNnUycm9QdHR6U21RMF81In0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlNHdE5SQzFQVkROd2JEUjNNbnB2VGt4Qk1XSm5WM0ZrYlMxSWJ6VkdSbEJHYnpnNGQwUlhORkoxV1RrMVJuRTFiV1pDYldoeFoyUlNZelkxTFZGZk5WOWFiVFZ3YVRGNlR6UjFVamxEVm1Sc2NFTklSbXh2YXpKMFp4SVhjSGRFUVdGemNqaEtMVFoxTW5KdlVIUjBlbE50VVRBYUlrRkVjM0k1WmxSaE5sOUhjVlpPUmpGdFRucFdNV3RxTjNWQ1NWVkZTRE13VTJjIiwiZmN2IjoiMyIsImVpIjoicHdEQWFzcjhKLTZ1MnJvUHR0elNtUTAiLCJxYyI6IkNqQnFZV2RuWlhKNUlITmxjMkZ0WlNCa1pXVndJR1p5YVdWa0lISnZkVzVrSUhOM1pXVjBJRzVoYldVZ2FXNWthV0VRQUgyMHlEWV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIEluZGlhbiBuYW1lIGZvciBzZXNhbWUgc2VlZHM%2FIiwibGsiOiJjNVBTS005SUxGSElMRllveVVoVnlNeEx5VXpNVThoTHpFMVZTTXN2VWloT0xRWXhpMU5UVTRvQiIsImJzIjoiYzVYT1BRc0NNUXdHWUZ5RG9pQTRkQXE0ZUc3MmZrQm5mMEhuWUhQWHlMV0Y5cUQ0N18zQXIxc0VwNUR3dkM4QkFXMjluRHlXeWp5aUZBemtHTHVjQWhZdUZQZzIyQldrNlBCTWZjXzVZblNyRHZYZkZHeGhiVDA5OUNnREJoazlpZEZ6Qlo4Vkd0aTgwTE5vSU9kU01ucXBGcE1MV0dqZWZaN3hHSjFReEhnWFhjcVRQNHplcTEzOXd2SURyMlpYIiwiaWQiOiJmY19wd0RBYXNyOEotNnUycm9QdHR6U21RMF81In0%3D"
+   }
+  ],
+  "ai_overview": {
+   "page_token": "y2qXEXiczZVdcuI4EIAPsOdYv5DgH34CqXJNyT8Bk0AQhGTgxWVsIQy2BbbBOG9zlz3V7mVWtjEYApnMPGytqrBQq7vVkvpT__jLsb3l33_8Mw_DVXDPslEUlTEh2EFlk5RtjzWC2DPZGXEC35x_mzsi8piAbHwT2ZZozn3ioluXTG0HMdgRbY-Jt2KFMQORY5AtriIFGIHf6NzWN4JP-mH4PnQhx6ReRX1qBGhBl90tAlZn6Wf5Z0Whg_I6KCNPb0nlXZvz9SXgBwouC5xQKT-zhkuVwH_aZJV-JKDQH9A-VfyaPwjpBx_HElAz66NzJVOQMomEr62brIgTd7IW5U771UEkLfOJpA2vxyKdOI7ydeA4CYu6oB7hBbPLDR5PABa-WTvbgVo8gWPLhA_H-PCl-dMmpUtFp0Iz1VaLFscI0rjsovrxSp4hQMM-mGP86V1XARhXQdTEl2MqNE1-rAJuP5DHrIVpBnPs1Kcdz9rm3Ez_-EGS2PJLkyMt1ULklexmdv1dezV4f2VUm7OR5OIAsOaU6jnEsJClz3XuWzrmBb7GNSt3jZuUKjM4YBWcYHU76TtbrfL-onLlp_IbXwDqsFsN5me6l6rwUg6oKk06euHLguxwEnKa0jK9vvHBDXUqjYoe5FwdZpbquDDZAVoi60AJXG57l5l5xou6n0qAkg845hvbA5VKtazXzsKmNjLI0xanOXpyuReOAX-YG9Dcy6SKlC7WJuNDrGfJokp0l_AQ4p46OQ89pm_PiJrQIXzIlGTQzXMJyN3kadIyl_nmIf0HsSTtz2GZRZavoJ4DlR0G6A21LGKgDPaPAk6t1Px-zQ-bl649SjRhAJS_-BqexfIzmjKtnJ4zGIoQtd-n75PBqG9iMx7PR27c1Gv9CApAkKPL0BB3-ovFyPzfoZXXKryvVVfRkr-GFoRX0NIOisoJWhLRtOtoHWrVHq1Pa9U5WpJWRCtOlkjQulKrfhUtWEBLO0cL7-O4gNbDVbTwNbSSWvUBrZNaVUDrpFYd0PqNWlX9nVqVUoay7rRwbRb4agFTvyshEporTlElb26udfy0rT7uIvO2h39awGZueO8alnOj29a9JHTC2LrRqYDcI4tZiwsDY-THpQAFhotKFkKr0sy3kVXyycazSkGEUFjykjnNs2yDcR2fiJxx5yhkogkvr53eqFF36mugtmuPQ_iK7YH7XNtuH-RJqJkeH7hRtbuydBeTMekOwMJGwsRqtlaryHvpDhf1py5s6PLrBjSf12Tb31Y2_kSrPLbD3QLKd70otlEL3s7N7xt1-VadbXDvZdSu796WnN9qkHGP7w2eHkAaVyCGXt3j7pbxxtEY1zdFSla1gjsQvGGa7DJNb1omRwahfQRgqw6gKgk0-ZjANHQUbMWqVa81G_yM4zm-Mq0JjIvDeCU2OSbwfJH_F41ZYSg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=y2qXEXiczZVdcuI4EIAPsOdYv5DgH34CqXJNyT8Bk0AQhGTgxWVsIQy2BbbBOG9zlz3V7mVWtjEYApnMPGytqrBQq7vVkvpT__jLsb3l33_8Mw_DVXDPslEUlTEh2EFlk5RtjzWC2DPZGXEC35x_mzsi8piAbHwT2ZZozn3ioluXTG0HMdgRbY-Jt2KFMQORY5AtriIFGIHf6NzWN4JP-mH4PnQhx6ReRX1qBGhBl90tAlZn6Wf5Z0Whg_I6KCNPb0nlXZvz9SXgBwouC5xQKT-zhkuVwH_aZJV-JKDQH9A-VfyaPwjpBx_HElAz66NzJVOQMomEr62brIgTd7IW5U771UEkLfOJpA2vxyKdOI7ydeA4CYu6oB7hBbPLDR5PABa-WTvbgVo8gWPLhA_H-PCl-dMmpUtFp0Iz1VaLFscI0rjsovrxSp4hQMM-mGP86V1XARhXQdTEl2MqNE1-rAJuP5DHrIVpBnPs1Kcdz9rm3Ez_-EGS2PJLkyMt1ULklexmdv1dezV4f2VUm7OR5OIAsOaU6jnEsJClz3XuWzrmBb7GNSt3jZuUKjM4YBWcYHU76TtbrfL-onLlp_IbXwDqsFsN5me6l6rwUg6oKk06euHLguxwEnKa0jK9vvHBDXUqjYoe5FwdZpbquDDZAVoi60AJXG57l5l5xou6n0qAkg845hvbA5VKtazXzsKmNjLI0xanOXpyuReOAX-YG9Dcy6SKlC7WJuNDrGfJokp0l_AQ4p46OQ89pm_PiJrQIXzIlGTQzXMJyN3kadIyl_nmIf0HsSTtz2GZRZavoJ4DlR0G6A21LGKgDPaPAk6t1Px-zQ-bl649SjRhAJS_-BqexfIzmjKtnJ4zGIoQtd-n75PBqG9iMx7PR27c1Gv9CApAkKPL0BB3-ovFyPzfoZXXKryvVVfRkr-GFoRX0NIOisoJWhLRtOtoHWrVHq1Pa9U5WpJWRCtOlkjQulKrfhUtWEBLO0cL7-O4gNbDVbTwNbSSWvUBrZNaVUDrpFYd0PqNWlX9nVqVUoay7rRwbRb4agFTvyshEporTlElb26udfy0rT7uIvO2h39awGZueO8alnOj29a9JHTC2LrRqYDcI4tZiwsDY-THpQAFhotKFkKr0sy3kVXyycazSkGEUFjykjnNs2yDcR2fiJxx5yhkogkvr53eqFF36mugtmuPQ_iK7YH7XNtuH-RJqJkeH7hRtbuydBeTMekOwMJGwsRqtlaryHvpDhf1py5s6PLrBjSf12Tb31Y2_kSrPLbD3QLKd70otlEL3s7N7xt1-VadbXDvZdSu796WnN9qkHGP7w2eHkAaVyCGXt3j7pbxxtEY1zdFSla1gjsQvGGa7DJNb1omRwahfQRgqw6gKgk0-ZjANHQUbMWqVa81G_yM4zm-Mq0JjIvDeCU2OSbwfJH_F41ZYSg"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Sesame",
+    "link": "https://en.wikipedia.org/wiki/Sesame",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAV5uRz8LiqRSEZ3rjdxPMCVBaZD0vbUvK712pxnYH-UwRMmhhnK8mfBSKFFoAZAYoVlKozJLHrgAXPY0Kxgm69weAykXVoohsWBRDfb-rAmyEkd9f2NMAeA0ib&ved=2ahUKEwiK7PjPg5yXAxVul1YBHTauNNMQFnoECDIQAQ&uoh=1",
+    "displayed_link": "https://en.wikipedia.org",
+    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+    "snippet": "Sesame is a plant in the genus Sesamum, also called benne. Numerous wild relatives occur in Africa and a smaller number in India. It is widely naturalized ...",
+    "sitelinks": {
+     "inline": [
+      {
+       "title": "Description",
+       "link": "https://en.wikipedia.org/wiki/Sesame#Description"
+      },
+      {
+       "title": "Taxonomy",
+       "link": "https://en.wikipedia.org/wiki/Sesame#Taxonomy"
+      },
+      {
+       "title": "Origins and history",
+       "link": "https://en.wikipedia.org/wiki/Sesame#Origins_and_history"
+      },
+      {
+       "title": "Agriculture",
+       "link": "https://en.wikipedia.org/wiki/Sesame#Agriculture"
+      },
+      {
+       "title": "Nutrition",
+       "link": "https://en.wikipedia.org/wiki/Sesame#Nutrition"
+      },
+      {
+       "title": "Possible harms",
+       "link": "https://en.wikipedia.org/wiki/Sesame#Possible_harms"
+      }
+     ]
+    },
+    "about_this_result": {
+     "source": {
+      "description": "Sesame is a plant in the genus Sesamum, also called benne. Numerous wild relatives occur in Africa and a smaller number in India. It is widely naturalized ...",
+      "source_info_link": "https://en.wikipedia.org/wiki/Sesame",
+      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVjV1Uno4TGlxUlNFWjNyamR4UE1DVkJhWkQwdmJVdks3MTJweG5ZSC1Vd1JNbWhobks4bWZCU0tGRm9BWkFZb1ZsS296SkxIcmdBWFBZMEt4Z202OXdlQXlrWFZvb2hzV0JSRGZiLXJBbXlFa2Q5ZjJOTUFlQTBpYhIEGgIIABqnAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQIEDCAAQABgAIAAqHAoHamFnZ2VyeRWMHKlAGgxpdjtwO2phZ2dlcnkyjgEvZ290bz91cmw9Q0FFU1h3SHJPekFWNXVSejhMaXFSU0VaM3JqZHhQTUNWQmFaRDB2YlV2SzcxMnB4bllILVV3Uk1taGhuSzhtZkJTS0ZGb0FaQVlvVmxLb3pKTEhyZ0FYUFkwS3hnbTY5d2VBeWtYVm9vaHNXQlJEZmItckFteUVrZDlmMk5NQWVBMGliOhk8Yj5TZXNhbWU8L2I-IC0gV2lraXBlZGlhQqMBU2VzYW1lIGlzIGEgcGxhbnQgaW4gdGhlIGdlbnVzIFNlc2FtdW0sIGFsc28gY2FsbGVkIGJlbm5lLiBOdW1lcm91cyB3aWxkIHJlbGF0aXZlcyBvY2N1ciBpbiBBZnJpY2EgYW5kIGEgc21hbGxlciBudW1iZXIgaW4gSW5kaWEuIEl0IGlzIHdpZGVseSBuYXR1cmFsaXplZCZuYnNwOy4uLlIDYW5kUgJvZiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVjV1Uno4TGlxUlNFWjNyamR4UE1DVkJhWkQwdmJVdks3MTJweG5ZSC1Vd1JNbWhobks4bWZCU0tGRm9BWkFZb1ZsS296SkxIcmdBWFBZMEt4Z202OXdlQXlrWFZvb2hzV0JSRGZiLXJBbXlFa2Q5ZjJOTUFlQTBpYhIEGgIIABqnAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQIEDCAAQABgAIAAqHAoHamFnZ2VyeRWMHKlAGgxpdjtwO2phZ2dlcnkyjgEvZ290bz91cmw9Q0FFU1h3SHJPekFWNXVSejhMaXFSU0VaM3JqZHhQTUNWQmFaRDB2YlV2SzcxMnB4bllILVV3Uk1taGhuSzhtZkJTS0ZGb0FaQVlvVmxLb3pKTEhyZ0FYUFkwS3hnbTY5d2VBeWtYVm9vaHNXQlJEZmItckFteUVrZDlmMk5NQWVBMGliOhk8Yj5TZXNhbWU8L2I-IC0gV2lraXBlZGlhQqMBU2VzYW1lIGlzIGEgcGxhbnQgaW4gdGhlIGdlbnVzIFNlc2FtdW0sIGFsc28gY2FsbGVkIGJlbm5lLiBOdW1lcm91cyB3aWxkIHJlbGF0aXZlcyBvY2N1ciBpbiBBZnJpY2EgYW5kIGEgc21hbGxlciBudW1iZXIgaW4gSW5kaWEuIEl0IGlzIHdpZGVseSBuYXR1cmFsaXplZCZuYnNwOy4uLlIDYW5kUgJvZiICEAFIAFgAaAA",
+    "source": "Wikipedia"
+   },
+   {
+    "position": 2,
+    "title": "Sesame",
+    "link": "https://www.sesame.com/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUgHrOzAV7F3VWVBtn8A0S7pYQR-D4B7mbnj3uPzwTfxj-3haPxxDtL1NjQe9NwU3ysrCgKaA0NPb5pLZAOWCPRU9bm5oNmbkMsJnLnRzySxbB5o&ved=2ahUKEwiK7PjPg5yXAxVul1YBHTauNNMQFnoECFIQAQ&uoh=1",
+    "displayed_link": "https://www.sesame.com",
+    "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAQBgCdASocABwAPtFAtFooIqgoFAEAGgllAMxc8gtivM3OOrx476ZnhvondX8oOLpqJSIVG-tvJAAA_ujICXFaiukJunEVQGX6pn2Tf-TEoXSVBsmkxYMzM-uqtC9XQj7JeUVZ0joLhxk1Vn78nAmABpBjI-KWHhh7J3oph0zexe7ktHzMF_FPjzvTCKC6b0UWLlxT1G4WgXOfw9VaVc34hLHfx0N8fshvhUEz_HLnFxUjjv-sN6TnpjDKpcX1x34H0uKPnQfCubbq9--GGf3I1Q9GRXm1e2yUif4a3kjcoRycrjJCMPBkoNZFv3WFIfBAgAAA.webp",
+    "snippet": "Sesame voice agents are everyday collaborators who help you do more, talk things through, and follow your curiosity. Available on iOS and Android,",
+    "about_this_result": {
+     "source": {
+      "description": "Sesame voice agents are everyday collaborators who help you do more, talk things through, and follow your curiosity. Available on iOS and Android,",
+      "source_info_link": "https://www.sesame.com/",
+      "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAQBgCdASocABwAPtFAtFooIqgoFAEAGgllAMxc8gtivM3OOrx476ZnhvondX8oOLpqJSIVG-tvJAAA_ujICXFaiukJunEVQGX6pn2Tf-TEoXSVBsmkxYMzM-uqtC9XQj7JeUVZ0joLhxk1Vn78nAmABpBjI-KWHhh7J3oph0zexe7ktHzMF_FPjzvTCKC6b0UWLlxT1G4WgXOfw9VaVc34hLHfx0N8fshvhUEz_HLnFxUjjv-sN6TnpjDKpcX1x34H0uKPnQfCubbq9--GGf3I1Q9GRXm1e2yUif4a3kjcoRycrjJCMPBkoNZFv3WFIfBAgAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Cn0vZ290bz91cmw9Q0FFU1VnSHJPekFWN0YzVldWQnRuOEEwUzdwWVFSLUQ0QjdtYm5qM3VQendUZnhqLTNoYVB4eER0TDFOalFlOU53VTN5c3JDZ0thQTBOUGI1cExaQU9XQ1BSVTlibTVvTm1ia01zSm5MblJ6eVN4YkI1bxIEGgIIABr4AhICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQNICCAAQABgAIAAqHAoHamFnZ2VyeRWYAJFAGgxpdjtwO2phZ2dlcnkyfS9nb3RvP3VybD1DQUVTVWdIck96QVY3RjNWV1ZCdG44QTBTN3BZUVItRDRCN21ibmozdVB6d1RmeGotM2hhUHh4RHRMMU5qUWU5TndVM3lzckNnS2FBME5QYjVwTFpBT1dDUFJVOWJtNW9ObWJrTXNKbkxuUnp5U3hiQjVvOg08Yj5TZXNhbWU8L2I-QpIBU2VzYW1lIHZvaWNlIGFnZW50cyBhcmUgZXZlcnlkYXkgY29sbGFib3JhdG9ycyB3aG8gaGVscCB5b3UgZG8gbW9yZSwgdGFsayB0aGluZ3MgdGhyb3VnaCwgYW5kIGZvbGxvdyB5b3VyIGN1cmlvc2l0eS4gQXZhaWxhYmxlIG9uIGlPUyBhbmQgQW5kcm9pZCxSAm9mUgNhbmQiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Cn0vZ290bz91cmw9Q0FFU1VnSHJPekFWN0YzVldWQnRuOEEwUzdwWVFSLUQ0QjdtYm5qM3VQendUZnhqLTNoYVB4eER0TDFOalFlOU53VTN5c3JDZ0thQTBOUGI1cExaQU9XQ1BSVTlibTVvTm1ia01zSm5MblJ6eVN4YkI1bxIEGgIIABr4AhICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQNICCAAQABgAIAAqHAoHamFnZ2VyeRWYAJFAGgxpdjtwO2phZ2dlcnkyfS9nb3RvP3VybD1DQUVTVWdIck96QVY3RjNWV1ZCdG44QTBTN3BZUVItRDRCN21ibmozdVB6d1RmeGotM2hhUHh4RHRMMU5qUWU5TndVM3lzckNnS2FBME5QYjVwTFpBT1dDUFJVOWJtNW9ObWJrTXNKbkxuUnp5U3hiQjVvOg08Yj5TZXNhbWU8L2I-QpIBU2VzYW1lIHZvaWNlIGFnZW50cyBhcmUgZXZlcnlkYXkgY29sbGFib3JhdG9ycyB3aG8gaGVscCB5b3UgZG8gbW9yZSwgdGFsayB0aGluZ3MgdGhyb3VnaCwgYW5kIGZvbGxvdyB5b3VyIGN1cmlvc2l0eS4gQXZhaWxhYmxlIG9uIGlPUyBhbmQgQW5kcm9pZCxSAm9mUgNhbmQiAhABSABYAGgA",
+    "source": "sesame.com"
+   },
+   {
+    "position": 3,
+    "title": "Sesame HR: The most complete Human Resources Software",
+    "link": "https://www.sesamehr.com/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVAHrOzAV15tlICLFv_Nxaik4OBUTxp86o0lw6b9ZfRCjJQzgAy5o7bxzlHnf6kh1ijsIbglRfZB8kjT4k5APjDyoUzXwMuzsTJjDn4JOs1oZcgFUXw&ved=2ahUKEwiK7PjPg5yXAxVul1YBHTauNNMQFnoECFMQAQ&uoh=1",
+    "displayed_link": "https://www.sesamehr.com",
+    "favicon": "https://serpapi.com/images/i/UklGRlwBAABXRUJQVlA4IFABAAAQBwCdASocABwAPtEutFooIagoGAEAGgliAJ0dgCnXPs1cs0Xcxbx-_PwoNMb7ZS-XyikHaAc8ee8jcmH5TSDoAAD-9g7K_aW4YUgfekIbigxXaBqeOpujrnf4wgcPyb-BkWUMuruTbIzZtKup7CuG_0DHGlpPdMquxrb3b7VPGBHXuYOvUJej6oyoGe_BkE8fOtkKOFsJtfga-WjQIN2U03o1Vj8fph4uj4E4BvCrdz63NIoTrfYDrcLtrMj-_DUpME8v5pV3NbOET_QlhX-p84ygJLIUi0RJxEm46qTdzbQhTfOn7tT9Y6ddbYWT2ySh2S3c6w6gG-Pggd_ukKVd4NVK8zNvAHme_QZtNbauax7xu88WTvphFHsB53eiTS7p7NGA0fuxYUyi4wyQg1MV7OOhWl-uco9jTLhfTWVYxKgN2sQGao0tayjok_mAAAA.webp",
+    "snippet": "Discover Sesame HR, all-in-one HR software built for modern teams. Manage time tracking, payroll, recruitment, and more from a single platform.",
+    "about_this_result": {
+     "source": {
+      "description": "Discover Sesame HR, all-in-one HR software built for modern teams. Manage time tracking, payroll, recruitment, and more from a single platform.",
+      "source_info_link": "https://www.sesamehr.com/",
+      "icon": "https://serpapi.com/images/i/UklGRlwBAABXRUJQVlA4IFABAAAQBwCdASocABwAPtEutFooIagoGAEAGgliAJ0dgCnXPs1cs0Xcxbx-_PwoNMb7ZS-XyikHaAc8ee8jcmH5TSDoAAD-9g7K_aW4YUgfekIbigxXaBqeOpujrnf4wgcPyb-BkWUMuruTbIzZtKup7CuG_0DHGlpPdMquxrb3b7VPGBHXuYOvUJej6oyoGe_BkE8fOtkKOFsJtfga-WjQIN2U03o1Vj8fph4uj4E4BvCrdz63NIoTrfYDrcLtrMj-_DUpME8v5pV3NbOET_QlhX-p84ygJLIUi0RJxEm46qTdzbQhTfOn7tT9Y6ddbYWT2ySh2S3c6w6gG-Pggd_ukKVd4NVK8zNvAHme_QZtNbauax7xu88WTvphFHsB53eiTS7p7NGA0fuxYUyi4wyQg1MV7OOhWl-uco9jTLhfTWVYxKgN2sQGao0tayjok_mAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CoABL2dvdG8_dXJsPUNBRVNWQUhyT3pBVjE1dGxJQ0xGdl9OeGFpazRPQlVUeHA4Nm8wbHc2YjlaZlJDakpRemdBeTVvN2J4emxIbmY2a2gxaWpzSWJnbFJmWkI4a2pUNGs1QVBqRHlvVXpYd011enNUSmpEbjRKT3Mxb1pjZ0ZVWHcSBBoCCAAaqAMSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCCAwgAEAAYACAAKhwKB2phZ2dlcnkVmsGRQBoMaXY7cDtqYWdnZXJ5MoABL2dvdG8_dXJsPUNBRVNWQUhyT3pBVjE1dGxJQ0xGdl9OeGFpazRPQlVUeHA4Nm8wbHc2YjlaZlJDakpRemdBeTVvN2J4emxIbmY2a2gxaWpzSWJnbFJmWkI4a2pUNGs1QVBqRHlvVXpYd011enNUSmpEbjRKT3Mxb1pjZ0ZVWHc6PDxiPlNlc2FtZTwvYj4gSFI6IFRoZSBtb3N0IGNvbXBsZXRlIEh1bWFuIFJlc291cmNlcyBTb2Z0d2FyZUKPAURpc2NvdmVyIFNlc2FtZSBIUiwgYWxsLWluLW9uZSBIUiBzb2Z0d2FyZSBidWlsdCBmb3IgbW9kZXJuIHRlYW1zLiBNYW5hZ2UgdGltZSB0cmFja2luZywgcGF5cm9sbCwgcmVjcnVpdG1lbnQsIGFuZCBtb3JlIGZyb20gYSBzaW5nbGUgcGxhdGZvcm0uUgNhbmRSAm9mIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CoABL2dvdG8_dXJsPUNBRVNWQUhyT3pBVjE1dGxJQ0xGdl9OeGFpazRPQlVUeHA4Nm8wbHc2YjlaZlJDakpRemdBeTVvN2J4emxIbmY2a2gxaWpzSWJnbFJmWkI4a2pUNGs1QVBqRHlvVXpYd011enNUSmpEbjRKT3Mxb1pjZ0ZVWHcSBBoCCAAaqAMSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCCAwgAEAAYACAAKhwKB2phZ2dlcnkVmsGRQBoMaXY7cDtqYWdnZXJ5MoABL2dvdG8_dXJsPUNBRVNWQUhyT3pBVjE1dGxJQ0xGdl9OeGFpazRPQlVUeHA4Nm8wbHc2YjlaZlJDakpRemdBeTVvN2J4emxIbmY2a2gxaWpzSWJnbFJmWkI4a2pUNGs1QVBqRHlvVXpYd011enNUSmpEbjRKT3Mxb1pjZ0ZVWHc6PDxiPlNlc2FtZTwvYj4gSFI6IFRoZSBtb3N0IGNvbXBsZXRlIEh1bWFuIFJlc291cmNlcyBTb2Z0d2FyZUKPAURpc2NvdmVyIFNlc2FtZSBIUiwgYWxsLWluLW9uZSBIUiBzb2Z0d2FyZSBidWlsdCBmb3IgbW9kZXJuIHRlYW1zLiBNYW5hZ2UgdGltZSB0cmFja2luZywgcGF5cm9sbCwgcmVjcnVpdG1lbnQsIGFuZCBtb3JlIGZyb20gYSBzaW5nbGUgcGxhdGZvcm0uUgNhbmRSAm9mIgIQAUgAWABoAA",
+    "source": "sesamehr.com"
+   },
+   {
+    "position": 4,
+    "title": "Value addition in sesame: A perspective on bioactive components for enhancing utility and profitability - PMC",
+    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4127822/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVXZ6MNINs91u8GNxiIWVj_Ps8REo8OU0fAXykn6LsEsYMNLpaSEUsn3hfcLAriVKVNdT4XvhUt9OPDYyOtuL41fYuWlUXj7xfVpehYITuduJ_KJ9Yn9pj5_Res7QtyJ-PM-sxfvcHYg&ved=2ahUKEwiK7PjPg5yXAxVul1YBHTauNNMQFnoECFcQAQ&uoh=1",
+    "displayed_link": "https://pmc.ncbi.nlm.nih.gov",
+    "favicon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D_yUtsol8oAD-_sOTEDgs8NL15VX_wv4F_6dBNd4_gi1U_kXUxqPcXsFtGjMlHL_iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH_-a5ZDrRWvXo-9H2GTsj5x3b_VzXmclGgeq4YJB_JffNIrdNH2uGUzJ2PgPtuu-F8C185JL_0VELY6ah1IOx3-tE_Lg7whjT9VJtLQ_hW7fvNm7vEEGvHOJUWo6xVUyKM_eZfcqIAA.webp",
+    "author": "by N Pathak",
+    "snippet": "Sesame (Sesamum indicum. It is also known as gingelly, til, benne seed. Sesame is believed to have been originated in India … material largely includes Sesamum ...",
+    "about_this_result": {
+     "source": {
+      "description": "Sesame (Sesamum indicum. It is also known as gingelly, til, benne seed. Sesame is believed to have been originated in India … material largely includes Sesamum ...",
+      "source_info_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4127822/",
+      "icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D_yUtsol8oAD-_sOTEDgs8NL15VX_wv4F_6dBNd4_gi1U_kXUxqPcXsFtGjMlHL_iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH_-a5ZDrRWvXo-9H2GTsj5x3b_VzXmclGgeq4YJB_JffNIrdNH2uGUzJ2PgPtuu-F8C185JL_0VELY6ah1IOx3-tE_Lg7whjT9VJtLQ_hW7fvNm7vEEGvHOJUWo6xVUyKM_eZfcqIAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVlhaNk1OSU5zOTF1OEdOeGlJV1ZqX1BzOFJFbzhPVTBmQVh5a242THNFc1lNTkxwYVNFVXNuM2hmY0xBcmlWS1ZOZFQ0WHZoVXQ5T1BEWXlPdHVMNDFmWXVXbFVYajd4ZlZwZWhZSVR1ZHVKX0tKOVluOXBqNV9SZXM3UXR5Si1QTS1zeGZ2Y0hZZxIEGgIIABqiBBICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQPwDCAAQABgAIAAqHAoHamFnZ2VyeRV6VV1AGgxpdjtwO2phZ2dlcnkyoAEvZ290bz91cmw9Q0FFU2JBSHJPekFWWFo2TU5JTnM5MXU4R054aUlXVmpfUHM4UkVvOE9VMGZBWHlrbjZMc0VzWU1OTHBhU0VVc24zaGZjTEFyaVZLVk5kVDRYdmhVdDlPUERZeU90dUw0MWZZdVdsVVhqN3hmVnBlaFlJVHVkdUpfS0o5WW45cGo1X1JlczdRdHlKLVBNLXN4ZnZjSFlnOntWYWx1ZSBhZGRpdGlvbiBpbiA8Yj5zZXNhbWU8L2I-OiBBIHBlcnNwZWN0aXZlIG9uIGJpb2FjdGl2ZSBjb21wb25lbnRzIGZvciBlbmhhbmNpbmcgdXRpbGl0eSA8Yj5hbmQ8L2I-IHByb2ZpdGFiaWxpdHkgLSBQTUNCqgFTZXNhbWUgKFNlc2FtdW0gaW5kaWN1bS4gSXQgaXMgYWxzbyBrbm93biBhcyBnaW5nZWxseSwgdGlsLCBiZW5uZSBzZWVkLiBTZXNhbWUgaXMgYmVsaWV2ZWQgdG8gaGF2ZSBiZWVuIG9yaWdpbmF0ZWQgaW4gSW5kaWEg4oCmIG1hdGVyaWFsIGxhcmdlbHkgaW5jbHVkZXMgU2VzYW11bSZuYnNwOy4uLlIDYW5kUgJvZiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVlhaNk1OSU5zOTF1OEdOeGlJV1ZqX1BzOFJFbzhPVTBmQVh5a242THNFc1lNTkxwYVNFVXNuM2hmY0xBcmlWS1ZOZFQ0WHZoVXQ5T1BEWXlPdHVMNDFmWXVXbFVYajd4ZlZwZWhZSVR1ZHVKX0tKOVluOXBqNV9SZXM3UXR5Si1QTS1zeGZ2Y0hZZxIEGgIIABqiBBICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQPwDCAAQABgAIAAqHAoHamFnZ2VyeRV6VV1AGgxpdjtwO2phZ2dlcnkyoAEvZ290bz91cmw9Q0FFU2JBSHJPekFWWFo2TU5JTnM5MXU4R054aUlXVmpfUHM4UkVvOE9VMGZBWHlrbjZMc0VzWU1OTHBhU0VVc24zaGZjTEFyaVZLVk5kVDRYdmhVdDlPUERZeU90dUw0MWZZdVdsVVhqN3hmVnBlaFlJVHVkdUpfS0o5WW45cGo1X1JlczdRdHlKLVBNLXN4ZnZjSFlnOntWYWx1ZSBhZGRpdGlvbiBpbiA8Yj5zZXNhbWU8L2I-OiBBIHBlcnNwZWN0aXZlIG9uIGJpb2FjdGl2ZSBjb21wb25lbnRzIGZvciBlbmhhbmNpbmcgdXRpbGl0eSA8Yj5hbmQ8L2I-IHByb2ZpdGFiaWxpdHkgLSBQTUNCqgFTZXNhbWUgKFNlc2FtdW0gaW5kaWN1bS4gSXQgaXMgYWxzbyBrbm93biBhcyBnaW5nZWxseSwgdGlsLCBiZW5uZSBzZWVkLiBTZXNhbWUgaXMgYmVsaWV2ZWQgdG8gaGF2ZSBiZWVuIG9yaWdpbmF0ZWQgaW4gSW5kaWEg4oCmIG1hdGVyaWFsIGxhcmdlbHkgaW5jbHVkZXMgU2VzYW11bSZuYnNwOy4uLlIDYW5kUgJvZiICEAFIAFgAaAA",
+    "source": "National Institutes of Health (NIH) | (.gov)"
+   },
+   {
+    "position": 5,
+    "title": "Sesame Barfi Recipe | Til Barfi | Easy Sesame Sweet at Home | Yummy",
+    "link": "https://www.youtube.com/watch?v=pcbPudraxno",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVWp6JuQP-dyYvNd-ESSixv8O57M9gpSdHVYZ0fXhHAautWPGsvf2OspsUUTkcwAKqiE6ss6tiAJjOlLyO6GPumNCS0sD5MuO4_DawrkoW8eWGb9vTk1ugYGKt3f_XJa87xw&ved=2ahUKEwiK7PjPg5yXAxVul1YBHTauNNMQtwJ6BAhAEAE&uoh=1",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnqMB6Rsl4lSzKh4NAZhwCvXI4a0flj8gmNThd9ZUipumYUYFdLKrx8w&s",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "duration": "4:18",
+    "snippet": "WELCOME TO YUMMY TODAY'S RECIPE IS Sesame Barfi Recipe | Til Barfi | Easy Sesame Sweet at Home INGREDIENTS: Sesame 1 cup Sift well Roast for ...",
+    "about_this_result": {
+     "source": {
+      "description": "WELCOME TO YUMMY TODAY'S RECIPE IS Sesame Barfi Recipe | Til Barfi | Easy Sesame Sweet at Home INGREDIENTS: Sesame 1 cup Sift well Roast for ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVldwNkp1UVAtZHlZdk5kLUVTU2l4djhPNTdNOWdwU2RIVllaMGZYaEhBYXV0V1BHc3ZmMk9zcHNVVVRrY3dBS3FpRTZzczZ0aUFKak9sTHlPNkdQdW1OQ1Mwc0Q1TXVPNF9EYXdya29XOGVXR2I5dlRrMXVnWUdLdDNmX1hKYTg3eHcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVldwNkp1UVAtZHlZdk5kLUVTU2l4djhPNTdNOWdwU2RIVllaMGZYaEhBYXV0V1BHc3ZmMk9zcHNVVVRrY3dBS3FpRTZzczZ0aUFKak9sTHlPNkdQdW1OQ1Mwc0Q1TXVPNF9EYXdya29XOGVXR2I5dlRrMXVnWUdLdDNmX1hKYTg3eHcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "source": "YouTube · Yummy"
+   },
+   {
+    "position": 6,
+    "title": "Growing Sesame",
+    "link": "https://www.briegrows.com/bries-blog/2020/9/3/sesame",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVxV8uJnQUzTU9zW4TXwW1cf0VpnQEZ6lp-5XcZ-xQVpKXu5hDaeFZaaIL_tBqim5cK72BFE6o4nKHR0_Y_oTBq4jwwAPjwfsMcW9ADLcU_3CV4JGksRg7nQBlDcwc42km5_C9ISTMwJ-zWQ&ved=2ahUKEwiK7PjPg5yXAxVul1YBHTauNNMQFnoECGwQAQ&uoh=1",
+    "displayed_link": "https://www.briegrows.com",
+    "favicon": "https://serpapi.com/images/i/UklGRogAAABXRUJQVlA4IHwAAABwAwCdASocAAgAPtEutFooIagoGAEAGglpAAPiubQ6_NKp6wAA_vI9fKTY17bRee7A5me_pS-OqOX7a31-ojeWutdC64zFJMoEpZQnIBCvdb5HYqlhczhnzRiYK52b1IHgmMx_dS6yWIRfyFB99g0HDmONGgPCQEWAAAAA.webp",
+    "date": "28 Sept 2020",
+    "snippet": "Turns out this native to India is an ideal plant for hot, humid regions , also referred to as benne. Leading world producers include Tanzania, ...",
+    "about_this_result": {
+     "source": {
+      "description": "Turns out this native to India is an ideal plant for hot, humid regions , also referred to as benne. Leading world producers include Tanzania, ...",
+      "source_info_link": "https://www.briegrows.com/bries-blog/2020/9/3/sesame",
+      "icon": "https://serpapi.com/images/i/UklGRogAAABXRUJQVlA4IHwAAABwAwCdASocAAgAPtEutFooIagoGAEAGglpAAPiubQ6_NKp6wAA_vI9fKTY17bRee7A5me_pS-OqOX7a31-ojeWutdC64zFJMoEpZQnIBCvdb5HYqlhczhnzRiYK52b1IHgmMx_dS6yWIRfyFB99g0HDmONGgPCQEWAAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVnhWOHVKblFVelRVOXpXNFRYd1cxY2YwVnBuUUVaNmxwLTVYY1oteFFWcEtYdTVoRGFlRlphYUlMX3RCcWltNWNLNzJCRkU2bzRuS0hSMF9ZX29UQnE0and3QVBqd2ZzTWNXOUFETGNVXzNDVjRKR2tzUmc3blFCbERjd2M0MmttNV9DOUlTVE13Si16V1ESBBoCCAAauAMSABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJAlAMIABAAGAAgACocCgdqYWdnZXJ5FRUCtkAaDGl2O3A7amFnZ2VyeTKkAS9nb3RvP3VybD1DQUVTYndIck96QVZ4Vjh1Sm5RVXpUVTl6VzRUWHdXMWNmMFZwblFFWjZscC01WGNaLXhRVnBLWHU1aERhZUZaYWFJTF90QnFpbTVjSzcyQkZFNm80bktIUjBfWV9vVEJxNGp3d0FQandmc01jVzlBRExjVV8zQ1Y0Skdrc1JnN25RQmxEY3djNDJrbTVfQzlJU1RNd0oteldROiJHcm93aW5nIDxiPlNlc2FtZTwvYj4gLSBCcmllIEdyb3dzQpcBVHVybnMgb3V0IHRoaXMgbmF0aXZlIHRvIEluZGlhIGlzIGFuIGlkZWFsIHBsYW50IGZvciBob3QsIGh1bWlkIHJlZ2lvbnMgLCBhbHNvIHJlZmVycmVkIHRvIGFzIGJlbm5lLiBMZWFkaW5nIHdvcmxkIHByb2R1Y2VycyBpbmNsdWRlIFRhbnphbmlhLCZuYnNwOy4uLlICb2ZSA2FuZCICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVnhWOHVKblFVelRVOXpXNFRYd1cxY2YwVnBuUUVaNmxwLTVYY1oteFFWcEtYdTVoRGFlRlphYUlMX3RCcWltNWNLNzJCRkU2bzRuS0hSMF9ZX29UQnE0and3QVBqd2ZzTWNXOUFETGNVXzNDVjRKR2tzUmc3blFCbERjd2M0MmttNV9DOUlTVE13Si16V1ESBBoCCAAauAMSABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJAlAMIABAAGAAgACocCgdqYWdnZXJ5FRUCtkAaDGl2O3A7amFnZ2VyeTKkAS9nb3RvP3VybD1DQUVTYndIck96QVZ4Vjh1Sm5RVXpUVTl6VzRUWHdXMWNmMFZwblFFWjZscC01WGNaLXhRVnBLWHU1aERhZUZaYWFJTF90QnFpbTVjSzcyQkZFNm80bktIUjBfWV9vVEJxNGp3d0FQandmc01jVzlBRExjVV8zQ1Y0Skdrc1JnN25RQmxEY3djNDJrbTVfQzlJU1RNd0oteldROiJHcm93aW5nIDxiPlNlc2FtZTwvYj4gLSBCcmllIEdyb3dzQpcBVHVybnMgb3V0IHRoaXMgbmF0aXZlIHRvIEluZGlhIGlzIGFuIGlkZWFsIHBsYW50IGZvciBob3QsIGh1bWlkIHJlZ2lvbnMgLCBhbHNvIHJlZmVycmVkIHRvIGFzIGJlbm5lLiBMZWFkaW5nIHdvcmxkIHByb2R1Y2VycyBpbmNsdWRlIFRhbnphbmlhLCZuYnNwOy4uLlICb2ZSA2FuZCICEAFIAFgAaAA",
+    "source": "Brie Grows"
+   },
+   {
+    "position": 7,
+    "title": "Tahini versus Chinese sesame paste. Both come from sesame seeds, but are they actually ...",
+    "link": "https://www.instagram.com/reel/DVYncaNgKIt/?hl=en",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVKcAaMPzGLhZVddGdZMukbRJhjgzUdOscjpl0O5KhjtqxE5uQeooDxlgWdbg1cnIFUXxWslqvsDebp_eImKM2E978JKkHZymaM53b5FOdZaoa4OFTBtT5HTYDMC8hbjXLXp-oncsa9Q&ved=2ahUKEwiK7PjPg5yXAxVul1YBHTauNNMQtwJ6BAg9EAE&uoh=1",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmcUBhmY8ReToOiO3Z5TCrVJaxVWPw2y10pdi-hq5IMZPYW61LeWbpfg&s",
+    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "duration": "0:52",
+    "snippet": "Tahini versus Chinese sesame paste. Both come from sesame seeds, but are they actually interchangeable? @wildcarrotchef breaks down the key ...",
+    "about_this_result": {
+     "source": {
+      "description": "Tahini versus Chinese sesame paste. Both come from sesame seeds, but are they actually interchangeable? @wildcarrotchef breaks down the key ...",
+      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVktjQWFNUHpHTGhaVmRkR2RaTXVrYlJKaGpnelVkT3NjanBsME81S2hqdHF4RTV1UWVvb0R4bGdXZGJnMWNuSUZVWHhXc2xxdnNEZWJwX2VJbUtNMkU5NzhKS2tIWnltYU01M2I1Rk9kWmFvYTRPRlRCdFQ1SFRZRE1DOGhialhMWHAtb25jc2E5URIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVktjQWFNUHpHTGhaVmRkR2RaTXVrYlJKaGpnelVkT3NjanBsME81S2hqdHF4RTV1UWVvb0R4bGdXZGJnMWNuSUZVWHhXc2xxdnNEZWJwX2VJbUtNMkU5NzhKS2tIWnltYU01M2I1Rk9kWmFvYTRPRlRCdFQ1SFRZRE1DOGhialhMWHAtb25jc2E5URIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "source": "Instagram · cooksillustrated"
+   },
+   {
+    "position": 8,
+    "title": "Specifications >> The Sesame Algorithm: Session Management for Asynchronous Message Encryption",
+    "link": "https://signal.org/docs/specifications/sesame/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAV60rN7mOvvzcA3kO3bP6FK-uvD8XU_vAEhqO5peibUTMahJGxO7tNP-0e01jahcQwzWigWN9bz2uGykqwrjloW9vXaUC1Dclus1LEhPNj3BXdq9OLJ2oPkMMAEXEdIEjTlQl8wg&ved=2ahUKEwiK7PjPg5yXAxVul1YBHTauNNMQFnoECFQQAQ&uoh=1",
+    "displayed_link": "https://signal.org",
+    "favicon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAADQBgCdASocABwAPtE0tFooIigoGAEAGglsAJ0y44LIqg4zJTf48UwD9ch2bBGIqSOS5fomoe3fAXnAJXavsAAA_vHMEe6oDRcYmyq13flfxXg1Wj1Vt62W69195MSuwjP58bNQz7flayNy0HshvObkjES6hlQeMyagTZposQY9TjYgIJ5MRKYgpFPoh5pR6JYKaJYYH6hOolF7TUdGS4UACuzs6Si-XkUet4_ONiVvO1nooGk5Y0Q0wVarjSlH3sdq0frS39vKx2z0n3zOSzVj_oXoE15wqI9OlBRawsfdVM60rwFM7myRlvfyfUxAdpQ6epKdQJQWeYMlMhbEC-0rkAA.webp",
+    "date": "14 Apr 2017",
+    "snippet": "This document describes the Sesame algorithm for managing message encryption sessions in an asynchronous and multi-device setting.",
+    "about_this_result": {
+     "source": {
+      "description": "This document describes the Sesame algorithm for managing message encryption sessions in an asynchronous and multi-device setting.",
+      "source_info_link": "https://signal.org/docs/specifications/sesame/",
+      "icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAADQBgCdASocABwAPtE0tFooIigoGAEAGglsAJ0y44LIqg4zJTf48UwD9ch2bBGIqSOS5fomoe3fAXnAJXavsAAA_vHMEe6oDRcYmyq13flfxXg1Wj1Vt62W69195MSuwjP58bNQz7flayNy0HshvObkjES6hlQeMyagTZposQY9TjYgIJ5MRKYgpFPoh5pR6JYKaJYYH6hOolF7TUdGS4UACuzs6Si-XkUet4_ONiVvO1nooGk5Y0Q0wVarjSlH3sdq0frS39vKx2z0n3zOSzVj_oXoE15wqI9OlBRawsfdVM60rwFM7myRlvfyfUxAdpQ6epKdQJQWeYMlMhbEC-0rkAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVjYwck43bU92dnpjQTNrTzNiUDZGSy11dkQ4WFVfdkFFaHFPNXBlaWJVVE1haEpHeE83dE5QLTBlMDFqYWhjUXd6V2lnV045YnoydUd5a3F3cmpsb1c5dlhhVUMxRGNsdXMxTEVoUE5qM0JYZHE5T0xKMm9Qa01NQUVYRWRJRWpUbFFsOHdnEgQaAggAGvYDEgIIARoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA0AMIABAAGAAgACocCgdqYWdnZXJ5FRKZi0AaDGl2O3A7amFnZ2VyeTKcAS9nb3RvP3VybD1DQUVTYVFIck96QVY2MHJON21PdnZ6Y0Eza08zYlA2RkstdXZEOFhVX3ZBRWhxTzVwZWliVVRNYWhKR3hPN3ROUC0wZTAxamFoY1F3eldpZ1dOOWJ6MnVHeWtxd3JqbG9XOXZYYVVDMURjbHVzMUxFaFBOajNCWGRxOU9MSjJvUGtNTUFFWEVkSUVqVGxRbDh3Zzp7U2lnbmFsICZndDsmZ3Q7IFNwZWNpZmljYXRpb25zICZndDsmZ3Q7IFRoZSA8Yj5TZXNhbWU8L2I-IEFsZ29yaXRobTogU2Vzc2lvbiBNYW5hZ2VtZW50IGZvciBBc3luY2hyb25vdXMgTWVzc2FnZSBFbmNyeXB0aW9uQoIBVGhpcyBkb2N1bWVudCBkZXNjcmliZXMgdGhlIFNlc2FtZSBhbGdvcml0aG0gZm9yIG1hbmFnaW5nIG1lc3NhZ2UgZW5jcnlwdGlvbiBzZXNzaW9ucyBpbiBhbiBhc3luY2hyb25vdXMgYW5kIG11bHRpLWRldmljZSBzZXR0aW5nLlICb2ZSA2FuZCICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVjYwck43bU92dnpjQTNrTzNiUDZGSy11dkQ4WFVfdkFFaHFPNXBlaWJVVE1haEpHeE83dE5QLTBlMDFqYWhjUXd6V2lnV045YnoydUd5a3F3cmpsb1c5dlhhVUMxRGNsdXMxTEVoUE5qM0JYZHE5T0xKMm9Qa01NQUVYRWRJRWpUbFFsOHdnEgQaAggAGvYDEgIIARoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA0AMIABAAGAAgACocCgdqYWdnZXJ5FRKZi0AaDGl2O3A7amFnZ2VyeTKcAS9nb3RvP3VybD1DQUVTYVFIck96QVY2MHJON21PdnZ6Y0Eza08zYlA2RkstdXZEOFhVX3ZBRWhxTzVwZWliVVRNYWhKR3hPN3ROUC0wZTAxamFoY1F3eldpZ1dOOWJ6MnVHeWtxd3JqbG9XOXZYYVVDMURjbHVzMUxFaFBOajNCWGRxOU9MSjJvUGtNTUFFWEVkSUVqVGxRbDh3Zzp7U2lnbmFsICZndDsmZ3Q7IFNwZWNpZmljYXRpb25zICZndDsmZ3Q7IFRoZSA8Yj5TZXNhbWU8L2I-IEFsZ29yaXRobTogU2Vzc2lvbiBNYW5hZ2VtZW50IGZvciBBc3luY2hyb25vdXMgTWVzc2FnZSBFbmNyeXB0aW9uQoIBVGhpcyBkb2N1bWVudCBkZXNjcmliZXMgdGhlIFNlc2FtZSBhbGdvcml0aG0gZm9yIG1hbmFnaW5nIG1lc3NhZ2UgZW5jcnlwdGlvbiBzZXNzaW9ucyBpbiBhbiBhc3luY2hyb25vdXMgYW5kIG11bHRpLWRldmljZSBzZXR0aW5nLlICb2ZSA2FuZCICEAFIAFgAaAA",
+    "source": "Signal Messenger"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "query": "Jaggery sesame deep fried round sweet name india wikipedia",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&hl=en&gl=in&sxsrf=APpeQnv2JrdLJUOXjsp4Vq8C6gWR4ScFCg:1790967975661&q=Jaggery+sesame+deep+fried+round+sweet+name+india+wikipedia&sa=X&ved=2ahUKEwiK7PjPg5yXAxVul1YBHTauNNMQ1QJ6BAgVEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=Jaggery+sesame+deep+fried+round+sweet+name+india+wikipedia"
+   },
+   {
+    "block_position": 1,
+    "query": "Sesame AI",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&hl=en&gl=in&sxsrf=APpeQnv2JrdLJUOXjsp4Vq8C6gWR4ScFCg:1790967975661&q=Sesame+AI&sa=X&ved=2ahUKEwiK7PjPg5yXAxVul1YBHTauNNMQ1QJ6BAgqEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=Sesame+AI"
+   },
+   {
+    "block_position": 1,
+    "query": "Sesame plant",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&hl=en&gl=in&sxsrf=APpeQnv2JrdLJUOXjsp4Vq8C6gWR4ScFCg:1790967975661&q=Sesame+plant&sa=X&ved=2ahUKEwiK7PjPg5yXAxVul1YBHTauNNMQ1QJ6BAgpEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=Sesame+plant"
+   },
+   {
+    "block_position": 1,
+    "query": "Sesame pronunciation",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&hl=en&gl=in&sxsrf=APpeQnv2JrdLJUOXjsp4Vq8C6gWR4ScFCg:1790967975661&q=Sesame+pronunciation&sa=X&ved=2ahUKEwiK7PjPg5yXAxVul1YBHTauNNMQ1QJ6BAgkEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=Sesame+pronunciation"
+   },
+   {
+    "block_position": 1,
+    "query": "Sesame seeds",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&hl=en&gl=in&sxsrf=APpeQnv2JrdLJUOXjsp4Vq8C6gWR4ScFCg:1790967975661&q=Sesame+seeds&sa=X&ved=2ahUKEwiK7PjPg5yXAxVul1YBHTauNNMQ1QJ6BAgdEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=Sesame+seeds"
+   },
+   {
+    "block_position": 1,
+    "query": "Sesame seeds in Urdu",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&hl=en&gl=in&sxsrf=APpeQnv2JrdLJUOXjsp4Vq8C6gWR4ScFCg:1790967975661&q=Sesame+seeds+in+Urdu&sa=X&ved=2ahUKEwiK7PjPg5yXAxVul1YBHTauNNMQ1QJ6BAgbEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=Sesame+seeds+in+Urdu"
+   },
+   {
+    "block_position": 2,
+    "query": "Sesame AI Maya and Miles",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&hl=en&gl=in&sxsrf=APpeQnv2JrdLJUOXjsp4Vq8C6gWR4ScFCg:1790967975661&q=Sesame+AI+Maya+and+Miles&sa=X&ved=2ahUKEwiK7PjPg5yXAxVul1YBHTauNNMQ1QJ6BAg-EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=Sesame+AI+Maya+and+Miles"
+   },
+   {
+    "block_position": 2,
+    "query": "Sesame seeds benefits",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&hl=en&gl=in&sxsrf=APpeQnv2JrdLJUOXjsp4Vq8C6gWR4ScFCg:1790967975661&q=Sesame+seeds+benefits&sa=X&ved=2ahUKEwiK7PjPg5yXAxVul1YBHTauNNMQ1QJ6BAhQEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=Sesame+seeds+benefits"
+   },
+   {
+    "block_position": 2,
+    "query": "Sesame tree",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&hl=en&gl=in&sxsrf=APpeQnv2JrdLJUOXjsp4Vq8C6gWR4ScFCg:1790967975661&q=Sesame+tree&sa=X&ved=2ahUKEwiK7PjPg5yXAxVul1YBHTauNNMQ1QJ6BAhGEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=Sesame+tree"
+   },
+   {
+    "block_position": 2,
+    "query": "Sesame family",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&hl=en&gl=in&sxsrf=APpeQnv2JrdLJUOXjsp4Vq8C6gWR4ScFCg:1790967975661&q=Sesame+family&sa=X&ved=2ahUKEwiK7PjPg5yXAxVul1YBHTauNNMQ1QJ6BAhCEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=Sesame+family"
+   },
+   {
+    "block_position": 2,
+    "query": "Sesame black seeds",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&hl=en&gl=in&sxsrf=APpeQnv2JrdLJUOXjsp4Vq8C6gWR4ScFCg:1790967975661&q=Sesame+black+seeds&sa=X&ved=2ahUKEwiK7PjPg5yXAxVul1YBHTauNNMQ1QJ6BAhBEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=Sesame+black+seeds"
+   },
+   {
+    "block_position": 2,
+    "query": "Sesame meaning",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&hl=en&gl=in&sxsrf=APpeQnv2JrdLJUOXjsp4Vq8C6gWR4ScFCg:1790967975661&q=Sesame+meaning&sa=X&ved=2ahUKEwiK7PjPg5yXAxVul1YBHTauNNMQ1QJ6BAg_EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=Sesame+meaning"
+   }
+  ],
+  "pagination": {
+   "current": 1
+  },
+  "serpapi_pagination": {
+   "current": 1
+  }
+ }
+}

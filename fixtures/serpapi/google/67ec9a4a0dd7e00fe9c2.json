@@ -1,0 +1,399 @@
+{
+ "engine": "google",
+ "params": {
+  "q": "Diwali sweet rice flour jaggery sesame deep fried",
+  "gl": "in",
+  "hl": "en",
+  "google_domain": "google.co.in",
+  "device": "mobile"
+ },
+ "recordedAt": "2026-10-02T19:06:18.050Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac000a9ec900dc84e56c583",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/cE0Th9apcElZPnK4Gwx562rvHyaruLkjN79FjrbS6t8/6ac000a9ec900dc84e56c583.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/cE0Th9apcElZPnK4Gwx562rvHyaruLkjN79FjrbS6t8/6ac000a9ec900dc84e56c583.json_with_pixel_position",
+   "created_at": "2026-10-02 19:06:17 UTC",
+   "processed_at": "2026-10-02 19:06:17 UTC",
+   "google_url": "https://www.google.co.in/search?q=Diwali+sweet+rice+flour+jaggery+sesame+deep+fried&oq=Diwali+sweet+rice+flour+jaggery+sesame+deep+fried&hl=en&gl=in&sourceid=chrome-mobile&ie=UTF-8",
+   "total_time_taken": 0.75
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Diwali sweet rice flour jaggery sesame deep fried",
+   "google_domain": "google.co.in",
+   "hl": "en",
+   "gl": "in",
+   "device": "mobile"
+  },
+  "search_information": {
+   "query_displayed": "Diwali sweet rice flour jaggery sesame deep fried"
+  },
+  "recipes_results": [
+   {
+    "title": "Adhirasam recipe",
+    "link": "https://rakskitchen.net/adhirasam-recipe-deepavali-recipes/",
+    "source": "Raks Kitchen",
+    "rating": 5,
+    "reviews": 23,
+    "total_time": "33m",
+    "total_ingredients_original": "7 ingredients",
+    "total_ingredients": 7,
+    "thumbnail": "https://serpapi.com/searches/6ac000a9ec900dc84e56c583/images/c4X-o4dw6ekGcOl1UktZC0lXdfNEv0OiD-YEUL_jqbA.jpeg"
+   },
+   {
+    "title": "Athirasam",
+    "link": "https://www.sandhiyascookbook.com/2013/11/adhirasam.html",
+    "source": "Sandhiya's Cookbook",
+    "total_time": "12h 20m",
+    "total_ingredients_original": "6 ingredients",
+    "total_ingredients": 6,
+    "images": [
+     "https://serpapi.com/searches/6ac000a9ec900dc84e56c583/images/c4X-o4dw6ekGcOl1UktZC9rclZ3ERuojMSUllPFoFBI.jpeg",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFEKAwvH_sghKlEvr1wdGCnuKZU0tesbm5IjqziJzYlw_3rf0730W_J_RiAA&s",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Y1ApEb-OkEJ60qVDz0qdX18LKaQ-GtY7PIObYv4GdT2KZhqoH3WmzEpxCw&s"
+    ]
+   },
+   {
+    "title": "Adhirasam | Athirasam Recipe",
+    "link": "https://www.sharmispassions.com/adhirasam-recipe-how-to-make-athirasam/",
+    "source": "Sharmis Passions",
+    "rating": 4.5,
+    "reviews": 17,
+    "total_time": "20m",
+    "total_ingredients_original": "7 ingredients",
+    "total_ingredients": 7,
+    "images": [
+     "https://serpapi.com/searches/6ac000a9ec900dc84e56c583/images/c4X-o4dw6ekGcOl1UktZCx5D3AKZhBnCGbPkXvfucoA.jpeg",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbXtraR0LA4wbzZj57Qkb6oN7bFa5mspPXTuRZLd8HET167gqWKaCQAW7AZnM&s=10",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFCLTpHz0JZ-1eSr9D1nEmVEBFcJ4uxH7UHepppBi5F6Hc4wIb0K41ZgcFzQ&s=10",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnic0hbDW3mnU4SwKZx2X1ZrBn7w-bcVFii3zewfmvyzGaEH-9rKY6labcdo&s=10"
+    ]
+   },
+   {
+    "title": "Karupatti adhirasam, Adhirasam with palm jaggery",
+    "link": "https://sandyathome.com/karupatti-adhirasam-adhirasam-with-palm-jaggery/",
+    "source": "Sandhya's Recipes",
+    "total_ingredients_original": "9 ingredients",
+    "total_ingredients": 9,
+    "images": [
+     "https://serpapi.com/searches/6ac000a9ec900dc84e56c583/images/c4X-o4dw6ekGcOl1UktZC1z6Z3kWmC_bEPSjfeGCGJ0.jpeg",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREwBMIzXwKVVXAh1NE1f4Efp3hukzgzTT9Hy7ZtylnkfZ2DN26AqVxl0re4g&s=10",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ2PtHMckKaF5FI1VJSEAFDw7M1jP3coBri4KoeE8fPNFfga8rrTFlixCA3A&s=10",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVIlki7rAR0Pn5mkQyzBL09dYFeLEoAmHPnUJOGAb3LfFuXdqLnuHAuKomFQ&s=10"
+    ]
+   }
+  ],
+  "inline_videos": [
+   {
+    "position": 1,
+    "title": "EASY VEGETABLE MASALA RICE | Fragrant Indian Spiced Rice In Minutes",
+    "link": "https://www.youtube.com/watch?v=IOtjeYJkoVg",
+    "thumbnail": "https://serpapi.com/searches/6ac000a9ec900dc84e56c583/images/uUVl5k5ah795s_U9QEQv3E907kQmFr-4wL8QJbgl7so.jpeg",
+    "channel": "Curries With Bumbi",
+    "duration": "5:31",
+    "platform": "YouTube",
+    "date": "10 Jul 2026",
+    "snippet": "Make fragrant vegetable masala rice in minutes! Use cold rice for fluffy grains & add mustard seeds, cumin, turmeric, & chili powder.",
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTAz42ZD7H1yIWMQagcaxqNgcGeNdHPYzcGbQ"
+   },
+   {
+    "position": 2,
+    "title": "Cauliflower Rice | Lunch Box Ideas | Gobi Rice Recipe Is So Easy You'll Make It Every Week",
+    "link": "https://www.youtube.com/watch?v=VWjGajvqkhI&vl=en",
+    "thumbnail": "https://serpapi.com/searches/6ac000a9ec900dc84e56c583/images/7OxBCzfTmqx7U7pc34fVgXgoMHnwQyU9Yf4Q1rcbGYI.jpeg",
+    "channel": "HomeCookingShow",
+    "duration": "6:15",
+    "platform": "YouTube",
+    "date": "30 Jul 2026",
+    "snippet": "Make delicious gobi rice with cauliflower, cumin, sesame, tamarind, red chili, coriander, and garlic. Cook in 5 mins for a quick meal!",
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQalyfWnAj6rIEyKEB0GVqLjrxlKjQk88tQ1A"
+   },
+   {
+    "position": 3,
+    "title": "Aloo Pulao | One Pot Meal | Simple Rice Recipes for Lunch Box | Potato Pulao Ready in 30 Minutes",
+    "link": "https://www.youtube.com/watch?v=acVmXvUCBck",
+    "thumbnail": "https://serpapi.com/searches/6ac000a9ec900dc84e56c583/images/UscT7cMjsc9utBoUIH16cv3QCt1hsOiMU4q52muAhA0.jpeg",
+    "channel": "HomeCookingShow",
+    "duration": "6:43",
+    "platform": "YouTube",
+    "date": "1 month ago",
+    "snippet": "Craft a flavorful aloo pulao in 30 mins! Simmer whole spices & garlic for 15 mins to make the yakney, then cook with potatoes & rice.",
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT2akrzEHSZClNywew2qpkiBsA7uG2H8ncUcg"
+   },
+   {
+    "position": 4,
+    "title": "Masala Rice Recipe: bit.ly/3fsNh7x Cooking masala rice is very simple, with no complicated ...",
+    "link": "https://www.facebook.com/HebbarsKitchen/videos/masala-rice-recipe-bitly3fsnh7xcooking-masala-rice-is-very-simple-with-no-compli/922371977535224/",
+    "thumbnail": "https://serpapi.com/searches/6ac000a9ec900dc84e56c583/images/qhTUOF62v0MallD7P14fvshlHBF-rCwQEFEnhthqxmQ.jpeg",
+    "channel": "Hebbar's Kitchen",
+    "duration": "1:28",
+    "platform": "Facebook",
+    "date": "25 Jun 2026",
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS5RBrvYLV4fHoU_EZqdc2q-TFEP2RIu6LGFA"
+   }
+  ],
+  "related_questions": [
+   {
+    "question": "What is Chinese sweet rice flour?",
+    "type": "ai_overview",
+    "page_token": "rUFiEXicHZBdToNAGADjZfrY8lM1bdKY0EIRXQjL_sC-GNiVUvi2oNQCffMunsrT2HiASWbm-weOp-b3bqzO565fLxbDMMwPbXuA97ls58fTIu-nk1zIHKDIZbN-eHwwn0q5cb-ene3HsxPTrmM7bCSa7RMLGu7eg5zMifIwp6QahI-9zBYvxf6syX4sKcc9cUWp0gBzDaiAVX9jLxkRJmta45UJpoAayuqX0nRKTMKtTKsoadREfVwirurUWEWIVktZqyAiXoANxVNbcETCMjZM_12LSlDwcj5GwgCNPG-XWqMWprQyYBdkiSsjTKMa-9TtHMJBJwAtOqkImzDwJsBupUZKsZOlYsobZN18R-WH8Sup_NxXWI7tMab4KmvQlAUYNV6U2R3PjCoRblhzF8e3FlHsV0HBu1gMs1JeNvbs_-fmrdTndffZHv4A-i-FOA",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rUFiEXicHZBdToNAGADjZfrY8lM1bdKY0EIRXQjL_sC-GNiVUvi2oNQCffMunsrT2HiASWbm-weOp-b3bqzO565fLxbDMMwPbXuA97ls58fTIu-nk1zIHKDIZbN-eHwwn0q5cb-ene3HsxPTrmM7bCSa7RMLGu7eg5zMifIwp6QahI-9zBYvxf6syX4sKcc9cUWp0gBzDaiAVX9jLxkRJmta45UJpoAayuqX0nRKTMKtTKsoadREfVwirurUWEWIVktZqyAiXoANxVNbcETCMjZM_12LSlDwcj5GwgCNPG-XWqMWprQyYBdkiSsjTKMa-9TtHMJBJwAtOqkImzDwJsBupUZKsZOlYsobZN18R-WH8Sup_NxXWI7tMab4KmvQlAUYNV6U2R3PjCoRblhzF8e3FlHsV0HBu1gMs1JeNvbs_-fmrdTndffZHv4A-i-FOA",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSkxVcHNOM1pPTW1oUmVGcFFMV2t0UkVoZlJWZHVOMnR3Vm0wdGVXSmhVbXhDY2s1algyNUhSemROWTBzd1prNVZORWhLTkZkWVR6TmFSVmRtVTFFMGMwdFNValpJUVRJNGRqSkVlbkkxYm5oNGNqbFJkbFZhYUU1c1p4SVhjVkZFUVdGMmNtcEROblZ5Y1hSelVDMDRSMmgzVVhNYUlrRkVjM0k1WmxJeVVuUXpla2R1VmxabWJ6RmlkRzFQTWxORlZGOUtNbXN3YkVFIiwiZmN2IjoiMyIsImVpIjoicVFEQWF2cmpDNnVycXRzUC04R2h3UXMiLCJxYyI6IkNqRmthWGRoYkdrZ2MzZGxaWFFnY21salpTQm1iRzkxY2lCcVlXZG5aWEo1SUhObGMyRnRaU0JrWldWd0lHWnlhV1ZrRUFCOXRNZzJQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBDaGluZXNlIHN3ZWV0IHJpY2UgZmxvdXI/IiwibGsiOiJHaGhqYUdsdVpYTmxJSE4zWldWMElISnBZMlVnWm14dmRYSSIsImJzIjoiYzQyUHNRb0NNUkJFc2QxS3hFSlNyZGlxeFdFZnhFcXd0NVNRN0YwV2MxbEljdVQzUmZSQWxBUHJOX09HQVEzcnF6Y0ZPZVBKYzZSTW1DdFJ3Y1NXc0EweUpOMG90YklURUM1d0dBWEYwNHRrSzRsamg3MDRDbWlpUXk4Vm5WQkdMbGdsM1hXelZJdmZMTnhnTjlxNk1CU09NdVNQTmJRbUJITElFY19Sc2RITlhtM3Jmd1YtRnVBSW0zSEF2TV8weGhGSy1fMTRDczVuRHciLCJpZCI6ImZjX3FRREFhdnJqQzZ1cnF0c1AtOEdod1FzXzExIn0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSkxVcHNOM1pPTW1oUmVGcFFMV2t0UkVoZlJWZHVOMnR3Vm0wdGVXSmhVbXhDY2s1algyNUhSemROWTBzd1prNVZORWhLTkZkWVR6TmFSVmRtVTFFMGMwdFNValpJUVRJNGRqSkVlbkkxYm5oNGNqbFJkbFZhYUU1c1p4SVhjVkZFUVdGMmNtcEROblZ5Y1hSelVDMDRSMmgzVVhNYUlrRkVjM0k1WmxJeVVuUXpla2R1VmxabWJ6RmlkRzFQTWxORlZGOUtNbXN3YkVFIiwiZmN2IjoiMyIsImVpIjoicVFEQWF2cmpDNnVycXRzUC04R2h3UXMiLCJxYyI6IkNqRmthWGRoYkdrZ2MzZGxaWFFnY21salpTQm1iRzkxY2lCcVlXZG5aWEo1SUhObGMyRnRaU0JrWldWd0lHWnlhV1ZrRUFCOXRNZzJQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBDaGluZXNlIHN3ZWV0IHJpY2UgZmxvdXI%2FIiwibGsiOiJHaGhqYUdsdVpYTmxJSE4zWldWMElISnBZMlVnWm14dmRYSSIsImJzIjoiYzQyUHNRb0NNUkJFc2QxS3hFSlNyZGlxeFdFZnhFcXd0NVNRN0YwV2MxbEljdVQzUmZSQWxBUHJOX09HQVEzcnF6Y0ZPZVBKYzZSTW1DdFJ3Y1NXc0EweUpOMG90YklURUM1d0dBWEYwNHRrSzRsamg3MDRDbWlpUXk4Vm5WQkdMbGdsM1hXelZJdmZMTnhnTjlxNk1CU09NdVNQTmJRbUJITElFY19Sc2RITlhtM3Jmd1YtRnVBSW0zSEF2TV8weGhGSy1fMTRDczVuRHciLCJpZCI6ImZjX3FRREFhdnJqQzZ1cnF0c1AtOEdod1FzXzExIn0%3D"
+   },
+   {
+    "question": "What is the rice scoring model and how does it work?",
+    "type": "ai_overview",
+    "page_token": "6o_c4HicHdBRboIwAADQ7DJ-agvqMhOzDLEiziKFttqfBVuhagUUFPRvd9mpdpqZHeD9vO8fs8-Pvy9C13VZjXq9pmm6WVFkZteVRXef95LqnsueTIzZJvI4Gr4O4Xsqx9OqcSZF44S0LJlLQGTVJbFEEHjsHB6UDnnVp8in2CPXzcHvr6GaRkyt-KxqFX8bxgzPKZDtzjCa0L61tJkf88wSiHEJdSqP8EoByjGAkADf-aT1VbhmovawioC2RSwGlGmerJWPkV7wI4DKPB3TF0Hx4mljkRNXrclqG2NrEyuxPelTYm3aJS3ThGYRshEhU6RV7p_Dh4AyR0DCjzqYqkJB9JjtfYd4-B5wQYLZYM49PA-oiZWt3MRit60xbWgTl-S6wB5zOqm8je3O_9j4Kz3Vo_JSZH9cb3gw",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=6o_c4HicHdBRboIwAADQ7DJ-agvqMhOzDLEiziKFttqfBVuhagUUFPRvd9mpdpqZHeD9vO8fs8-Pvy9C13VZjXq9pmm6WVFkZteVRXef95LqnsueTIzZJvI4Gr4O4Xsqx9OqcSZF44S0LJlLQGTVJbFEEHjsHB6UDnnVp8in2CPXzcHvr6GaRkyt-KxqFX8bxgzPKZDtzjCa0L61tJkf88wSiHEJdSqP8EoByjGAkADf-aT1VbhmovawioC2RSwGlGmerJWPkV7wI4DKPB3TF0Hx4mljkRNXrclqG2NrEyuxPelTYm3aJS3ThGYRshEhU6RV7p_Dh4AyR0DCjzqYqkJB9JjtfYd4-B5wQYLZYM49PA-oiZWt3MRit60xbWgTl-S6wB5zOqm8je3O_9j4Kz3Vo_JSZH9cb3gw",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSkxVcHNOM1pPTW1oUmVGcFFMV2t0UkVoZlJWZHVOMnR3Vm0wdGVXSmhVbXhDY2s1algyNUhSemROWTBzd1prNVZORWhLTkZkWVR6TmFSVmRtVTFFMGMwdFNValpJUVRJNGRqSkVlbkkxYm5oNGNqbFJkbFZhYUU1c1p4SVhjVkZFUVdGMmNtcEROblZ5Y1hSelVDMDRSMmgzVVhNYUlrRkVjM0k1WmxJeVVuUXpla2R1VmxabWJ6RmlkRzFQTWxORlZGOUtNbXN3YkVFIiwiZmN2IjoiMyIsImVpIjoicVFEQWF2cmpDNnVycXRzUC04R2h3UXMiLCJxYyI6IkNqRmthWGRoYkdrZ2MzZGxaWFFnY21salpTQm1iRzkxY2lCcVlXZG5aWEo1SUhObGMyRnRaU0JrWldWd0lHWnlhV1ZrRUFCOXRNZzJQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgcmljZSBzY29yaW5nIG1vZGVsIGFuZCBob3cgZG9lcyBpdCB3b3JrPyIsImxrIjoiR2hKeWFXTmxJSE5qYjNKcGJtY2diVzlrWld3IiwiYnMiOiJjNDJQc1FvQ01SQkVzZDFLeEVKU3JkaXF4V0VmeEVxd3Q1U1E3RjBXYzFsSWN1VDNSZlJBbEFQck5fT0dBUTNycXpjRk9lUEpjNlJNbUN0UndjU1dzQTB5Sk4wb3RiSVRFQzV3R0FYRjA0dGtLNGxqaDcwNENtaWlReThWblZCR0xsZ2wzWFd6Vkl2ZkxOeGdOOXE2TUJTT011U1BOYlFtQkhMSUVjX1JzZEhOWG0zcmZ3Vi1GdUFJbTNIQXZNXzB4aEZLLV8xNENzNW5EdyIsImlkIjoiZmNfcVFEQWF2cmpDNnVycXRzUC04R2h3UXNfMTEifQ==",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSkxVcHNOM1pPTW1oUmVGcFFMV2t0UkVoZlJWZHVOMnR3Vm0wdGVXSmhVbXhDY2s1algyNUhSemROWTBzd1prNVZORWhLTkZkWVR6TmFSVmRtVTFFMGMwdFNValpJUVRJNGRqSkVlbkkxYm5oNGNqbFJkbFZhYUU1c1p4SVhjVkZFUVdGMmNtcEROblZ5Y1hSelVDMDRSMmgzVVhNYUlrRkVjM0k1WmxJeVVuUXpla2R1VmxabWJ6RmlkRzFQTWxORlZGOUtNbXN3YkVFIiwiZmN2IjoiMyIsImVpIjoicVFEQWF2cmpDNnVycXRzUC04R2h3UXMiLCJxYyI6IkNqRmthWGRoYkdrZ2MzZGxaWFFnY21salpTQm1iRzkxY2lCcVlXZG5aWEo1SUhObGMyRnRaU0JrWldWd0lHWnlhV1ZrRUFCOXRNZzJQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgcmljZSBzY29yaW5nIG1vZGVsIGFuZCBob3cgZG9lcyBpdCB3b3JrPyIsImxrIjoiR2hKeWFXTmxJSE5qYjNKcGJtY2diVzlrWld3IiwiYnMiOiJjNDJQc1FvQ01SQkVzZDFLeEVKU3JkaXF4V0VmeEVxd3Q1U1E3RjBXYzFsSWN1VDNSZlJBbEFQck5fT0dBUTNycXpjRk9lUEpjNlJNbUN0UndjU1dzQTB5Sk4wb3RiSVRFQzV3R0FYRjA0dGtLNGxqaDcwNENtaWlReThWblZCR0xsZ2wzWFd6Vkl2ZkxOeGdOOXE2TUJTT011U1BOYlFtQkhMSUVjX1JzZEhOWG0zcmZ3Vi1GdUFJbTNIQXZNXzB4aEZLLV8xNENzNW5EdyIsImlkIjoiZmNfcVFEQWF2cmpDNnVycXRzUC04R2h3UXNfMTEifQ%3D%3D"
+   },
+   {
+    "question": "What is glutinous rice flour called in India?",
+    "type": "ai_overview",
+    "page_token": "8BSywXicHdBfjqIwHADg7GXmUUGUyZiYyaCFRqc1_IRS-jKBVkUohXFY-fO2d9gj7Kn2NDvZA3wv368_-maqvz9-F13Xfq3n877vZ9emuerzTDazm5lnX6ORc5lpnWeyWrvPrv16kRv0kN72Lr0wblu2Ayvyiy7WomMOFVC1Yx5pc4ypEVxk1KiKOtcV0_v3JPJ4XjVLGUCZY-2Sb6Oi1AbMlunC1qC9huDiccLwM_92LGBbOvmHpPR15OwziewDX3Q8c8CVWlOWDHZYrwpR-ynYFEcTpOEkQAV0e96x5hy8HFTVMkjgk-3oZ-SLiZbSyU82PeK3ZVoJkLUKie0bYoqOcHAoIpYI_EOOyKCsFgnMHpSj_hgM7sm8WahQQxyDl3IxZhVZKL4fFKbhe1TgDCuQQ3MLY5hkqWuGVhwCfT9j_5g6YiQlGsKEWtJuR4lUSeoXT_RPF_nYOE__rzcfl7pbt_fm-g9CDI51",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8BSywXicHdBfjqIwHADg7GXmUUGUyZiYyaCFRqc1_IRS-jKBVkUohXFY-fO2d9gj7Kn2NDvZA3wv368_-maqvz9-F13Xfq3n877vZ9emuerzTDazm5lnX6ORc5lpnWeyWrvPrv16kRv0kN72Lr0wblu2Ayvyiy7WomMOFVC1Yx5pc4ypEVxk1KiKOtcV0_v3JPJ4XjVLGUCZY-2Sb6Oi1AbMlunC1qC9huDiccLwM_92LGBbOvmHpPR15OwziewDX3Q8c8CVWlOWDHZYrwpR-ynYFEcTpOEkQAV0e96x5hy8HFTVMkjgk-3oZ-SLiZbSyU82PeK3ZVoJkLUKie0bYoqOcHAoIpYI_EOOyKCsFgnMHpSj_hgM7sm8WahQQxyDl3IxZhVZKL4fFKbhe1TgDCuQQ3MLY5hkqWuGVhwCfT9j_5g6YiQlGsKEWtJuR4lUSeoXT_RPF_nYOE__rzcfl7pbt_fm-g9CDI51",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSkxVcHNOM1pPTW1oUmVGcFFMV2t0UkVoZlJWZHVOMnR3Vm0wdGVXSmhVbXhDY2s1algyNUhSemROWTBzd1prNVZORWhLTkZkWVR6TmFSVmRtVTFFMGMwdFNValpJUVRJNGRqSkVlbkkxYm5oNGNqbFJkbFZhYUU1c1p4SVhjVkZFUVdGMmNtcEROblZ5Y1hSelVDMDRSMmgzVVhNYUlrRkVjM0k1WmxJeVVuUXpla2R1VmxabWJ6RmlkRzFQTWxORlZGOUtNbXN3YkVFIiwiZmN2IjoiMyIsImVpIjoicVFEQWF2cmpDNnVycXRzUC04R2h3UXMiLCJxYyI6IkNqRmthWGRoYkdrZ2MzZGxaWFFnY21salpTQm1iRzkxY2lCcVlXZG5aWEo1SUhObGMyRnRaU0JrWldWd0lHWnlhV1ZrRUFCOXRNZzJQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBnbHV0aW5vdXMgcmljZSBmbG91ciBjYWxsZWQgaW4gSW5kaWE/IiwibGsiOiJHaXgzYUdGMElHbHpJR2RzZFhScGJtOTFjeUJ5YVdObElHWnNiM1Z5SUdOaGJHeGxaQ0JwYmlCcGJtUnBZUSIsImJzIjoiYzQyUHNRb0NNUkJFc2QxS3hFSlNyZGlxeFdFZnhFcXd0NVNRN0YwV2MxbEljdVQzUmZSQWxBUHJOX09HQVEzcnF6Y0ZPZVBKYzZSTW1DdFJ3Y1NXc0EweUpOMG90YklURUM1d0dBWEYwNHRrSzRsamg3MDRDbWlpUXk4Vm5WQkdMbGdsM1hXelZJdmZMTnhnTjlxNk1CU09NdVNQTmJRbUJITElFY19Sc2RITlhtM3Jmd1YtRnVBSW0zSEF2TV8weGhGSy1fMTRDczVuRHciLCJpZCI6ImZjX3FRREFhdnJqQzZ1cnF0c1AtOEdod1FzXzExIn0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSkxVcHNOM1pPTW1oUmVGcFFMV2t0UkVoZlJWZHVOMnR3Vm0wdGVXSmhVbXhDY2s1algyNUhSemROWTBzd1prNVZORWhLTkZkWVR6TmFSVmRtVTFFMGMwdFNValpJUVRJNGRqSkVlbkkxYm5oNGNqbFJkbFZhYUU1c1p4SVhjVkZFUVdGMmNtcEROblZ5Y1hSelVDMDRSMmgzVVhNYUlrRkVjM0k1WmxJeVVuUXpla2R1VmxabWJ6RmlkRzFQTWxORlZGOUtNbXN3YkVFIiwiZmN2IjoiMyIsImVpIjoicVFEQWF2cmpDNnVycXRzUC04R2h3UXMiLCJxYyI6IkNqRmthWGRoYkdrZ2MzZGxaWFFnY21salpTQm1iRzkxY2lCcVlXZG5aWEo1SUhObGMyRnRaU0JrWldWd0lHWnlhV1ZrRUFCOXRNZzJQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBnbHV0aW5vdXMgcmljZSBmbG91ciBjYWxsZWQgaW4gSW5kaWE%2FIiwibGsiOiJHaXgzYUdGMElHbHpJR2RzZFhScGJtOTFjeUJ5YVdObElHWnNiM1Z5SUdOaGJHeGxaQ0JwYmlCcGJtUnBZUSIsImJzIjoiYzQyUHNRb0NNUkJFc2QxS3hFSlNyZGlxeFdFZnhFcXd0NVNRN0YwV2MxbEljdVQzUmZSQWxBUHJOX09HQVEzcnF6Y0ZPZVBKYzZSTW1DdFJ3Y1NXc0EweUpOMG90YklURUM1d0dBWEYwNHRrSzRsamg3MDRDbWlpUXk4Vm5WQkdMbGdsM1hXelZJdmZMTnhnTjlxNk1CU09NdVNQTmJRbUJITElFY19Sc2RITlhtM3Jmd1YtRnVBSW0zSEF2TV8weGhGSy1fMTRDczVuRHciLCJpZCI6ImZjX3FRREFhdnJqQzZ1cnF0c1AtOEdod1FzXzExIn0%3D"
+   },
+   {
+    "question": "What is a sweet made of rice flour?",
+    "type": "ai_overview",
+    "page_token": "7_hmqHicHdBRboIwGADg7DI-CgV10cQsIi2ODAilFNeXpZQJyL-CE4fwtrvsVDvNkn1H-L5_oNbN74Oo-r67bgxjGIZ52bYlvM9VO6-1Ia-jVoaSALlUzWb1uEJPJ7XF18HZt4MTp13HXWomNgTFke9VtjQLCBaMxQPnyqKTuIqGDC-MQJ7erXjyrdwL7umZj9KCW5gGC-qhSDRwY4gjikFELl4mWe_Tpk-4DToHGOiIMNNiEi7xc6sCyaHLzS5g0w4FjRizBkYJTlbgap9iFIegUKCri8TElay0IuzbnNE6IKGfMLrklkqITSjFpCq0f4kngZQmpkK7PsJFWyAyebXv0EM4RplIJS-OuUfPPOOvhbl-5h5fSbLWioWtOhA_OlJndlJfW3v2P7Z9O330m-6zLf8AjFx5Cg",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=7_hmqHicHdBRboIwGADg7DI-CgV10cQsIi2ODAilFNeXpZQJyL-CE4fwtrvsVDvNkn1H-L5_oNbN74Oo-r67bgxjGIZ52bYlvM9VO6-1Ia-jVoaSALlUzWb1uEJPJ7XF18HZt4MTp13HXWomNgTFke9VtjQLCBaMxQPnyqKTuIqGDC-MQJ7erXjyrdwL7umZj9KCW5gGC-qhSDRwY4gjikFELl4mWe_Tpk-4DToHGOiIMNNiEi7xc6sCyaHLzS5g0w4FjRizBkYJTlbgap9iFIegUKCri8TElay0IuzbnNE6IKGfMLrklkqITSjFpCq0f4kngZQmpkK7PsJFWyAyebXv0EM4RplIJS-OuUfPPOOvhbl-5h5fSbLWioWtOhA_OlJndlJfW3v2P7Z9O330m-6zLf8AjFx5Cg",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSkxVcHNOM1pPTW1oUmVGcFFMV2t0UkVoZlJWZHVOMnR3Vm0wdGVXSmhVbXhDY2s1algyNUhSemROWTBzd1prNVZORWhLTkZkWVR6TmFSVmRtVTFFMGMwdFNValpJUVRJNGRqSkVlbkkxYm5oNGNqbFJkbFZhYUU1c1p4SVhjVkZFUVdGMmNtcEROblZ5Y1hSelVDMDRSMmgzVVhNYUlrRkVjM0k1WmxJeVVuUXpla2R1VmxabWJ6RmlkRzFQTWxORlZGOUtNbXN3YkVFIiwiZmN2IjoiMyIsImVpIjoicVFEQWF2cmpDNnVycXRzUC04R2h3UXMiLCJxYyI6IkNqRmthWGRoYkdrZ2MzZGxaWFFnY21salpTQm1iRzkxY2lCcVlXZG5aWEo1SUhObGMyRnRaU0JrWldWd0lHWnlhV1ZrRUFCOXRNZzJQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIHN3ZWV0IG1hZGUgb2YgcmljZSBmbG91cj8iLCJsayI6IkdoaHpkMlZsZENCdFlXUmxJRzltSUhKcFkyVWdabXh2ZFhJIiwiYnMiOiJjNDJQc1FvQ01SQkVzZDFLeEVKU3JkaXF4V0VmeEVxd3Q1U1E3RjBXYzFsSWN1VDNSZlJBbEFQck5fT0dBUTNycXpjRk9lUEpjNlJNbUN0UndjU1dzQTB5Sk4wb3RiSVRFQzV3R0FYRjA0dGtLNGxqaDcwNENtaWlReThWblZCR0xsZ2wzWFd6Vkl2ZkxOeGdOOXE2TUJTT011U1BOYlFtQkhMSUVjX1JzZEhOWG0zcmZ3Vi1GdUFJbTNIQXZNXzB4aEZLLV8xNENzNW5EdyIsImlkIjoiZmNfcVFEQWF2cmpDNnVycXRzUC04R2h3UXNfMTEifQ==",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSkxVcHNOM1pPTW1oUmVGcFFMV2t0UkVoZlJWZHVOMnR3Vm0wdGVXSmhVbXhDY2s1algyNUhSemROWTBzd1prNVZORWhLTkZkWVR6TmFSVmRtVTFFMGMwdFNValpJUVRJNGRqSkVlbkkxYm5oNGNqbFJkbFZhYUU1c1p4SVhjVkZFUVdGMmNtcEROblZ5Y1hSelVDMDRSMmgzVVhNYUlrRkVjM0k1WmxJeVVuUXpla2R1VmxabWJ6RmlkRzFQTWxORlZGOUtNbXN3YkVFIiwiZmN2IjoiMyIsImVpIjoicVFEQWF2cmpDNnVycXRzUC04R2h3UXMiLCJxYyI6IkNqRmthWGRoYkdrZ2MzZGxaWFFnY21salpTQm1iRzkxY2lCcVlXZG5aWEo1SUhObGMyRnRaU0JrWldWd0lHWnlhV1ZrRUFCOXRNZzJQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIHN3ZWV0IG1hZGUgb2YgcmljZSBmbG91cj8iLCJsayI6IkdoaHpkMlZsZENCdFlXUmxJRzltSUhKcFkyVWdabXh2ZFhJIiwiYnMiOiJjNDJQc1FvQ01SQkVzZDFLeEVKU3JkaXF4V0VmeEVxd3Q1U1E3RjBXYzFsSWN1VDNSZlJBbEFQck5fT0dBUTNycXpjRk9lUEpjNlJNbUN0UndjU1dzQTB5Sk4wb3RiSVRFQzV3R0FYRjA0dGtLNGxqaDcwNENtaWlReThWblZCR0xsZ2wzWFd6Vkl2ZkxOeGdOOXE2TUJTT011U1BOYlFtQkhMSUVjX1JzZEhOWG0zcmZ3Vi1GdUFJbTNIQXZNXzB4aEZLLV8xNENzNW5EdyIsImlkIjoiZmNfcVFEQWF2cmpDNnVycXRzUC04R2h3UXNfMTEifQ%3D%3D"
+   }
+  ],
+  "ai_overview": {
+   "page_token": "QeFTCXiczZXdcqpIEIAfYJ9jvTER8CfRVFGnZoB4RuMPGGPMDYWAA8qPMkQkd-dd9kn2MfZpdhhFMdHknHOxtV0lIzPdPd0z_dE__vLcYPnPH387cbwidxyXJEkFhyH27IoZVtyAM0gamNw89EhkOt-wJ7pByfFEOyilG7FWMonIl2xXXKsyMDbRQrp5jdYxGV43206ikhIzF_WZQewF9b9dEE7n6GP5Z02mL5U1qdiB3oaV1kMrcnvV_lvSrFT5aq0y4AyfKoH_VKCUPYCSAPyZmvRz3hSFDWphCjNTusNxS7xTWNIfypQVcFZg5omtub39axM1wRsNVEV7nc4nwaBTxw-7QZ3uIsX4NM4vBLH9CweBCounftD5fHb2oHuYeH_T5y6AGanJ6VzC4lCLl4JPDKRicPAYdQPABmpKbenTy878N1II3w4xX5RQ6tRBHh3scRamBcxzs4gOAueajsn-RCSra-mxxYf3ZGguxiN_5l73PNuQ43S8lIXFOF1OE86cUT0vNCzb0h2d_8beharQ4Fu12-YVg8okB6rICVUqqva1CWhNFFJ5qEyEAk-H40AqOCaVzSrquSKgZUyPUGIVmstBDeenmvSOqwjgLihKmBsx9WlhF7SrfKDCJTgr0mHDrJCy01UL10V5gocc8krb8wT3wcPjUiE7eJzOGNCKexYL5iTPnWU-WHl4UGLJh8g8RHJaUuzwOkcCk51HuK9oMMWOglgNh3lQMpYP9XY_pas53bmT7EroDWbkShLKdfMM0Ycvp8TS6o9YcrKTpQzRPjWahbS3hNsPuSsX-EBalgI6c1pfi_oVTLsdcnjesVBkSEnfbKMmP748jcbN55lHtI450kb9-HYLzjMT-rNfbEXm_46svFPVmd5FsqSfI4sGcoksVm7scexUMHM-VpTLZO07lQl2ZH3WqT6QhaBSJCvrVJQs7Xyn-mWyUIEs9YQs9ClZ3Ytk4UtkZZ3qPVmnnUq50Klysn6nU2m_06kYZPZuOG1brwt8sX0pt8mtZSBN63WF9VZbeso42czmaD6f4i_b19yP73zD8q5017qD1U6cWlc6nQjvbKu0FmU3MTy3TBLbjsuRa9rluRe-RuWFgbEdpWViE8O3y5Ztr8rzyKU2vheFIm_U_ca93L5v94eR7lij78N5s22lUOlGvGetBo-bh1R3YsXRBkp9mKaoOti-mMn42ZisV0YqPT8KLY8PFjqqLTfdbfeh2qkrar8zWgvOUgYuqKXywHgL6tejlu-sXkD7-ySMW0PHDjpP0dJ6Cl6awWhgmRsUz6_H24TFRUT7xng2FoY0g-OSH5kiLZp6DXdUMMHABBIlV8JgbIR0TIDavqEIwSqt2BIxDd0mG7Fu3TRaTWHOC7xQmzWqJR_H6Ups8SUSRKLwL_9-Vqo",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=QeFTCXiczZXdcqpIEIAfYJ9jvTER8CfRVFGnZoB4RuMPGGPMDYWAA8qPMkQkd-dd9kn2MfZpdhhFMdHknHOxtV0lIzPdPd0z_dE__vLcYPnPH387cbwidxyXJEkFhyH27IoZVtyAM0gamNw89EhkOt-wJ7pByfFEOyilG7FWMonIl2xXXKsyMDbRQrp5jdYxGV43206ikhIzF_WZQewF9b9dEE7n6GP5Z02mL5U1qdiB3oaV1kMrcnvV_lvSrFT5aq0y4AyfKoH_VKCUPYCSAPyZmvRz3hSFDWphCjNTusNxS7xTWNIfypQVcFZg5omtub39axM1wRsNVEV7nc4nwaBTxw-7QZ3uIsX4NM4vBLH9CweBCounftD5fHb2oHuYeH_T5y6AGanJ6VzC4lCLl4JPDKRicPAYdQPABmpKbenTy878N1II3w4xX5RQ6tRBHh3scRamBcxzs4gOAueajsn-RCSra-mxxYf3ZGguxiN_5l73PNuQ43S8lIXFOF1OE86cUT0vNCzb0h2d_8beharQ4Fu12-YVg8okB6rICVUqqva1CWhNFFJ5qEyEAk-H40AqOCaVzSrquSKgZUyPUGIVmstBDeenmvSOqwjgLihKmBsx9WlhF7SrfKDCJTgr0mHDrJCy01UL10V5gocc8krb8wT3wcPjUiE7eJzOGNCKexYL5iTPnWU-WHl4UGLJh8g8RHJaUuzwOkcCk51HuK9oMMWOglgNh3lQMpYP9XY_pas53bmT7EroDWbkShLKdfMM0Ycvp8TS6o9YcrKTpQzRPjWahbS3hNsPuSsX-EBalgI6c1pfi_oVTLsdcnjesVBkSEnfbKMmP748jcbN55lHtI450kb9-HYLzjMT-rNfbEXm_46svFPVmd5FsqSfI4sGcoksVm7scexUMHM-VpTLZO07lQl2ZH3WqT6QhaBSJCvrVJQs7Xyn-mWyUIEs9YQs9ClZ3Ytk4UtkZZ3qPVmnnUq50Klysn6nU2m_06kYZPZuOG1brwt8sX0pt8mtZSBN63WF9VZbeso42czmaD6f4i_b19yP73zD8q5017qD1U6cWlc6nQjvbKu0FmU3MTy3TBLbjsuRa9rluRe-RuWFgbEdpWViE8O3y5Ztr8rzyKU2vheFIm_U_ca93L5v94eR7lij78N5s22lUOlGvGetBo-bh1R3YsXRBkp9mKaoOti-mMn42ZisV0YqPT8KLY8PFjqqLTfdbfeh2qkrar8zWgvOUgYuqKXywHgL6tejlu-sXkD7-ySMW0PHDjpP0dJ6Cl6awWhgmRsUz6_H24TFRUT7xng2FoY0g-OSH5kiLZp6DXdUMMHABBIlV8JgbIR0TIDavqEIwSqt2BIxDd0mG7Fu3TRaTWHOC7xQmzWqJR_H6Ups8SUSRKLwL_9-Vqo"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Rice",
+    "link": "https://en.wikipedia.org/wiki/Rice",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAVKEPlQ2kKziCmuO1KhWqTLMswjfcZJx-iPEXDYYDJ3gjh38WczikrWav124p4RDtptTBTc8Tn6jYG73d9WqqXtSTs9q6g5OMMjgmnQDvNbnDCLHRb8X6GJA&ved=2ahUKEwi63NbQg5yXAxWrlWoFHftgKLgQFnoECC4QAQ&uoh=1",
+    "displayed_link": "https://en.wikipedia.org",
+    "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+    "snippet": "Rice is a cereal grain and, in its domesticated form, is the staple food of over half of the world's population, particularly in Africa and Asia.",
+    "about_this_result": {
+     "source": {
+      "description": "Rice is a cereal grain and, in its domesticated form, is the staple food of over half of the world's population, particularly in Africa and Asia.",
+      "source_info_link": "https://en.wikipedia.org/wiki/Rice",
+      "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVktFUGxRMmtLemlDbXVPMUtoV3FUTE1zd2pmY1pKeC1pUEVYRFlZREozZ2poMzhXY3ppa3JXYXYxMjRwNFJEdHB0VEJUYzhUbjZqWUc3M2Q5V3FxWHRTVHM5cTZnNU9NTWpnbW5RRHZOYm5EQ0xIUmI4WDZHSkESBBoCCAAaqwMSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCFAwgAEAAYACAAKjIKBmRpd2FsaRUWwdBAGgtkaXdhbGlzd2VldBoLaXY7cDtkaXdhbGkaCWRlZXBhdmFsaTKMAS9nb3RvP3VybD1DQUVTWFFIck96QVZLRVBsUTJrS3ppQ211TzFLaFdxVExNc3dqZmNaSngtaVBFWERZWURKM2dqaDM4V2N6aWtyV2F2MTI0cDRSRHRwdFRCVGM4VG42allHNzNkOVdxcVh0U1RzOXE2ZzVPTU1qZ21uUUR2TmJuRENMSFJiOFg2R0pBOhc8Yj5SaWNlPC9iPiAtIFdpa2lwZWRpYUKVAVJpY2UgaXMgYSBjZXJlYWwgZ3JhaW4gYW5kLCBpbiBpdHMgZG9tZXN0aWNhdGVkIGZvcm0sIGlzIHRoZSBzdGFwbGUgZm9vZCBvZiBvdmVyIGhhbGYgb2YgdGhlIHdvcmxkJiMzOTtzIHBvcHVsYXRpb24sIHBhcnRpY3VsYXJseSBpbiBBZnJpY2EgYW5kIEFzaWEuUgJvZlIDYW5kIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVktFUGxRMmtLemlDbXVPMUtoV3FUTE1zd2pmY1pKeC1pUEVYRFlZREozZ2poMzhXY3ppa3JXYXYxMjRwNFJEdHB0VEJUYzhUbjZqWUc3M2Q5V3FxWHRTVHM5cTZnNU9NTWpnbW5RRHZOYm5EQ0xIUmI4WDZHSkESBBoCCAAaqwMSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCFAwgAEAAYACAAKjIKBmRpd2FsaRUWwdBAGgtkaXdhbGlzd2VldBoLaXY7cDtkaXdhbGkaCWRlZXBhdmFsaTKMAS9nb3RvP3VybD1DQUVTWFFIck96QVZLRVBsUTJrS3ppQ211TzFLaFdxVExNc3dqZmNaSngtaVBFWERZWURKM2dqaDM4V2N6aWtyV2F2MTI0cDRSRHRwdFRCVGM4VG42allHNzNkOVdxcVh0U1RzOXE2ZzVPTU1qZ21uUUR2TmJuRENMSFJiOFg2R0pBOhc8Yj5SaWNlPC9iPiAtIFdpa2lwZWRpYUKVAVJpY2UgaXMgYSBjZXJlYWwgZ3JhaW4gYW5kLCBpbiBpdHMgZG9tZXN0aWNhdGVkIGZvcm0sIGlzIHRoZSBzdGFwbGUgZm9vZCBvZiBvdmVyIGhhbGYgb2YgdGhlIHdvcmxkJiMzOTtzIHBvcHVsYXRpb24sIHBhcnRpY3VsYXJseSBpbiBBZnJpY2EgYW5kIEFzaWEuUgJvZlIDYW5kIgIQAUgAWABoAA",
+    "source": "Wikipedia"
+   },
+   {
+    "position": 2,
+    "title": "r.i.c.e.",
+    "link": "https://riceinstitute.org/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAVeAxAOoRpjqUfqV3w3uBajAbDzT1MdJEogtp5LRv8b1qDAdR9Rvloi7FLBWvrRGBFXaAeS7USuqBevQlUvi37PNEy8QFpg77f27K-6AXmsr8&ved=2ahUKEwi63NbQg5yXAxWrlWoFHftgKLgQFnoECCwQAQ&uoh=1",
+    "displayed_link": "https://riceinstitute.org",
+    "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADwBQCdASocABwAPtEutFooIagoGAEAGglAGOKQR0Bz4FkxE-zcwTLP3iaBQtCGvS-mPTjvfpg2AAD-_sIW9gK7oFNORF71zwXEw1BfNl_f_v_C_WlRTpA095zQX8Juk-DM_8_9bX4_3AhW_FCiis_kcSv1ZrZ-s-pXOVdnDxcp2mgPBqCg4u2PdFppYpMbKRTJu0lCd7nZDVV7ddsrXy_kCkCCgAaJ6C-ailyOkpb8Wkvck57vnljFiae0IxtEaYaqIJ6im2gBQWiUVGzsJ81VT5CX_12_08x6l3iTxabF6Qej1tSHKQgAAAA.webp",
+    "snippet": "r.i.c.e. is a research institute for compassionate economics. We are a non-profit research organization focused on health and well-being in India.",
+    "about_this_result": {
+     "source": {
+      "description": "r.i.c.e. is a research institute for compassionate economics. We are a non-profit research organization focused on health and well-being in India.",
+      "source_info_link": "https://riceinstitute.org/",
+      "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADwBQCdASocABwAPtEutFooIagoGAEAGglAGOKQR0Bz4FkxE-zcwTLP3iaBQtCGvS-mPTjvfpg2AAD-_sIW9gK7oFNORF71zwXEw1BfNl_f_v_C_WlRTpA095zQX8Juk-DM_8_9bX4_3AhW_FCiis_kcSv1ZrZ-s-pXOVdnDxcp2mgPBqCg4u2PdFppYpMbKRTJu0lCd7nZDVV7ddsrXy_kCkCCgAaJ6C-ailyOkpb8Wkvck57vnljFiae0IxtEaYaqIJ6im2gBQWiUVGzsJ81VT5CX_12_08x6l3iTxabF6Qej1tSHKQgAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CoEBL2dvdG8_dXJsPUNBRVNWUUhyT3pBVmVBeEFPb1JwanFVZnFWM3czdUJhakFiRHpUMU1kSkVvZ3RwNUxSdjhiMXFEQWRSOVJ2bG9pN0ZMQld2clJHQkZYYUFlUzdVU3VxQmV2UWxVdmkzN1BORXk4UUZwZzc3ZjI3Sy02QVhtc3I4EgQaAggAGpUDEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA7wIIABAAGAAgACoyCgZkaXdhbGkVfdm0QBoLZGl3YWxpc3dlZXQaC2l2O3A7ZGl3YWxpGglkZWVwYXZhbGkygQEvZ290bz91cmw9Q0FFU1ZRSHJPekFWZUF4QU9vUnBqcVVmcVYzdzN1QmFqQWJEelQxTWRKRW9ndHA1TFJ2OGIxcURBZFI5UnZsb2k3RkxCV3ZyUkdCRlhhQWVTN1VTdXFCZXZRbFV2aTM3UE5FeThRRnBnNzdmMjdLLTZBWG1zcjg6DzxiPnIuaS5jLmUuPC9iPkKSAXIuaS5jLmUuIGlzIGEgcmVzZWFyY2ggaW5zdGl0dXRlIGZvciBjb21wYXNzaW9uYXRlIGVjb25vbWljcy4gV2UgYXJlIGEgbm9uLXByb2ZpdCByZXNlYXJjaCBvcmdhbml6YXRpb24gZm9jdXNlZCBvbiBoZWFsdGggYW5kIHdlbGwtYmVpbmcgaW4gSW5kaWEuUgNhbmRSAm9mIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CoEBL2dvdG8_dXJsPUNBRVNWUUhyT3pBVmVBeEFPb1JwanFVZnFWM3czdUJhakFiRHpUMU1kSkVvZ3RwNUxSdjhiMXFEQWRSOVJ2bG9pN0ZMQld2clJHQkZYYUFlUzdVU3VxQmV2UWxVdmkzN1BORXk4UUZwZzc3ZjI3Sy02QVhtc3I4EgQaAggAGpUDEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA7wIIABAAGAAgACoyCgZkaXdhbGkVfdm0QBoLZGl3YWxpc3dlZXQaC2l2O3A7ZGl3YWxpGglkZWVwYXZhbGkygQEvZ290bz91cmw9Q0FFU1ZRSHJPekFWZUF4QU9vUnBqcVVmcVYzdzN1QmFqQWJEelQxTWRKRW9ndHA1TFJ2OGIxcURBZFI5UnZsb2k3RkxCV3ZyUkdCRlhhQWVTN1VTdXFCZXZRbFV2aTM3UE5FeThRRnBnNzdmMjdLLTZBWG1zcjg6DzxiPnIuaS5jLmUuPC9iPkKSAXIuaS5jLmUuIGlzIGEgcmVzZWFyY2ggaW5zdGl0dXRlIGZvciBjb21wYXNzaW9uYXRlIGVjb25vbWljcy4gV2UgYXJlIGEgbm9uLXByb2ZpdCByZXNlYXJjaCBvcmdhbml6YXRpb24gZm9jdXNlZCBvbiBoZWFsdGggYW5kIHdlbGwtYmVpbmcgaW4gSW5kaWEuUgNhbmRSAm9mIgIQAUgAWABoAA",
+    "source": "Research Institute for Compassionate Economics"
+   },
+   {
+    "position": 3,
+    "title": "RICE: Simple prioritization for product managers",
+    "link": "https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFfowmxVr9hWz1exSUML1npLP0qBMSd3d_4-8VTsny6X-sYbGFUlVilfB8r2p7WorSHLt09zuqDmEZdZotf9Ux4gZEJzRFGRdO9WK3fM2w5lLKdgBAQ0Q_T_23WmTtPD4Dz6Z_tXzCF6jsLWSzCcX8kao_PkIDmwCkLgMpKDIbA5TyoSkZA&ved=2ahUKEwi63NbQg5yXAxWrlWoFHftgKLgQFnoECDAQAQ&uoh=1",
+    "displayed_link": "https://www.intercom.com",
+    "favicon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAAAwBgCdASogACAAPtE-tFooIigoFAEAGglpABOTa6WJM6zxz9hsdm-4Cyguk0hMSVVir-A6RMKIrr8AAP7ub2J1C_6CRJyZKw_hMhvj3CRM4QUXJ70Rz-8P_Nf7_pUiwreVx2bRiU-3Re0_Imo-XGjGwlfQp7_wgxviijiD9EBcT4nJ3troDKbl_0rOgbPFRIPN42vb3cGjZ4OBP69dqf-LrQtdRz1t2sxYv5B-J5QMwcUVyW8o7v4rcornhbF-ryy6EQIRkSOVGIP3W_EbGK_G9dXH7R9Av-_ZRAs67ZIw6In5M_QclkQ9z8XX49ok9I9qcBWL-Z7e_l2M44SUl9uZgnAqRNFzLoH6VoJfoCSTCxEV1I5EUhb0mD4AAA.webp",
+    "date": "5 Jan 2018",
+    "snippet": "Prioritization is a challenge for any product manager. How do you decide what to work on first? Here is a simple scoring system to help ...",
+    "about_this_result": {
+     "source": {
+      "description": "Prioritization is a challenge for any product manager. How do you decide what to work on first? Here is a simple scoring system to help ...",
+      "source_info_link": "https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/",
+      "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAAAwBgCdASogACAAPtE-tFooIigoFAEAGglpABOTa6WJM6zxz9hsdm-4Cyguk0hMSVVir-A6RMKIrr8AAP7ub2J1C_6CRJyZKw_hMhvj3CRM4QUXJ70Rz-8P_Nf7_pUiwreVx2bRiU-3Re0_Imo-XGjGwlfQp7_wgxviijiD9EBcT4nJ3troDKbl_0rOgbPFRIPN42vb3cGjZ4OBP69dqf-LrQtdRz1t2sxYv5B-J5QMwcUVyW8o7v4rcornhbF-ryy6EQIRkSOVGIP3W_EbGK_G9dXH7R9Av-_ZRAs67ZIw6In5M_QclkQ9z8XX49ok9I9qcBWL-Z7e_l2M44SUl9uZgnAqRNFzLoH6VoJfoCSTCxEV1I5EUhb0mD4AAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0Zmb3dteFZyOWhXejFleFNVTUwxbnBMUDBxQk1TZDNkXzQtOFZUc255Nlgtc1liR0ZVbFZpbGZCOHIycDdXb3JTSEx0MDl6dXFEbUVaZFpvdGY5VXg0Z1pFSnpSRkdSZE85V0szZk0ydzVsTEtkZ0JBUTBRX1RfMjNXbVR0UEQ0RHo2Wl90WHpDRjZqc0xXU3pDY1g4a2FvX1BrSURtd0NrTGdNcEtESWJBNVR5b1NrWkESBBoCCAAajQQSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDnAwgAEAAYACAAKjIKBmRpd2FsaRVmxqFAGgtkaXdhbGlzd2VldBoLaXY7cDtkaXdhbGkaCWRlZXBhdmFsaTLIAS9nb3RvP3VybD1DQUVTaVFFQjZ6c3dGZm93bXhWcjloV3oxZXhTVU1MMW5wTFAwcUJNU2QzZF80LThWVHNueTZYLXNZYkdGVWxWaWxmQjhyMnA3V29yU0hMdDA5enVxRG1FWmRab3RmOVV4NGdaRUp6UkZHUmRPOVdLM2ZNMnc1bExLZGdCQVEwUV9UXzIzV21UdFBENER6NlpfdFh6Q0Y2anNMV1N6Q2NYOGthb19Qa0lEbXdDa0xnTXBLREliQTVUeW9Ta1pBOkI8Yj5SSUNFPC9iPjogU2ltcGxlIHByaW9yaXRpemF0aW9uIGZvciBwcm9kdWN0IG1hbmFnZXJzIC0gSW50ZXJjb21CkAFQcmlvcml0aXphdGlvbiBpcyBhIGNoYWxsZW5nZSBmb3IgYW55IHByb2R1Y3QgbWFuYWdlci4gSG93IGRvIHlvdSBkZWNpZGUgd2hhdCB0byB3b3JrIG9uIGZpcnN0PyBIZXJlIGlzIGEgc2ltcGxlIHNjb3Jpbmcgc3lzdGVtIHRvIGhlbHAmbmJzcDsuLi5SAm9mUgNhbmQiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0Zmb3dteFZyOWhXejFleFNVTUwxbnBMUDBxQk1TZDNkXzQtOFZUc255Nlgtc1liR0ZVbFZpbGZCOHIycDdXb3JTSEx0MDl6dXFEbUVaZFpvdGY5VXg0Z1pFSnpSRkdSZE85V0szZk0ydzVsTEtkZ0JBUTBRX1RfMjNXbVR0UEQ0RHo2Wl90WHpDRjZqc0xXU3pDY1g4a2FvX1BrSURtd0NrTGdNcEtESWJBNVR5b1NrWkESBBoCCAAajQQSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDnAwgAEAAYACAAKjIKBmRpd2FsaRVmxqFAGgtkaXdhbGlzd2VldBoLaXY7cDtkaXdhbGkaCWRlZXBhdmFsaTLIAS9nb3RvP3VybD1DQUVTaVFFQjZ6c3dGZm93bXhWcjloV3oxZXhTVU1MMW5wTFAwcUJNU2QzZF80LThWVHNueTZYLXNZYkdGVWxWaWxmQjhyMnA3V29yU0hMdDA5enVxRG1FWmRab3RmOVV4NGdaRUp6UkZHUmRPOVdLM2ZNMnc1bExLZGdCQVEwUV9UXzIzV21UdFBENER6NlpfdFh6Q0Y2anNMV1N6Q2NYOGthb19Qa0lEbXdDa0xnTXBLREliQTVUeW9Ta1pBOkI8Yj5SSUNFPC9iPjogU2ltcGxlIHByaW9yaXRpemF0aW9uIGZvciBwcm9kdWN0IG1hbmFnZXJzIC0gSW50ZXJjb21CkAFQcmlvcml0aXphdGlvbiBpcyBhIGNoYWxsZW5nZSBmb3IgYW55IHByb2R1Y3QgbWFuYWdlci4gSG93IGRvIHlvdSBkZWNpZGUgd2hhdCB0byB3b3JrIG9uIGZpcnN0PyBIZXJlIGlzIGEgc2ltcGxlIHNjb3Jpbmcgc3lzdGVtIHRvIGhlbHAmbmJzcDsuLi5SAm9mUgNhbmQiAhABSABYAGgA",
+    "source": "Intercom"
+   },
+   {
+    "position": 4,
+    "title": "RICE Scoring Model | Glossary",
+    "link": "https://www.productplan.com/glossary/rice-scoring-model",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAV1_L0FsfBalbFsKjRqnaNvzn6EBC3Bw3P1VPsJMHBP8gupKjhrH0_Kak9iiEkehGI7__K_31MyPPmqNd2MN-E7k9QQagvE22exv4AL-xaEfdEjOxsNp3kFY0-CnwZY1O2Y42DcrJ6GMf2rWrk7Q&ved=2ahUKEwi63NbQg5yXAxWrlWoFHftgKLgQFnoECGwQAQ&uoh=1",
+    "displayed_link": "https://www.productplan.com",
+    "favicon": "https://serpapi.com/images/i/UklGRv4AAABXRUJQVlA4IPIAAADwBQCdASocABwAPtEutFooIagoGAEAGglsAL53j4wCaIkaBs5kHAC2Ec5QaPEZrDXHnBy_Yg4gAAD-9ge1Ng0ZX45UP2usFKUikAKqRoX8UzL2DdcVrqTwl6gWLvLrpq7lj9cgZJTjw8vQ6Gv5LvPVQuoswLEUsDnjoupMfpyhx1t9LZta_Hy-VbZBt7rmFM0xXt8fMxuD7wDISJy5A9kizwEhrXaGk8rRJ6UFugpDIoW76skMdmFIp6Qernhw6m2wis_i-VHYqVG9MWFixh9P0uFxNecwXz3x7pzplspIzlLmBcwK0S445HiIfMumJSsAAA.webp",
+    "snippet": "The RICE scoring model is a prioritization framework designed to help product managers determine which products, features, and other initiatives to put on their ...",
+    "about_this_result": {
+     "source": {
+      "description": "The RICE scoring model is a prioritization framework designed to help product managers determine which products, features, and other initiatives to put on their ...",
+      "source_info_link": "https://www.productplan.com/glossary/rice-scoring-model",
+      "icon": "https://serpapi.com/images/i/UklGRv4AAABXRUJQVlA4IPIAAADwBQCdASocABwAPtEutFooIagoGAEAGglsAL53j4wCaIkaBs5kHAC2Ec5QaPEZrDXHnBy_Yg4gAAD-9ge1Ng0ZX45UP2usFKUikAKqRoX8UzL2DdcVrqTwl6gWLvLrpq7lj9cgZJTjw8vQ6Gv5LvPVQuoswLEUsDnjoupMfpyhx1t9LZta_Hy-VbZBt7rmFM0xXt8fMxuD7wDISJy5A9kizwEhrXaGk8rRJ6UFugpDIoW76skMdmFIp6Qernhw6m2wis_i-VHYqVG9MWFixh9P0uFxNecwXz3x7pzplspIzlLmBcwK0S445HiIfMumJSsAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVjFfTDBGc2ZCYWxiRnNLalJxbmFOdnpuNkVCQzNCdzNQMVZQc0pNSEJQOGd1cEtqaHJIMF9LYWs5aWlFa2VoR0k3X19LXzMxTXlQUG1xTmQyTU4tRTdrOVFRYWd2RTIyZXh2NEFMLXhhRWZkRWpPeHNOcDNrRlkwLUNud1pZMU8yWTQyRGNySjZHTWYycldyazdREgQaAggAGvYDEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA0AMIABAAGAAgACoyCgZkaXdhbGkVEnK4QBoLZGl3YWxpc3dlZXQaC2l2O3A7ZGl3YWxpGglkZWVwYXZhbGkyqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWMV9MMEZzZkJhbGJGc0tqUnFuYU52em42RUJDM0J3M1AxVlBzSk1IQlA4Z3VwS2pockgwX0thazlpaUVrZWhHSTdfX0tfMzFNeVBQbXFOZDJNTi1FN2s5UVFhZ3ZFMjJleHY0QUwteGFFZmRFak94c05wM2tGWTAtQ253WlkxTzJZNDJEY3JKNkdNZjJyV3JrN1E6MjxiPlJJQ0U8L2I-IFNjb3JpbmcgTW9kZWwgfCBHbG9zc2FyeSAtIFByb2R1Y3RQbGFuQqkBVGhlIFJJQ0Ugc2NvcmluZyBtb2RlbCBpcyBhIHByaW9yaXRpemF0aW9uIGZyYW1ld29yayBkZXNpZ25lZCB0byBoZWxwIHByb2R1Y3QgbWFuYWdlcnMgZGV0ZXJtaW5lIHdoaWNoIHByb2R1Y3RzLCBmZWF0dXJlcywgYW5kIG90aGVyIGluaXRpYXRpdmVzIHRvIHB1dCBvbiB0aGVpciZuYnNwOy4uLlIDYW5kUgJvZiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVjFfTDBGc2ZCYWxiRnNLalJxbmFOdnpuNkVCQzNCdzNQMVZQc0pNSEJQOGd1cEtqaHJIMF9LYWs5aWlFa2VoR0k3X19LXzMxTXlQUG1xTmQyTU4tRTdrOVFRYWd2RTIyZXh2NEFMLXhhRWZkRWpPeHNOcDNrRlkwLUNud1pZMU8yWTQyRGNySjZHTWYycldyazdREgQaAggAGvYDEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA0AMIABAAGAAgACoyCgZkaXdhbGkVEnK4QBoLZGl3YWxpc3dlZXQaC2l2O3A7ZGl3YWxpGglkZWVwYXZhbGkyqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWMV9MMEZzZkJhbGJGc0tqUnFuYU52em42RUJDM0J3M1AxVlBzSk1IQlA4Z3VwS2pockgwX0thazlpaUVrZWhHSTdfX0tfMzFNeVBQbXFOZDJNTi1FN2s5UVFhZ3ZFMjJleHY0QUwteGFFZmRFak94c05wM2tGWTAtQ253WlkxTzJZNDJEY3JKNkdNZjJyV3JrN1E6MjxiPlJJQ0U8L2I-IFNjb3JpbmcgTW9kZWwgfCBHbG9zc2FyeSAtIFByb2R1Y3RQbGFuQqkBVGhlIFJJQ0Ugc2NvcmluZyBtb2RlbCBpcyBhIHByaW9yaXRpemF0aW9uIGZyYW1ld29yayBkZXNpZ25lZCB0byBoZWxwIHByb2R1Y3QgbWFuYWdlcnMgZGV0ZXJtaW5lIHdoaWNoIHByb2R1Y3RzLCBmZWF0dXJlcywgYW5kIG90aGVyIGluaXRpYXRpdmVzIHRvIHB1dCBvbiB0aGVpciZuYnNwOy4uLlIDYW5kUgJvZiICEAFIAFgAaAA",
+    "source": "ProductPlan"
+   },
+   {
+    "position": 5,
+    "title": "Effect of cooling of cooked white rice on resistant starch content and glycemic response",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/26693746/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAVIL78vizpbg0cls9DnD6P0Avnj1hkXIAhTpfjgs6L4-AfkhvIKFuCj8Brwob5QO_wi4gUn3Ra3d891dDaWzFc5lpkWG-VuOsW4xvwQMXvFd7dnDokbYE2pWBkvxvTHjM&ved=2ahUKEwi63NbQg5yXAxWrlWoFHftgKLgQFnoECGgQAQ&uoh=1",
+    "displayed_link": "https://pubmed.ncbi.nlm.nih.gov",
+    "favicon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAADwBQCdASocABwAPtEutFooIagoGAEAGglqAMixoDbACnj3QCsi13AWY3jeSE8kXP3gnmhDP-Tq6AD-7mZvnFWx8hQbIAfk_Mjv1fLFmJs8KMfz0xoKMg2DX5G-fIAVazcuRcfzsMHHeLK3e9dDbEu2AkjC1Rp4hri-ebcTjChh979xV8qr_g1mV1ina4f20Q9WfvPos1XgikAzAskx5av_ool21lDb_YbtxKbFfJR3N44z-NqP7_2W-z7P41dtxt2uN8GCtz47XdezCj77stKS9_ArCtCRq29enrahYEZ8ekz3R4Xp5fp0eFYAAA.webp",
+    "author": "by S Sonia",
+    "snippet": "Cooling of cooked starch is known to cause starch retrogradation which increases resistant starch content. This study aimed to determine the effect of cooling ...",
+    "about_this_result": {
+     "source": {
+      "description": "Cooling of cooked starch is known to cause starch retrogradation which increases resistant starch content. This study aimed to determine the effect of cooling ...",
+      "source_info_link": "https://pubmed.ncbi.nlm.nih.gov/26693746/",
+      "icon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAADwBQCdASocABwAPtEutFooIagoGAEAGglqAMixoDbACnj3QCsi13AWY3jeSE8kXP3gnmhDP-Tq6AD-7mZvnFWx8hQbIAfk_Mjv1fLFmJs8KMfz0xoKMg2DX5G-fIAVazcuRcfzsMHHeLK3e9dDbEu2AkjC1Rp4hri-ebcTjChh979xV8qr_g1mV1ina4f20Q9WfvPos1XgikAzAskx5av_ool21lDb_YbtxKbFfJR3N44z-NqP7_2W-z7P41dtxt2uN8GCtz47XdezCj77stKS9_ArCtCRq29enrahYEZ8ekz3R4Xp5fp0eFYAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVklMNzh2aXpwYmcwY2xzOURuRDZQMEF2bmoxaGtYSUFoVHBmamdzNkw0LUFma2h2SUtGdUNqOEJyd29iNVFPX3dpNGdVbjNSYTNkODkxZERhV3pGYzVscGtXRy1WdU9zVzR4dndRTVh2RmQ3ZG5Eb2tiWUUycFdCa3Z4dlRIak0SBBoCCAAaowQSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkD9AwgAEAAYACAAKjIKBmRpd2FsaRVQda9AGgtkaXdhbGlzd2VldBoLaXY7cDtkaXdhbGkaCWRlZXBhdmFsaTKVAS9nb3RvP3VybD1DQUVTWkFIck96QVZJTDc4dml6cGJnMGNsczlEbkQ2UDBBdm5qMWhrWElBaFRwZmpnczZMNC1BZmtodklLRnVDajhCcndvYjVRT193aTRnVW4zUmEzZDg5MWREYVd6RmM1bHBrV0ctVnVPc1c0eHZ3UU1YdkZkN2RuRG9rYllFMnBXQmt2eHZUSGpNOnRFZmZlY3QgPGI-b2Y8L2I-IGNvb2xpbmcgPGI-b2Y8L2I-IGNvb2tlZCB3aGl0ZSA8Yj5yaWNlPC9iPiBvbiByZXNpc3RhbnQgc3RhcmNoIGNvbnRlbnQgPGI-YW5kPC9iPiBnbHljZW1pYyByZXNwb25zZUKnAUNvb2xpbmcgb2YgY29va2VkIHN0YXJjaCBpcyBrbm93biB0byBjYXVzZSBzdGFyY2ggcmV0cm9ncmFkYXRpb24gd2hpY2ggaW5jcmVhc2VzIHJlc2lzdGFudCBzdGFyY2ggY29udGVudC4gVGhpcyBzdHVkeSBhaW1lZCB0byBkZXRlcm1pbmUgdGhlIGVmZmVjdCBvZiBjb29saW5nJm5ic3A7Li4uUgJvZlIDYW5kIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVklMNzh2aXpwYmcwY2xzOURuRDZQMEF2bmoxaGtYSUFoVHBmamdzNkw0LUFma2h2SUtGdUNqOEJyd29iNVFPX3dpNGdVbjNSYTNkODkxZERhV3pGYzVscGtXRy1WdU9zVzR4dndRTVh2RmQ3ZG5Eb2tiWUUycFdCa3Z4dlRIak0SBBoCCAAaowQSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkD9AwgAEAAYACAAKjIKBmRpd2FsaRVQda9AGgtkaXdhbGlzd2VldBoLaXY7cDtkaXdhbGkaCWRlZXBhdmFsaTKVAS9nb3RvP3VybD1DQUVTWkFIck96QVZJTDc4dml6cGJnMGNsczlEbkQ2UDBBdm5qMWhrWElBaFRwZmpnczZMNC1BZmtodklLRnVDajhCcndvYjVRT193aTRnVW4zUmEzZDg5MWREYVd6RmM1bHBrV0ctVnVPc1c0eHZ3UU1YdkZkN2RuRG9rYllFMnBXQmt2eHZUSGpNOnRFZmZlY3QgPGI-b2Y8L2I-IGNvb2xpbmcgPGI-b2Y8L2I-IGNvb2tlZCB3aGl0ZSA8Yj5yaWNlPC9iPiBvbiByZXNpc3RhbnQgc3RhcmNoIGNvbnRlbnQgPGI-YW5kPC9iPiBnbHljZW1pYyByZXNwb25zZUKnAUNvb2xpbmcgb2YgY29va2VkIHN0YXJjaCBpcyBrbm93biB0byBjYXVzZSBzdGFyY2ggcmV0cm9ncmFkYXRpb24gd2hpY2ggaW5jcmVhc2VzIHJlc2lzdGFudCBzdGFyY2ggY29udGVudC4gVGhpcyBzdHVkeSBhaW1lZCB0byBkZXRlcm1pbmUgdGhlIGVmZmVjdCBvZiBjb29saW5nJm5ic3A7Li4uUgJvZlIDYW5kIgIQAUgAWABoAA",
+    "source": "National Institutes of Health (NIH) | (.gov)"
+   },
+   {
+    "position": 6,
+    "title": "RICE Method for Injuries (Rest, Ice, Compression, Elevation)",
+    "link": "https://www.webmd.com/first-aid/rice-method-injuries",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVqF4IHT5J2hmUHAiEZzW-3sMBO-Bqnq31AXRXSdoPZ2msCpdO-vsKrE_rpyP9DmlLe-_h-P5GtpQhwEELxbkEKz3TNmi2cMStCv-cE4v7WDCLcYrEv8hcidKNSHdeUeL23YUVkMXVkS9H3g&ved=2ahUKEwi63NbQg5yXAxWrlWoFHftgKLgQFnoECGoQAQ&uoh=1",
+    "displayed_link": "https://www.webmd.com",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAP1BMVEVHcEw1WPYzWPs0Vv80V_00Vv8zV_xAVO8uUv9Yb_Zje_YkTfyls_T___7P2PY9XfSOn_QYRPjr7_p1ivS8x_W2qm-IAAAACHRSTlMAOYbD6P9gGDeCeSUAAAD3SURBVHgBfVMHkoAwCLShaaAk_v-tBwPJ9aydpYPLwLrtB8Cxb-vyE6cQHcf5jbqcGvT1xSP8wjrhBnvBnzDPGi8IwOEfh3KnfsYY0-CSfAl7umEuiHTrSxBSPh4ztWy4oipnSnJnJLacNiMJRRwalqz3FlS4LTso8qsCsaes7wyKXUNa0CeEp5LIs5orjgU-ScZW8BavGl7hZHiwcKks4fitDAZ3q6mw5HTr48ngbncvHN9CDFyp4Q2G3UuBiKShMiERO7n1kdyIL1urWhiD6bWg5KmxEbNzhzVewF5c6EVa47upy3gYToc9X5P5gs1Xc77Uk9_hA-vOEjLFBMzLAAAAAElFTkSuQmCC.png",
+    "snippet": "The RICE method is a simple self-care technique that aims to reduce swelling, ease pain, and speed up healing. Rest, ice, compression, and elevation of a sprain ...",
+    "about_this_result": {
+     "source": {
+      "description": "The RICE method is a simple self-care technique that aims to reduce swelling, ease pain, and speed up healing. Rest, ice, compression, and elevation of a sprain ...",
+      "source_info_link": "https://www.webmd.com/first-aid/rice-method-injuries",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAP1BMVEVHcEw1WPYzWPs0Vv80V_00Vv8zV_xAVO8uUv9Yb_Zje_YkTfyls_T___7P2PY9XfSOn_QYRPjr7_p1ivS8x_W2qm-IAAAACHRSTlMAOYbD6P9gGDeCeSUAAAD3SURBVHgBfVMHkoAwCLShaaAk_v-tBwPJ9aydpYPLwLrtB8Cxb-vyE6cQHcf5jbqcGvT1xSP8wjrhBnvBnzDPGi8IwOEfh3KnfsYY0-CSfAl7umEuiHTrSxBSPh4ztWy4oipnSnJnJLacNiMJRRwalqz3FlS4LTso8qsCsaes7wyKXUNa0CeEp5LIs5orjgU-ScZW8BavGl7hZHiwcKks4fitDAZ3q6mw5HTr48ngbncvHN9CDFyp4Q2G3UuBiKShMiERO7n1kdyIL1urWhiD6bWg5KmxEbNzhzVewF5c6EVa47upy3gYToc9X5P5gs1Xc77Uk9_hA-vOEjLFBMzLAAAAAElFTkSuQmCC.png"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVnFGNElIVDVKMmhtVUhBaUVaelctM3NNQk8tQnFucTMxQVhSWFNkb1BaMm1zQ3BkTy12c0tyRV9ycHlQOURtbExlLV9oLVA1R3RwUWh3RUVMeGJrRUt6M1RObWkyY01TdEN2LWNFNHY3V0RDTGNZckV2OGhjaWRLTlNIZGVVZUwyM1lVVmtNWFZrUzlIM2cSBBoCCAAaiwQSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDlAwgAEAAYACAAKjIKBmRpd2FsaRUzzrZAGgtkaXdhbGlzd2VldBoLaXY7cDtkaXdhbGkaCWRlZXBhdmFsaTKkAS9nb3RvP3VybD1DQUVTYndIck96QVZxRjRJSFQ1SjJobVVIQWlFWnpXLTNzTUJPLUJxbnEzMUFYUlhTZG9QWjJtc0NwZE8tdnNLckVfcnB5UDlEbWxMZS1faC1QNUd0cFFod0VFTHhia0VLejNUTm1pMmNNU3RDdi1jRTR2N1dEQ0xjWXJFdjhoY2lkS05TSGRlVWVMMjNZVVZrTVhWa1M5SDNnOks8Yj5SSUNFPC9iPiBNZXRob2QgZm9yIEluanVyaWVzIChSZXN0LCBJY2UsIENvbXByZXNzaW9uLCBFbGV2YXRpb24pIC0gV2ViTURCqQFUaGUgUklDRSBtZXRob2QgaXMgYSBzaW1wbGUgc2VsZi1jYXJlIHRlY2huaXF1ZSB0aGF0IGFpbXMgdG8gcmVkdWNlIHN3ZWxsaW5nLCBlYXNlIHBhaW4sIGFuZCBzcGVlZCB1cCBoZWFsaW5nLiBSZXN0LCBpY2UsIGNvbXByZXNzaW9uLCBhbmQgZWxldmF0aW9uIG9mIGEgc3ByYWluJm5ic3A7Li4uUgNhbmRSAm9mIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVnFGNElIVDVKMmhtVUhBaUVaelctM3NNQk8tQnFucTMxQVhSWFNkb1BaMm1zQ3BkTy12c0tyRV9ycHlQOURtbExlLV9oLVA1R3RwUWh3RUVMeGJrRUt6M1RObWkyY01TdEN2LWNFNHY3V0RDTGNZckV2OGhjaWRLTlNIZGVVZUwyM1lVVmtNWFZrUzlIM2cSBBoCCAAaiwQSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDlAwgAEAAYACAAKjIKBmRpd2FsaRUzzrZAGgtkaXdhbGlzd2VldBoLaXY7cDtkaXdhbGkaCWRlZXBhdmFsaTKkAS9nb3RvP3VybD1DQUVTYndIck96QVZxRjRJSFQ1SjJobVVIQWlFWnpXLTNzTUJPLUJxbnEzMUFYUlhTZG9QWjJtc0NwZE8tdnNLckVfcnB5UDlEbWxMZS1faC1QNUd0cFFod0VFTHhia0VLejNUTm1pMmNNU3RDdi1jRTR2N1dEQ0xjWXJFdjhoY2lkS05TSGRlVWVMMjNZVVZrTVhWa1M5SDNnOks8Yj5SSUNFPC9iPiBNZXRob2QgZm9yIEluanVyaWVzIChSZXN0LCBJY2UsIENvbXByZXNzaW9uLCBFbGV2YXRpb24pIC0gV2ViTURCqQFUaGUgUklDRSBtZXRob2QgaXMgYSBzaW1wbGUgc2VsZi1jYXJlIHRlY2huaXF1ZSB0aGF0IGFpbXMgdG8gcmVkdWNlIHN3ZWxsaW5nLCBlYXNlIHBhaW4sIGFuZCBzcGVlZCB1cCBoZWFsaW5nLiBSZXN0LCBpY2UsIGNvbXByZXNzaW9uLCBhbmQgZWxldmF0aW9uIG9mIGEgc3ByYWluJm5ic3A7Li4uUgNhbmRSAm9mIgIQAUgAWABoAA",
+    "source": "WebMD"
+   },
+   {
+    "position": 7,
+    "title": "Declan Rice (@declanrice) • Instagram photos and videos",
+    "link": "https://www.instagram.com/declanrice/?hl=en",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAV6eU3I2bY8wT0aFZPFbkgxyknYtp9syfX_aisvLgiUglxSjgC-XSI5mhXRbN0f2xl8EYiwf2hZwzuUAFaKiVZXSN50b1FuDMS3ys1VllwUTDunPu4jU1LOclHXOqIBJP1Zg&ved=2ahUKEwi63NbQg5yXAxWrlWoFHftgKLgQFnoECG0QAQ&uoh=1",
+    "displayed_link": "75.3L+ followers",
+    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "snippet": "An unforgettable 7 weeks comes to an end. To captain & score my first World Cup goal last night was a really proud moment for me. Highest place finish at a ...",
+    "about_this_result": {
+     "source": {
+      "description": "An unforgettable 7 weeks comes to an end. To captain & score my first World Cup goal last night was a really proud moment for me. Highest place finish at a ...",
+      "source_info_link": "https://www.instagram.com/declanrice/?hl=en",
+      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjZlVTNJMmJZOHdUMGFGWlBGYmtneHlrbll0cDlzeWZYX2Fpc3ZMZ2lVZ2x4U2pnQy1YU0k1bWhYUmJOMGYyeGw4RVlpd2YyaFp3enVVQUZhS2lWWlhTTjUwYjFGdURNUzN5czFWbGx3VVREdW5QdTRqVTFMT2NsSFhPcUlCSlAxWmcSBBoCCAAagQQSAggBGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkDbAwgAEAAYACAAKjIKBmRpd2FsaRXwQTpAGgtkaXdhbGlzd2VldBoLaXY7cDtkaXdhbGkaCWRlZXBhdmFsaTKYAS9nb3RvP3VybD1DQUVTWmdIck96QVY2ZVUzSTJiWTh3VDBhRlpQRmJrZ3h5a25ZdHA5c3lmWF9haXN2TGdpVWdseFNqZ0MtWFNJNW1oWFJiTjBmMnhsOEVZaXdmMmhad3p1VUFGYUtpVlpYU041MGIxRnVETVMzeXMxVmxsd1VURHVuUHU0alUxTE9jbEhYT3FJQkpQMVpnOk5EZWNsYW4gPGI-UmljZTwvYj4gKEA8Yj5kZWNsYW5yaWNlPC9iPikg4oCiIEluc3RhZ3JhbSBwaG90b3MgPGI-YW5kPC9iPiB2aWRlb3NCqAFBbiB1bmZvcmdldHRhYmxlIDcgd2Vla3MgY29tZXMgdG8gYW4gZW5kLiBUbyBjYXB0YWluICZhbXA7IHNjb3JlIG15IGZpcnN0IFdvcmxkIEN1cCBnb2FsIGxhc3QgbmlnaHQgd2FzIGEgcmVhbGx5IHByb3VkIG1vbWVudCBmb3IgbWUuIEhpZ2hlc3QgcGxhY2UgZmluaXNoIGF0IGEmbmJzcDsuLi5SA2FuZFICb2YiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjZlVTNJMmJZOHdUMGFGWlBGYmtneHlrbll0cDlzeWZYX2Fpc3ZMZ2lVZ2x4U2pnQy1YU0k1bWhYUmJOMGYyeGw4RVlpd2YyaFp3enVVQUZhS2lWWlhTTjUwYjFGdURNUzN5czFWbGx3VVREdW5QdTRqVTFMT2NsSFhPcUlCSlAxWmcSBBoCCAAagQQSAggBGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkDbAwgAEAAYACAAKjIKBmRpd2FsaRXwQTpAGgtkaXdhbGlzd2VldBoLaXY7cDtkaXdhbGkaCWRlZXBhdmFsaTKYAS9nb3RvP3VybD1DQUVTWmdIck96QVY2ZVUzSTJiWTh3VDBhRlpQRmJrZ3h5a25ZdHA5c3lmWF9haXN2TGdpVWdseFNqZ0MtWFNJNW1oWFJiTjBmMnhsOEVZaXdmMmhad3p1VUFGYUtpVlpYU041MGIxRnVETVMzeXMxVmxsd1VURHVuUHU0alUxTE9jbEhYT3FJQkpQMVpnOk5EZWNsYW4gPGI-UmljZTwvYj4gKEA8Yj5kZWNsYW5yaWNlPC9iPikg4oCiIEluc3RhZ3JhbSBwaG90b3MgPGI-YW5kPC9iPiB2aWRlb3NCqAFBbiB1bmZvcmdldHRhYmxlIDcgd2Vla3MgY29tZXMgdG8gYW4gZW5kLiBUbyBjYXB0YWluICZhbXA7IHNjb3JlIG15IGZpcnN0IFdvcmxkIEN1cCBnb2FsIGxhc3QgbmlnaHQgd2FzIGEgcmVhbGx5IHByb3VkIG1vbWVudCBmb3IgbWUuIEhpZ2hlc3QgcGxhY2UgZmluaXNoIGF0IGEmbmJzcDsuLi5SA2FuZFICb2YiAhABSABYAGgA",
+    "source": "Instagram · declanrice"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "query": "Diwali sweet rice flour jaggery sesame deep fried recipe",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&gl=in&hl=en&sxsrf=APpeQnsyNAec6NJQa-IFqXEBO9tacGBwrA:1790967977200&q=Diwali+sweet+rice+flour+jaggery+sesame+deep+fried+recipe&sa=X&ved=2ahUKEwi63NbQg5yXAxWrlWoFHftgKLgQ1QJ6BAhSEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=Diwali+sweet+rice+flour+jaggery+sesame+deep+fried+recipe"
+   },
+   {
+    "block_position": 1,
+    "query": "RICE methodology product",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&gl=in&hl=en&sxsrf=APpeQnsyNAec6NJQa-IFqXEBO9tacGBwrA:1790967977200&q=RICE+methodology+product&sa=X&ved=2ahUKEwi63NbQg5yXAxWrlWoFHftgKLgQ1QJ6BAhYEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=RICE+methodology+product"
+   },
+   {
+    "block_position": 1,
+    "query": "Where does rice come from and How is it grown",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&gl=in&hl=en&sxsrf=APpeQnsyNAec6NJQa-IFqXEBO9tacGBwrA:1790967977200&q=Where+does+rice+come+from+and+How+is+it+grown&sa=X&ved=2ahUKEwi63NbQg5yXAxWrlWoFHftgKLgQ1QJ6BAhQEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=Where+does+rice+come+from+and+How+is+it+grown"
+   },
+   {
+    "block_position": 1,
+    "query": "Is rice a seed or grain",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&gl=in&hl=en&sxsrf=APpeQnsyNAec6NJQa-IFqXEBO9tacGBwrA:1790967977200&q=Is+rice+a+seed+or+grain&sa=X&ved=2ahUKEwi63NbQg5yXAxWrlWoFHftgKLgQ1QJ6BAhOEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=Is+rice+a+seed+or+grain"
+   },
+   {
+    "block_position": 1,
+    "query": "RICE framework examples",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&gl=in&hl=en&sxsrf=APpeQnsyNAec6NJQa-IFqXEBO9tacGBwrA:1790967977200&q=RICE+framework+examples&sa=X&ved=2ahUKEwi63NbQg5yXAxWrlWoFHftgKLgQ1QJ6BAhNEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=RICE+framework+examples"
+   },
+   {
+    "block_position": 1,
+    "query": "About rice",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&gl=in&hl=en&sxsrf=APpeQnsyNAec6NJQa-IFqXEBO9tacGBwrA:1790967977200&q=About+rice&sa=X&ved=2ahUKEwi63NbQg5yXAxWrlWoFHftgKLgQ1QJ6BAhVEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=About+rice"
+   }
+  ],
+  "pagination": {
+   "current": 1
+  },
+  "serpapi_pagination": {
+   "current": 1
+  }
+ }
+}

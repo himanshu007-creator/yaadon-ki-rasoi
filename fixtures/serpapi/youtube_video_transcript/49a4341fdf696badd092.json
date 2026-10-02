@@ -1,0 +1,930 @@
+{
+ "engine": "youtube_video_transcript",
+ "params": {
+  "v": "nzI8yYDUgCY",
+  "language_code": "hi"
+ },
+ "recordedAt": "2026-10-02T19:21:06.483Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac0041d12eb142d16ed9a76",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/MpiUrfyC3Y7Smu2DoDNO8sNALd8pj4LkJBfJ4bqNuTs/6ac0041d12eb142d16ed9a76.md",
+   "created_at": "2026-10-02 19:21:01 UTC",
+   "processed_at": "2026-10-02 19:21:01 UTC",
+   "youtube_video_transcript_url": "https://www.youtube.com/watch?v=nzI8yYDUgCY",
+   "total_time_taken": 5.31
+  },
+  "search_parameters": {
+   "engine": "youtube_video_transcript",
+   "v": "nzI8yYDUgCY",
+   "language_code": "hi"
+  },
+  "transcript": [
+   {
+    "start_ms": 820,
+    "end_ms": 3440,
+    "snippet": "[Music]",
+    "start_time_text": "0:00",
+    "start_time_label": "0:00"
+   },
+   {
+    "start_ms": 3440,
+    "end_ms": 7560,
+    "snippet": "hello friends welcome to Madrid smell in",
+    "start_time_text": "0:03",
+    "start_time_label": "0:03"
+   },
+   {
+    "start_ms": 7560,
+    "end_ms": 9990,
+    "snippet": "a gravimetric Oh - Pandy hakalo sweet",
+    "start_time_text": "0:07",
+    "start_time_label": "0:07"
+   },
+   {
+    "start_ms": 9990,
+    "end_ms": 11960,
+    "snippet": "address on every Pond Road in patois",
+    "start_time_text": "0:09",
+    "start_time_label": "0:09"
+   },
+   {
+    "start_ms": 11960,
+    "end_ms": 14910,
+    "snippet": "qunari Elan panic a love poem of Italy a",
+    "start_time_text": "0:11",
+    "start_time_label": "0:11"
+   },
+   {
+    "start_ms": 14910,
+    "end_ms": 17880,
+    "snippet": "dress ascend a la veta co corpo anaconda",
+    "start_time_text": "0:14",
+    "start_time_label": "0:14"
+   },
+   {
+    "start_ms": 17880,
+    "end_ms": 20670,
+    "snippet": "a dresser a rumba cambiar che Adrian",
+    "start_time_text": "0:17",
+    "start_time_label": "0:17"
+   },
+   {
+    "start_ms": 20670,
+    "end_ms": 22320,
+    "snippet": "deputies address on try went wrong Laura",
+    "start_time_text": "0:20",
+    "start_time_label": "0:20"
+   },
+   {
+    "start_ms": 22320,
+    "end_ms": 23789,
+    "snippet": "you came on a complaint a one day",
+    "start_time_text": "0:22",
+    "start_time_label": "0:22"
+   },
+   {
+    "start_ms": 23789,
+    "end_ms": 26099,
+    "snippet": "address appear in deep orden de address",
+    "start_time_text": "0:23",
+    "start_time_label": "0:23"
+   },
+   {
+    "start_ms": 26099,
+    "end_ms": 27840,
+    "snippet": "apparent de pochomil correct a verdict",
+    "start_time_text": "0:26",
+    "start_time_label": "0:26"
+   },
+   {
+    "start_ms": 27840,
+    "end_ms": 29490,
+    "snippet": "on de Namur ender ender vicia fall upon",
+    "start_time_text": "0:27",
+    "start_time_label": "0:27"
+   },
+   {
+    "start_ms": 29490,
+    "end_ms": 31980,
+    "snippet": "a podo one ohm and a oliver in ananda",
+    "start_time_text": "0:29",
+    "start_time_label": "0:29"
+   },
+   {
+    "start_ms": 31980,
+    "end_ms": 34320,
+    "snippet": "pahto a deco canary naman dezer on",
+    "start_time_text": "0:31",
+    "start_time_label": "0:31"
+   },
+   {
+    "start_ms": 34320,
+    "end_ms": 35790,
+    "snippet": "departure say no more tender echo no",
+    "start_time_text": "0:34",
+    "start_time_label": "0:34"
+   },
+   {
+    "start_ms": 35790,
+    "end_ms": 38040,
+    "snippet": "idea no and a passer cynic our ela",
+    "start_time_text": "0:35",
+    "start_time_label": "0:35"
+   },
+   {
+    "start_ms": 38040,
+    "end_ms": 40200,
+    "snippet": "magnae Johan departure se da in",
+    "start_time_text": "0:38",
+    "start_time_label": "0:38"
+   },
+   {
+    "start_ms": 40200,
+    "end_ms": 42450,
+    "snippet": "departure she Aparna a globally arcade",
+    "start_time_text": "0:40",
+    "start_time_label": "0:40"
+   },
+   {
+    "start_ms": 42450,
+    "end_ms": 45120,
+    "snippet": "Arab din TEI demand a gun dark in demand",
+    "start_time_text": "0:42",
+    "start_time_label": "0:42"
+   },
+   {
+    "start_ms": 45120,
+    "end_ms": 46860,
+    "snippet": "Regan Darkrai Pacioretty de on de",
+    "start_time_text": "0:45",
+    "start_time_label": "0:45"
+   },
+   {
+    "start_ms": 46860,
+    "end_ms": 49020,
+    "snippet": "montreuil Stefan a narco Olie our trap a",
+    "start_time_text": "0:46",
+    "start_time_label": "0:46"
+   },
+   {
+    "start_ms": 49020,
+    "end_ms": 50969,
+    "snippet": "chair salaamed Rizzo Mirada Adonal",
+    "start_time_text": "0:49",
+    "start_time_label": "0:49"
+   },
+   {
+    "start_ms": 50969,
+    "end_ms": 53070,
+    "snippet": "abandoned our crap assertion Vanga conga",
+    "start_time_text": "0:50",
+    "start_time_label": "0:50"
+   },
+   {
+    "start_ms": 53070,
+    "end_ms": 54930,
+    "snippet": "a poder essence idiom on a lager Oh",
+    "start_time_text": "0:53",
+    "start_time_label": "0:53"
+   },
+   {
+    "start_ms": 54930,
+    "end_ms": 56370,
+    "snippet": "arrest a Mookie mo animatio",
+    "start_time_text": "0:54",
+    "start_time_label": "0:54"
+   },
+   {
+    "start_ms": 56370,
+    "end_ms": 59039,
+    "snippet": "a la vez por aquí lo passer ACK you Cal",
+    "start_time_text": "0:56",
+    "start_time_label": "0:56"
+   },
+   {
+    "start_ms": 59039,
+    "end_ms": 61109,
+    "snippet": "kilo Velma al gamma dad restored Oliver",
+    "start_time_text": "0:59",
+    "start_time_label": "0:59"
+   },
+   {
+    "start_ms": 61109,
+    "end_ms": 63359,
+    "snippet": "or a kilo passer a salon area dress Oh",
+    "start_time_text": "1:01",
+    "start_time_label": "1:01"
+   },
+   {
+    "start_ms": 63359,
+    "end_ms": 65670,
+    "snippet": "Marone grade Kaka na na ke Ren de capo",
+    "start_time_text": "1:03",
+    "start_time_label": "1:03"
+   },
+   {
+    "start_ms": 65670,
+    "end_ms": 69510,
+    "snippet": "added a nanogram patcher sia hormone an",
+    "start_time_text": "1:05",
+    "start_time_label": "1:05"
+   },
+   {
+    "start_ms": 69510,
+    "end_ms": 71340,
+    "snippet": "takuna retinal a Lhasa suit on Parnell",
+    "start_time_text": "1:09",
+    "start_time_label": "1:09"
+   },
+   {
+    "start_ms": 71340,
+    "end_ms": 74430,
+    "snippet": "guruvar cerca llamando or tissue paper",
+    "start_time_text": "1:11",
+    "start_time_label": "1:11"
+   },
+   {
+    "start_ms": 74430,
+    "end_ms": 76740,
+    "snippet": "Alanna wander to kneel on drama vs allah",
+    "start_time_text": "1:14",
+    "start_time_label": "1:14"
+   },
+   {
+    "start_ms": 76740,
+    "end_ms": 80070,
+    "snippet": "khair a crazed caja Mauricio vector Y go",
+    "start_time_text": "1:16",
+    "start_time_label": "1:16"
+   },
+   {
+    "start_ms": 80070,
+    "end_ms": 82400,
+    "snippet": "and open-ended and arrows ninja Kyoto",
+    "start_time_text": "1:20",
+    "start_time_label": "1:20"
+   },
+   {
+    "start_ms": 82400,
+    "end_ms": 85350,
+    "snippet": "Yuri ruining show fantasy la vecina",
+    "start_time_text": "1:22",
+    "start_time_label": "1:22"
+   },
+   {
+    "start_ms": 85350,
+    "end_ms": 88259,
+    "snippet": "in demand read Kyle itani Domo tada par",
+    "start_time_text": "1:25",
+    "start_time_label": "1:25"
+   },
+   {
+    "start_ms": 88259,
+    "end_ms": 91799,
+    "snippet": "de Klerk Oh No Yuri Dave and/or miksa",
+    "start_time_text": "1:28",
+    "start_time_label": "1:28"
+   },
+   {
+    "start_ms": 91799,
+    "end_ms": 94500,
+    "snippet": "Darla Martita nella poder Panama curried",
+    "start_time_text": "1:31",
+    "start_time_label": "1:31"
+   },
+   {
+    "start_ms": 94500,
+    "end_ms": 97110,
+    "snippet": "a nollie la causa - conga a la vez una",
+    "start_time_text": "1:34",
+    "start_time_label": "1:34"
+   },
+   {
+    "start_ms": 97110,
+    "end_ms": 102840,
+    "snippet": "caja poor Jolla Del over C R Chema Nam",
+    "start_time_text": "1:37",
+    "start_time_label": "1:37"
+   },
+   {
+    "start_ms": 102840,
+    "end_ms": 104610,
+    "snippet": "Oh Quentin Alan I he's on Ahmad ameno",
+    "start_time_text": "1:42",
+    "start_time_label": "1:42"
+   },
+   {
+    "start_ms": 104610,
+    "end_ms": 107340,
+    "snippet": "meal a tren de ma de marbre mix is our",
+    "start_time_text": "1:44",
+    "start_time_label": "1:44"
+   },
+   {
+    "start_ms": 107340,
+    "end_ms": 110610,
+    "snippet": "Lisette a Nala powder pnina border pony",
+    "start_time_text": "1:47",
+    "start_time_label": "1:47"
+   },
+   {
+    "start_ms": 110610,
+    "end_ms": 114630,
+    "snippet": "Jersey Chicana yo a lot er Seca promo yo",
+    "start_time_text": "1:50",
+    "start_time_label": "1:50"
+   },
+   {
+    "start_ms": 114630,
+    "end_ms": 117659,
+    "snippet": "o de mi vida y de l'air dezhkin Gemma or",
+    "start_time_text": "1:54",
+    "start_time_label": "1:54"
+   },
+   {
+    "start_ms": 117659,
+    "end_ms": 121140,
+    "snippet": "tbsp Paula Corona Zetas podo medial",
+    "start_time_text": "1:57",
+    "start_time_label": "1:57"
+   },
+   {
+    "start_ms": 121140,
+    "end_ms": 125070,
+    "snippet": "amenda our summa Oh Tara hae na mo na na",
+    "start_time_text": "2:01",
+    "start_time_label": "2:01"
+   },
+   {
+    "start_ms": 125070,
+    "end_ms": 127409,
+    "snippet": "Lord Ram our cierto addict Juan de mundo",
+    "start_time_text": "2:05",
+    "start_time_label": "2:05"
+   },
+   {
+    "start_ms": 127409,
+    "end_ms": 129179,
+    "snippet": "Granville no mondo sorry on Oliver's",
+    "start_time_text": "2:07",
+    "start_time_label": "2:07"
+   },
+   {
+    "start_ms": 129179,
+    "end_ms": 131970,
+    "snippet": "okay Tom and Eva English nail lab - Nami",
+    "start_time_text": "2:09",
+    "start_time_label": "2:09"
+   },
+   {
+    "start_ms": 131970,
+    "end_ms": 133310,
+    "snippet": "and a couple our CEO and Ray",
+    "start_time_text": "2:11",
+    "start_time_label": "2:11"
+   },
+   {
+    "start_ms": 133310,
+    "end_ms": 135440,
+    "snippet": "the capelin Domo Adisa Paulo one",
+    "start_time_text": "2:13",
+    "start_time_label": "2:13"
+   },
+   {
+    "start_ms": 135440,
+    "end_ms": 137930,
+    "snippet": "rockville maryland conga upon de Ciriaco",
+    "start_time_text": "2:15",
+    "start_time_label": "2:15"
+   },
+   {
+    "start_ms": 137930,
+    "end_ms": 140720,
+    "snippet": "arrest a lama tsongkhapa you panella na",
+    "start_time_text": "2:17",
+    "start_time_label": "2:17"
+   },
+   {
+    "start_ms": 140720,
+    "end_ms": 142970,
+    "snippet": "moacyr combos nor dram sob trace a coma",
+    "start_time_text": "2:20",
+    "start_time_label": "2:20"
+   },
+   {
+    "start_ms": 142970,
+    "end_ms": 147170,
+    "snippet": "cura de areco polat a nice friend a set",
+    "start_time_text": "2:22",
+    "start_time_label": "2:22"
+   },
+   {
+    "start_ms": 147170,
+    "end_ms": 151069,
+    "snippet": "a default wrecker Echo Park rend America",
+    "start_time_text": "2:27",
+    "start_time_label": "2:27"
+   },
+   {
+    "start_ms": 151069,
+    "end_ms": 153440,
+    "snippet": "and a dos y ou R Panna llamando very",
+    "start_time_text": "2:31",
+    "start_time_label": "2:31"
+   },
+   {
+    "start_ms": 153440,
+    "end_ms": 156019,
+    "snippet": "petty conga a dashing to see electrician",
+    "start_time_text": "2:33",
+    "start_time_label": "2:33"
+   },
+   {
+    "start_ms": 156019,
+    "end_ms": 158750,
+    "snippet": "Evandro Marty to meet Amano to lodge",
+    "start_time_text": "2:36",
+    "start_time_label": "2:36"
+   },
+   {
+    "start_ms": 158750,
+    "end_ms": 159530,
+    "snippet": "conga",
+    "start_time_text": "2:38",
+    "start_time_label": "2:38"
+   },
+   {
+    "start_ms": 159530,
+    "end_ms": 161540,
+    "snippet": "you need a London a Mukunda governor",
+    "start_time_text": "2:39",
+    "start_time_label": "2:39"
+   },
+   {
+    "start_ms": 161540,
+    "end_ms": 167209,
+    "snippet": "mark oh no pause radiation pot ready to",
+    "start_time_text": "2:41",
+    "start_time_label": "2:41"
+   },
+   {
+    "start_ms": 167209,
+    "end_ms": 169790,
+    "snippet": "condemn Oh sacré Pakistan illa wus Ning",
+    "start_time_text": "2:47",
+    "start_time_label": "2:47"
+   },
+   {
+    "start_ms": 169790,
+    "end_ms": 171799,
+    "snippet": "enough in de madre currency published",
+    "start_time_text": "2:49",
+    "start_time_label": "2:49"
+   },
+   {
+    "start_ms": 171799,
+    "end_ms": 173810,
+    "snippet": "now papi no ready a gala Kuriyama",
+    "start_time_text": "2:51",
+    "start_time_label": "2:51"
+   },
+   {
+    "start_ms": 173810,
+    "end_ms": 176480,
+    "snippet": "Konerko and it's Nepal and radiation art",
+    "start_time_text": "2:53",
+    "start_time_label": "2:53"
+   },
+   {
+    "start_ms": 176480,
+    "end_ms": 179660,
+    "snippet": "o murtopo do or no no hace una in de",
+    "start_time_text": "2:56",
+    "start_time_label": "2:56"
+   },
+   {
+    "start_ms": 179660,
+    "end_ms": 182500,
+    "snippet": "Madre Kereama Cuyler Kevon Dalai pudo",
+    "start_time_text": "2:59",
+    "start_time_label": "2:59"
+   },
+   {
+    "start_ms": 182500,
+    "end_ms": 187430,
+    "snippet": "equate la Ora tablespoon a pour away",
+    "start_time_text": "3:02",
+    "start_time_label": "3:02"
+   },
+   {
+    "start_ms": 187430,
+    "end_ms": 190099,
+    "snippet": "Karl teaspoon polar cuckoo body when",
+    "start_time_text": "3:07",
+    "start_time_label": "3:07"
+   },
+   {
+    "start_ms": 190099,
+    "end_ms": 192019,
+    "snippet": "they say teeter general a calendar with",
+    "start_time_text": "3:10",
+    "start_time_label": "3:10"
+   },
+   {
+    "start_ms": 192019,
+    "end_ms": 195830,
+    "snippet": "Rana he puts our crop already reaches",
+    "start_time_text": "3:12",
+    "start_time_label": "3:12"
+   },
+   {
+    "start_ms": 195830,
+    "end_ms": 198950,
+    "snippet": "semester off Piniella off Panetta",
+    "start_time_text": "3:15",
+    "start_time_label": "3:15"
+   },
+   {
+    "start_ms": 198950,
+    "end_ms": 201829,
+    "snippet": "hamachi collar a similar adorned a pond",
+    "start_time_text": "3:18",
+    "start_time_label": "3:18"
+   },
+   {
+    "start_ms": 201829,
+    "end_ms": 204489,
+    "snippet": "Okajima hula set a calendar widget area",
+    "start_time_text": "3:21",
+    "start_time_label": "3:21"
+   },
+   {
+    "start_ms": 204489,
+    "end_ms": 207859,
+    "snippet": "worker India Mouse 89 Locke Alan David",
+    "start_time_text": "3:24",
+    "start_time_label": "3:24"
+   },
+   {
+    "start_ms": 207859,
+    "end_ms": 213650,
+    "snippet": "Tutera that one off financing elimo of a",
+    "start_time_text": "3:27",
+    "start_time_label": "3:27"
+   },
+   {
+    "start_ms": 213650,
+    "end_ms": 218540,
+    "snippet": "combo do yo ando conjugate piero el",
+    "start_time_text": "3:33",
+    "start_time_label": "3:33"
+   },
+   {
+    "start_ms": 218540,
+    "end_ms": 221690,
+    "snippet": "namaz attach a rumba tanya or Corrado",
+    "start_time_text": "3:38",
+    "start_time_label": "3:38"
+   },
+   {
+    "start_ms": 221690,
+    "end_ms": 226940,
+    "snippet": "add another Bambaataa corporator lead to",
+    "start_time_text": "3:41",
+    "start_time_label": "3:41"
+   },
+   {
+    "start_ms": 226940,
+    "end_ms": 228530,
+    "snippet": "worsening Anna in the Madrid Cano",
+    "start_time_text": "3:46",
+    "start_time_label": "3:46"
+   },
+   {
+    "start_ms": 228530,
+    "end_ms": 233720,
+    "snippet": "sorry RK y pod respect mouth AI j xi del",
+    "start_time_text": "3:48",
+    "start_time_label": "3:48"
+   },
+   {
+    "start_ms": 233720,
+    "end_ms": 236600,
+    "snippet": "amor patrick llama th e la miel Amanda",
+    "start_time_text": "3:53",
+    "start_time_label": "3:53"
+   },
+   {
+    "start_ms": 236600,
+    "end_ms": 239959,
+    "snippet": "sponge Imani kya murtra Java condom",
+    "start_time_text": "3:56",
+    "start_time_label": "3:56"
+   },
+   {
+    "start_ms": 239959,
+    "end_ms": 240859,
+    "snippet": "Isetta podo",
+    "start_time_text": "3:59",
+    "start_time_label": "3:59"
+   },
+   {
+    "start_ms": 240859,
+    "end_ms": 244040,
+    "snippet": "s played when do Conde loser k na",
+    "start_time_text": "4:00",
+    "start_time_label": "4:00"
+   },
+   {
+    "start_ms": 244040,
+    "end_ms": 245930,
+    "snippet": "alakina Lana Conoco de jtro",
+    "start_time_text": "4:04",
+    "start_time_label": "4:04"
+   },
+   {
+    "start_ms": 245930,
+    "end_ms": 247700,
+    "snippet": "Freddy lebecq whatever La Bella Vita",
+    "start_time_text": "4:05",
+    "start_time_label": "4:05"
+   },
+   {
+    "start_ms": 247700,
+    "end_ms": 250220,
+    "snippet": "podo Yasser are two more moody record a",
+    "start_time_text": "4:07",
+    "start_time_label": "4:07"
+   },
+   {
+    "start_ms": 250220,
+    "end_ms": 252380,
+    "snippet": "dare namitha Pramod a demo Rebecca no",
+    "start_time_text": "4:10",
+    "start_time_label": "4:10"
+   },
+   {
+    "start_ms": 252380,
+    "end_ms": 254060,
+    "snippet": "edema drain damaja",
+    "start_time_text": "4:12",
+    "start_time_label": "4:12"
+   },
+   {
+    "start_ms": 254060,
+    "end_ms": 256190,
+    "snippet": "Varro our economy Bella voce a Papa",
+    "start_time_text": "4:14",
+    "start_time_label": "4:14"
+   },
+   {
+    "start_ms": 256190,
+    "end_ms": 258200,
+    "snippet": "Tevye Popova en Verte o'clock nominal",
+    "start_time_text": "4:16",
+    "start_time_label": "4:16"
+   },
+   {
+    "start_ms": 258200,
+    "end_ms": 260389,
+    "snippet": "alkene Lana Lana que su padre sauce a",
+    "start_time_text": "4:18",
+    "start_time_label": "4:18"
+   },
+   {
+    "start_ms": 260389,
+    "end_ms": 264590,
+    "snippet": "nice applause y yo Rendon Allah he ta na",
+    "start_time_text": "4:20",
+    "start_time_label": "4:20"
+   },
+   {
+    "start_ms": 264590,
+    "end_ms": 266390,
+    "snippet": "mo on donating moon Annette OPA knows if",
+    "start_time_text": "4:24",
+    "start_time_label": "4:24"
+   },
+   {
+    "start_ms": 266390,
+    "end_ms": 267380,
+    "snippet": "we'd open pony",
+    "start_time_text": "4:26",
+    "start_time_label": "4:26"
+   },
+   {
+    "start_ms": 267380,
+    "end_ms": 270470,
+    "snippet": "la illaha knowledge a tiara",
+    "start_time_text": "4:27",
+    "start_time_label": "4:27"
+   },
+   {
+    "start_ms": 270470,
+    "end_ms": 273770,
+    "snippet": "in the paddock Lebanon a la Jara equator",
+    "start_time_text": "4:30",
+    "start_time_label": "4:30"
+   },
+   {
+    "start_ms": 273770,
+    "end_ms": 277100,
+    "snippet": "and akan jadi turn immortal na karoti",
+    "start_time_text": "4:33",
+    "start_time_label": "4:33"
+   },
+   {
+    "start_ms": 277100,
+    "end_ms": 279800,
+    "snippet": "tail for plastic sheet lower still Kaiba",
+    "start_time_text": "4:37",
+    "start_time_label": "4:37"
+   },
+   {
+    "start_ms": 279800,
+    "end_ms": 280730,
+    "snippet": "Giamatti conga",
+    "start_time_text": "4:39",
+    "start_time_label": "4:39"
+   },
+   {
+    "start_ms": 280730,
+    "end_ms": 283580,
+    "snippet": "I'm a titanium of the particular in a",
+    "start_time_text": "4:40",
+    "start_time_label": "4:40"
+   },
+   {
+    "start_ms": 283580,
+    "end_ms": 285350,
+    "snippet": "manga do low road Porter to purge",
+    "start_time_text": "4:43",
+    "start_time_label": "4:43"
+   },
+   {
+    "start_ms": 285350,
+    "end_ms": 290360,
+    "snippet": "epochal Jaco are to this particular",
+    "start_time_text": "4:45",
+    "start_time_label": "4:45"
+   },
+   {
+    "start_ms": 290360,
+    "end_ms": 293000,
+    "snippet": "Canaan pseudo Piniella en abandon medium",
+    "start_time_text": "4:50",
+    "start_time_label": "4:50"
+   },
+   {
+    "start_ms": 293000,
+    "end_ms": 295340,
+    "snippet": "healer Cano porcini note under to laputa",
+    "start_time_text": "4:53",
+    "start_time_label": "4:53"
+   },
+   {
+    "start_ms": 295340,
+    "end_ms": 297920,
+    "snippet": "he no adobo Dyneema la banda china en on",
+    "start_time_text": "4:55",
+    "start_time_label": "4:55"
+   },
+   {
+    "start_ms": 297920,
+    "end_ms": 300500,
+    "snippet": "des Arianna solar cannot oh sorry R K Y",
+    "start_time_text": "4:57",
+    "start_time_label": "4:57"
+   },
+   {
+    "start_ms": 300500,
+    "end_ms": 303440,
+    "snippet": "when am renard Rosetta on on a set a",
+    "start_time_text": "5:00",
+    "start_time_label": "5:00"
+   },
+   {
+    "start_ms": 303440,
+    "end_ms": 306500,
+    "snippet": "porch Erna a dinero multi pure a la",
+    "start_time_text": "5:03",
+    "start_time_label": "5:03"
+   },
+   {
+    "start_ms": 306500,
+    "end_ms": 309640,
+    "snippet": "Konerko no a pueden a lop orange evarro",
+    "start_time_text": "5:06",
+    "start_time_label": "5:06"
+   },
+   {
+    "start_ms": 309640,
+    "end_ms": 312980,
+    "snippet": "yoke on generally male over o Yanna",
+    "start_time_text": "5:09",
+    "start_time_label": "5:09"
+   },
+   {
+    "start_ms": 312980,
+    "end_ms": 320510,
+    "snippet": "maturity Porter la illaha friend",
+    "start_time_text": "5:12",
+    "start_time_label": "5:12"
+   },
+   {
+    "start_ms": 320510,
+    "end_ms": 322930,
+    "snippet": "O'Connell upon dorama Poland even Berkut",
+    "start_time_text": "5:20",
+    "start_time_label": "5:20"
+   },
+   {
+    "start_ms": 322930,
+    "end_ms": 328910,
+    "snippet": "period Elna además de la mama dild",
+    "start_time_text": "5:22",
+    "start_time_label": "5:22"
+   },
+   {
+    "start_ms": 328910,
+    "end_ms": 333470,
+    "snippet": "import a porchetta na y puede or a chica",
+    "start_time_text": "5:28",
+    "start_time_label": "5:28"
+   },
+   {
+    "start_ms": 333470,
+    "end_ms": 336320,
+    "snippet": "me cry Varna Lana lavender cred tera",
+    "start_time_text": "5:33",
+    "start_time_label": "5:33"
+   },
+   {
+    "start_ms": 336320,
+    "end_ms": 338810,
+    "snippet": "naam Lauder super honest su Vienna",
+    "start_time_text": "5:36",
+    "start_time_label": "5:36"
+   },
+   {
+    "start_ms": 338810,
+    "end_ms": 341510,
+    "snippet": "address entire each a rent-a-cop RAC a",
+    "start_time_text": "5:38",
+    "start_time_label": "5:38"
+   },
+   {
+    "start_ms": 341510,
+    "end_ms": 343190,
+    "snippet": "nanogram Marcille a teeter-totter a",
+    "start_time_text": "5:41",
+    "start_time_label": "5:41"
+   },
+   {
+    "start_ms": 343190,
+    "end_ms": 344630,
+    "snippet": "Megiddo direction correcto",
+    "start_time_text": "5:43",
+    "start_time_label": "5:43"
+   },
+   {
+    "start_ms": 344630,
+    "end_ms": 346640,
+    "snippet": "Neela can depend on dressed my pony",
+    "start_time_text": "5:44",
+    "start_time_label": "5:44"
+   },
+   {
+    "start_ms": 346640,
+    "end_ms": 347900,
+    "snippet": "partner overlooking the video",
+    "start_time_text": "5:46",
+    "start_time_label": "5:46"
+   },
+   {
+    "start_ms": 347900,
+    "end_ms": 349940,
+    "snippet": "presentation a madrasah Melky subscriber",
+    "start_time_text": "5:47",
+    "start_time_label": "5:47"
+   },
+   {
+    "start_ms": 349940,
+    "end_ms": 354340,
+    "snippet": "mega now in severe muscle molarity um",
+    "start_time_text": "5:49",
+    "start_time_label": "5:49"
+   }
+  ],
+  "available_transcripts": [
+   {
+    "language_code": "en",
+    "type": "asr",
+    "selected": true,
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&type=asr&v=nzI8yYDUgCY"
+   }
+  ]
+ }
+}

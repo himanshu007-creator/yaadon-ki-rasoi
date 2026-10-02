@@ -1,0 +1,499 @@
+{
+ "engine": "google",
+ "params": {
+  "q": "Gujiya sweet also known as other names",
+  "gl": "in",
+  "hl": "en",
+  "google_domain": "google.co.in",
+  "device": "mobile"
+ },
+ "recordedAt": "2026-10-02T19:13:45.563Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac001fe71b492b66feb35f7",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/OV2hi5Er0y4-adccwB2voQZrA8ZWW1n_Wx8H3IfVOJY/6ac001fe71b492b66feb35f7.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/OV2hi5Er0y4-adccwB2voQZrA8ZWW1n_Wx8H3IfVOJY/6ac001fe71b492b66feb35f7.json_with_pixel_position",
+   "created_at": "2026-10-02 19:11:58 UTC",
+   "processed_at": "2026-10-02 19:11:58 UTC",
+   "google_url": "https://www.google.co.in/search?q=Gujiya+sweet+also+known+as+other+names&oq=Gujiya+sweet+also+known+as+other+names&hl=en&gl=in&sourceid=chrome-mobile&ie=UTF-8",
+   "total_time_taken": 40.04
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Gujiya sweet also known as other names",
+   "google_domain": "google.co.in",
+   "hl": "en",
+   "gl": "in",
+   "device": "mobile"
+  },
+  "search_information": {
+   "query_displayed": "Gujiya sweet also known as other names"
+  },
+  "inline_videos": [
+   {
+    "position": 1,
+    "title": "Ghughra also is known as Karanji and Gujia, is a popular Gujarati Sweet made especially ...",
+    "link": "https://www.facebook.com/Nehacookbook/posts/ghughra-also-is-known-as-karanji-and-gujia-is-a-popular-gujarati-sweet-made-espe/2802628686640564/",
+    "thumbnail": "https://serpapi.com/searches/6ac001fe71b492b66feb35f7/images/CVBV2mdX06Q1Ymh48IOuYydUdqipyyGdJWJt7ewp3Mg.jpeg",
+    "channel": "Nehas Cook Book - Gujarati",
+    "duration": "10:56",
+    "platform": "Facebook",
+    "date": "8 Dec 2020"
+   },
+   {
+    "position": 2,
+    "title": "Gujhia, also known as gujiya, gujia, gughara, edakiya, purukiya, karanji, kajjikayalu, ...",
+    "link": "https://www.facebook.com/budhranikaran/posts/gujhia-also-known-as-gujiya-gujia-gughara-edakiya-purukiya-karanji-kajjikayalu-s/10239364864894088/",
+    "thumbnail": "https://serpapi.com/searches/6ac001fe71b492b66feb35f7/images/OSFyseDZnTpHVlrnoHD9rlJlNJ6Hz199dGghCveoT5s.jpeg",
+    "channel": "Karan Budhrani",
+    "duration": "0:35",
+    "platform": "Facebook",
+    "date": "1 month ago"
+   },
+   {
+    "position": 3,
+    "title": "Ghughra also is known as Karanji and Gujia, is a popular Gujarati Sweet made especially ...",
+    "link": "https://www.facebook.com/100052214515828/videos/ghughra-also-is-known-as-karanji-and-gujia-is-a-popular-gujarati-sweet-made-espe/167269152274252/",
+    "thumbnail": "https://serpapi.com/searches/6ac001fe71b492b66feb35f7/images/IqCirrhLt5_6iAAHG017L6wjIR-3_6biKrcrpGkEX60.jpeg",
+    "channel": "Swati's Kitchen",
+    "duration": "0:21",
+    "platform": "Facebook",
+    "date": "24 Oct 2021",
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSWAHbPD1bLpzoEG9KgSpKX1-WqIADo571a8A"
+   },
+   {
+    "position": 4,
+    "title": "Gujiya Around India | State-Wise Names You Didn't Know [ gujiya, gujiya recipe, holi, ...",
+    "link": "https://www.facebook.com/TimesNowFoodie/posts/gujiya-around-india-state-wise-names-you-didnt-know-gujiya-gujiya-recipe-holi-ho/1461979398632949/",
+    "thumbnail": "https://serpapi.com/searches/6ac001fe71b492b66feb35f7/images/udWpMDTLBg0qOrCkRsKk6IrSwHW0BCjo-IWpgcafno8.jpeg",
+    "channel": "Times Foodie",
+    "duration": "0:41",
+    "platform": "Facebook",
+    "date": "3 Mar 2026"
+   }
+  ],
+  "short_videos": [
+   {
+    "position": 1,
+    "title": "Gujhia, also known as gujiya, gujia, gughara, edakiya, purukiya, karanji, kajjikayalu, ... by Karan Budhrani on Facebook. Play on Facebook. 0:35",
+    "source": "Facebook",
+    "profile_name": "Karan Budhrani",
+    "extensions": [
+     "Karan Budhrani"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "duration": "0:35",
+    "thumbnail": "https://serpapi.com/searches/6ac001fe71b492b66feb35f7/images/nNyITy_ftqpgL7Ddo4STF8qb7eQl7UvKWqFMk7_ICWs.jpeg",
+    "link": "https://www.facebook.com/budhranikaran/posts/gujhia-also-known-as-gujiya-gujia-gughara-edakiya-purukiya-karanji-kajjikayalu-s/10239364864894088/"
+   },
+   {
+    "position": 2,
+    "title": "Gujiya Around India | State-Wise Names You Didn't Know [ gujiya, gujiya recipe, holi, ... by Times Foodie on Facebook. Play on Facebook. 0:41",
+    "source": "Facebook",
+    "profile_name": "Times Foodie",
+    "extensions": [
+     "Times Foodie"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "duration": "0:41",
+    "thumbnail": "https://serpapi.com/searches/6ac001fe71b492b66feb35f7/images/0OSA5yQzm8zOL7DghWvM2DHMDEfjWx-UIZMtlTnTcGk.jpeg",
+    "link": "https://www.facebook.com/TimesNowFoodie/posts/gujiya-around-india-state-wise-names-you-didnt-know-gujiya-gujiya-recipe-holi-ho/1461979398632949/"
+   },
+   {
+    "position": 3,
+    "title": "Ghughra also is known as Karanji and Gujia, is a popular Gujarati Sweet made especially ... by Swati's Kitchen on Facebook. Play on Facebook. 0:21",
+    "source": "Facebook",
+    "profile_name": "Swati's Kitchen",
+    "extensions": [
+     "Swati's Kitchen"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "duration": "0:21",
+    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS1eTz0UWAFk9F0PfPF_FTn01Ja-Y9mVlBOaw",
+    "thumbnail": "https://serpapi.com/searches/6ac001fe71b492b66feb35f7/images/lFMO0XiGNCHodiA15S0-NOjYjqyxmcnLcCEFyUe_pf0.jpeg",
+    "link": "https://www.facebook.com/100052214515828/videos/ghughra-also-is-known-as-karanji-and-gujia-is-a-popular-gujarati-sweet-made-espe/167269152274252/"
+   },
+   {
+    "position": 4,
+    "title": "Gujhia, also known as Gughara, Pedakiya, Purukiya, Karanji, Kajjikayalu, Somas, and Karjikayi by Cooking Desi🫶🍛 on Instagram. Play on Instagram. 1:35",
+    "source": "Instagram",
+    "profile_name": "Cooking Desi🫶🍛",
+    "extensions": [
+     "Cooking Desi🫶🍛"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "duration": "1:35",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgjMZmj5qiX8IgD-ll_LHQ3qRzG6ls8vYPj7VCT-cL3FPMqWRjPkY3KR0&s=10",
+    "link": "https://www.instagram.com/reel/DHJCPbmzPOd/"
+   },
+   {
+    "position": 5,
+    "title": "Gujhia, also known as gujiya, gujia, gughara, edakiya, purukiya, karanji, kajjikayalu, ... by Karan Budhrani on Facebook. Play on Facebook. 0:35",
+    "source": "Facebook",
+    "profile_name": "Karan Budhrani",
+    "extensions": [
+     "Karan Budhrani"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "duration": "0:35",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRwO6AEKtdmPulQAHquaSqBwF1cMYYQ0bwLnGrtBipYz0E-I4aRRl3R30&s=10",
+    "link": "https://www.facebook.com/budhranikaran/videos/gujhia-also-known-as-gujiya-gujia-gughara-edakiya-purukiya-karanji-kajjikayalu-s/1849565779748535/"
+   },
+   {
+    "position": 6,
+    "title": "Interesting fact- A gujiya (Hindi: गुजिया), (also called gujhia, perukiya) is a sweet deep-fried ... by Kusum's Kitchen on Facebook. Play on Facebook. 0:06",
+    "source": "Facebook",
+    "profile_name": "Kusum's Kitchen",
+    "extensions": [
+     "Kusum's Kitchen"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "duration": "0:06",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0KWkuMirIhr5rPkfjIT1dN5gaxgNidU3gPVC4SePru2jj484Uh8JIEA0&s=10",
+    "link": "https://www.facebook.com/kitchenkusums/videos/interesting-fact-a-gujiya-hindi-%E0%A4%97%E0%A5%81%E0%A4%9C%E0%A4%BF%E0%A4%AF%E0%A4%BE-also-called-gujhia-perukiya-is-a-sweet-de/2271857309560787/"
+   },
+   {
+    "position": 7,
+    "title": "Gujiya has many different names in different parts of the country. However, one thing remains constant by RajaSweets on Facebook. Play on Facebook. 0:08",
+    "source": "Facebook",
+    "profile_name": "RajaSweets",
+    "extensions": [
+     "RajaSweets"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "duration": "0:08",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnrI1-bAlgAwX3PYp2MtcN7mkcvS5_voTL6qUU5N-CpkV-Wo-SzSTBUzs&s=10",
+    "link": "https://www.facebook.com/RajaSweetsModinagar/videos/gujiya-has-many-different-names/1533796346795459/"
+   },
+   {
+    "position": 8,
+    "title": "Legends say, many Indian desserts are actually similar to each other, such as Gujiya and ... by Papa Samar | Food Critic  🧿🇮🇳 on Instagram. Play on Instagram. 1:00",
+    "source": "Instagram",
+    "profile_name": "Papa Samar | Food Critic  🧿🇮🇳",
+    "extensions": [
+     "Papa Samar | Food Critic  🧿🇮🇳"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "duration": "1:00",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjNdpzNmQX7P99i0DFTy1B_ntgVULzMTvNHvpH_G6_OFUpq1T2aq0pkRo&s=10",
+    "link": "https://www.instagram.com/reel/DEZWUpJzX-x/?hl=en"
+   },
+   {
+    "position": 9,
+    "title": "State-Wise Names You Didn't Know [ gujiya, gujiya recipe, holi, holi reels, holi 2026, ... by Times Foodie on Instagram. Play on Instagram. 0:40",
+    "source": "Instagram",
+    "profile_name": "Times Foodie",
+    "extensions": [
+     "Times Foodie"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "duration": "0:40",
+    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQmIA1g8vx2N8DGaQ-EEzWDGepLe-a_hh759A",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYGZhdvyT1A4nObLSafrjc5njanrpu7_2VKqHliC-VcMVzSKeN1bSWDUM&s=10",
+    "link": "https://www.instagram.com/reel/DVdC2TUkVG8/?hl=en"
+   },
+   {
+    "position": 10,
+    "title": "Gujiya Around India | State-Wise Names You Didn't Know [ gujiya, gujiya recipe, holi, ... by Times Foodie on Facebook. Play on Facebook. 0:41",
+    "source": "Facebook",
+    "profile_name": "Times Foodie",
+    "extensions": [
+     "Times Foodie"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "duration": "0:41",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXiKms89jxU8RLxqiaoFN_CT6I0XOwbtnvAHc_pZ_rGC1aSR0KqA8owA&s=10",
+    "link": "https://www.facebook.com/TimesNowFoodie/videos/gujiya-around-india-state-wise-names-you-didnt-know-gujiya-gujiya-recipe-holi-ho/790215753641510/"
+   }
+  ],
+  "related_questions": [
+   {
+    "question": "What is the name of the festival associated with gujiya?",
+    "type": "ai_overview",
+    "page_token": "P9InJXicHdBdboIwAADg7DI-Kj_iMhOziIKKo2h_sS8LFLRKLXWyVX3bXXaqnWbJviN83z_qqJvfJy67zlzHg4G1tn9o24Oq-6LtH_WguN61GIhCqbIQzXj0PHJf92ISXW04a224JcbQOXQQ4xuWc5BF7q1WEPETeCAWbNDR1URLC3U8S51AAlrdgCcVJdSkDzFEXpcTGib1uenIXIFKUQ4oXUMn9mvSnekiyKAKPzlxDXKCWYHDXdo0Dj-r9RuVq5J0-zKXF-FLRlWoYQSuxUOeUi91tyz5IDH0sA9tydxVuaguKRYWMWMLPEWxYyCOYilwesMzx9v5QGE6HWYsWYIm1otjEsIluGeME5gnBkc8qmM-Kp0kzxbdvYpfWNUEDSLVCmuje3vxNfF7_2OT9_25G5uP9vAHoRB5iw",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=P9InJXicHdBdboIwAADg7DI-Kj_iMhOziIKKo2h_sS8LFLRKLXWyVX3bXXaqnWbJviN83z_qqJvfJy67zlzHg4G1tn9o24Oq-6LtH_WguN61GIhCqbIQzXj0PHJf92ISXW04a224JcbQOXQQ4xuWc5BF7q1WEPETeCAWbNDR1URLC3U8S51AAlrdgCcVJdSkDzFEXpcTGib1uenIXIFKUQ4oXUMn9mvSnekiyKAKPzlxDXKCWYHDXdo0Dj-r9RuVq5J0-zKXF-FLRlWoYQSuxUOeUi91tyz5IDH0sA9tydxVuaguKRYWMWMLPEWxYyCOYilwesMzx9v5QGE6HWYsWYIm1otjEsIluGeME5gnBkc8qmM-Kp0kzxbdvYpfWNUEDSLVCmuje3vxNfF7_2OT9_25G5uP9vAHoRB5iw",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpYVkJWME5rUjJ4TGVYTnFXazFhZW1KWFNsOTJPRjlIY1RKcFduTjNTRnBMY1hscGJUZFlkelZGTTBJM1pUSlJTV2hLZFRCUUxUbDRURlZyYlRFMlQxSk5kWEJDTjBKb1psOWFVRVJpZEZSTVprNVVkMlJvT0ZaV1p4SVhTbEZNUVdGeE16Rk1MVFpqYzJWTlVEZzVZa2MyUVdjYUlrRkVjM0k1WmxOV01XSnZkalJrVW5GeVl6QnZhME55Y1VseE1uSm9iVGgwWmxFIiwiZmN2IjoiMyIsImVpIjoiSlFMQWFxMzFMLTZjc2VNUDg5Ykc2QWciLCJxYyI6IkNpWm5kV3BwZVdFZ2MzZGxaWFFnWVd4emJ5QnJibTkzYmlCaGN5QnZkR2hsY2lCdVlXMWxjeEFBZlpEMkRUOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbmFtZSBvZiB0aGUgZmVzdGl2YWwgYXNzb2NpYXRlZCB3aXRoIGd1aml5YT8iLCJsayI6IkdoUm5kV3BwZVdFZ1ptVnpkR2wyWVd3Z2JtRnRaUSIsImJzIjoiYzJXUFBRdkNVQXhGY1gyVGc0ZzhITExxcEU1dUxrTFIwY1U1MkxTTnRPLVZKclg2Ny0wbnRyaGRrcFBEamJtWjR6MUJCUmJRaE1CaFJ1Q2pOa2NreWk5TUFVWDhnMUVwaElvMWdiaDg4Z2RQaDZWZGRQR0hOdmZtYkxhdEV3c0M4YldRM3BqbEtVbGpEc29uRnFnTVVoR3BESmJ4ckxOY1I1YW1qdm9jOXJzT2daQWxxWDNzNE9KQ3JydXNyZTBCYmdadXdwbkFiQ2F1YnNrdUxpaGtjdHFhaHJlc1hmVnZfV0h6MlJjIiwiaWQiOiJmY19KUUxBYXEzMUwtNmNzZU1QODliRzZBZ180In0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpYVkJWME5rUjJ4TGVYTnFXazFhZW1KWFNsOTJPRjlIY1RKcFduTjNTRnBMY1hscGJUZFlkelZGTTBJM1pUSlJTV2hLZFRCUUxUbDRURlZyYlRFMlQxSk5kWEJDTjBKb1psOWFVRVJpZEZSTVprNVVkMlJvT0ZaV1p4SVhTbEZNUVdGeE16Rk1MVFpqYzJWTlVEZzVZa2MyUVdjYUlrRkVjM0k1WmxOV01XSnZkalJrVW5GeVl6QnZhME55Y1VseE1uSm9iVGgwWmxFIiwiZmN2IjoiMyIsImVpIjoiSlFMQWFxMzFMLTZjc2VNUDg5Ykc2QWciLCJxYyI6IkNpWm5kV3BwZVdFZ2MzZGxaWFFnWVd4emJ5QnJibTkzYmlCaGN5QnZkR2hsY2lCdVlXMWxjeEFBZlpEMkRUOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbmFtZSBvZiB0aGUgZmVzdGl2YWwgYXNzb2NpYXRlZCB3aXRoIGd1aml5YT8iLCJsayI6IkdoUm5kV3BwZVdFZ1ptVnpkR2wyWVd3Z2JtRnRaUSIsImJzIjoiYzJXUFBRdkNVQXhGY1gyVGc0ZzhITExxcEU1dUxrTFIwY1U1MkxTTnRPLVZKclg2Ny0wbnRyaGRrcFBEamJtWjR6MUJCUmJRaE1CaFJ1Q2pOa2NreWk5TUFVWDhnMUVwaElvMWdiaDg4Z2RQaDZWZGRQR0hOdmZtYkxhdEV3c0M4YldRM3BqbEtVbGpEc29uRnFnTVVoR3BESmJ4ckxOY1I1YW1qdm9jOXJzT2daQWxxWDNzNE9KQ3JydXNyZTBCYmdadXdwbkFiQ2F1YnNrdUxpaGtjdHFhaHJlc1hmVnZfV0h6MlJjIiwiaWQiOiJmY19KUUxBYXEzMUwtNmNzZU1QODliRzZBZ180In0%3D"
+   },
+   {
+    "question": "What are some examples of Gujarati sweets?",
+    "type": "ai_overview",
+    "page_token": "MNA7jHicHdDPboIwHADg7GU8agF1mYlZhqMgC3WU_ij2siB_RK3QCVuB295lT7Wn2bLbd_6-vuWpvvzciarrVLuazbTW02PTHGUxzZrpqZ6l7VBnsyyV8pBml9Xyfmk8ltnaabW9abQdglLxM0WRKUh4MV44xyOVQoZXYxT1XudG9VFIexOh7sxjceJYKGDxXICgBQSocCs_wA-bAlQZmqIhsrIDp48gwRDwP7g97M82I8gYA1ftDgkeIo69GPkV97YInMXiUKtXDsSMRwrCy_0E-X5Yky2AeE9NjUIWa7jCGFnUIolsCycfOAsjjBRlDq4yFvRsg8y9RSSLn-Y77nvkgmv35NvUI8OOCxqdqUzNdsG434BR3cCgOK-pjpO8J7zbA-qtSZl9rq3J_9j6rbx2K3Vrjr8N0ni7",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MNA7jHicHdDPboIwHADg7GU8agF1mYlZhqMgC3WU_ij2siB_RK3QCVuB295lT7Wn2bLbd_6-vuWpvvzciarrVLuazbTW02PTHGUxzZrpqZ6l7VBnsyyV8pBml9Xyfmk8ltnaabW9abQdglLxM0WRKUh4MV44xyOVQoZXYxT1XudG9VFIexOh7sxjceJYKGDxXICgBQSocCs_wA-bAlQZmqIhsrIDp48gwRDwP7g97M82I8gYA1ftDgkeIo69GPkV97YInMXiUKtXDsSMRwrCy_0E-X5Yky2AeE9NjUIWa7jCGFnUIolsCycfOAsjjBRlDq4yFvRsg8y9RSSLn-Y77nvkgmv35NvUI8OOCxqdqUzNdsG434BR3cCgOK-pjpO8J7zbA-qtSZl9rq3J_9j6rbx2K3Vrjr8N0ni7",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpYVkJWME5rUjJ4TGVYTnFXazFhZW1KWFNsOTJPRjlIY1RKcFduTjNTRnBMY1hscGJUZFlkelZGTTBJM1pUSlJTV2hLZFRCUUxUbDRURlZyYlRFMlQxSk5kWEJDTjBKb1psOWFVRVJpZEZSTVprNVVkMlJvT0ZaV1p4SVhTbEZNUVdGeE16Rk1MVFpqYzJWTlVEZzVZa2MyUVdjYUlrRkVjM0k1WmxOV01XSnZkalJrVW5GeVl6QnZhME55Y1VseE1uSm9iVGgwWmxFIiwiZmN2IjoiMyIsImVpIjoiSlFMQWFxMzFMLTZjc2VNUDg5Ykc2QWciLCJxYyI6IkNpWm5kV3BwZVdFZ2MzZGxaWFFnWVd4emJ5QnJibTkzYmlCaGN5QnZkR2hsY2lCdVlXMWxjeEFBZlpEMkRUOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgc29tZSBleGFtcGxlcyBvZiBHdWphcmF0aSBzd2VldHM/IiwibGsiOiJHaFJuZFdwaGNtRjBhU0J6ZDJWbGRITWdibUZ0WlEiLCJicyI6ImMyV1BQUXZDVUF4RmNYMlRnNGc4SExMcXBFNXVMa0xSMGNVNTJMU050Ty1WSnJYNjctMG50cmhka3BQRGpibVo0ejFCQlJiUWhNQmhSdUNqTmtja3lpOU1BVVg4ZzFFcGhJbzFnYmg4OGdkUGg2VmRkUEdITnZmbWJMYXRFd3NDOGJXUTNwamxLVWxqRHNvbkZxZ01VaEdwREpieHJMTmNSNWFtanZvYzlyc09nWkFscVgzczRPSkNycnVzcmUwQmJnWnV3cG5BYkNhdWJza3VMaWhrY3RxYWhyZXNYZlZ2X1dIejJSYyIsImlkIjoiZmNfSlFMQWFxMzFMLTZjc2VNUDg5Ykc2QWdfNCJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpYVkJWME5rUjJ4TGVYTnFXazFhZW1KWFNsOTJPRjlIY1RKcFduTjNTRnBMY1hscGJUZFlkelZGTTBJM1pUSlJTV2hLZFRCUUxUbDRURlZyYlRFMlQxSk5kWEJDTjBKb1psOWFVRVJpZEZSTVprNVVkMlJvT0ZaV1p4SVhTbEZNUVdGeE16Rk1MVFpqYzJWTlVEZzVZa2MyUVdjYUlrRkVjM0k1WmxOV01XSnZkalJrVW5GeVl6QnZhME55Y1VseE1uSm9iVGgwWmxFIiwiZmN2IjoiMyIsImVpIjoiSlFMQWFxMzFMLTZjc2VNUDg5Ykc2QWciLCJxYyI6IkNpWm5kV3BwZVdFZ2MzZGxaWFFnWVd4emJ5QnJibTkzYmlCaGN5QnZkR2hsY2lCdVlXMWxjeEFBZlpEMkRUOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgc29tZSBleGFtcGxlcyBvZiBHdWphcmF0aSBzd2VldHM%2FIiwibGsiOiJHaFJuZFdwaGNtRjBhU0J6ZDJWbGRITWdibUZ0WlEiLCJicyI6ImMyV1BQUXZDVUF4RmNYMlRnNGc4SExMcXBFNXVMa0xSMGNVNTJMU050Ty1WSnJYNjctMG50cmhka3BQRGpibVo0ejFCQlJiUWhNQmhSdUNqTmtja3lpOU1BVVg4ZzFFcGhJbzFnYmg4OGdkUGg2VmRkUEdITnZmbWJMYXRFd3NDOGJXUTNwamxLVWxqRHNvbkZxZ01VaEdwREpieHJMTmNSNWFtanZvYzlyc09nWkFscVgzczRPSkNycnVzcmUwQmJnWnV3cG5BYkNhdWJza3VMaWhrY3RxYWhyZXNYZlZ2X1dIejJSYyIsImlkIjoiZmNfSlFMQWFxMzFMLTZjc2VNUDg5Ykc2QWdfNCJ9"
+   },
+   {
+    "question": "What are the top 10 sweet dishes in India?",
+    "type": "ai_overview",
+    "page_token": "gV2qEXicHdDbjqIwAIDhzMt4qRYPG03MZhjOM9Sl0AK92UCLgrSU0SrI3b7LPtU8zU72Bf7k-__8FU3Xfr2Mtdb9bb9YDMMwPyt1FtWcqXnTLYrbs2MLVghRFqzdb39swc8TO9h333z79M0I9z2x0DImKMulI1GKjDxDaQZqrzQ2GTfQREU9sXbcQscfMYHqaOv3MNVD4YpP6johSndevKQ6NzQpMM3xil55CuJSokdpqCEznF-FLZrYqz9CLwAheTWwY_pJAp3kgkwEwnUsnB52MKpkgCOsC36pVTnZIFkGVohvupA7kXjnJxG7e0SE_m7XFRFv5Anc2OX-0c3HqOX3vAuuPEOmXfN3jEczz-wpxIOGEk4Ug-hoieZbZNJRNRFGE7sIiQVVaRtumBM9mbytKOhXVRpYiUXvVcvXEMAHH2Yn9jisZv9_Hn6fpN73V3X-B9Ddheo",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gV2qEXicHdDbjqIwAIDhzMt4qRYPG03MZhjOM9Sl0AK92UCLgrSU0SrI3b7LPtU8zU72Bf7k-__8FU3Xfr2Mtdb9bb9YDMMwPyt1FtWcqXnTLYrbs2MLVghRFqzdb39swc8TO9h333z79M0I9z2x0DImKMulI1GKjDxDaQZqrzQ2GTfQREU9sXbcQscfMYHqaOv3MNVD4YpP6johSndevKQ6NzQpMM3xil55CuJSokdpqCEznF-FLZrYqz9CLwAheTWwY_pJAp3kgkwEwnUsnB52MKpkgCOsC36pVTnZIFkGVohvupA7kXjnJxG7e0SE_m7XFRFv5Anc2OX-0c3HqOX3vAuuPEOmXfN3jEczz-wpxIOGEk4Ug-hoieZbZNJRNRFGE7sIiQVVaRtumBM9mbytKOhXVRpYiUXvVcvXEMAHH2Yn9jisZv9_Hn6fpN73V3X-B9Ddheo",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpYVkJWME5rUjJ4TGVYTnFXazFhZW1KWFNsOTJPRjlIY1RKcFduTjNTRnBMY1hscGJUZFlkelZGTTBJM1pUSlJTV2hLZFRCUUxUbDRURlZyYlRFMlQxSk5kWEJDTjBKb1psOWFVRVJpZEZSTVprNVVkMlJvT0ZaV1p4SVhTbEZNUVdGeE16Rk1MVFpqYzJWTlVEZzVZa2MyUVdjYUlrRkVjM0k1WmxOV01XSnZkalJrVW5GeVl6QnZhME55Y1VseE1uSm9iVGgwWmxFIiwiZmN2IjoiMyIsImVpIjoiSlFMQWFxMzFMLTZjc2VNUDg5Ykc2QWciLCJxYyI6IkNpWm5kV3BwZVdFZ2MzZGxaWFFnWVd4emJ5QnJibTkzYmlCaGN5QnZkR2hsY2lCdVlXMWxjeEFBZlpEMkRUOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCAxMCBzd2VldCBkaXNoZXMgaW4gSW5kaWE/IiwibGsiOiJHaHAwYjNBZ01UQWdhVzVrYVdGdUlITjNaV1YwSUdScGMyaGxjdyIsImJzIjoiYzJXUFBRdkNVQXhGY1gyVGc0ZzhITExxcEU1dUxrTFIwY1U1MkxTTnRPLVZKclg2Ny0wbnRyaGRrcFBEamJtWjR6MUJCUmJRaE1CaFJ1Q2pOa2NreWk5TUFVWDhnMUVwaElvMWdiaDg4Z2RQaDZWZGRQR0hOdmZtYkxhdEV3c0M4YldRM3BqbEtVbGpEc29uRnFnTVVoR3BESmJ4ckxOY1I1YW1qdm9jOXJzT2daQWxxWDNzNE9KQ3JydXNyZTBCYmdadXdwbkFiQ2F1YnNrdUxpaGtjdHFhaHJlc1hmVnZfV0h6MlJjIiwiaWQiOiJmY19KUUxBYXEzMUwtNmNzZU1QODliRzZBZ180In0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpYVkJWME5rUjJ4TGVYTnFXazFhZW1KWFNsOTJPRjlIY1RKcFduTjNTRnBMY1hscGJUZFlkelZGTTBJM1pUSlJTV2hLZFRCUUxUbDRURlZyYlRFMlQxSk5kWEJDTjBKb1psOWFVRVJpZEZSTVprNVVkMlJvT0ZaV1p4SVhTbEZNUVdGeE16Rk1MVFpqYzJWTlVEZzVZa2MyUVdjYUlrRkVjM0k1WmxOV01XSnZkalJrVW5GeVl6QnZhME55Y1VseE1uSm9iVGgwWmxFIiwiZmN2IjoiMyIsImVpIjoiSlFMQWFxMzFMLTZjc2VNUDg5Ykc2QWciLCJxYyI6IkNpWm5kV3BwZVdFZ2MzZGxaWFFnWVd4emJ5QnJibTkzYmlCaGN5QnZkR2hsY2lCdVlXMWxjeEFBZlpEMkRUOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCAxMCBzd2VldCBkaXNoZXMgaW4gSW5kaWE%2FIiwibGsiOiJHaHAwYjNBZ01UQWdhVzVrYVdGdUlITjNaV1YwSUdScGMyaGxjdyIsImJzIjoiYzJXUFBRdkNVQXhGY1gyVGc0ZzhITExxcEU1dUxrTFIwY1U1MkxTTnRPLVZKclg2Ny0wbnRyaGRrcFBEamJtWjR6MUJCUmJRaE1CaFJ1Q2pOa2NreWk5TUFVWDhnMUVwaElvMWdiaDg4Z2RQaDZWZGRQR0hOdmZtYkxhdEV3c0M4YldRM3BqbEtVbGpEc29uRnFnTVVoR3BESmJ4ckxOY1I1YW1qdm9jOXJzT2daQWxxWDNzNE9KQ3JydXNyZTBCYmdadXdwbkFiQ2F1YnNrdUxpaGtjdHFhaHJlc1hmVnZfV0h6MlJjIiwiaWQiOiJmY19KUUxBYXEzMUwtNmNzZU1QODliRzZBZ180In0%3D"
+   },
+   {
+    "question": "What are the sweet ingredients in gujiya?",
+    "type": "ai_overview",
+    "page_token": "ke96d3icHdBdboIwAADg7DI-CkVwiYlZgvwoE0xL20FfllJElLbgYAN52112qp1myb4jfN8_8qqb36epHoau3xjGOI7LS9te5Hkp2uVVG7x_aGEILmXBRbNZP6_BSyW2_ufB3d0PLiRdRz1kpjPtuU5sbDEu1OSfMfJS0wGIyD5vQIp8hriOHiIs2SlED2yhGBFHnmh0ImGdCJKvYnkYz1RCjIPPsy-r4kYjqNiAMc0L3a5IICvsUfdIIxdatItNMaTK8XMgHDbLTuzrHQ6dsHhzdJGVOL-xkACkCxxorsABSrEqFUuKfQc4iXRmIZMThwrKctjYQzITmzYo4ilAfl2-EjK5eebPMRmHRCUzIwCePHlFM3PZ1F4hQbO4SUV9FucquOMw6Y_EtgvlRMhiO6gvgNMaJxllbFxU4mu7Wvx_bt8rNWy6j_byB2HRhFs",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ke96d3icHdBdboIwAADg7DI-CkVwiYlZgvwoE0xL20FfllJElLbgYAN52112qp1myb4jfN8_8qqb36epHoau3xjGOI7LS9te5Hkp2uVVG7x_aGEILmXBRbNZP6_BSyW2_ufB3d0PLiRdRz1kpjPtuU5sbDEu1OSfMfJS0wGIyD5vQIp8hriOHiIs2SlED2yhGBFHnmh0ImGdCJKvYnkYz1RCjIPPsy-r4kYjqNiAMc0L3a5IICvsUfdIIxdatItNMaTK8XMgHDbLTuzrHQ6dsHhzdJGVOL-xkACkCxxorsABSrEqFUuKfQc4iXRmIZMThwrKctjYQzITmzYo4ilAfl2-EjK5eebPMRmHRCUzIwCePHlFM3PZ1F4hQbO4SUV9FucquOMw6Y_EtgvlRMhiO6gvgNMaJxllbFxU4mu7Wvx_bt8rNWy6j_byB2HRhFs",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpYVkJWME5rUjJ4TGVYTnFXazFhZW1KWFNsOTJPRjlIY1RKcFduTjNTRnBMY1hscGJUZFlkelZGTTBJM1pUSlJTV2hLZFRCUUxUbDRURlZyYlRFMlQxSk5kWEJDTjBKb1psOWFVRVJpZEZSTVprNVVkMlJvT0ZaV1p4SVhTbEZNUVdGeE16Rk1MVFpqYzJWTlVEZzVZa2MyUVdjYUlrRkVjM0k1WmxOV01XSnZkalJrVW5GeVl6QnZhME55Y1VseE1uSm9iVGgwWmxFIiwiZmN2IjoiMyIsImVpIjoiSlFMQWFxMzFMLTZjc2VNUDg5Ykc2QWciLCJxYyI6IkNpWm5kV3BwZVdFZ2MzZGxaWFFnWVd4emJ5QnJibTkzYmlCaGN5QnZkR2hsY2lCdVlXMWxjeEFBZlpEMkRUOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHN3ZWV0IGluZ3JlZGllbnRzIGluIGd1aml5YT8iLCJsayI6IkdoaG5kV3BwZVdFZ2MzZGxaWFFnYVc1bmNtVmthV1Z1ZEhNIiwiYnMiOiJjMldQUFF2Q1VBeEZjWDJUZzRnOEhMTHFwRTV1TGtMUjBjVTUyTFNOdE8tVkpyWDY3LTBudHJoZGtwUERqYm1aNHoxQkJSYlFoTUJoUnVDak5rY2t5aTlNQVVYOGcxRXBoSW8xZ2JoODhnZFBoNlZkZFBHSE52Zm1iTGF0RXdzQzhiV1EzcGpsS1VsakRzb25GcWdNVWhHcERKYnhyTE5jUjVhbWp2b2M5cnNPZ1pBbHFYM3M0T0pDcnJ1c3JlMEJiZ1p1d3BuQWJDYXVic2t1TGloa2N0cWFocmVzWGZWdl9XSHoyUmMiLCJpZCI6ImZjX0pRTEFhcTMxTC02Y3NlTVA4OWJHNkFnXzQifQ==",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpYVkJWME5rUjJ4TGVYTnFXazFhZW1KWFNsOTJPRjlIY1RKcFduTjNTRnBMY1hscGJUZFlkelZGTTBJM1pUSlJTV2hLZFRCUUxUbDRURlZyYlRFMlQxSk5kWEJDTjBKb1psOWFVRVJpZEZSTVprNVVkMlJvT0ZaV1p4SVhTbEZNUVdGeE16Rk1MVFpqYzJWTlVEZzVZa2MyUVdjYUlrRkVjM0k1WmxOV01XSnZkalJrVW5GeVl6QnZhME55Y1VseE1uSm9iVGgwWmxFIiwiZmN2IjoiMyIsImVpIjoiSlFMQWFxMzFMLTZjc2VNUDg5Ykc2QWciLCJxYyI6IkNpWm5kV3BwZVdFZ2MzZGxaWFFnWVd4emJ5QnJibTkzYmlCaGN5QnZkR2hsY2lCdVlXMWxjeEFBZlpEMkRUOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHN3ZWV0IGluZ3JlZGllbnRzIGluIGd1aml5YT8iLCJsayI6IkdoaG5kV3BwZVdFZ2MzZGxaWFFnYVc1bmNtVmthV1Z1ZEhNIiwiYnMiOiJjMldQUFF2Q1VBeEZjWDJUZzRnOEhMTHFwRTV1TGtMUjBjVTUyTFNOdE8tVkpyWDY3LTBudHJoZGtwUERqYm1aNHoxQkJSYlFoTUJoUnVDak5rY2t5aTlNQVVYOGcxRXBoSW8xZ2JoODhnZFBoNlZkZFBHSE52Zm1iTGF0RXdzQzhiV1EzcGpsS1VsakRzb25GcWdNVWhHcERKYnhyTE5jUjVhbWp2b2M5cnNPZ1pBbHFYM3M0T0pDcnJ1c3JlMEJiZ1p1d3BuQWJDYXVic2t1TGloa2N0cWFocmVzWGZWdl9XSHoyUmMiLCJpZCI6ImZjX0pRTEFhcTMxTC02Y3NlTVA4OWJHNkFnXzQifQ%3D%3D"
+   }
+  ],
+  "ai_overview": {
+   "page_token": "hloH8niczZVrcuI4EIAPsOdY_yFgGxsCqXJNScaAyVMkIUX-UH4hjF-JZTDOv7nL3mHvsqdZ4QfYDM5k5sfWqsoPtbpbLak_9fe_XNt3_vnj71UUvZErlo3juIWDALtWywhats9qJPENdhm4JDRW31auZPkMdiXbZ5KtJDAGkTjGsqUJugHau8DfNLsGsW4fen191AWYSc2lha4Ra03979aEXbD05fwpDGin9U5alr8YwdZuzIULB_DTAW61ubbQumc1jyqB_7TJCn1BMKAPUD9V_Jo_hOgLH_sQKJn10fkgU4CZBOK6efcz4r07WY0Lpw_iNIZOMbBvj_WxwIrjuJgHzfdhURfUIzpjdr6h4w6g0jtrJytQyjtwbJlweIwPnxuvNphOFVeFRqqtlC2OEaRx2WX145HcI2A9PoAVxp-etQjAXARxH5-PqdRU-VoEXN6R56yJaQZzrB7SD8_axspIf0KyT2z5qc8FI8W0glmwW9rdD3Wm8eGbJvaXz9DDBLCGTvXcQDMtc7FacN_SPt_mO1xfuOxdpFQZ5IAVqWDVfH1wt6rw8aRwrZvWC18C6rBaFRV7mksVdC4HFIUmHT1wpyQr7cQ-pWV6fPPSMITPZQ9yoY4yS6WsO8lkEwTB-ZajkZlnvCjFPPRPPuBYLCwHKpWq2VethL3fBVkGRdriNEcrh3tmG_APY1Oae5l0ANPJxsH8EOtJsihQxdSyCDGnTi5CT-jd80xNaBcNMyUZ3Ba5BGSyv5rUzGWxeET_EIYw3wcni6yYQTkFKtsMcPeoZhEDeZpfCrnb4nyNHxYP6y4lmjAAyV-8DU9i-RlNmVZBzwkMFYhs7OhzIe6IAyO8XXP47s0Yy1zX1Nf4PDSBp_9iMTL-d2gVtQrntaoWLflraCFUg5Z6UBxU0IKBqtajdahVOVqf1qpTtKBaRivZT7FHq6ZW_SpaqISWeooWzuM4g9awFi1ch1Zeq6poVWoVrKlVB7R-o1aJv1OrUsqs7FMtXJs1ri1g41dhE0-3kwFn37540-uNyemb12libyz80wK29KIrTzPdi4VtXsH2JErMiwUVBFeWybxLo83aTrQGiS0ramguCRqOH8R-QyONIFpZYcPXPIswnhsGEqeJywdNUKLnZHbHr8Lu3Vxf9fTu0yay48CR-zjpbWdc7HLdiSxOVy_vHLAm6_Ey8p_em81OMnq8m841dTToDP1dOIM45Lpi52ki3G9FMTbWi-a2ebkbv-zGlhuZHPTckTmJNX2Idtos0K6FHgrnzs3t8HJpYiMNikiXPC-Sm_n6I3YYLzQkCpMo4AkCL5jmt0wzmlZGJAf0ienTBUiBbZpvDDG0hUW2kmh2O_0ev-R4jhf0TpvxcJS8SX2OIX4o8f8CWoVRjw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=hloH8niczZVrcuI4EIAPsOdY_yFgGxsCqXJNScaAyVMkIUX-UH4hjF-JZTDOv7nL3mHvsqdZ4QfYDM5k5sfWqsoPtbpbLak_9fe_XNt3_vnj71UUvZErlo3juIWDALtWywhats9qJPENdhm4JDRW31auZPkMdiXbZ5KtJDAGkTjGsqUJugHau8DfNLsGsW4fen191AWYSc2lha4Ra03979aEXbD05fwpDGin9U5alr8YwdZuzIULB_DTAW61ubbQumc1jyqB_7TJCn1BMKAPUD9V_Jo_hOgLH_sQKJn10fkgU4CZBOK6efcz4r07WY0Lpw_iNIZOMbBvj_WxwIrjuJgHzfdhURfUIzpjdr6h4w6g0jtrJytQyjtwbJlweIwPnxuvNphOFVeFRqqtlC2OEaRx2WX145HcI2A9PoAVxp-etQjAXARxH5-PqdRU-VoEXN6R56yJaQZzrB7SD8_axspIf0KyT2z5qc8FI8W0glmwW9rdD3Wm8eGbJvaXz9DDBLCGTvXcQDMtc7FacN_SPt_mO1xfuOxdpFQZ5IAVqWDVfH1wt6rw8aRwrZvWC18C6rBaFRV7mksVdC4HFIUmHT1wpyQr7cQ-pWV6fPPSMITPZQ9yoY4yS6WsO8lkEwTB-ZajkZlnvCjFPPRPPuBYLCwHKpWq2VethL3fBVkGRdriNEcrh3tmG_APY1Oae5l0ANPJxsH8EOtJsihQxdSyCDGnTi5CT-jd80xNaBcNMyUZ3Ba5BGSyv5rUzGWxeET_EIYw3wcni6yYQTkFKtsMcPeoZhEDeZpfCrnb4nyNHxYP6y4lmjAAyV-8DU9i-RlNmVZBzwkMFYhs7OhzIe6IAyO8XXP47s0Yy1zX1Nf4PDSBp_9iMTL-d2gVtQrntaoWLflraCFUg5Z6UBxU0IKBqtajdahVOVqf1qpTtKBaRivZT7FHq6ZW_SpaqISWeooWzuM4g9awFi1ch1Zeq6poVWoVrKlVB7R-o1aJv1OrUsqs7FMtXJs1ri1g41dhE0-3kwFn37540-uNyemb12libyz80wK29KIrTzPdi4VtXsH2JErMiwUVBFeWybxLo83aTrQGiS0ramguCRqOH8R-QyONIFpZYcPXPIswnhsGEqeJywdNUKLnZHbHr8Lu3Vxf9fTu0yay48CR-zjpbWdc7HLdiSxOVy_vHLAm6_Ey8p_em81OMnq8m841dTToDP1dOIM45Lpi52ki3G9FMTbWi-a2ebkbv-zGlhuZHPTckTmJNX2Idtos0K6FHgrnzs3t8HJpYiMNikiXPC-Sm_n6I3YYLzQkCpMo4AkCL5jmt0wzmlZGJAf0ienTBUiBbZpvDDG0hUW2kmh2O_0ev-R4jhf0TpvxcJS8SX2OIX4o8f8CWoVRjw"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Traditional Gujiya | Tasty & Creamy Indian Dessert | Sweet North Indian Holi Dumplings Recipe",
+    "link": "https://www.youtube.com/watch?v=L9cD7Ejprvk",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAV7wVibpneDDTfLtV7C3YYlW4wXP52bD5bIqXCnzQfjbmOap74xvfeVjHLpleSj_1WyBQ36gr8f7Q1uv42vQwJQ8NR4PGIL79n0so-pugoHfbKfEgoY52Fb99DBKRR9-nECw&ved=2ahUKEwjtm5SGhZyXAxVuTmwGHXOrEY0QtwJ6BAgREAE&uoh=1",
+    "thumbnail": "https://serpapi.com/searches/6ac001fe71b492b66feb35f7/images/FxXolQkI2_ZY82def7mnY1dtQ6gtXmIzbNcO3DHDRgA.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "duration": "3:38",
+    "snippet": "This traditional North Indian Holi dessert … sweet fried dumplings, stuffed with a creamy, nutty filling of khoya (mawa), pistachios, almonds, ...",
+    "about_this_result": {
+     "source": {
+      "description": "This traditional North Indian Holi dessert … sweet fried dumplings, stuffed with a creamy, nutty filling of khoya (mawa), pistachios, almonds, ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjd3VmlicG5lRERUZkx0VjdDM1lZbFc0d1hQNTJiRDViSXFYQ256UWZqYm1PYXA3NHh2ZmVWakhMcGxlU2pfMVd5QlEzNmdyOGY3UTF1djQydlF3SlE4TlI0UEdJTDc5bjBzby1wdWdvSGZiS2ZFZ29ZNTJGYjk5REJLUlI5LW5FQ3cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjd3VmlicG5lRERUZkx0VjdDM1lZbFc0d1hQNTJiRDViSXFYQ256UWZqYm1PYXA3NHh2ZmVWakhMcGxlU2pfMVd5QlEzNmdyOGY3UTF1djQydlF3SlE4TlI0UEdJTDc5bjBzby1wdWdvSGZiS2ZFZ29ZNTJGYjk5REJLUlI5LW5FQ3cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTrBLcRDCfCotarXHml0HW1f2GORVc3vw07gw",
+    "source": "YouTube · Patel Brothers"
+   },
+   {
+    "position": 2,
+    "title": "Tasty Gujiya #food #sweet #gujiya",
+    "link": "https://www.facebook.com/ammakithali/posts/tasty-gujiya-food-sweet-gujiya/1549762133382978/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFXWCguE70QQpj_msdlER55vbBnDZ6luk4mFaDhGiTENwviTzQVvakbEiYrCMQYC_8fR2Qqvlsyffqf6EL6CWnu7nmOQivL5CjnnFMjglPRG-_yP4X3yXOKnquA92d5_IZfozvuNHtghQnM7zWeG_bVOphX6eHi8erVDsfTO08vDaQDrXdAZleLxC66jtIZPVOoU&ved=2ahUKEwjtm5SGhZyXAxVuTmwGHXOrEY0QtwJ6BAgxEAE&uoh=1",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdmZuPuiEaszpMS5vG5ywEM5UdVuxrF2slT6MX53FiYO5TrcjowQ36wQ&s",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "duration": "1:23",
+    "snippet": "Gujiya's outer crust is crispy while the inner filling is made of semolina, khoya, raisins, dry fruits and sugar, is super soft. This makes it a ...",
+    "about_this_result": {
+     "source": {
+      "description": "Gujiya's outer crust is crispy while the inner filling is made of semolina, khoya, raisins, dry fruits and sugar, is super soft. This makes it a ...",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZYV0NndUU3MFFRcGpfbXNkbEVSNTV2YkJuRFo2bHVrNG1GYURoR2lURU53dmlUelFWdmFrYkVpWXJDTVFZQ184ZlIyUXF2bHN5ZmZxZjZFTDZDV251N25tT1Fpdkw1Q2pubkZNamdsUFJHLV95UDRYM3lYT0tucXVBOTJkNV9JWmZvenZ1Tkh0Z2hRbk03eldlR19iVk9waFg2ZUhpOGVyVkRzZlRPMDh2RGFRRHJYZEFabGVMeEM2Nmp0SVpQVk9vVRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZYV0NndUU3MFFRcGpfbXNkbEVSNTV2YkJuRFo2bHVrNG1GYURoR2lURU53dmlUelFWdmFrYkVpWXJDTVFZQ184ZlIyUXF2bHN5ZmZxZjZFTDZDV251N25tT1Fpdkw1Q2pubkZNamdsUFJHLV95UDRYM3lYT0tucXVBOTJkNV9JWmZvenZ1Tkh0Z2hRbk03eldlR19iVk9waFg2ZUhpOGVyVkRzZlRPMDh2RGFRRHJYZEFabGVMeEM2Nmp0SVpQVk9vVRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "source": "Facebook · Amma Ki Thaali"
+   },
+   {
+    "position": 3,
+    "title": "Why Gujiya Is A Popular Holi Dessert: What Makes It Even More Nostalgic Today",
+    "link": "https://cinnamon.kitchen/blogs/recipes/why-gujiya-is-popular-holi-dessert?srsltid=AU7gw4XvZ7QYUkNFVC-_JMWWV94ZprFlCtEG6JlW6x03uHIAteBvLr7b",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxgEB6zswFd8UU_GXI1U68TXzKwsS-2EwioKrW3mRSgA4Yp9ZzmwNPE7E2gacP4Auw1GYS5C2SnNHiKLlM5_4DuxJ0hmE9znTmHt_LiWbT-0SvNCOMyJrQChwiLMKg5ZWmArOdp_OGyU2KBUsoH3joY3pC4uJJc7hfRzW0MpeUT_4QF7qd4-Hn3t4Sv8xLcngeKqOaL0zzXDyzA2ssRrgsjadifWPoB3BRXo9NMV8Ed2A50dJc9Cw0YJozKMstAFvIsJbkV-56P8&ved=2ahUKEwjtm5SGhZyXAxVuTmwGHXOrEY0QFnoECEEQAQ&uoh=1",
+    "displayed_link": "https://cinnamon.kitchen",
+    "favicon": "https://serpapi.com/images/i/UklGRnIBAABXRUJQVlA4IGYBAACQBwCdASocABwAPtE-tFooIigoFAEAGgloAKkm81ZnvDpKs_Hp9Bb8D9VQ2bKFygNsJmozCttWsBs04ijVumaaRwPeUEAA_veAT9qaD3gaLfb4YzLy2odWc_pvrHgaiJGaLoywKqsWba4UU3zVc7EVQvF5NI0EQcpGlR25G7m6BE8amQRFVJ_muXD-94xHNpWHU63md6qS_XwiJDP5_-MIEPC0j3RTtMaXmHVwyo3T7B8ISzGfeDFyuDmA88GUbTOacrn30QlNn-kYIAo5cQm1e9qwDjt59Ehk7RuM3--xhtK5nb8lOupvgbOJnl7w5kGz2udmSbeRST-iLH7N0jXn9--nzzAXbhSkuYvVo8eTNRnQm0j43oO6bjp6D9x_qO5y3kdONXe-2cUbUxk9x_XqjhtPARxws_qBVr_qIuGLAKUwWXPkCbpQIS8Su7eZtHcmpGhxQH2_a7eI0OapUFC5LeNCeAAA.webp",
+    "date": "20 Feb 2026",
+    "snippet": "Traditionally, gujiya is a deep-fried sweet, made from maida shells stuffed with a sweet filling, traditionally made of khoya, dry fruits, and ...",
+    "about_this_result": {
+     "source": {
+      "description": "Traditionally, gujiya is a deep-fried sweet, made from maida shells stuffed with a sweet filling, traditionally made of khoya, dry fruits, and ...",
+      "source_info_link": "https://cinnamon.kitchen/blogs/recipes/why-gujiya-is-popular-holi-dessert?srsltid=AU7gw4XvZ7QYUkNFVC-_JMWWV94ZprFlCtEG6JlW6x03uHIAteBvLr7b",
+      "icon": "https://serpapi.com/images/i/UklGRnIBAABXRUJQVlA4IGYBAACQBwCdASocABwAPtE-tFooIigoFAEAGgloAKkm81ZnvDpKs_Hp9Bb8D9VQ2bKFygNsJmozCttWsBs04ijVumaaRwPeUEAA_veAT9qaD3gaLfb4YzLy2odWc_pvrHgaiJGaLoywKqsWba4UU3zVc7EVQvF5NI0EQcpGlR25G7m6BE8amQRFVJ_muXD-94xHNpWHU63md6qS_XwiJDP5_-MIEPC0j3RTtMaXmHVwyo3T7B8ISzGfeDFyuDmA88GUbTOacrn30QlNn-kYIAo5cQm1e9qwDjt59Ehk7RuM3--xhtK5nb8lOupvgbOJnl7w5kGz2udmSbeRST-iLH7N0jXn9--nzzAXbhSkuYvVo8eTNRnQm0j43oO6bjp6D9x_qO5y3kdONXe-2cUbUxk9x_XqjhtPARxws_qBVr_qIuGLAKUwWXPkCbpQIS8Su7eZtHcmpGhxQH2_a7eI0OapUFC5LeNCeAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpkCL2dvdG8_dXJsPUNBRVN4Z0VCNnpzd0ZkOFVVX0dYSTFVNjhUWHpLd3NTLTJFd2lvS3JXM21SU2dBNFlwOVp6bXdOUEU3RTJnYWNQNEF1dzFHWVM1QzJTbk5IaUtMbE01XzREdXhKMGhtRTl6blRtSHRfTGlXYlQtMFN2TkNPTXlKclFDaHdpTE1LZzVaV21Bck9kcF9PR3lVMktCVXNvSDNqb1kzcEM0dUpKYzdoZlJ6VzBNcGVVVF80UUY3cWQ0LUhuM3Q0U3Y4eExjbmdlS3FPYUwwenpYRHl6QTJzc1JyZ3NqYWRpZldQb0IzQlJYbzlOTVY4RWQyQTUwZEpjOUN3MFlKb3pLTXN0QUZ2SXNKYmtWLTU2UDgSBBoCCAAalwYSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA8wUIABAAGAAgACojCgZndWppeWEVFLeFQBoHZ3VqaSB5YRoLaXY7cDtndWppeWEqFAoFc3dlZXQVJME7QBoGc3dlZXRzKiAKBGFsc28VAAAAABoIY29tbW9ubHkaCWFsc29rbm93biovCgVrbm93bhUAAAAAGgZjYWxsZWQaBGtub3caCHJlZmVycmVkGglhbHNva25vd24qCQoCYXMVAAAAACpFCgVvdGhlchWeEkA-GglhbHRlcm5hdGUaB2Fub3RoZXIaDGFub3RoZXIgbmFtZRoJZGlmZmVyZW50GgpvdGhlcm5hbWVzKkoKBW5hbWVzFQAAAAAaDGFub3RoZXIgbmFtZRoEbmFtZRoEdGVybRoFdGVybXMaBXdvcmRzGgpvdGhlcm5hbWVzGghzeW5vbnltczLBAS9nb3RvP3VybD1DQUVTaEFFQjZ6c3dGWEtDN0tsZFNZUVZ0cHhmNERvR0toZVRzNmxKOUxmTENMUFdpTmZUVFRnX1dQRi0xdmhMMVBqOFpPY2o4bXJHRVc4bHNZT3pOWDN4YlN1SU42V3ltZnRiWDRxYVQ0ZXJmQl90YktxREZHLTFLQmVEYVdmQVczQ00wa0l1aE5fZENleVE4R1BjaGN2SUtUeGFzd0tXOVh1ZXZpRjl6N2c2REl1aG5iQTNPdDQ6VFdoeSA8Yj5HdWppeWE8L2I-IElzIEEgUG9wdWxhciBIb2xpIERlc3NlcnQ6IFdoYXQgTWFrZXMgSXQgRXZlbiBNb3JlIE5vc3RhbGdpYyBUb2RheUKXAVRyYWRpdGlvbmFsbHksIGd1aml5YSBpcyBhIGRlZXAtZnJpZWQgc3dlZXQsIG1hZGUgZnJvbSBtYWlkYSBzaGVsbHMgc3R1ZmZlZCB3aXRoIGEgc3dlZXQgZmlsbGluZywgdHJhZGl0aW9uYWxseSBtYWRlIG9mIGtob3lhLCBkcnkgZnJ1aXRzLCBhbmQmbmJzcDsuLi5KAmFzUgV0ZXJtcyICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpkCL2dvdG8_dXJsPUNBRVN4Z0VCNnpzd0ZkOFVVX0dYSTFVNjhUWHpLd3NTLTJFd2lvS3JXM21SU2dBNFlwOVp6bXdOUEU3RTJnYWNQNEF1dzFHWVM1QzJTbk5IaUtMbE01XzREdXhKMGhtRTl6blRtSHRfTGlXYlQtMFN2TkNPTXlKclFDaHdpTE1LZzVaV21Bck9kcF9PR3lVMktCVXNvSDNqb1kzcEM0dUpKYzdoZlJ6VzBNcGVVVF80UUY3cWQ0LUhuM3Q0U3Y4eExjbmdlS3FPYUwwenpYRHl6QTJzc1JyZ3NqYWRpZldQb0IzQlJYbzlOTVY4RWQyQTUwZEpjOUN3MFlKb3pLTXN0QUZ2SXNKYmtWLTU2UDgSBBoCCAAalwYSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA8wUIABAAGAAgACojCgZndWppeWEVFLeFQBoHZ3VqaSB5YRoLaXY7cDtndWppeWEqFAoFc3dlZXQVJME7QBoGc3dlZXRzKiAKBGFsc28VAAAAABoIY29tbW9ubHkaCWFsc29rbm93biovCgVrbm93bhUAAAAAGgZjYWxsZWQaBGtub3caCHJlZmVycmVkGglhbHNva25vd24qCQoCYXMVAAAAACpFCgVvdGhlchWeEkA-GglhbHRlcm5hdGUaB2Fub3RoZXIaDGFub3RoZXIgbmFtZRoJZGlmZmVyZW50GgpvdGhlcm5hbWVzKkoKBW5hbWVzFQAAAAAaDGFub3RoZXIgbmFtZRoEbmFtZRoEdGVybRoFdGVybXMaBXdvcmRzGgpvdGhlcm5hbWVzGghzeW5vbnltczLBAS9nb3RvP3VybD1DQUVTaEFFQjZ6c3dGWEtDN0tsZFNZUVZ0cHhmNERvR0toZVRzNmxKOUxmTENMUFdpTmZUVFRnX1dQRi0xdmhMMVBqOFpPY2o4bXJHRVc4bHNZT3pOWDN4YlN1SU42V3ltZnRiWDRxYVQ0ZXJmQl90YktxREZHLTFLQmVEYVdmQVczQ00wa0l1aE5fZENleVE4R1BjaGN2SUtUeGFzd0tXOVh1ZXZpRjl6N2c2REl1aG5iQTNPdDQ6VFdoeSA8Yj5HdWppeWE8L2I-IElzIEEgUG9wdWxhciBIb2xpIERlc3NlcnQ6IFdoYXQgTWFrZXMgSXQgRXZlbiBNb3JlIE5vc3RhbGdpYyBUb2RheUKXAVRyYWRpdGlvbmFsbHksIGd1aml5YSBpcyBhIGRlZXAtZnJpZWQgc3dlZXQsIG1hZGUgZnJvbSBtYWlkYSBzaGVsbHMgc3R1ZmZlZCB3aXRoIGEgc3dlZXQgZmlsbGluZywgdHJhZGl0aW9uYWxseSBtYWRlIG9mIGtob3lhLCBkcnkgZnJ1aXRzLCBhbmQmbmJzcDsuLi5KAmFzUgV0ZXJtcyICEAFIAFgAaAA",
+    "source": "The Cinnamon Kitchen"
+   },
+   {
+    "position": 4,
+    "title": "Gujiya, a traditional Indian sweet, has ancient roots and cultural significance",
+    "link": "https://www.facebook.com/groups/3063978347203921/posts/3959570754311338/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFZm0adfoB64glUDJ2a1oOqfj1NVQjOgzQ_NzEYt8uGKhHwBfcWTeVC1EYsesOjlniSmM0GBSZ5GZwppxcTS4MG2xi-_o7vG6Uef-NflkiTHAeErXo870QQIfvrjD0hpXizOM-mHl4nMxd0_IEDgrlQV4J4Kuo8NKHapRF9LDwg&ved=2ahUKEwjtm5SGhZyXAxVuTmwGHXOrEY0QFnoECEAQAQ&uoh=1",
+    "displayed_link": "1 comment · 1 year ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "Gujiya / Peraki, a beloved Indian sweet, likely has roots in ancient India, with Sanskrit texts hinting at a similar dish called \"karanika\".",
+    "about_this_result": {
+     "source": {
+      "description": "Gujiya / Peraki, a beloved Indian sweet, likely has roots in ancient India, with Sanskrit texts hinting at a similar dish called \"karanika\".",
+      "source_info_link": "https://www.facebook.com/groups/3063978347203921/posts/3959570754311338/",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZabTBhZGZvQjY0Z2xVREoyYTFvT3FmajFOVlFqT2d6UV9OekVZdDh1R0toSHdCZmNXVGVWQzFFWXNlc09qbG5pU21NMEdCU1o1R1p3cHB4Y1RTNE1HMnhpLV9vN3ZHNlVlZi1OZmxraVRIQWVFclhvODcwUVFJZnZyakQwaHBYaXpPTS1tSGw0bk14ZDBfSUVEZ3JsUVY0SjRLdW84TktIYXBSRjlMRHdnEgQaAggAGqYGEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQIIGCAAQABgAIAAqIwoGZ3VqaXlhFbJSgEAaB2d1amkgeWEaC2l2O3A7Z3VqaXlhKhQKBXN3ZWV0FeAHUkAaBnN3ZWV0cyogCgRhbHNvFSNIgT4aCGNvbW1vbmx5GglhbHNva25vd24qLwoFa25vd24VKthJPRoGY2FsbGVkGgRrbm93GghyZWZlcnJlZBoJYWxzb2tub3duKgkKAmFzFQAAAAAqRQoFb3RoZXIVkHJiORoJYWx0ZXJuYXRlGgdhbm90aGVyGgxhbm90aGVyIG5hbWUaCWRpZmZlcmVudBoKb3RoZXJuYW1lcypKCgVuYW1lcxUAAAAAGgxhbm90aGVyIG5hbWUaBG5hbWUaBHRlcm0aBXRlcm1zGgV3b3JkcxoKb3RoZXJuYW1lcxoIc3lub255bXMywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RlptMGFkZm9CNjRnbFVESjJhMW9PcWZqMU5WUWpPZ3pRX056RVl0OHVHS2hId0JmY1dUZVZDMUVZc2VzT2psbmlTbU0wR0JTWjVHWndwcHhjVFM0TUcyeGktX283dkc2VWVmLU5mbGtpVEhBZUVyWG84NzBRUUlmdnJqRDBocFhpek9NLW1IbDRuTXhkMF9JRURncmxRVjRKNEt1bzhOS0hhcFJGOUxEd2c6aDxiPkd1aml5YTwvYj4sIGEgdHJhZGl0aW9uYWwgSW5kaWFuIDxiPnN3ZWV0PC9iPiwgaGFzIGFuY2llbnQgcm9vdHMgYW5kIGN1bHR1cmFsIHNpZ25pZmljYW5jZSAtIEZhY2Vib29rQpMBPGI-R3VqaXlhIC8gUGVyYWtpPC9iPiwgYSBiZWxvdmVkIEluZGlhbiBzd2VldCwgbGlrZWx5IGhhcyByb290cyBpbiBhbmNpZW50IEluZGlhLCB3aXRoIFNhbnNrcml0IHRleHRzIGhpbnRpbmcgYXQgYSBzaW1pbGFyIGRpc2ggY2FsbGVkICJrYXJhbmlrYSIuSgJhc1IFdGVybXMiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZabTBhZGZvQjY0Z2xVREoyYTFvT3FmajFOVlFqT2d6UV9OekVZdDh1R0toSHdCZmNXVGVWQzFFWXNlc09qbG5pU21NMEdCU1o1R1p3cHB4Y1RTNE1HMnhpLV9vN3ZHNlVlZi1OZmxraVRIQWVFclhvODcwUVFJZnZyakQwaHBYaXpPTS1tSGw0bk14ZDBfSUVEZ3JsUVY0SjRLdW84TktIYXBSRjlMRHdnEgQaAggAGqYGEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQIIGCAAQABgAIAAqIwoGZ3VqaXlhFbJSgEAaB2d1amkgeWEaC2l2O3A7Z3VqaXlhKhQKBXN3ZWV0FeAHUkAaBnN3ZWV0cyogCgRhbHNvFSNIgT4aCGNvbW1vbmx5GglhbHNva25vd24qLwoFa25vd24VKthJPRoGY2FsbGVkGgRrbm93GghyZWZlcnJlZBoJYWxzb2tub3duKgkKAmFzFQAAAAAqRQoFb3RoZXIVkHJiORoJYWx0ZXJuYXRlGgdhbm90aGVyGgxhbm90aGVyIG5hbWUaCWRpZmZlcmVudBoKb3RoZXJuYW1lcypKCgVuYW1lcxUAAAAAGgxhbm90aGVyIG5hbWUaBG5hbWUaBHRlcm0aBXRlcm1zGgV3b3JkcxoKb3RoZXJuYW1lcxoIc3lub255bXMywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RlptMGFkZm9CNjRnbFVESjJhMW9PcWZqMU5WUWpPZ3pRX056RVl0OHVHS2hId0JmY1dUZVZDMUVZc2VzT2psbmlTbU0wR0JTWjVHWndwcHhjVFM0TUcyeGktX283dkc2VWVmLU5mbGtpVEhBZUVyWG84NzBRUUlmdnJqRDBocFhpek9NLW1IbDRuTXhkMF9JRURncmxRVjRKNEt1bzhOS0hhcFJGOUxEd2c6aDxiPkd1aml5YTwvYj4sIGEgdHJhZGl0aW9uYWwgSW5kaWFuIDxiPnN3ZWV0PC9iPiwgaGFzIGFuY2llbnQgcm9vdHMgYW5kIGN1bHR1cmFsIHNpZ25pZmljYW5jZSAtIEZhY2Vib29rQpMBPGI-R3VqaXlhIC8gUGVyYWtpPC9iPiwgYSBiZWxvdmVkIEluZGlhbiBzd2VldCwgbGlrZWx5IGhhcyByb290cyBpbiBhbmNpZW50IEluZGlhLCB3aXRoIFNhbnNrcml0IHRleHRzIGhpbnRpbmcgYXQgYSBzaW1pbGFyIGRpc2ggY2FsbGVkICJrYXJhbmlrYSIuSgJhc1IFdGVybXMiAhABSABYAGgA",
+    "source": "Facebook · Bengali Foodies in Hyderabad"
+   },
+   {
+    "position": 5,
+    "title": "Holi Special Gujiya Recipe",
+    "link": "https://www.funfoodfrolic.com/holi-special-kesar-mawa-ghujiagujia/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVayTk8SnxxbNml4JwLw75c6EPOz4RT8XBA94mWjXV0bBWhU2tMAqT-PZNM8Zuw7GUkxL6eP5WgAj0eRfCiib9nexJbh4GOW1Tc5EfjSXW-XRNtd8bDKxystbI_aJT0scxY1tDM-d478cbXXZGTY2zhnXP-bjWnFDO&ved=2ahUKEwjtm5SGhZyXAxVuTmwGHXOrEY0QFnoECEIQAQ&uoh=1",
+    "displayed_link": "https://www.funfoodfrolic.com",
+    "favicon": "https://serpapi.com/images/i/UklGRuIAAABXRUJQVlA4INYAAACwBQCdASocABwAPtEutFooIagoGAEAGglqALEMiOCyF_rntDv34c6HgaYevlv4XCMk6xPHYAAA_vYC3px9Vb0frDuxd3jTGJi6wFvRuJKSoS3SmYKTMqyfZCa5SGwR3ycw4Jsw2AGMPtJLDPumzha1Tj_7_egeDeRC3jfDvwOWBS_yNrHHDrxc8fhhET6Q4GBUFEKs1oX105UbSPgCZiAC6PJkkr8Dfrah1q8bfQPgLs7GWLOQ-MF7qhmQFIgQB0NQV8nSAPHHs9Vqxes9xams4KtjOIwA.webp",
+    "date": "4 Mar 2024",
+    "snippet": "It is also known as Ghughra in Gujarat, Karanji in Maharashtra, Somas in Tamil Nadu, Garijalu in Telangana, and, Kajjikaya in Andhra Pradesh and ...",
+    "about_this_result": {
+     "source": {
+      "description": "It is also known as Ghughra in Gujarat, Karanji in Maharashtra, Somas in Tamil Nadu, Garijalu in Telangana, and, Kajjikaya in Andhra Pradesh and ...",
+      "source_info_link": "https://www.funfoodfrolic.com/holi-special-kesar-mawa-ghujiagujia/",
+      "icon": "https://serpapi.com/images/i/UklGRuIAAABXRUJQVlA4INYAAACwBQCdASocABwAPtEutFooIagoGAEAGglqALEMiOCyF_rntDv34c6HgaYevlv4XCMk6xPHYAAA_vYC3px9Vb0frDuxd3jTGJi6wFvRuJKSoS3SmYKTMqyfZCa5SGwR3ycw4Jsw2AGMPtJLDPumzha1Tj_7_egeDeRC3jfDvwOWBS_yNrHHDrxc8fhhET6Q4GBUFEKs1oX105UbSPgCZiAC6PJkkr8Dfrah1q8bfQPgLs7GWLOQ-MF7qhmQFIgQB0NQV8nSAPHHs9Vqxes9xams4KtjOIwA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVmF5VGs4U254eGJObWw0SndMdzc1YzZFUE96NFJUOFhCQTk0bVdqWFYwYkJXaFUydE1BcVQtUFpOTThadXc3R1VreEw2ZVA1V2dBajBlUmZDaWliOW5leEpiaDRHT1cxVGM1RWZqU1hXLVhSTnRkOGJES3h5c3RiSV9hSlQwc2N4WTF0RE0tZDQ3OGNiWFhaR1RZMnpoblhQLWJqV25GRE8SBBoCCAAa7wUSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDJBQgAEAAYACAAKiMKBmd1aml5YRUanUBAGgdndWppIHlhGgtpdjtwO2d1aml5YSoUCgVzd2VldBUHIoQ_GgZzd2VldHMqIAoEYWxzbxVYcQ4_Gghjb21tb25seRoJYWxzb2tub3duKi8KBWtub3duFRpqDj8aBmNhbGxlZBoEa25vdxoIcmVmZXJyZWQaCWFsc29rbm93bioJCgJhcxUAAAAAKkUKBW90aGVyFb6jcD4aCWFsdGVybmF0ZRoHYW5vdGhlchoMYW5vdGhlciBuYW1lGglkaWZmZXJlbnQaCm90aGVybmFtZXMqSgoFbmFtZXMVAAAAABoMYW5vdGhlciBuYW1lGgRuYW1lGgR0ZXJtGgV0ZXJtcxoFd29yZHMaCm90aGVybmFtZXMaCHN5bm9ueW1zMrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVmF5VGs4U254eGJObWw0SndMdzc1YzZFUE96NFJUOFhCQTk0bVdqWFYwYkJXaFUydE1BcVQtUFpOTThadXc3R1VreEw2ZVA1V2dBajBlUmZDaWliOW5leEpiaDRHT1cxVGM1RWZqU1hXLVhSTnRkOGJES3h5c3RiSV9hSlQwc2N4WTF0RE0tZDQ3OGNiWFhaR1RZMnpoblhQLWJqV25GRE86MzxiPkd1aml5YTwvYj4gUmVjaXBlIChNYXdhIEd1amlhKSAtIEZ1biBGT09EIEZyb2xpY0KZAUl0IGlzIGFsc28ga25vd24gYXMgR2h1Z2hyYSBpbiBHdWphcmF0LCBLYXJhbmppIGluIE1haGFyYXNodHJhLCBTb21hcyBpbiBUYW1pbCBOYWR1LCBHYXJpamFsdSBpbiBUZWxhbmdhbmEsIGFuZCwgS2FqamlrYXlhIGluIEFuZGhyYSBQcmFkZXNoIGFuZCZuYnNwOy4uLkoCYXNSBXRlcm1zIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVmF5VGs4U254eGJObWw0SndMdzc1YzZFUE96NFJUOFhCQTk0bVdqWFYwYkJXaFUydE1BcVQtUFpOTThadXc3R1VreEw2ZVA1V2dBajBlUmZDaWliOW5leEpiaDRHT1cxVGM1RWZqU1hXLVhSTnRkOGJES3h5c3RiSV9hSlQwc2N4WTF0RE0tZDQ3OGNiWFhaR1RZMnpoblhQLWJqV25GRE8SBBoCCAAa7wUSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDJBQgAEAAYACAAKiMKBmd1aml5YRUanUBAGgdndWppIHlhGgtpdjtwO2d1aml5YSoUCgVzd2VldBUHIoQ_GgZzd2VldHMqIAoEYWxzbxVYcQ4_Gghjb21tb25seRoJYWxzb2tub3duKi8KBWtub3duFRpqDj8aBmNhbGxlZBoEa25vdxoIcmVmZXJyZWQaCWFsc29rbm93bioJCgJhcxUAAAAAKkUKBW90aGVyFb6jcD4aCWFsdGVybmF0ZRoHYW5vdGhlchoMYW5vdGhlciBuYW1lGglkaWZmZXJlbnQaCm90aGVybmFtZXMqSgoFbmFtZXMVAAAAABoMYW5vdGhlciBuYW1lGgRuYW1lGgR0ZXJtGgV0ZXJtcxoFd29yZHMaCm90aGVybmFtZXMaCHN5bm9ueW1zMrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVmF5VGs4U254eGJObWw0SndMdzc1YzZFUE96NFJUOFhCQTk0bVdqWFYwYkJXaFUydE1BcVQtUFpOTThadXc3R1VreEw2ZVA1V2dBajBlUmZDaWliOW5leEpiaDRHT1cxVGM1RWZqU1hXLVhSTnRkOGJES3h5c3RiSV9hSlQwc2N4WTF0RE0tZDQ3OGNiWFhaR1RZMnpoblhQLWJqV25GRE86MzxiPkd1aml5YTwvYj4gUmVjaXBlIChNYXdhIEd1amlhKSAtIEZ1biBGT09EIEZyb2xpY0KZAUl0IGlzIGFsc28ga25vd24gYXMgR2h1Z2hyYSBpbiBHdWphcmF0LCBLYXJhbmppIGluIE1haGFyYXNodHJhLCBTb21hcyBpbiBUYW1pbCBOYWR1LCBHYXJpamFsdSBpbiBUZWxhbmdhbmEsIGFuZCwgS2FqamlrYXlhIGluIEFuZGhyYSBQcmFkZXNoIGFuZCZuYnNwOy4uLkoCYXNSBXRlcm1zIgIQAUgAWABoAA",
+    "rich_snippet": {
+     "bottom": {
+      "detected_extensions": {
+       "rating": 5,
+       "reviews": 2
+      },
+      "extensions": [
+       "5.0(2)",
+       "1 hr 20 mins"
+      ]
+     }
+    },
+    "source": "Fun FOOD Frolic"
+   },
+   {
+    "position": 6,
+    "title": "Indian Cousin Of Sweet Empanadas: Mawa Gujiya",
+    "link": "https://honestcooking.com/indian-cousin-of-sweet-empanadas-mawa-gujiya/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFS5hdNPk7sR5xJBRCMtLB8YarwGaBev_ob8RmnjM3koEpn1k5L6plFOlkbXmZlN4SGoXewQYfK8ERFP0Pg0Mr_Yg9HVZiBo6caot6E8R-9lBjC855ePebwUuYySVIGzDtxq9apoV83es7VaAj463W66cWnXu_bWRKLSVawyk&ved=2ahUKEwjtm5SGhZyXAxVuTmwGHXOrEY0QFnoECFoQAQ&uoh=1",
+    "displayed_link": "https://honestcooking.com",
+    "favicon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAAAwBQCdASocABwAPrUurVanIacnG_DgFolpAAQ_jxxsIoEcJJHM0obe8LJKMHIu0vUgAAD--LBay5exCxjyqyd-_gyRfMHMIy3X6uAwxsnmng0whdA-cF7ZcSj_8X6nNG6E3nV7R70iTnyyaO_hLaqkdv6lCvPnMNlr8OQdRPUemttwj8mI1KcuG1UfnVIxeRPpicF3mZOpiwoj_7nf_FhwmERXQ88vv_UaZoQFxci-eDcuN7_MrzOZ__qL3zJ25wcf_Ij1mU8bTrl5kZ3s_WB7w7037YTlnF-G34H0DZS85HwW3kzukqOy1eRLzoAAAAA.webp",
+    "snippet": "Mawa (also called khoya or concentrated milk) is made by reducing whole milk in an open pan over a long time until it becomes a thick, solid dairy paste.",
+    "about_this_result": {
+     "source": {
+      "description": "Mawa (also called khoya or concentrated milk) is made by reducing whole milk in an open pan over a long time until it becomes a thick, solid dairy paste.",
+      "source_info_link": "https://honestcooking.com/indian-cousin-of-sweet-empanadas-mawa-gujiya/",
+      "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAAAwBQCdASocABwAPrUurVanIacnG_DgFolpAAQ_jxxsIoEcJJHM0obe8LJKMHIu0vUgAAD--LBay5exCxjyqyd-_gyRfMHMIy3X6uAwxsnmng0whdA-cF7ZcSj_8X6nNG6E3nV7R70iTnyyaO_hLaqkdv6lCvPnMNlr8OQdRPUemttwj8mI1KcuG1UfnVIxeRPpicF3mZOpiwoj_7nf_FhwmERXQ88vv_UaZoQFxci-eDcuN7_MrzOZ__qL3zJ25wcf_Ij1mU8bTrl5kZ3s_WB7w7037YTlnF-G34H0DZS85HwW3kzukqOy1eRLzoAAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZTNWhkTlBrN3NSNXhKQlJDTXRMQjhZYXJ3R2FCZXZfb2I4Um1uak0za29FcG4xazVMNnBsRk9sa2JYbVpsTjRTR29YZXdRWWZLOEVSRlAwUGcwTXJfWWc5SFZaaUJvNmNhb3Q2RThSLTlsQmpDODU1ZVBlYndVdVl5U1ZJR3pEdHhxOWFwb1Y4M2VzN1ZhQWo0NjNXNjZjV25YdV9iV1JLTFNWYXd5axIEGgIIABqgBhIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkD8BQgAEAAYACAAKiMKBmd1aml5YRXCOxBAGgdndWppIHlhGgtpdjtwO2d1aml5YSoUCgVzd2VldBXXjDRAGgZzd2VldHMqIAoEYWxzbxWzXDk9Gghjb21tb25seRoJYWxzb2tub3duKi8KBWtub3duFQAAAAAaBmNhbGxlZBoEa25vdxoIcmVmZXJyZWQaCWFsc29rbm93bioJCgJhcxUAAAAAKkUKBW90aGVyFcumoz0aCWFsdGVybmF0ZRoHYW5vdGhlchoMYW5vdGhlciBuYW1lGglkaWZmZXJlbnQaCm90aGVybmFtZXMqSgoFbmFtZXMVAAAAABoMYW5vdGhlciBuYW1lGgRuYW1lGgR0ZXJtGgV0ZXJtcxoFd29yZHMaCm90aGVybmFtZXMaCHN5bm9ueW1zMr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZTNWhkTlBrN3NSNXhKQlJDTXRMQjhZYXJ3R2FCZXZfb2I4Um1uak0za29FcG4xazVMNnBsRk9sa2JYbVpsTjRTR29YZXdRWWZLOEVSRlAwUGcwTXJfWWc5SFZaaUJvNmNhb3Q2RThSLTlsQmpDODU1ZVBlYndVdVl5U1ZJR3pEdHhxOWFwb1Y4M2VzN1ZhQWo0NjNXNjZjV25YdV9iV1JLTFNWYXd5azpXSW5kaWFuIENvdXNpbiBPZiA8Yj5Td2VldDwvYj4gRW1wYW5hZGFzOiBNYXdhIDxiPkd1aml5YTwvYj4gLSBIb25lc3QgQ29va2luZyBhbmQgVHJhdmVsQqABPGI-TWF3YSAoYWxzbyBjYWxsZWQga2hveWEgb3IgY29uY2VudHJhdGVkIG1pbGs8L2I-KSBpcyBtYWRlIGJ5IHJlZHVjaW5nIHdob2xlIG1pbGsgaW4gYW4gb3BlbiBwYW4gb3ZlciBhIGxvbmcgdGltZSB1bnRpbCBpdCBiZWNvbWVzIGEgdGhpY2ssIHNvbGlkIGRhaXJ5IHBhc3RlLkoCYXNSBXRlcm1zIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZTNWhkTlBrN3NSNXhKQlJDTXRMQjhZYXJ3R2FCZXZfb2I4Um1uak0za29FcG4xazVMNnBsRk9sa2JYbVpsTjRTR29YZXdRWWZLOEVSRlAwUGcwTXJfWWc5SFZaaUJvNmNhb3Q2RThSLTlsQmpDODU1ZVBlYndVdVl5U1ZJR3pEdHhxOWFwb1Y4M2VzN1ZhQWo0NjNXNjZjV25YdV9iV1JLTFNWYXd5axIEGgIIABqgBhIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkD8BQgAEAAYACAAKiMKBmd1aml5YRXCOxBAGgdndWppIHlhGgtpdjtwO2d1aml5YSoUCgVzd2VldBXXjDRAGgZzd2VldHMqIAoEYWxzbxWzXDk9Gghjb21tb25seRoJYWxzb2tub3duKi8KBWtub3duFQAAAAAaBmNhbGxlZBoEa25vdxoIcmVmZXJyZWQaCWFsc29rbm93bioJCgJhcxUAAAAAKkUKBW90aGVyFcumoz0aCWFsdGVybmF0ZRoHYW5vdGhlchoMYW5vdGhlciBuYW1lGglkaWZmZXJlbnQaCm90aGVybmFtZXMqSgoFbmFtZXMVAAAAABoMYW5vdGhlciBuYW1lGgRuYW1lGgR0ZXJtGgV0ZXJtcxoFd29yZHMaCm90aGVybmFtZXMaCHN5bm9ueW1zMr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZTNWhkTlBrN3NSNXhKQlJDTXRMQjhZYXJ3R2FCZXZfb2I4Um1uak0za29FcG4xazVMNnBsRk9sa2JYbVpsTjRTR29YZXdRWWZLOEVSRlAwUGcwTXJfWWc5SFZaaUJvNmNhb3Q2RThSLTlsQmpDODU1ZVBlYndVdVl5U1ZJR3pEdHhxOWFwb1Y4M2VzN1ZhQWo0NjNXNjZjV25YdV9iV1JLTFNWYXd5azpXSW5kaWFuIENvdXNpbiBPZiA8Yj5Td2VldDwvYj4gRW1wYW5hZGFzOiBNYXdhIDxiPkd1aml5YTwvYj4gLSBIb25lc3QgQ29va2luZyBhbmQgVHJhdmVsQqABPGI-TWF3YSAoYWxzbyBjYWxsZWQga2hveWEgb3IgY29uY2VudHJhdGVkIG1pbGs8L2I-KSBpcyBtYWRlIGJ5IHJlZHVjaW5nIHdob2xlIG1pbGsgaW4gYW4gb3BlbiBwYW4gb3ZlciBhIGxvbmcgdGltZSB1bnRpbCBpdCBiZWNvbWVzIGEgdGhpY2ssIHNvbGlkIGRhaXJ5IHBhc3RlLkoCYXNSBXRlcm1zIgIQAUgAWABoAA",
+    "rich_snippet": {
+     "bottom": {
+      "extensions": [
+       "1 hr"
+      ]
+     }
+    },
+    "source": "Honest Cooking"
+   },
+   {
+    "position": 7,
+    "title": "Indian Sweet Gujia Recipe, Gujjia With Mava, Sweet Gujjia Recipe by Vahchef",
+    "link": "https://www.youtube.com/watch?v=VgrwTOfJdGM",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAV-leavh3Yj9CnqWmWeDnXciWUHfTKV2Jn99dW5P9tkAUpZLtCxTL45FGCnnpLPZmWdEPjF6-L7Uzwe3LZcq0myDYI33X-nI1zW6MdjkQ0Y8zjW0SWcwkBOwXnkwQtig357g&ved=2ahUKEwjtm5SGhZyXAxVuTmwGHXOrEY0QtwJ6BAg1EAE&uoh=1",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcN3OsbpKK_M5EhiCdFNoqJkSAvSlP2DArM7ThWYro4gYYWX1L08_dg&s",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "duration": "6:17",
+    "snippet": "Learn how to make Gujiya step by step Recipe Mava Gujiya , Holi or Diwali festival is incomplete without this mawa gujiya recipe GUJIYA ...",
+    "about_this_result": {
+     "source": {
+      "description": "Learn how to make Gujiya step by step Recipe Mava Gujiya , Holi or Diwali festival is incomplete without this mawa gujiya recipe GUJIYA ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVi1sZWF2aDNZajlDbnFXbVdlRG5YY2lXVUhmVEtWMkpuOTlkVzVQOXRrQVVwWkx0Q3hUTDQ1RkdDbm5wTFBabVdkRVBqRjYtTDdVendlM0xaY3EwbXlEWUkzM1gtbkkxelc2TWRqa1EwWTh6alcwU1djd2tCT3dYbmt3UXRpZzM1N2cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVi1sZWF2aDNZajlDbnFXbVdlRG5YY2lXVUhmVEtWMkpuOTlkVzVQOXRrQVVwWkx0Q3hUTDQ1RkdDbm5wTFBabVdkRVBqRjYtTDdVendlM0xaY3EwbXlEWUkzM1gtbkkxelc2TWRqa1EwWTh6alcwU1djd2tCT3dYbmt3UXRpZzM1N2cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQi1PdMyOUr8VtdVMa2ToSLuBiD9G6tpT23RA",
+    "source": "YouTube · Vahchef - VahRehVah",
+    "key_moments": [
+     {
+      "time": "00:00",
+      "title": "Intro",
+      "link": "https://www.youtube.com/watch?v=VgrwTOfJdGM&t=0"
+     },
+     {
+      "time": "00:22",
+      "title": "How to Make Sugar Syrup",
+      "link": "https://www.youtube.com/watch?v=VgrwTOfJdGM&t=22"
+     },
+     {
+      "time": "00:49",
+      "title": "Making the Stuffing",
+      "link": "https://www.youtube.com/watch?v=VgrwTOfJdGM&t=49"
+     },
+     {
+      "time": "01:56",
+      "title": "Making the Dough",
+      "link": "https://www.youtube.com/watch?v=VgrwTOfJdGM&t=116"
+     },
+     {
+      "time": "02:31",
+      "title": "Stuffing",
+      "link": "https://www.youtube.com/watch?v=VgrwTOfJdGM&t=151"
+     },
+     {
+      "time": "02:47",
+      "title": "Shaping the Gujiya",
+      "link": "https://www.youtube.com/watch?v=VgrwTOfJdGM&t=167"
+     },
+     {
+      "time": "03:56",
+      "title": "Frying the Gujiyas",
+      "link": "https://www.youtube.com/watch?v=VgrwTOfJdGM&t=236"
+     },
+     {
+      "time": "05:54",
+      "title": "Tasting & Outro",
+      "link": "https://www.youtube.com/watch?v=VgrwTOfJdGM&t=354"
+     }
+    ]
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "query": "Gujiya origin state",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&hl=en&gl=in&sxsrf=APpeQnt2sppVqkuFv-EAU3NNV8jL7_8iIw:1790968357790&q=Gujiya+origin+state&sa=X&ved=2ahUKEwjtm5SGhZyXAxVuTmwGHXOrEY0Q1QJ6BAgyEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=Gujiya+origin+state"
+   },
+   {
+    "block_position": 1,
+    "query": "Gujiya recipe",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&hl=en&gl=in&sxsrf=APpeQnt2sppVqkuFv-EAU3NNV8jL7_8iIw:1790968357790&q=Gujiya+recipe&sa=X&ved=2ahUKEwjtm5SGhZyXAxVuTmwGHXOrEY0Q1QJ6BAg0EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=Gujiya+recipe"
+   },
+   {
+    "block_position": 1,
+    "query": "Gujiya is famous in which festival",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&hl=en&gl=in&sxsrf=APpeQnt2sppVqkuFv-EAU3NNV8jL7_8iIw:1790968357790&q=Gujiya+is+famous+in+which+festival&sa=X&ved=2ahUKEwjtm5SGhZyXAxVuTmwGHXOrEY0Q1QJ6BAgzEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=Gujiya+is+famous+in+which+festival"
+   }
+  ],
+  "pagination": {
+   "current": 1
+  },
+  "serpapi_pagination": {
+   "current": 1
+  }
+ }
+}

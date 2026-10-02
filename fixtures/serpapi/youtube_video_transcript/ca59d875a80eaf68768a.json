@@ -1,0 +1,1721 @@
+{
+ "engine": "youtube_video_transcript",
+ "params": {
+  "v": "fIebwiemcV8",
+  "language_code": "hi"
+ },
+ "recordedAt": "2026-10-02T19:12:06.613Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac00201b333eec310a08a7b",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/WrG8-Bma9FbW_pG6wts0hP6oz6_7RNg_DfSAfq12fdc/6ac00201b333eec310a08a7b.md",
+   "created_at": "2026-10-02 19:12:01 UTC",
+   "processed_at": "2026-10-02 19:12:01 UTC",
+   "youtube_video_transcript_url": "https://www.youtube.com/watch?v=fIebwiemcV8",
+   "total_time_taken": 4.84
+  },
+  "search_parameters": {
+   "engine": "youtube_video_transcript",
+   "v": "fIebwiemcV8",
+   "language_code": "hi"
+  },
+  "transcript": [
+   {
+    "start_ms": 0,
+    "end_ms": 2879,
+    "snippet": "होली का टाइम हो और घर पर गुजिया ना बने",
+    "start_time_text": "0:00",
+    "start_time_label": "0:00"
+   },
+   {
+    "start_ms": 2879,
+    "end_ms": 5940,
+    "snippet": "ऐसा करना तो पाप से कम नहीं है तो इस होली",
+    "start_time_text": "0:02",
+    "start_time_label": "0:02"
+   },
+   {
+    "start_ms": 5940,
+    "end_ms": 7980,
+    "snippet": "पे आप एक गुजिया की रेसिपी ट्री करके",
+    "start_time_text": "0:05",
+    "start_time_label": "0:05"
+   },
+   {
+    "start_ms": 7980,
+    "end_ms": 10440,
+    "snippet": "देखना आपकी जितनी dikkatein हैं गुजिया",
+    "start_time_text": "0:07",
+    "start_time_label": "0:07"
+   },
+   {
+    "start_ms": 10440,
+    "end_ms": 13559,
+    "snippet": "बनाने में जैसे की गुजिया का टूटना खस्ता",
+    "start_time_text": "0:10",
+    "start_time_label": "0:10"
+   },
+   {
+    "start_ms": 13559,
+    "end_ms": 15719,
+    "snippet": "ना बन्ना ये सारी dikkatein सॉल्व हो",
+    "start_time_text": "0:13",
+    "start_time_label": "0:13"
+   },
+   {
+    "start_ms": 15719,
+    "end_ms": 17699,
+    "snippet": "जाएंगी इस वीडियो से आप इसको एक बार ट्राई",
+    "start_time_text": "0:15",
+    "start_time_label": "0:15"
+   },
+   {
+    "start_ms": 17699,
+    "end_ms": 22460,
+    "snippet": "करके देखना होली पर आपको बहुत पसंद आएगी",
+    "start_time_text": "0:17",
+    "start_time_label": "0:17"
+   },
+   {
+    "start_ms": 23760,
+    "end_ms": 25980,
+    "snippet": "हेलो दोस्तों मैं हूं भारत और आपका स्वागत",
+    "start_time_text": "0:23",
+    "start_time_label": "0:23"
+   },
+   {
+    "start_ms": 25980,
+    "end_ms": 28140,
+    "snippet": "है भारत किचन हिंदी में तो फिर देर किस",
+    "start_time_text": "0:25",
+    "start_time_label": "0:25"
+   },
+   {
+    "start_ms": 28140,
+    "end_ms": 30439,
+    "snippet": "बात की चलो फिर शुरू करते हैं",
+    "start_time_text": "0:28",
+    "start_time_label": "0:28"
+   },
+   {
+    "start_ms": 30439,
+    "end_ms": 33239,
+    "snippet": "अब गुजिया बनाने के लिए सबसे पहले तो आता",
+    "start_time_text": "0:30",
+    "start_time_label": "0:30"
+   },
+   {
+    "start_ms": 33239,
+    "end_ms": 35820,
+    "snippet": "लगाना पड़ेगा तो मैं तो यहां पर काफी सारी",
+    "start_time_text": "0:33",
+    "start_time_label": "0:33"
+   },
+   {
+    "start_ms": 35820,
+    "end_ms": 37440,
+    "snippet": "गुजिया बना रहा हूं तो इसलिए मैंने यहां",
+    "start_time_text": "0:35",
+    "start_time_label": "0:35"
+   },
+   {
+    "start_ms": 37440,
+    "end_ms": 40379,
+    "snippet": "पर आधा किलो मैदा लिया है आधे किलो मेड",
+    "start_time_text": "0:37",
+    "start_time_label": "0:37"
+   },
+   {
+    "start_ms": 40379,
+    "end_ms": 44520,
+    "snippet": "में आपने 125 ग्राम 14 टाइम्स इसलिए मैंने",
+    "start_time_text": "0:40",
+    "start_time_label": "0:40"
+   },
+   {
+    "start_ms": 44520,
+    "end_ms": 47640,
+    "snippet": "बोला 125 ग्राम या आधा कप देसी घी आपने",
+    "start_time_text": "0:44",
+    "start_time_label": "0:44"
+   },
+   {
+    "start_ms": 47640,
+    "end_ms": 50219,
+    "snippet": "डालना है ध्यान रहे गीत जमा हुआ भी नहीं",
+    "start_time_text": "0:47",
+    "start_time_label": "0:47"
+   },
+   {
+    "start_ms": 50219,
+    "end_ms": 52699,
+    "snippet": "होना चाहिए और एकदम",
+    "start_time_text": "0:50",
+    "start_time_label": "0:50"
+   },
+   {
+    "start_ms": 52699,
+    "end_ms": 55739,
+    "snippet": "वीडियो होना चाहिए बिल्कुल ऐसे तो आपने",
+    "start_time_text": "0:52",
+    "start_time_label": "0:52"
+   },
+   {
+    "start_ms": 55739,
+    "end_ms": 58920,
+    "snippet": "आधा कप पूरा भरकर ही डालना है और जो सबसे",
+    "start_time_text": "0:55",
+    "start_time_label": "0:55"
+   },
+   {
+    "start_ms": 58920,
+    "end_ms": 61379,
+    "snippet": "इंपॉर्टेंट चीज है जो लोग गुजिया में गलत",
+    "start_time_text": "0:58",
+    "start_time_label": "0:58"
+   },
+   {
+    "start_ms": 61379,
+    "end_ms": 64439,
+    "snippet": "कर देते हैं वो ये है ही को मेड में अच्छे",
+    "start_time_text": "1:01",
+    "start_time_label": "1:01"
+   },
+   {
+    "start_ms": 64439,
+    "end_ms": 68100,
+    "snippet": "से नहीं मिलते तो अब घी को मैंने अच्छे से",
+    "start_time_text": "1:04",
+    "start_time_label": "1:04"
+   },
+   {
+    "start_ms": 68100,
+    "end_ms": 68840,
+    "snippet": "मिलना",
+    "start_time_text": "1:08",
+    "start_time_label": "1:08"
+   },
+   {
+    "start_ms": 68840,
+    "end_ms": 70500,
+    "snippet": "[संगीत]",
+    "start_time_text": "1:08",
+    "start_time_label": "1:08"
+   },
+   {
+    "start_ms": 70500,
+    "end_ms": 73020,
+    "snippet": "आप देख सकते हो की मैं तो सिर्फ घी के साथ",
+    "start_time_text": "1:10",
+    "start_time_label": "1:10"
+   },
+   {
+    "start_ms": 73020,
+    "end_ms": 76020,
+    "snippet": "ही मिलने लग गया है पूरा बिल्कुल इसको ऐसे",
+    "start_time_text": "1:13",
+    "start_time_label": "1:13"
+   },
+   {
+    "start_ms": 76020,
+    "end_ms": 79200,
+    "snippet": "मिलना है दूसरी बात जो आते में ध्यान रखनी",
+    "start_time_text": "1:16",
+    "start_time_label": "1:16"
+   },
+   {
+    "start_ms": 79200,
+    "end_ms": 82140,
+    "snippet": "बहुत जरूरी है और ये है की ये जो आता है",
+    "start_time_text": "1:19",
+    "start_time_label": "1:19"
+   },
+   {
+    "start_ms": 82140,
+    "end_ms": 84659,
+    "snippet": "इसमें पानी बहुत कम होता है बहुत मतलब",
+    "start_time_text": "1:22",
+    "start_time_label": "1:22"
+   },
+   {
+    "start_ms": 84659,
+    "end_ms": 87000,
+    "snippet": "बहुत ही कम होता है अब क्वांटिटी deoge तो",
+    "start_time_text": "1:24",
+    "start_time_label": "1:24"
+   },
+   {
+    "start_ms": 87000,
+    "end_ms": 88799,
+    "snippet": "आप खुद ही बोलोगे की अरे यार तो बहुत ही",
+    "start_time_text": "1:27",
+    "start_time_label": "1:27"
+   },
+   {
+    "start_ms": 88799,
+    "end_ms": 90600,
+    "snippet": "कम है पानी मिलने की भी तकनीक है",
+    "start_time_text": "1:28",
+    "start_time_label": "1:28"
+   },
+   {
+    "start_ms": 90600,
+    "end_ms": 93240,
+    "snippet": "धीरे-धीरे करके पानी मिलना है तो पहले आप",
+    "start_time_text": "1:30",
+    "start_time_label": "1:30"
+   },
+   {
+    "start_ms": 93240,
+    "end_ms": 96000,
+    "snippet": "1/4 कप डालना उसको आते में धीरे-धीरे करके",
+    "start_time_text": "1:33",
+    "start_time_label": "1:33"
+   },
+   {
+    "start_ms": 96000,
+    "end_ms": 98700,
+    "snippet": "मिलना ताकि ऐसा ना हो की आता नरम लग जाए",
+    "start_time_text": "1:36",
+    "start_time_label": "1:36"
+   },
+   {
+    "start_ms": 98700,
+    "end_ms": 102110,
+    "snippet": "आता थोड़ा सख्त होना चाहिए इसका",
+    "start_time_text": "1:38",
+    "start_time_label": "1:38"
+   },
+   {
+    "start_ms": 102110,
+    "end_ms": 104340,
+    "snippet": "[संगीत]",
+    "start_time_text": "1:42",
+    "start_time_label": "1:42"
+   },
+   {
+    "start_ms": 104340,
+    "end_ms": 107220,
+    "snippet": "फिर मैंने बाकी वैन फोर्थ कप पानी और डाला",
+    "start_time_text": "1:44",
+    "start_time_label": "1:44"
+   },
+   {
+    "start_ms": 107220,
+    "end_ms": 109860,
+    "snippet": "है उसको भी अच्छे से मिलाया है और इसमें",
+    "start_time_text": "1:47",
+    "start_time_label": "1:47"
+   },
+   {
+    "start_ms": 109860,
+    "end_ms": 112680,
+    "snippet": "टोटल जो पानी लगेगा वो बेसिकली 3/4th का",
+    "start_time_text": "1:49",
+    "start_time_label": "1:49"
+   },
+   {
+    "start_ms": 112680,
+    "end_ms": 114840,
+    "snippet": "पानी लगेगा अब आपकी क्वांटिटी थोड़ी वेरी",
+    "start_time_text": "1:52",
+    "start_time_label": "1:52"
+   },
+   {
+    "start_ms": 114840,
+    "end_ms": 116759,
+    "snippet": "कर सकती है मेड के ऊपर डिपेंड करता है",
+    "start_time_text": "1:54",
+    "start_time_label": "1:54"
+   },
+   {
+    "start_ms": 116759,
+    "end_ms": 119640,
+    "snippet": "लेकिन 34 से एक कप के बीच में इससे ज्यादा",
+    "start_time_text": "1:56",
+    "start_time_label": "1:56"
+   },
+   {
+    "start_ms": 119640,
+    "end_ms": 122399,
+    "snippet": "पानी आप बिल्कुल मत लेना आधा मेड में बहुत",
+    "start_time_text": "1:59",
+    "start_time_label": "1:59"
+   },
+   {
+    "start_ms": 122399,
+    "end_ms": 124680,
+    "snippet": "गड़बड़ हो जाएगी इतना अपने पानी डालना है",
+    "start_time_text": "2:02",
+    "start_time_label": "2:02"
+   },
+   {
+    "start_ms": 124680,
+    "end_ms": 127860,
+    "snippet": "और आता अपने अच्छे से मल मल के लगा दे",
+    "start_time_text": "2:04",
+    "start_time_label": "2:04"
+   },
+   {
+    "start_ms": 127860,
+    "end_ms": 130860,
+    "snippet": "थोड़ी सी या मेहनत करना और आते को अच्छे",
+    "start_time_text": "2:07",
+    "start_time_label": "2:07"
+   },
+   {
+    "start_ms": 130860,
+    "end_ms": 133760,
+    "snippet": "से मल लेना",
+    "start_time_text": "2:10",
+    "start_time_label": "2:10"
+   },
+   {
+    "start_ms": 135300,
+    "end_ms": 137700,
+    "snippet": "आप देख सकते हो की आता बिल्कुल भी एवं",
+    "start_time_text": "2:15",
+    "start_time_label": "2:15"
+   },
+   {
+    "start_ms": 137700,
+    "end_ms": 139860,
+    "snippet": "नहीं है यह कहीं से लग ही नहीं रहा की आता",
+    "start_time_text": "2:17",
+    "start_time_label": "2:17"
+   },
+   {
+    "start_ms": 139860,
+    "end_ms": 142080,
+    "snippet": "सही से लगा है लेकिन अभी हम इसको रेस्ट",
+    "start_time_text": "2:19",
+    "start_time_label": "2:19"
+   },
+   {
+    "start_ms": 142080,
+    "end_ms": 143879,
+    "snippet": "करने के लिए छोड़ेंगे और रेस्ट करने के",
+    "start_time_text": "2:22",
+    "start_time_label": "2:22"
+   },
+   {
+    "start_ms": 143879,
+    "end_ms": 146700,
+    "snippet": "बाद आप खुद ही देखना आते में बहुत फर्क ए",
+    "start_time_text": "2:23",
+    "start_time_label": "2:23"
+   },
+   {
+    "start_ms": 146700,
+    "end_ms": 148680,
+    "snippet": "जाता है तो इसको मैंने कम से कम 20 मिनट",
+    "start_time_text": "2:26",
+    "start_time_label": "2:26"
+   },
+   {
+    "start_ms": 148680,
+    "end_ms": 150360,
+    "snippet": "के लिए रेस्ट करने के लिए छोड़ दिया है जब",
+    "start_time_text": "2:28",
+    "start_time_label": "2:28"
+   },
+   {
+    "start_ms": 150360,
+    "end_ms": 153420,
+    "snippet": "तक हम यहां पर स्टफिंग बना लेते हैं अब",
+    "start_time_text": "2:30",
+    "start_time_label": "2:30"
+   },
+   {
+    "start_ms": 153420,
+    "end_ms": 155819,
+    "snippet": "स्टफिंग बनाना तो बहुत आसान है गुजिया की",
+    "start_time_text": "2:33",
+    "start_time_label": "2:33"
+   },
+   {
+    "start_ms": 155819,
+    "end_ms": 158099,
+    "snippet": "मैं यहां पर सूजी मामा गुजिया बना रहा हूं",
+    "start_time_text": "2:35",
+    "start_time_label": "2:35"
+   },
+   {
+    "start_ms": 158099,
+    "end_ms": 160140,
+    "snippet": "तो सबसे पहले तो मैं यहां पर ड्राई",
+    "start_time_text": "2:38",
+    "start_time_label": "2:38"
+   },
+   {
+    "start_ms": 160140,
+    "end_ms": 162420,
+    "snippet": "फ्रूट्स को भुनाने वाला हूं जी हान तो",
+    "start_time_text": "2:40",
+    "start_time_label": "2:40"
+   },
+   {
+    "start_ms": 162420,
+    "end_ms": 164700,
+    "snippet": "मैंने यहां पर कढ़ाई में दो चम्मच देसी घी",
+    "start_time_text": "2:42",
+    "start_time_label": "2:42"
+   },
+   {
+    "start_ms": 164700,
+    "end_ms": 168000,
+    "snippet": "लिया है और सबसे पहले बादाम काजू और",
+    "start_time_text": "2:44",
+    "start_time_label": "2:44"
+   },
+   {
+    "start_ms": 168000,
+    "end_ms": 170640,
+    "snippet": "पिस्ता पूरे-पूरे यहां पर दल दिए इनको हम",
+    "start_time_text": "2:48",
+    "start_time_label": "2:48"
+   },
+   {
+    "start_ms": 170640,
+    "end_ms": 172620,
+    "snippet": "थोड़ा सा bhunenge मैंने उनको काट के नहीं",
+    "start_time_text": "2:50",
+    "start_time_label": "2:50"
+   },
+   {
+    "start_ms": 172620,
+    "end_ms": 174420,
+    "snippet": "डाला है क्योंकि जो इनका चुरा होता है ना",
+    "start_time_text": "2:52",
+    "start_time_label": "2:52"
+   },
+   {
+    "start_ms": 174420,
+    "end_ms": 177000,
+    "snippet": "वो इस घी को खराब कर देता है आप ऐसे ही",
+    "start_time_text": "2:54",
+    "start_time_label": "2:54"
+   },
+   {
+    "start_ms": 177000,
+    "end_ms": 179400,
+    "snippet": "करना एक बार की जो पूरे पूरे काजू बादाम",
+    "start_time_text": "2:57",
+    "start_time_label": "2:57"
+   },
+   {
+    "start_ms": 179400,
+    "end_ms": 181260,
+    "snippet": "है उनको घी में थोड़ी देर के लिए भून लेना",
+    "start_time_text": "2:59",
+    "start_time_label": "2:59"
+   },
+   {
+    "start_ms": 181260,
+    "end_ms": 183540,
+    "snippet": "और थोड़ी देर के बाद जैसे ही इनमें",
+    "start_time_text": "3:01",
+    "start_time_label": "3:01"
+   },
+   {
+    "start_ms": 183540,
+    "end_ms": 185760,
+    "snippet": "हल्का-हल्का सा कलर आना शुरू हो जाए अब",
+    "start_time_text": "3:03",
+    "start_time_label": "3:03"
+   },
+   {
+    "start_ms": 185760,
+    "end_ms": 187980,
+    "snippet": "फटाफट से इनको निकल लेना क्योंकि थोड़ी",
+    "start_time_text": "3:05",
+    "start_time_label": "3:05"
+   },
+   {
+    "start_ms": 187980,
+    "end_ms": 190140,
+    "snippet": "फास्ट होती है जलने के चांसेस बहुत ज्यादा",
+    "start_time_text": "3:07",
+    "start_time_label": "3:07"
+   },
+   {
+    "start_ms": 190140,
+    "end_ms": 194239,
+    "snippet": "होते हैं फटाफट से आप इनको निकल लेना",
+    "start_time_text": "3:10",
+    "start_time_label": "3:10"
+   },
+   {
+    "start_ms": 194580,
+    "end_ms": 197940,
+    "snippet": "इसी घी में मैंने अब यहां पर कोकोनट बनाना",
+    "start_time_text": "3:14",
+    "start_time_label": "3:14"
+   },
+   {
+    "start_ms": 197940,
+    "end_ms": 199860,
+    "snippet": "है यानी की सूखा नारियल घिसा हुआ वह",
+    "start_time_text": "3:17",
+    "start_time_label": "3:17"
+   },
+   {
+    "start_ms": 199860,
+    "end_ms": 201780,
+    "snippet": "भुनाना है तो इसी घी में मैं यहां पर",
+    "start_time_text": "3:19",
+    "start_time_label": "3:19"
+   },
+   {
+    "start_ms": 201780,
+    "end_ms": 203700,
+    "snippet": "भुनाने वाला हूं इसको अब यहां पर दल देते",
+    "start_time_text": "3:21",
+    "start_time_label": "3:21"
+   },
+   {
+    "start_ms": 203700,
+    "end_ms": 206159,
+    "snippet": "हैं और लो फ्लेम पे लगभग दो से तीन मिनट",
+    "start_time_text": "3:23",
+    "start_time_label": "3:23"
+   },
+   {
+    "start_ms": 206159,
+    "end_ms": 209159,
+    "snippet": "तक आप इसको फटाफट से bhuliyega बेसिकली जब",
+    "start_time_text": "3:26",
+    "start_time_label": "3:26"
+   },
+   {
+    "start_ms": 209159,
+    "end_ms": 211200,
+    "snippet": "तक ये ब्राउन होना शुरू नहीं हो जाता तब",
+    "start_time_text": "3:29",
+    "start_time_label": "3:29"
+   },
+   {
+    "start_ms": 211200,
+    "end_ms": 214819,
+    "snippet": "तक आप इसको अच्छे से भून लेना",
+    "start_time_text": "3:31",
+    "start_time_label": "3:31"
+   },
+   {
+    "start_ms": 215459,
+    "end_ms": 218580,
+    "snippet": "अब इसी कढ़ाई में हान नारियल के बाद मैंने",
+    "start_time_text": "3:35",
+    "start_time_label": "3:35"
+   },
+   {
+    "start_ms": 218580,
+    "end_ms": 221099,
+    "snippet": "यहां पर आधा कप सूजी दल दी है और आधा कप",
+    "start_time_text": "3:38",
+    "start_time_label": "3:38"
+   },
+   {
+    "start_ms": 221099,
+    "end_ms": 223560,
+    "snippet": "सूजी को भी मैंने ब्राउन होने तक भून लिया",
+    "start_time_text": "3:41",
+    "start_time_label": "3:41"
+   },
+   {
+    "start_ms": 223560,
+    "end_ms": 226500,
+    "snippet": "है ध्यान रहे सूजी को थोड़ा सा टाइम लगता",
+    "start_time_text": "3:43",
+    "start_time_label": "3:43"
+   },
+   {
+    "start_ms": 226500,
+    "end_ms": 228659,
+    "snippet": "है भूलने में अगर आप इसको लो फ्लेम पर",
+    "start_time_text": "3:46",
+    "start_time_label": "3:46"
+   },
+   {
+    "start_ms": 228659,
+    "end_ms": 231060,
+    "snippet": "bhunoge तो टाइम तो लगेगा लेकिन हान लो",
+    "start_time_text": "3:48",
+    "start_time_label": "3:48"
+   },
+   {
+    "start_ms": 231060,
+    "end_ms": 235040,
+    "snippet": "फ्लेम पर ही भूलना एकदम सही से तभी",
+    "start_time_text": "3:51",
+    "start_time_label": "3:51"
+   },
+   {
+    "start_ms": 235860,
+    "end_ms": 238260,
+    "snippet": "आप देख सकते हो isuji कितनी बढ़िया तरीके",
+    "start_time_text": "3:55",
+    "start_time_label": "3:55"
+   },
+   {
+    "start_ms": 238260,
+    "end_ms": 241739,
+    "snippet": "से ब्राउन हो गई है ना तो बस यह सब chijen",
+    "start_time_text": "3:58",
+    "start_time_label": "3:58"
+   },
+   {
+    "start_ms": 241739,
+    "end_ms": 243780,
+    "snippet": "तो हो गई और ड्राई फ्रूट भी ठंडे हो गए",
+    "start_time_text": "4:01",
+    "start_time_label": "4:01"
+   },
+   {
+    "start_ms": 243780,
+    "end_ms": 246120,
+    "snippet": "हैं तो उनको फटाफट से चाकू से चोप कर लेते",
+    "start_time_text": "4:03",
+    "start_time_label": "4:03"
+   },
+   {
+    "start_ms": 246120,
+    "end_ms": 248519,
+    "snippet": "हैं ऐसे मैं तो इनको चोप कर रहा हूं एकदम",
+    "start_time_text": "4:06",
+    "start_time_label": "4:06"
+   },
+   {
+    "start_ms": 248519,
+    "end_ms": 250739,
+    "snippet": "फली चोप कर रहा हूं फाइन कुछ भी नहीं करना",
+    "start_time_text": "4:08",
+    "start_time_label": "4:08"
+   },
+   {
+    "start_ms": 250739,
+    "end_ms": 253019,
+    "snippet": "आप बस इनको rafali चोप कर लेना और एकदम",
+    "start_time_text": "4:10",
+    "start_time_label": "4:10"
+   },
+   {
+    "start_ms": 253019,
+    "end_ms": 255900,
+    "snippet": "बढ़िया से ड्राई फ्रूट्स तैयार है गुजिया",
+    "start_time_text": "4:13",
+    "start_time_label": "4:13"
+   },
+   {
+    "start_ms": 255900,
+    "end_ms": 258359,
+    "snippet": "में जाने के लिए अच्छा अब लास्ट स्टेप",
+    "start_time_text": "4:15",
+    "start_time_label": "4:15"
+   },
+   {
+    "start_ms": 258359,
+    "end_ms": 260340,
+    "snippet": "रहता है तो मैंने कढ़ाई को अच्छे साफ कर",
+    "start_time_text": "4:18",
+    "start_time_label": "4:18"
+   },
+   {
+    "start_ms": 260340,
+    "end_ms": 262620,
+    "snippet": "लिया है और कढ़ाई को फिर से लो फ्लेम पर",
+    "start_time_text": "4:20",
+    "start_time_label": "4:20"
+   },
+   {
+    "start_ms": 262620,
+    "end_ms": 265020,
+    "snippet": "ही रखा है और इस लो फ्लेम पे मैं यहां पर",
+    "start_time_text": "4:22",
+    "start_time_label": "4:22"
+   },
+   {
+    "start_ms": 265020,
+    "end_ms": 269120,
+    "snippet": "लगभग आधा किलो मावा डालने वाला",
+    "start_time_text": "4:25",
+    "start_time_label": "4:25"
+   },
+   {
+    "start_ms": 269720,
+    "end_ms": 273060,
+    "snippet": "आधा किलो यहां पर खोया डालेंगे और खोया",
+    "start_time_text": "4:29",
+    "start_time_label": "4:29"
+   },
+   {
+    "start_ms": 273060,
+    "end_ms": 275400,
+    "snippet": "जैसे ही थोड़ा सा भून जाए हल्की हल्की सी",
+    "start_time_text": "4:33",
+    "start_time_label": "4:33"
+   },
+   {
+    "start_ms": 275400,
+    "end_ms": 278040,
+    "snippet": "bhunavat ए जाए फिर आप यहां पर किशमिश दल",
+    "start_time_text": "4:35",
+    "start_time_label": "4:35"
+   },
+   {
+    "start_ms": 278040,
+    "end_ms": 278960,
+    "snippet": "देना",
+    "start_time_text": "4:38",
+    "start_time_label": "4:38"
+   },
+   {
+    "start_ms": 278960,
+    "end_ms": 281580,
+    "snippet": "किशमिश के साथ साथ मैंने यहां पर दो-तीन",
+    "start_time_text": "4:38",
+    "start_time_label": "4:38"
+   },
+   {
+    "start_ms": 281580,
+    "end_ms": 284520,
+    "snippet": "इलायची का पाउडर डाला है अब गैस को बंद कर",
+    "start_time_text": "4:41",
+    "start_time_label": "4:41"
+   },
+   {
+    "start_ms": 284520,
+    "end_ms": 286979,
+    "snippet": "देना और अब बाकी chijen भी दल देना इस गरम",
+    "start_time_text": "4:44",
+    "start_time_label": "4:44"
+   },
+   {
+    "start_ms": 286979,
+    "end_ms": 289500,
+    "snippet": "गरम कोई में जैसे की ड्राई फ्रूट एंड",
+    "start_time_text": "4:46",
+    "start_time_label": "4:46"
+   },
+   {
+    "start_ms": 289500,
+    "end_ms": 291060,
+    "snippet": "ड्राई फ्रूट्स को अच्छे से मिला लेते हैं",
+    "start_time_text": "4:49",
+    "start_time_label": "4:49"
+   },
+   {
+    "start_ms": 291060,
+    "end_ms": 292979,
+    "snippet": "कोई के साथ ताकि सारी की तरफ ड्राई",
+    "start_time_text": "4:51",
+    "start_time_label": "4:51"
+   },
+   {
+    "start_ms": 292979,
+    "end_ms": 295940,
+    "snippet": "फ्रूट्स अच्छे से फैल जाए",
+    "start_time_text": "4:52",
+    "start_time_label": "4:52"
+   },
+   {
+    "start_ms": 296520,
+    "end_ms": 299699,
+    "snippet": "फिर आप यहां पर लगभग एक कप तक पूरा या एक",
+    "start_time_text": "4:56",
+    "start_time_label": "4:56"
+   },
+   {
+    "start_ms": 299699,
+    "end_ms": 301500,
+    "snippet": "कप चीनी दोनों में से आप कोई भी दल देना",
+    "start_time_text": "4:59",
+    "start_time_label": "4:59"
+   },
+   {
+    "start_ms": 301500,
+    "end_ms": 304500,
+    "snippet": "और इसको भी पहले कोई के साथ अच्छे से मिला",
+    "start_time_text": "5:01",
+    "start_time_label": "5:01"
+   },
+   {
+    "start_ms": 304500,
+    "end_ms": 306479,
+    "snippet": "लेना",
+    "start_time_text": "5:04",
+    "start_time_label": "5:04"
+   },
+   {
+    "start_ms": 306479,
+    "end_ms": 310139,
+    "snippet": "अभी खोया गरम है तो अगर चीनी खड़ी जाएगी",
+    "start_time_text": "5:06",
+    "start_time_label": "5:06"
+   },
+   {
+    "start_ms": 310139,
+    "end_ms": 314900,
+    "snippet": "और ऐसे चीनी सारी तरफ अच्छे से फैल जाएगी",
+    "start_time_text": "5:10",
+    "start_time_label": "5:10"
+   },
+   {
+    "start_ms": 315000,
+    "end_ms": 317520,
+    "snippet": "फिर आपने यहां पर सूखा नारियल भी दल देना",
+    "start_time_text": "5:15",
+    "start_time_label": "5:15"
+   },
+   {
+    "start_ms": 317520,
+    "end_ms": 319500,
+    "snippet": "है उसको भी कोई के साथ अच्छे से मिला देना",
+    "start_time_text": "5:17",
+    "start_time_label": "5:17"
+   },
+   {
+    "start_ms": 319500,
+    "end_ms": 322199,
+    "snippet": "और अब लास्ट चीज ध्यान रहे ये सारी chijen",
+    "start_time_text": "5:19",
+    "start_time_label": "5:19"
+   },
+   {
+    "start_ms": 322199,
+    "end_ms": 324600,
+    "snippet": "मैंने गरम कोई में ही डाली है लास्ट चीज",
+    "start_time_text": "5:22",
+    "start_time_label": "5:22"
+   },
+   {
+    "start_ms": 324600,
+    "end_ms": 327180,
+    "snippet": "आपने डालनी है सूजी भुनी हुई सूजी आप यहां",
+    "start_time_text": "5:24",
+    "start_time_label": "5:24"
+   },
+   {
+    "start_ms": 327180,
+    "end_ms": 330240,
+    "snippet": "पर डालना और उसको भी हुए के साथ इन सारी",
+    "start_time_text": "5:27",
+    "start_time_label": "5:27"
+   },
+   {
+    "start_ms": 330240,
+    "end_ms": 334639,
+    "snippet": "बढ़िया चीजों के साथ अच्छे से मिला लेना",
+    "start_time_text": "5:30",
+    "start_time_label": "5:30"
+   },
+   {
+    "start_ms": 334740,
+    "end_ms": 336720,
+    "snippet": "मैंने यहां पर थोड़ी मोती सूजी उसे कारी",
+    "start_time_text": "5:34",
+    "start_time_label": "5:34"
+   },
+   {
+    "start_ms": 336720,
+    "end_ms": 339240,
+    "snippet": "है तो सूजी भी यहां पर फूल जाएगी और एकदम",
+    "start_time_text": "5:36",
+    "start_time_label": "5:36"
+   },
+   {
+    "start_ms": 339240,
+    "end_ms": 342120,
+    "snippet": "गल जाएगी तो बस सब कुछ अच्छे से मिलने के",
+    "start_time_text": "5:39",
+    "start_time_label": "5:39"
+   },
+   {
+    "start_ms": 342120,
+    "end_ms": 343860,
+    "snippet": "बाद इसको थोड़ी देर के लिए ठंडा होने के",
+    "start_time_text": "5:42",
+    "start_time_label": "5:42"
+   },
+   {
+    "start_ms": 343860,
+    "end_ms": 345660,
+    "snippet": "लिए रख देते हैं जब तक हम देखते हैं की",
+    "start_time_text": "5:43",
+    "start_time_label": "5:43"
+   },
+   {
+    "start_ms": 345660,
+    "end_ms": 348180,
+    "snippet": "हमारे आरटीआई का क्या हाल है",
+    "start_time_text": "5:45",
+    "start_time_label": "5:45"
+   },
+   {
+    "start_ms": 348180,
+    "end_ms": 351060,
+    "snippet": "आप देख सकते हो की अब काफी नरम हो गया है",
+    "start_time_text": "5:48",
+    "start_time_label": "5:48"
+   },
+   {
+    "start_ms": 351060,
+    "end_ms": 354600,
+    "snippet": "कहां इतना सख्त आता था और कहां इतना नरम",
+    "start_time_text": "5:51",
+    "start_time_label": "5:51"
+   },
+   {
+    "start_ms": 354600,
+    "end_ms": 356240,
+    "snippet": "आता हो गया",
+    "start_time_text": "5:54",
+    "start_time_label": "5:54"
+   },
+   {
+    "start_ms": 356240,
+    "end_ms": 359720,
+    "snippet": "स्मूथ कर लेता हूं",
+    "start_time_text": "5:56",
+    "start_time_label": "5:56"
+   },
+   {
+    "start_ms": 359720,
+    "end_ms": 364220,
+    "snippet": "और अब इसके आपको सरेंडर बनाने",
+    "start_time_text": "5:59",
+    "start_time_label": "5:59"
+   },
+   {
+    "start_ms": 365240,
+    "end_ms": 368520,
+    "snippet": "और उसको पतला पतला लंबा कर देना यकीन से",
+    "start_time_text": "6:05",
+    "start_time_label": "6:05"
+   },
+   {
+    "start_ms": 368520,
+    "end_ms": 371520,
+    "snippet": "हम छूट भी छोटी लोहिया निकल पाए",
+    "start_time_text": "6:08",
+    "start_time_label": "6:08"
+   },
+   {
+    "start_ms": 371520,
+    "end_ms": 373979,
+    "snippet": "मैं तो इसको ऐसे कर लेता हूं और बस इक्वल",
+    "start_time_text": "6:11",
+    "start_time_label": "6:11"
+   },
+   {
+    "start_ms": 373979,
+    "end_ms": 376440,
+    "snippet": "साइज की लोहिया तोड़ लेता हूं बस अपने",
+    "start_time_text": "6:13",
+    "start_time_label": "6:13"
+   },
+   {
+    "start_ms": 376440,
+    "end_ms": 378840,
+    "snippet": "हाथों में ऐसे मल के आप इसको स्मूथ आउट कर",
+    "start_time_text": "6:16",
+    "start_time_label": "6:16"
+   },
+   {
+    "start_ms": 378840,
+    "end_ms": 381180,
+    "snippet": "लेना और आपकी जो एक-एक गुजिया का पेड़ा है",
+    "start_time_text": "6:18",
+    "start_time_label": "6:18"
+   },
+   {
+    "start_ms": 381180,
+    "end_ms": 384360,
+    "snippet": "आप ऐसे पहले बना लेना ताकि आपको बेलने में",
+    "start_time_text": "6:21",
+    "start_time_label": "6:21"
+   },
+   {
+    "start_ms": 384360,
+    "end_ms": 386639,
+    "snippet": "भी आसानी हो और गुजिया बनाने में भी आसानी",
+    "start_time_text": "6:24",
+    "start_time_label": "6:24"
+   },
+   {
+    "start_ms": 386639,
+    "end_ms": 389160,
+    "snippet": "तो एक-एक करके मैंने ऐसे सारे पेड़े रख ली",
+    "start_time_text": "6:26",
+    "start_time_label": "6:26"
+   },
+   {
+    "start_ms": 389160,
+    "end_ms": 391699,
+    "snippet": "है बना के",
+    "start_time_text": "6:29",
+    "start_time_label": "6:29"
+   },
+   {
+    "start_ms": 392940,
+    "end_ms": 395280,
+    "snippet": "और अब आपको इसको बेलने की भी तकनीक बता",
+    "start_time_text": "6:32",
+    "start_time_label": "6:32"
+   },
+   {
+    "start_ms": 395280,
+    "end_ms": 397979,
+    "snippet": "देता हूं बहुत सिंपल है आपको यहां पर सूखा",
+    "start_time_text": "6:35",
+    "start_time_label": "6:35"
+   },
+   {
+    "start_ms": 397979,
+    "end_ms": 400560,
+    "snippet": "आता या तेल लगाने की कोई जरूरत नहीं है आप",
+    "start_time_text": "6:37",
+    "start_time_label": "6:37"
+   },
+   {
+    "start_ms": 400560,
+    "end_ms": 403139,
+    "snippet": "बस बेलन से एक बारी बेला और फिर इसको उठा",
+    "start_time_text": "6:40",
+    "start_time_label": "6:40"
+   },
+   {
+    "start_ms": 403139,
+    "end_ms": 405539,
+    "snippet": "के थोड़ा सा घुमा देना फिर बिना फिर उठा",
+    "start_time_text": "6:43",
+    "start_time_label": "6:43"
+   },
+   {
+    "start_ms": 405539,
+    "end_ms": 408060,
+    "snippet": "के थोड़ा सा घुमा देना फिर बेलना और फिर",
+    "start_time_text": "6:45",
+    "start_time_label": "6:45"
+   },
+   {
+    "start_ms": 408060,
+    "end_ms": 410759,
+    "snippet": "उठा के थोड़ा सा घुमा देना ऐसे नाप की",
+    "start_time_text": "6:48",
+    "start_time_label": "6:48"
+   },
+   {
+    "start_ms": 410759,
+    "end_ms": 413220,
+    "snippet": "सरफेस से आता chipakega और एकदम एवं सा",
+    "start_time_text": "6:50",
+    "start_time_label": "6:50"
+   },
+   {
+    "start_ms": 413220,
+    "end_ms": 415740,
+    "snippet": "बनकर आएगा मतलब एकदम एवं नहीं मिलेगा तो",
+    "start_time_text": "6:53",
+    "start_time_label": "6:53"
+   },
+   {
+    "start_ms": 415740,
+    "end_ms": 418139,
+    "snippet": "ऐसे एक करके पहले सारी बेल लेता हूं ताकि",
+    "start_time_text": "6:55",
+    "start_time_label": "6:55"
+   },
+   {
+    "start_ms": 418139,
+    "end_ms": 421380,
+    "snippet": "मैं गुजिया बाद में बहुत फास्ट बना हूं और",
+    "start_time_text": "6:58",
+    "start_time_label": "6:58"
+   },
+   {
+    "start_ms": 421380,
+    "end_ms": 423419,
+    "snippet": "अब गुजिया बनाना तो बहुत आसान है तो एक",
+    "start_time_text": "7:01",
+    "start_time_label": "7:01"
+   },
+   {
+    "start_ms": 423419,
+    "end_ms": 425340,
+    "snippet": "गुजिया मेकर मैंने यहां पर लिया है गुजिया",
+    "start_time_text": "7:03",
+    "start_time_label": "7:03"
+   },
+   {
+    "start_ms": 425340,
+    "end_ms": 427319,
+    "snippet": "mold usmein आपने यहां पर जो अपने रोटी",
+    "start_time_text": "7:05",
+    "start_time_label": "7:05"
+   },
+   {
+    "start_ms": 427319,
+    "end_ms": 429960,
+    "snippet": "बेली थी वो आप रखना और जो कोने हैं आप",
+    "start_time_text": "7:07",
+    "start_time_label": "7:07"
+   },
+   {
+    "start_ms": 429960,
+    "end_ms": 432560,
+    "snippet": "यहां पर कोणों में पानी लगा देना अच्छे से",
+    "start_time_text": "7:09",
+    "start_time_label": "7:09"
+   },
+   {
+    "start_ms": 432560,
+    "end_ms": 435840,
+    "snippet": "अब बस अब आपने स्टफिंग डालनी है पर ध्यान",
+    "start_time_text": "7:12",
+    "start_time_label": "7:12"
+   },
+   {
+    "start_ms": 435840,
+    "end_ms": 437940,
+    "snippet": "रहे स्टफिंग आप बहुत ज्यादा बिल्कुल मत",
+    "start_time_text": "7:15",
+    "start_time_label": "7:15"
+   },
+   {
+    "start_ms": 437940,
+    "end_ms": 440699,
+    "snippet": "डालना अगर आप बहुत ज्यादा दल दोगे तो फटने",
+    "start_time_text": "7:17",
+    "start_time_label": "7:17"
+   },
+   {
+    "start_ms": 440699,
+    "end_ms": 442319,
+    "snippet": "के चांसेस बहुत ज्यादा हो जाते हैं",
+    "start_time_text": "7:20",
+    "start_time_label": "7:20"
+   },
+   {
+    "start_ms": 442319,
+    "end_ms": 445020,
+    "snippet": "क्योंकि एक फेस चाहिए इसमें मोईन है तो",
+    "start_time_text": "7:22",
+    "start_time_label": "7:22"
+   },
+   {
+    "start_ms": 445020,
+    "end_ms": 447000,
+    "snippet": "थोड़ा सा जो मैदा है वो phoolta है तो ऐसे",
+    "start_time_text": "7:25",
+    "start_time_label": "7:25"
+   },
+   {
+    "start_ms": 447000,
+    "end_ms": 448979,
+    "snippet": "गुजिया के फटने के चांसेस बहुत ज्यादा हो",
+    "start_time_text": "7:27",
+    "start_time_label": "7:27"
+   },
+   {
+    "start_ms": 448979,
+    "end_ms": 451319,
+    "snippet": "जाते हैं तो बस अब ऐसे गुजिया mold को",
+    "start_time_text": "7:28",
+    "start_time_label": "7:28"
+   },
+   {
+    "start_ms": 451319,
+    "end_ms": 453479,
+    "snippet": "पहले क्लोज करना और जितना भी प्रक्रिया है",
+    "start_time_text": "7:31",
+    "start_time_label": "7:31"
+   },
+   {
+    "start_ms": 453479,
+    "end_ms": 456440,
+    "snippet": "उसको निकल",
+    "start_time_text": "7:33",
+    "start_time_label": "7:33"
+   },
+   {
+    "start_ms": 459539,
+    "end_ms": 462060,
+    "snippet": "देना और आपको फिर एकदम परफेक्ट गुजिया मिल",
+    "start_time_text": "7:39",
+    "start_time_label": "7:39"
+   },
+   {
+    "start_ms": 462060,
+    "end_ms": 465539,
+    "snippet": "जाएगी है ना बहुत सिंपल ऐसे ही एक-एक करके",
+    "start_time_text": "7:42",
+    "start_time_label": "7:42"
+   },
+   {
+    "start_ms": 465539,
+    "end_ms": 468120,
+    "snippet": "मैंने सारी गुजिया बना ली है और कोणों में",
+    "start_time_text": "7:45",
+    "start_time_label": "7:45"
+   },
+   {
+    "start_ms": 468120,
+    "end_ms": 470580,
+    "snippet": "पानी लगाना है और अंदर स्टफिंग भर के इसको",
+    "start_time_text": "7:48",
+    "start_time_label": "7:48"
+   },
+   {
+    "start_ms": 470580,
+    "end_ms": 473520,
+    "snippet": "क्लोज कर लेना है और जितना XX हो वो आप",
+    "start_time_text": "7:50",
+    "start_time_label": "7:50"
+   },
+   {
+    "start_ms": 473520,
+    "end_ms": 476580,
+    "snippet": "उसको निकल लेना और ऐसे ही एक-एक करके आप",
+    "start_time_text": "7:53",
+    "start_time_label": "7:53"
+   },
+   {
+    "start_ms": 476580,
+    "end_ms": 479759,
+    "snippet": "यहां पर सारी गुजिया बना लेना",
+    "start_time_text": "7:56",
+    "start_time_label": "7:56"
+   },
+   {
+    "start_ms": 479759,
+    "end_ms": 482940,
+    "snippet": "अब आते हैं फ्राय करने की बात पे फ्राय",
+    "start_time_text": "7:59",
+    "start_time_label": "7:59"
+   },
+   {
+    "start_ms": 482940,
+    "end_ms": 484919,
+    "snippet": "करने में कुछ बातों का आपको ध्यान देना है",
+    "start_time_text": "8:02",
+    "start_time_label": "8:02"
+   },
+   {
+    "start_ms": 484919,
+    "end_ms": 486900,
+    "snippet": "अब कई लोग क्या करते हैं की जब padhaai",
+    "start_time_text": "8:04",
+    "start_time_label": "8:04"
+   },
+   {
+    "start_ms": 486900,
+    "end_ms": 488639,
+    "snippet": "लेते हैं तो कढ़ाई में तेल डालते हैं",
+    "start_time_text": "8:06",
+    "start_time_label": "8:06"
+   },
+   {
+    "start_ms": 488639,
+    "end_ms": 491099,
+    "snippet": "लेकिन बहुत सारी गुजिया एक साथ नहीं चलते",
+    "start_time_text": "8:08",
+    "start_time_label": "8:08"
+   },
+   {
+    "start_ms": 491099,
+    "end_ms": 495379,
+    "snippet": "बस तीन-चार गुजिया डालते हैं गरम तेल में",
+    "start_time_text": "8:11",
+    "start_time_label": "8:11"
+   },
+   {
+    "start_ms": 496139,
+    "end_ms": 499139,
+    "snippet": "तेल उससे ना तो सेट होता है और गुजिया ऐसी",
+    "start_time_text": "8:16",
+    "start_time_label": "8:16"
+   },
+   {
+    "start_ms": 499139,
+    "end_ms": 501660,
+    "snippet": "हो जाती है यानी की usmein ऐसे-ऐसे बबल्स",
+    "start_time_text": "8:19",
+    "start_time_label": "8:19"
+   },
+   {
+    "start_ms": 501660,
+    "end_ms": 503520,
+    "snippet": "ए जाते हैं ऐसे ऐसे निशान ए जाते हैं और",
+    "start_time_text": "8:21",
+    "start_time_label": "8:21"
+   },
+   {
+    "start_ms": 503520,
+    "end_ms": 505740,
+    "snippet": "सही से बिल्कुल भी नहीं पकते तो ये तो बैच",
+    "start_time_text": "8:23",
+    "start_time_label": "8:23"
+   },
+   {
+    "start_ms": 505740,
+    "end_ms": 508259,
+    "snippet": "पूरा खराब हो चुका है तो ध्यान रहे तेल",
+    "start_time_text": "8:25",
+    "start_time_label": "8:25"
+   },
+   {
+    "start_ms": 508259,
+    "end_ms": 510660,
+    "snippet": "आपको एकदम गरम चाहिए और आप काफी सारी",
+    "start_time_text": "8:28",
+    "start_time_label": "8:28"
+   },
+   {
+    "start_ms": 510660,
+    "end_ms": 513120,
+    "snippet": "gujiyae एक साथ डालना ताकि टेंपरेचर ड्रॉप",
+    "start_time_text": "8:30",
+    "start_time_label": "8:30"
+   },
+   {
+    "start_ms": 513120,
+    "end_ms": 515760,
+    "snippet": "हो जाए और गुजिया को हम लो फ्लेम पे आराम",
+    "start_time_text": "8:33",
+    "start_time_label": "8:33"
+   },
+   {
+    "start_ms": 515760,
+    "end_ms": 518399,
+    "snippet": "से पका पाएं गरम तेल में आपने गुजिया",
+    "start_time_text": "8:35",
+    "start_time_label": "8:35"
+   },
+   {
+    "start_ms": 518399,
+    "end_ms": 522200,
+    "snippet": "डालनी है काफी सारी एक साथ डालनी है",
+    "start_time_text": "8:38",
+    "start_time_label": "8:38"
+   },
+   {
+    "start_ms": 522419,
+    "end_ms": 524880,
+    "snippet": "और फिर गैस को लो करना है और लो फ्लेम पे",
+    "start_time_text": "8:42",
+    "start_time_label": "8:42"
+   },
+   {
+    "start_ms": 524880,
+    "end_ms": 527580,
+    "snippet": "आराम से आप इनको अपनी के लिए छोड़ देना",
+    "start_time_text": "8:44",
+    "start_time_label": "8:44"
+   },
+   {
+    "start_ms": 527580,
+    "end_ms": 529980,
+    "snippet": "थोड़ा सा पेशेंट चाहिए गुजिया बनाने के",
+    "start_time_text": "8:47",
+    "start_time_label": "8:47"
+   },
+   {
+    "start_ms": 529980,
+    "end_ms": 532440,
+    "snippet": "लिए आराम से ही आप इसको पकाना लो फ्लेम पे",
+    "start_time_text": "8:49",
+    "start_time_label": "8:49"
+   },
+   {
+    "start_ms": 532440,
+    "end_ms": 536420,
+    "snippet": "ताकि अंदर तक अच्छे से पकता है",
+    "start_time_text": "8:52",
+    "start_time_label": "8:52"
+   },
+   {
+    "start_ms": 537019,
+    "end_ms": 540540,
+    "snippet": "10 मिनिट्स आपके सकते हो गुजिया बनकर पुरी",
+    "start_time_text": "8:57",
+    "start_time_label": "8:57"
+   },
+   {
+    "start_ms": 540540,
+    "end_ms": 542160,
+    "snippet": "तैयार हो जाएगी",
+    "start_time_text": "9:00",
+    "start_time_label": "9:00"
+   },
+   {
+    "start_ms": 542160,
+    "end_ms": 545459,
+    "snippet": "ऐसे ही मैंने दूसरा कर लिया है और इस",
+    "start_time_text": "9:02",
+    "start_time_label": "9:02"
+   },
+   {
+    "start_ms": 545459,
+    "end_ms": 547440,
+    "snippet": "दूसरे बैच में तो मैंने बहुत बिजी इतनी",
+    "start_time_text": "9:05",
+    "start_time_label": "9:05"
+   },
+   {
+    "start_ms": 547440,
+    "end_ms": 549480,
+    "snippet": "गुजिया बची थी वह भी यहां पर दल दिए यानी",
+    "start_time_text": "9:07",
+    "start_time_label": "9:07"
+   },
+   {
+    "start_ms": 549480,
+    "end_ms": 552180,
+    "snippet": "की एकदम भरकर बनाया है बीच-बीच में आप",
+    "start_time_text": "9:09",
+    "start_time_label": "9:09"
+   },
+   {
+    "start_ms": 552180,
+    "end_ms": 554760,
+    "snippet": "इसको आराम आराम से हल्का सैर करना ज्यादा",
+    "start_time_text": "9:12",
+    "start_time_label": "9:12"
+   },
+   {
+    "start_ms": 554760,
+    "end_ms": 556860,
+    "snippet": "मत करना आप कहीं बारी ऐसा होता है की",
+    "start_time_text": "9:14",
+    "start_time_label": "9:14"
+   },
+   {
+    "start_ms": 556860,
+    "end_ms": 558779,
+    "snippet": "कुछ-कुछ गुजिया जो है वो भैया मोड़ना",
+    "start_time_text": "9:16",
+    "start_time_label": "9:16"
+   },
+   {
+    "start_ms": 558779,
+    "end_ms": 560760,
+    "snippet": "चाहती ही नहीं है बिल्कुल जिद्दी होती है",
+    "start_time_text": "9:18",
+    "start_time_label": "9:18"
+   },
+   {
+    "start_ms": 560760,
+    "end_ms": 562740,
+    "snippet": "वो कहती है की हम तो एक ही तरफ रहेंगे तो",
+    "start_time_text": "9:20",
+    "start_time_label": "9:20"
+   },
+   {
+    "start_ms": 562740,
+    "end_ms": 565320,
+    "snippet": "उसको आप अपनी कर्ची की हेल्प से ऐसे पकड़",
+    "start_time_text": "9:22",
+    "start_time_label": "9:22"
+   },
+   {
+    "start_ms": 565320,
+    "end_ms": 567600,
+    "snippet": "कर रख सकते हो ताकि उसकी दोनों साइड अच्छे",
+    "start_time_text": "9:25",
+    "start_time_label": "9:25"
+   },
+   {
+    "start_ms": 567600,
+    "end_ms": 569640,
+    "snippet": "से पकता है अच्छा इतनी ज्यादा गुजिया",
+    "start_time_text": "9:27",
+    "start_time_label": "9:27"
+   },
+   {
+    "start_ms": 569640,
+    "end_ms": 571680,
+    "snippet": "डालने का एक बेनिफिट और है की गुजिया को",
+    "start_time_text": "9:29",
+    "start_time_label": "9:29"
+   },
+   {
+    "start_ms": 571680,
+    "end_ms": 573899,
+    "snippet": "इवनली पकाने का पूरा टाइम मिलता है यानी",
+    "start_time_text": "9:31",
+    "start_time_label": "9:31"
+   },
+   {
+    "start_ms": 573899,
+    "end_ms": 576360,
+    "snippet": "की दोनों sideon इवनली पकड़ पाती है ताकि",
+    "start_time_text": "9:33",
+    "start_time_label": "9:33"
+   },
+   {
+    "start_ms": 576360,
+    "end_ms": 579240,
+    "snippet": "गुजिया अंदर तक अच्छे से और हान अगर बीच",
+    "start_time_text": "9:36",
+    "start_time_label": "9:36"
+   },
+   {
+    "start_ms": 579240,
+    "end_ms": 581160,
+    "snippet": "में एक गुजिया आपको ऐसे लगता है की फैट",
+    "start_time_text": "9:39",
+    "start_time_label": "9:39"
+   },
+   {
+    "start_ms": 581160,
+    "end_ms": 583680,
+    "snippet": "रही है कोई भी एक आप उसको पहले ही निकल",
+    "start_time_text": "9:41",
+    "start_time_label": "9:41"
+   },
+   {
+    "start_ms": 583680,
+    "end_ms": 585779,
+    "snippet": "लेना नहीं तो आपका तेल खराब कर दी वो पूरा",
+    "start_time_text": "9:43",
+    "start_time_label": "9:43"
+   },
+   {
+    "start_ms": 585779,
+    "end_ms": 588240,
+    "snippet": "और गुजिया भी खराब कर देगी क्योंकि उसका",
+    "start_time_text": "9:45",
+    "start_time_label": "9:45"
+   },
+   {
+    "start_ms": 588240,
+    "end_ms": 590519,
+    "snippet": "अंदर की स्टफिंग है वो बाहर निकल कर",
+    "start_time_text": "9:48",
+    "start_time_label": "9:48"
+   },
+   {
+    "start_ms": 590519,
+    "end_ms": 592320,
+    "snippet": "गुजिया मिर्ची पाक जाएगी की आप देख सकते",
+    "start_time_text": "9:50",
+    "start_time_label": "9:50"
+   },
+   {
+    "start_ms": 592320,
+    "end_ms": 594060,
+    "snippet": "हो की पूरे प्रक्रिया में मेरी एक ही",
+    "start_time_text": "9:52",
+    "start_time_label": "9:52"
+   },
+   {
+    "start_ms": 594060,
+    "end_ms": 596399,
+    "snippet": "गुजिया फटी थी और उसको मैंने निकल कर पहले",
+    "start_time_text": "9:54",
+    "start_time_label": "9:54"
+   },
+   {
+    "start_ms": 596399,
+    "end_ms": 598440,
+    "snippet": "ही बाहर रख लिया आपने फ्राय करना है",
+    "start_time_text": "9:56",
+    "start_time_label": "9:56"
+   },
+   {
+    "start_ms": 598440,
+    "end_ms": 601260,
+    "snippet": "गोल्डन ब्राउन होने तक यहां जब तक ये ऐसे",
+    "start_time_text": "9:58",
+    "start_time_label": "9:58"
+   },
+   {
+    "start_ms": 601260,
+    "end_ms": 603110,
+    "snippet": "नहीं दिखने लग",
+    "start_time_text": "10:01",
+    "start_time_label": "10:01"
+   },
+   {
+    "start_ms": 603110,
+    "end_ms": 604279,
+    "snippet": "[संगीत]",
+    "start_time_text": "10:03",
+    "start_time_label": "10:03"
+   },
+   {
+    "start_ms": 604279,
+    "end_ms": 607860,
+    "snippet": "द और बस आपकी गुजिया बनकर पुरी तैयार",
+    "start_time_text": "10:04",
+    "start_time_label": "10:04"
+   },
+   {
+    "start_ms": 607860,
+    "end_ms": 610320,
+    "snippet": "थोड़ी देर इसको ठंडा कर लेना एकदम गरम गरम",
+    "start_time_text": "10:07",
+    "start_time_label": "10:07"
+   },
+   {
+    "start_ms": 610320,
+    "end_ms": 613019,
+    "snippet": "मत खाना जैसे यह ठंडी हो जाएंगी तो और",
+    "start_time_text": "10:10",
+    "start_time_label": "10:10"
+   },
+   {
+    "start_ms": 613019,
+    "end_ms": 615540,
+    "snippet": "खस्ता हो जाएंगी और आपको कुछ-कुछ ऐसी",
+    "start_time_text": "10:13",
+    "start_time_label": "10:13"
+   },
+   {
+    "start_ms": 615540,
+    "end_ms": 617899,
+    "snippet": "khujiyan",
+    "start_time_text": "10:15",
+    "start_time_label": "10:15"
+   },
+   {
+    "start_ms": 619339,
+    "end_ms": 622800,
+    "snippet": "khastagiya इसको होली में बनाना इस बार तो",
+    "start_time_text": "10:19",
+    "start_time_label": "10:19"
+   },
+   {
+    "start_ms": 622800,
+    "end_ms": 625680,
+    "snippet": "बिल्कुल बनता है होली पर घर पर जरूर बनाना",
+    "start_time_text": "10:22",
+    "start_time_label": "10:22"
+   },
+   {
+    "start_ms": 625680,
+    "end_ms": 628860,
+    "snippet": "है आप मिस बिल्कुल मत करना होली पे घर पे",
+    "start_time_text": "10:25",
+    "start_time_label": "10:25"
+   },
+   {
+    "start_ms": 628860,
+    "end_ms": 631880,
+    "snippet": "जरूर बनाना है",
+    "start_time_text": "10:28",
+    "start_time_label": "10:28"
+   }
+  ],
+  "available_transcripts": [
+   {
+    "language_code": "hi",
+    "type": "asr",
+    "selected": true,
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=hi&type=asr&v=fIebwiemcV8"
+   }
+  ]
+ }
+}

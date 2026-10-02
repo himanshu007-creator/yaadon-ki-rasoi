@@ -1,0 +1,913 @@
+{
+ "engine": "youtube_video_transcript",
+ "params": {
+  "v": "bMj0xPN8EwY",
+  "language_code": "hi"
+ },
+ "recordedAt": "2026-10-02T19:21:48.674Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac00446970121e1b032bfcf",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/Mir1r-muRT5h_b4lRE12feoL-v97FmWiWdBVoyFdEGg/6ac00446970121e1b032bfcf.md",
+   "created_at": "2026-10-02 19:21:42 UTC",
+   "processed_at": "2026-10-02 19:21:42 UTC",
+   "youtube_video_transcript_url": "https://www.youtube.com/watch?v=bMj0xPN8EwY",
+   "total_time_taken": 6.28
+  },
+  "search_parameters": {
+   "engine": "youtube_video_transcript",
+   "v": "bMj0xPN8EwY",
+   "language_code": "hi"
+  },
+  "transcript": [
+   {
+    "start_ms": 23452,
+    "end_ms": 26388,
+    "snippet": "Hello, I'm Yogambal Sundar.",
+    "start_time_text": "0:23",
+    "start_time_label": "0:23"
+   },
+   {
+    "start_ms": 27290,
+    "end_ms": 30468,
+    "snippet": "Today, we're going to prepare \"Adhirasam\"\nas it has been requested by many people.",
+    "start_time_text": "0:27",
+    "start_time_label": "0:27"
+   },
+   {
+    "start_ms": 31238,
+    "end_ms": 33086,
+    "snippet": "I'll tell you how to make it.",
+    "start_time_text": "0:31",
+    "start_time_label": "0:31"
+   },
+   {
+    "start_ms": 34262,
+    "end_ms": 37364,
+    "snippet": "You must've seen it in the intro,\nraw rice - 1 cup.",
+    "start_time_text": "0:34",
+    "start_time_label": "0:34"
+   },
+   {
+    "start_ms": 37660,
+    "end_ms": 40641,
+    "snippet": "I  soaked it in water\nfor 1 to 1 1/2 hours.",
+    "start_time_text": "0:37",
+    "start_time_label": "0:37"
+   },
+   {
+    "start_ms": 40721,
+    "end_ms": 45379,
+    "snippet": "I washed it well and soaked it in water.\nI have spread it out to dry, like this.",
+    "start_time_text": "0:40",
+    "start_time_label": "0:40"
+   },
+   {
+    "start_ms": 45754,
+    "end_ms": 49471,
+    "snippet": "It shouldn't be wet\nbut it should have moisture on it.",
+    "start_time_text": "0:45",
+    "start_time_label": "0:45"
+   },
+   {
+    "start_ms": 49551,
+    "end_ms": 52943,
+    "snippet": "When you grab it in your fist,\nit should clump like this.",
+    "start_time_text": "0:49",
+    "start_time_label": "0:49"
+   },
+   {
+    "start_ms": 53023,
+    "end_ms": 56674,
+    "snippet": "It should be dry like this\nbut at the same time have moisture.",
+    "start_time_text": "0:53",
+    "start_time_label": "0:53"
+   },
+   {
+    "start_ms": 57592,
+    "end_ms": 60342,
+    "snippet": "It's only because of that moisture\nare we able to clump it like this.",
+    "start_time_text": "0:57",
+    "start_time_label": "0:57"
+   },
+   {
+    "start_ms": 60825,
+    "end_ms": 63124,
+    "snippet": "Now, we'll grind it.",
+    "start_time_text": "1:00",
+    "start_time_label": "1:00"
+   },
+   {
+    "start_ms": 64300,
+    "end_ms": 66753,
+    "snippet": "You can see that\nI have grind it to a fine powder.",
+    "start_time_text": "1:04",
+    "start_time_label": "1:04"
+   },
+   {
+    "start_ms": 67006,
+    "end_ms": 68765,
+    "snippet": "We'll seive it now.",
+    "start_time_text": "1:07",
+    "start_time_label": "1:07"
+   },
+   {
+    "start_ms": 69711,
+    "end_ms": 72603,
+    "snippet": "You can grind it twice.",
+    "start_time_text": "1:09",
+    "start_time_label": "1:09"
+   },
+   {
+    "start_ms": 78432,
+    "end_ms": 81313,
+    "snippet": "I measured 1 cup of rice using this cup.",
+    "start_time_text": "1:18",
+    "start_time_label": "1:18"
+   },
+   {
+    "start_ms": 81687,
+    "end_ms": 85019,
+    "snippet": "I'll take 3/4 cup of jaggery\nusing the same cup and melt it.",
+    "start_time_text": "1:21",
+    "start_time_label": "1:21"
+   },
+   {
+    "start_ms": 90963,
+    "end_ms": 92819,
+    "snippet": "Just a 1/4 cup of water is enough.",
+    "start_time_text": "1:30",
+    "start_time_label": "1:30"
+   },
+   {
+    "start_ms": 93030,
+    "end_ms": 94843,
+    "snippet": "While it melts, we'll seive the flour.",
+    "start_time_text": "1:33",
+    "start_time_label": "1:33"
+   },
+   {
+    "start_ms": 99549,
+    "end_ms": 103280,
+    "snippet": "I have soaked it for 1 to 1 1/2 hours,",
+    "start_time_text": "1:39",
+    "start_time_label": "1:39"
+   },
+   {
+    "start_ms": 103456,
+    "end_ms": 106693,
+    "snippet": "then dried it for almost 20 minutes.",
+    "start_time_text": "1:43",
+    "start_time_label": "1:43"
+   },
+   {
+    "start_ms": 117321,
+    "end_ms": 120312,
+    "snippet": "If you're drying it under a fan,\nthen 10 minutes is good enough.",
+    "start_time_text": "1:57",
+    "start_time_label": "1:57"
+   },
+   {
+    "start_ms": 142360,
+    "end_ms": 144850,
+    "snippet": "I'll grind it in the mixer once more.",
+    "start_time_text": "2:22",
+    "start_time_label": "2:22"
+   },
+   {
+    "start_ms": 148940,
+    "end_ms": 153632,
+    "snippet": "For Adhirasam, always measure the jaggery\nto the raw rice and not to the rice flour,",
+    "start_time_text": "2:28",
+    "start_time_label": "2:28"
+   },
+   {
+    "start_ms": 153712,
+    "end_ms": 156012,
+    "snippet": "because the rice is wet.",
+    "start_time_text": "2:33",
+    "start_time_label": "2:33"
+   },
+   {
+    "start_ms": 156092,
+    "end_ms": 159839,
+    "snippet": "If you measure it to the rice flour,\nyou'll end up adding excess.",
+    "start_time_text": "2:36",
+    "start_time_label": "2:36"
+   },
+   {
+    "start_ms": 159919,
+    "end_ms": 162655,
+    "snippet": "Then the Adhirasam will become too soggy.",
+    "start_time_text": "2:39",
+    "start_time_label": "2:39"
+   },
+   {
+    "start_ms": 169394,
+    "end_ms": 170758,
+    "snippet": "Only this much.",
+    "start_time_text": "2:49",
+    "start_time_label": "2:49"
+   },
+   {
+    "start_ms": 171224,
+    "end_ms": 173758,
+    "snippet": "This is a bit extra,\nwe've seived the flour.",
+    "start_time_text": "2:51",
+    "start_time_label": "2:51"
+   },
+   {
+    "start_ms": 174304,
+    "end_ms": 176385,
+    "snippet": "Now, let's do the preparations.",
+    "start_time_text": "2:54",
+    "start_time_label": "2:54"
+   },
+   {
+    "start_ms": 177576,
+    "end_ms": 180138,
+    "snippet": "For making Adhirasam,\nthe two key factors are",
+    "start_time_text": "2:57",
+    "start_time_label": "2:57"
+   },
+   {
+    "start_ms": 180218,
+    "end_ms": 184822,
+    "snippet": "the jaggery's consistency\nand the quality of the rice flour.",
+    "start_time_text": "3:00",
+    "start_time_label": "3:00"
+   },
+   {
+    "start_ms": 185292,
+    "end_ms": 188682,
+    "snippet": "You'll find quality rice at the market,\nspecifically to make flour.",
+    "start_time_text": "3:05",
+    "start_time_label": "3:05"
+   },
+   {
+    "start_ms": 188943,
+    "end_ms": 191125,
+    "snippet": "It would be best if you use that.",
+    "start_time_text": "3:08",
+    "start_time_label": "3:08"
+   },
+   {
+    "start_ms": 192101,
+    "end_ms": 194986,
+    "snippet": "If the quality of rice is good and\nthe jaggery is in the right consistency,",
+    "start_time_text": "3:12",
+    "start_time_label": "3:12"
+   },
+   {
+    "start_ms": 195066,
+    "end_ms": 197248,
+    "snippet": "the right amount of jaggery is added",
+    "start_time_text": "3:15",
+    "start_time_label": "3:15"
+   },
+   {
+    "start_ms": 197485,
+    "end_ms": 201816,
+    "snippet": "and if you take it off the stove\nat the right consistency,",
+    "start_time_text": "3:17",
+    "start_time_label": "3:17"
+   },
+   {
+    "start_ms": 202080,
+    "end_ms": 203434,
+    "snippet": "It will certainly come out fine.",
+    "start_time_text": "3:22",
+    "start_time_label": "3:22"
+   },
+   {
+    "start_ms": 203857,
+    "end_ms": 207402,
+    "snippet": "Prepare the batter for Adhirasam,\none day in advance.",
+    "start_time_text": "3:23",
+    "start_time_label": "3:23"
+   },
+   {
+    "start_ms": 208555,
+    "end_ms": 211493,
+    "snippet": "If you make the Adhirasam the next day,\nit'll come out perfect.",
+    "start_time_text": "3:28",
+    "start_time_label": "3:28"
+   },
+   {
+    "start_ms": 212364,
+    "end_ms": 215338,
+    "snippet": "If you don't wish to do that",
+    "start_time_text": "3:32",
+    "start_time_label": "3:32"
+   },
+   {
+    "start_ms": 215418,
+    "end_ms": 219050,
+    "snippet": "then prepare the batter in the morning\nand make it in the evening.",
+    "start_time_text": "3:35",
+    "start_time_label": "3:35"
+   },
+   {
+    "start_ms": 220599,
+    "end_ms": 224460,
+    "snippet": "It is made best when the batter is\nallowed to rest for 10 to 12 hours.",
+    "start_time_text": "3:40",
+    "start_time_label": "3:40"
+   },
+   {
+    "start_ms": 224540,
+    "end_ms": 228517,
+    "snippet": "Also, on the day it is made,\nit'll be crisp.",
+    "start_time_text": "3:44",
+    "start_time_label": "3:44"
+   },
+   {
+    "start_ms": 229713,
+    "end_ms": 232563,
+    "snippet": "Don't worry that it's so crispy.",
+    "start_time_text": "3:49",
+    "start_time_label": "3:49"
+   },
+   {
+    "start_ms": 233901,
+    "end_ms": 236918,
+    "snippet": "After a day, it'll become soft.",
+    "start_time_text": "3:53",
+    "start_time_label": "3:53"
+   },
+   {
+    "start_ms": 236998,
+    "end_ms": 238907,
+    "snippet": "The jaggery has melted,\nlet's sieve it too.",
+    "start_time_text": "3:56",
+    "start_time_label": "3:56"
+   },
+   {
+    "start_ms": 285558,
+    "end_ms": 288690,
+    "snippet": "I have told you about the consistency\nof jaggery in a previous video.",
+    "start_time_text": "4:45",
+    "start_time_label": "4:45"
+   },
+   {
+    "start_ms": 289860,
+    "end_ms": 292355,
+    "snippet": "I'll show it to you once again.",
+    "start_time_text": "4:49",
+    "start_time_label": "4:49"
+   },
+   {
+    "start_ms": 293502,
+    "end_ms": 296554,
+    "snippet": "I have kept water with me\nin a bowl for that purpose.",
+    "start_time_text": "4:53",
+    "start_time_label": "4:53"
+   },
+   {
+    "start_ms": 297769,
+    "end_ms": 301818,
+    "snippet": "Don't worry that the quantity of jaggery\nis very less compared to the flour.",
+    "start_time_text": "4:57",
+    "start_time_label": "4:57"
+   },
+   {
+    "start_ms": 302045,
+    "end_ms": 304499,
+    "snippet": "Don't end up adding\nexcess jaggery because of that.",
+    "start_time_text": "5:02",
+    "start_time_label": "5:02"
+   },
+   {
+    "start_ms": 314352,
+    "end_ms": 316314,
+    "snippet": "You can see that it's spreading.",
+    "start_time_text": "5:14",
+    "start_time_label": "5:14"
+   },
+   {
+    "start_ms": 316394,
+    "end_ms": 318637,
+    "snippet": "This consistency won't work.",
+    "start_time_text": "5:16",
+    "start_time_label": "5:16"
+   },
+   {
+    "start_ms": 320449,
+    "end_ms": 322459,
+    "snippet": "It needs to simmer a bit more.",
+    "start_time_text": "5:20",
+    "start_time_label": "5:20"
+   },
+   {
+    "start_ms": 335581,
+    "end_ms": 336997,
+    "snippet": "I have reduced the flame.",
+    "start_time_text": "5:35",
+    "start_time_label": "5:35"
+   },
+   {
+    "start_ms": 345188,
+    "end_ms": 346762,
+    "snippet": "If you hold it like this,\nyou can roll it well.",
+    "start_time_text": "5:45",
+    "start_time_label": "5:45"
+   },
+   {
+    "start_ms": 347889,
+    "end_ms": 349006,
+    "snippet": "See that?",
+    "start_time_text": "5:47",
+    "start_time_label": "5:47"
+   },
+   {
+    "start_ms": 349657,
+    "end_ms": 350827,
+    "snippet": "It should be like this.",
+    "start_time_text": "5:49",
+    "start_time_label": "5:49"
+   },
+   {
+    "start_ms": 356801,
+    "end_ms": 358833,
+    "snippet": "1/4 tsp dry ginger powder.",
+    "start_time_text": "5:56",
+    "start_time_label": "5:56"
+   },
+   {
+    "start_ms": 364331,
+    "end_ms": 365730,
+    "snippet": "1/4 tsp cardamom powder.",
+    "start_time_text": "6:04",
+    "start_time_label": "6:04"
+   },
+   {
+    "start_ms": 373032,
+    "end_ms": 374897,
+    "snippet": "Now, we gently add the flour.",
+    "start_time_text": "6:13",
+    "start_time_label": "6:13"
+   },
+   {
+    "start_ms": 381997,
+    "end_ms": 383290,
+    "snippet": "I have turned off the stove.",
+    "start_time_text": "6:21",
+    "start_time_label": "6:21"
+   },
+   {
+    "start_ms": 390522,
+    "end_ms": 393575,
+    "snippet": "It will be liquid like this\nimmediately upon making.",
+    "start_time_text": "6:30",
+    "start_time_label": "6:30"
+   },
+   {
+    "start_ms": 394516,
+    "end_ms": 397516,
+    "snippet": "I'm showing you a batter\nthat has been stored for a day.",
+    "start_time_text": "6:34",
+    "start_time_label": "6:34"
+   },
+   {
+    "start_ms": 398422,
+    "end_ms": 400314,
+    "snippet": "It thickens upon cooling down.",
+    "start_time_text": "6:38",
+    "start_time_label": "6:38"
+   },
+   {
+    "start_ms": 400938,
+    "end_ms": 402487,
+    "snippet": "In this...",
+    "start_time_text": "6:40",
+    "start_time_label": "6:40"
+   },
+   {
+    "start_ms": 405751,
+    "end_ms": 408830,
+    "snippet": "I'm adding 1 tsp of gingelly oil.",
+    "start_time_text": "6:45",
+    "start_time_label": "6:45"
+   },
+   {
+    "start_ms": 411944,
+    "end_ms": 413519,
+    "snippet": "1 tsp of ghee.",
+    "start_time_text": "6:51",
+    "start_time_label": "6:51"
+   },
+   {
+    "start_ms": 416818,
+    "end_ms": 418358,
+    "snippet": "I've only added 1 teaspoon.",
+    "start_time_text": "6:56",
+    "start_time_label": "6:56"
+   },
+   {
+    "start_ms": 420355,
+    "end_ms": 423355,
+    "snippet": "These measurements\ncannot be explained in grams.",
+    "start_time_text": "7:00",
+    "start_time_label": "7:00"
+   },
+   {
+    "start_ms": 423874,
+    "end_ms": 427569,
+    "snippet": "It's all measured  in comparison\nwith the cup you use to measure the flour.",
+    "start_time_text": "7:03",
+    "start_time_label": "7:03"
+   },
+   {
+    "start_ms": 428721,
+    "end_ms": 431686,
+    "snippet": "1 cup of whatever cup\nyou use to measure the rice.",
+    "start_time_text": "7:08",
+    "start_time_label": "7:08"
+   },
+   {
+    "start_ms": 432038,
+    "end_ms": 434062,
+    "snippet": "Take 3/4 cup of jaggery\nusing the same cup.",
+    "start_time_text": "7:12",
+    "start_time_label": "7:12"
+   },
+   {
+    "start_ms": 434704,
+    "end_ms": 438414,
+    "snippet": "The jaggery should be of this consistency\nwhere it can be rolled into balls.",
+    "start_time_text": "7:14",
+    "start_time_label": "7:14"
+   },
+   {
+    "start_ms": 438615,
+    "end_ms": 440647,
+    "snippet": "This is ready now. Let it cool.",
+    "start_time_text": "7:18",
+    "start_time_label": "7:18"
+   },
+   {
+    "start_ms": 441192,
+    "end_ms": 442617,
+    "snippet": "It's too hot to touch now.",
+    "start_time_text": "7:21",
+    "start_time_label": "7:21"
+   },
+   {
+    "start_ms": 443163,
+    "end_ms": 447271,
+    "snippet": "If possible, I'll try and make\none Adhirasam using this batter.",
+    "start_time_text": "7:23",
+    "start_time_label": "7:23"
+   },
+   {
+    "start_ms": 447808,
+    "end_ms": 449770,
+    "snippet": "I've added oil, we'll allow it to heat.",
+    "start_time_text": "7:27",
+    "start_time_label": "7:27"
+   },
+   {
+    "start_ms": 450122,
+    "end_ms": 452304,
+    "snippet": "This is the batter I prepared yesterday.",
+    "start_time_text": "7:30",
+    "start_time_label": "7:30"
+   },
+   {
+    "start_ms": 452735,
+    "end_ms": 455893,
+    "snippet": "It was so runny,\nsee how thick it is now.",
+    "start_time_text": "7:32",
+    "start_time_label": "7:32"
+   },
+   {
+    "start_ms": 456632,
+    "end_ms": 458972,
+    "snippet": "As always,\nwith the blessings of Lord Ganesha.",
+    "start_time_text": "7:36",
+    "start_time_label": "7:36"
+   },
+   {
+    "start_ms": 460283,
+    "end_ms": 461656,
+    "snippet": "We'll offer one to him first.",
+    "start_time_text": "7:40",
+    "start_time_label": "7:40"
+   },
+   {
+    "start_ms": 462227,
+    "end_ms": 466626,
+    "snippet": "Making Adhirasam is not an easy task.",
+    "start_time_text": "7:42",
+    "start_time_label": "7:42"
+   },
+   {
+    "start_ms": 467304,
+    "end_ms": 469697,
+    "snippet": "It's something that\nputs everybody to task.",
+    "start_time_text": "7:47",
+    "start_time_label": "7:47"
+   },
+   {
+    "start_ms": 470260,
+    "end_ms": 473532,
+    "snippet": "Even if I'm making it for myself,\nI'll need His blessings to make it.",
+    "start_time_text": "7:50",
+    "start_time_label": "7:50"
+   },
+   {
+    "start_ms": 475758,
+    "end_ms": 477958,
+    "snippet": "If you're wondering how I can say that,",
+    "start_time_text": "7:55",
+    "start_time_label": "7:55"
+   },
+   {
+    "start_ms": 478468,
+    "end_ms": 480104,
+    "snippet": "well, even an elephant can slip and fall.",
+    "start_time_text": "7:58",
+    "start_time_label": "7:58"
+   },
+   {
+    "start_ms": 482172,
+    "end_ms": 484503,
+    "snippet": "Make such small balls.",
+    "start_time_text": "8:02",
+    "start_time_label": "8:02"
+   },
+   {
+    "start_ms": 489852,
+    "end_ms": 495093,
+    "snippet": "We've applied oil on this sheet.",
+    "start_time_text": "8:09",
+    "start_time_label": "8:09"
+   },
+   {
+    "start_ms": 505619,
+    "end_ms": 509050,
+    "snippet": "This is to press it evenly.",
+    "start_time_text": "8:25",
+    "start_time_label": "8:25"
+   },
+   {
+    "start_ms": 514355,
+    "end_ms": 516960,
+    "snippet": "Make it as big as you want.",
+    "start_time_text": "8:34",
+    "start_time_label": "8:34"
+   },
+   {
+    "start_ms": 522836,
+    "end_ms": 525282,
+    "snippet": "Let the oil heat for some more time.\nIt should be very hot.",
+    "start_time_text": "8:42",
+    "start_time_label": "8:42"
+   },
+   {
+    "start_ms": 525748,
+    "end_ms": 528009,
+    "snippet": "When the oil is boiling hot,",
+    "start_time_text": "8:45",
+    "start_time_label": "8:45"
+   },
+   {
+    "start_ms": 528397,
+    "end_ms": 531009,
+    "snippet": "you'll have to fry in medium flame.",
+    "start_time_text": "8:48",
+    "start_time_label": "8:48"
+   },
+   {
+    "start_ms": 531599,
+    "end_ms": 534217,
+    "snippet": "If you put in the Adhirasam\nbefore the oil is hot enough,",
+    "start_time_text": "8:51",
+    "start_time_label": "8:51"
+   },
+   {
+    "start_ms": 534297,
+    "end_ms": 536129,
+    "snippet": "it won't come out well.",
+    "start_time_text": "8:54",
+    "start_time_label": "8:54"
+   },
+   {
+    "start_ms": 536209,
+    "end_ms": 538762,
+    "snippet": "If the oil is extremely hot\nand turn it quickly,",
+    "start_time_text": "8:56",
+    "start_time_label": "8:56"
+   },
+   {
+    "start_ms": 538842,
+    "end_ms": 540255,
+    "snippet": "it won't cook properly on the inside.",
+    "start_time_text": "8:58",
+    "start_time_label": "8:58"
+   },
+   {
+    "start_ms": 540335,
+    "end_ms": 543616,
+    "snippet": "So, reduce the flame to medium\nonce the oil is hot",
+    "start_time_text": "9:00",
+    "start_time_label": "9:00"
+   },
+   {
+    "start_ms": 543973,
+    "end_ms": 549084,
+    "snippet": "and then fry the Adhirasam.\n2 or 3 at a time.",
+    "start_time_text": "9:03",
+    "start_time_label": "9:03"
+   },
+   {
+    "start_ms": 549480,
+    "end_ms": 550932,
+    "snippet": "For a trial...",
+    "start_time_text": "9:09",
+    "start_time_label": "9:09"
+   },
+   {
+    "start_ms": 551099,
+    "end_ms": 555980,
+    "snippet": "I'll try one out first\nto check if it's holding form,",
+    "start_time_text": "9:11",
+    "start_time_label": "9:11"
+   },
+   {
+    "start_ms": 556060,
+    "end_ms": 557469,
+    "snippet": "then make a few more.",
+    "start_time_text": "9:16",
+    "start_time_label": "9:16"
+   },
+   {
+    "start_ms": 565306,
+    "end_ms": 567180,
+    "snippet": "You see, it is rising up beautifully.",
+    "start_time_text": "9:25",
+    "start_time_label": "9:25"
+   },
+   {
+    "start_ms": 568236,
+    "end_ms": 572608,
+    "snippet": "If in the right proportion, rested well,\nthen it'll rise up like this.",
+    "start_time_text": "9:28",
+    "start_time_label": "9:28"
+   },
+   {
+    "start_ms": 573981,
+    "end_ms": 576559,
+    "snippet": "I dropped it to the bottom, it rose up.",
+    "start_time_text": "9:33",
+    "start_time_label": "9:33"
+   },
+   {
+    "start_ms": 579039,
+    "end_ms": 580324,
+    "snippet": "We'll turn it now.",
+    "start_time_text": "9:39",
+    "start_time_label": "9:39"
+   },
+   {
+    "start_ms": 582083,
+    "end_ms": 584045,
+    "snippet": "You can see that it's nicely puffed up.",
+    "start_time_text": "9:42",
+    "start_time_label": "9:42"
+   },
+   {
+    "start_ms": 584344,
+    "end_ms": 589632,
+    "snippet": "Only because it was rested well,\nit has puffed up so nicely.",
+    "start_time_text": "9:44",
+    "start_time_label": "9:44"
+   },
+   {
+    "start_ms": 590116,
+    "end_ms": 594066,
+    "snippet": "Rub the gingelly oil\non the sheet, the leaf, etc.",
+    "start_time_text": "9:50",
+    "start_time_label": "9:50"
+   },
+   {
+    "start_ms": 607598,
+    "end_ms": 609639,
+    "snippet": "It has turned brown on both sides.",
+    "start_time_text": "10:07",
+    "start_time_label": "10:07"
+   },
+   {
+    "start_ms": 609955,
+    "end_ms": 611416,
+    "snippet": "Remove it",
+    "start_time_text": "10:09",
+    "start_time_label": "10:09"
+   },
+   {
+    "start_ms": 612656,
+    "end_ms": 614293,
+    "snippet": "and squeeze, like this.",
+    "start_time_text": "10:12",
+    "start_time_label": "10:12"
+   },
+   {
+    "start_ms": 616800,
+    "end_ms": 618709,
+    "snippet": "Do you see the amount of oil coming out?",
+    "start_time_text": "10:16",
+    "start_time_label": "10:16"
+   },
+   {
+    "start_ms": 649613,
+    "end_ms": 652657,
+    "snippet": "You'll see the froth disappearing\nwhen the Adhirasam is cooked.",
+    "start_time_text": "10:49",
+    "start_time_label": "10:49"
+   },
+   {
+    "start_ms": 653027,
+    "end_ms": 655877,
+    "snippet": "There were a lot of bubbles when\nwe had just dropped the Adhirasam.",
+    "start_time_text": "10:53",
+    "start_time_label": "10:53"
+   },
+   {
+    "start_ms": 676365,
+    "end_ms": 678512,
+    "snippet": "Piping hot \"Adhirasam\" is ready.",
+    "start_time_text": "11:16",
+    "start_time_label": "11:16"
+   },
+   {
+    "start_ms": 679453,
+    "end_ms": 683861,
+    "snippet": "You'll see that\nit's crisp for upto 6 hours.",
+    "start_time_text": "11:19",
+    "start_time_label": "11:19"
+   },
+   {
+    "start_ms": 684283,
+    "end_ms": 685884,
+    "snippet": "It'll turn soft tomorrow.",
+    "start_time_text": "11:24",
+    "start_time_label": "11:24"
+   },
+   {
+    "start_ms": 686219,
+    "end_ms": 688752,
+    "snippet": "Even if it turns soft, it'll be delicious.",
+    "start_time_text": "11:26",
+    "start_time_label": "11:26"
+   },
+   {
+    "start_ms": 689210,
+    "end_ms": 692491,
+    "snippet": "If you rest it for 1 day,\nit'll definitely turn out well.",
+    "start_time_text": "11:29",
+    "start_time_label": "11:29"
+   },
+   {
+    "start_ms": 692667,
+    "end_ms": 695447,
+    "snippet": "The other batter isn't working\nbecause it is still hot.",
+    "start_time_text": "11:32",
+    "start_time_label": "11:32"
+   },
+   {
+    "start_ms": 695790,
+    "end_ms": 699371,
+    "snippet": "And I was also finding it\ntoo hot to shape.",
+    "start_time_text": "11:35",
+    "start_time_label": "11:35"
+   },
+   {
+    "start_ms": 699964,
+    "end_ms": 701372,
+    "snippet": "Thank you. Vanakkam!",
+    "start_time_text": "11:39",
+    "start_time_label": "11:39"
+   },
+   {
+    "start_ms": 701557,
+    "end_ms": 703257,
+    "snippet": "Subtitled by: N. Vivek Iyer\n(n.vivek.iyer@gmail.com)",
+    "start_time_text": "11:41",
+    "start_time_label": "11:41"
+   }
+  ],
+  "available_transcripts": [
+   {
+    "language_code": "en",
+    "selected": true,
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=bMj0xPN8EwY"
+   },
+   {
+    "language_code": "en",
+    "type": "asr",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&type=asr&v=bMj0xPN8EwY"
+   }
+  ]
+ }
+}

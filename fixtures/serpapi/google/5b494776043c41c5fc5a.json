@@ -1,0 +1,335 @@
+{
+ "engine": "google",
+ "params": {
+  "q": "Pinni sweet also known as other names",
+  "gl": "in",
+  "hl": "en",
+  "google_domain": "google.co.in",
+  "device": "mobile"
+ },
+ "recordedAt": "2026-10-02T19:12:37.454Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac00223f9aa732db199a24c",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/9MH0CfI8wE4_SSWEQ1iQjmRljlGqMxmi6VLAG-hH86Q/6ac00223f9aa732db199a24c.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/9MH0CfI8wE4_SSWEQ1iQjmRljlGqMxmi6VLAG-hH86Q/6ac00223f9aa732db199a24c.json_with_pixel_position",
+   "created_at": "2026-10-02 19:12:35 UTC",
+   "processed_at": "2026-10-02 19:12:35 UTC",
+   "google_url": "https://www.google.co.in/search?q=Pinni+sweet+also+known+as+other+names&oq=Pinni+sweet+also+known+as+other+names&hl=en&gl=in&sourceid=chrome-mobile&ie=UTF-8",
+   "total_time_taken": 1.35
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Pinni sweet also known as other names",
+   "google_domain": "google.co.in",
+   "hl": "en",
+   "gl": "in",
+   "device": "mobile"
+  },
+  "search_information": {
+   "query_displayed": "Pinni sweet also known as other names"
+  },
+  "inline_images": [
+   {
+    "link": "https://www.google.co.in/search?q=Pinni+sweet+also+known+as+other+names&sca_esv=4d65981f01013b52&gl=in&hl=en&sxsrf=APpeQnsNAWhWxSsXeRgdzh_eqdjmvYZcIw%3A1790968356322&udm=2&sa=X&ved=2ahUKEwjburqFhZyXAxVgsVYBHZemCKAQ9AF6BAhWEAA#imgrc=wQGilbj0FGTOBM",
+    "source": "https://www.facebook.com/TheSimmizKitchen/posts/atta-pinni-a-small-batch-for-my-granddaughter-pinni-attapinni-ladoo-homemade/1125227482944723/",
+    "thumbnail": "https://serpapi.com/searches/6ac00223f9aa732db199a24c/images/11iJ1DDid4WTR_E_v7GvE0L7__ZCfWDA6_SF8uv-YSw.jpeg",
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1125226389611499",
+    "title": "Atta pinni , a small batch for my granddaughter #pinni #attapinni ...",
+    "source_name": "Facebook"
+   },
+   {
+    "link": "https://www.google.co.in/search?q=Pinni+sweet+also+known+as+other+names&sca_esv=4d65981f01013b52&gl=in&hl=en&sxsrf=APpeQnsNAWhWxSsXeRgdzh_eqdjmvYZcIw%3A1790968356322&udm=2&sa=X&ved=2ahUKEwjburqFhZyXAxVgsVYBHZemCKAQ9AF6BAhXEAA#imgrc=19ioPEVpe5lAFM",
+    "source": "https://www.facebook.com/groups/zaykedartadka/posts/837040513805367/",
+    "thumbnail": "https://serpapi.com/searches/6ac00223f9aa732db199a24c/images/tghDdbxfs_AT8G01QAcu6a3_uijq2I8_-CJenwk3ZTA.jpeg",
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10156456196464149",
+    "title": "Pinni is a type of Punjabi and North Indian cuisine dish that is ...",
+    "source_name": "Facebook"
+   },
+   {
+    "link": "https://www.google.co.in/search?q=Pinni+sweet+also+known+as+other+names&sca_esv=4d65981f01013b52&gl=in&hl=en&sxsrf=APpeQnsNAWhWxSsXeRgdzh_eqdjmvYZcIw%3A1790968356322&udm=2&sa=X&ved=2ahUKEwjburqFhZyXAxVgsVYBHZemCKAQ9AF6BAhaEAA#imgrc=nVluZj2PGwfUtM",
+    "source": "https://www.facebook.com/KesarSweetsJaipur/posts/rich-nourishing-and-comforting-pinni-is-the-winter-sweet-that-generations-have-t/847476637912740/",
+    "thumbnail": "https://serpapi.com/searches/6ac00223f9aa732db199a24c/images/uShzytBnO0frkiwYyYi2DGF2GsHzVbc-szB5QEWiD9w.jpeg",
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=897201649309040&get_thumbnail=1",
+    "title": "Rich, nourishing, and comforting, pinni is the winter sweet that  generations have trusted for warmth and strength., ., ., ., .,  #kesarsweetsjaipur #wintersweets #winterdelight #pinni #kesar | Kesar | ...",
+    "source_name": "Facebook"
+   },
+   {
+    "link": "https://www.google.co.in/search?q=Pinni+sweet+also+known+as+other+names&sca_esv=4d65981f01013b52&gl=in&hl=en&sxsrf=APpeQnsNAWhWxSsXeRgdzh_eqdjmvYZcIw%3A1790968356322&udm=2&sa=X&ved=2ahUKEwjburqFhZyXAxVgsVYBHZemCKAQ9AF6BAhZEAA#imgrc=4Y3Da7l4tq8sMM",
+    "source": "https://www.facebook.com/groups/1555124131393792/posts/2213523902220475/",
+    "thumbnail": "https://serpapi.com/searches/6ac00223f9aa732db199a24c/images/_PuypzHyL7ilaXoSfrdPe8U82-URSwLduhxZqwHvIlA.jpeg",
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1222107957927419",
+    "title": "I made Atta Ladoo which is also known as Punjabi Pinni according ...",
+    "source_name": "Facebook"
+   }
+  ],
+  "inline_videos": [
+   {
+    "position": 1,
+    "title": "Pinni is a type of Punjabi and North Indian cuisine dish that is eaten mostly in winters. It is served as a",
+    "link": "https://www.facebook.com/groups/zaykedartadka/posts/837040513805367/",
+    "thumbnail": "https://serpapi.com/searches/6ac00223f9aa732db199a24c/images/9gig73dPYidxgYdWuX4QCC8kjfkjo5YB8S1teAm-xPs.jpeg",
+    "channel": "Bindu Garg",
+    "duration": "0:21",
+    "platform": "Facebook",
+    "date": "14 Dec 2020"
+   },
+   {
+    "position": 2,
+    "title": "आटे की पिन्नी रेसिपी | Aate Gur ke Ladoo | Jaggery Laddu | Winter Special Pinni | Dry Fruits ...",
+    "link": "https://www.facebook.com/agarwalsunita30/posts/gur-atte-ki-pinni-%E0%A4%86%E0%A4%9F%E0%A5%87-%E0%A4%95%E0%A5%80-%E0%A4%AA%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A8%E0%A5%80-%E0%A4%B0%E0%A5%87%E0%A4%B8%E0%A4%BF%E0%A4%AA%E0%A5%80-aate-gur-ke-ladoo-jaggery-laddu-winter-sp/684448549998243/",
+    "thumbnail": "https://serpapi.com/searches/6ac00223f9aa732db199a24c/images/5wB4XHLBM_OsnNZ1YOZ3PJbeIDr_6ujYz6bt3hateuU.jpeg",
+    "channel": "Sunita Agarwal",
+    "duration": "11:50",
+    "platform": "Facebook",
+    "date": "3 Dec 2022"
+   },
+   {
+    "position": 3,
+    "title": "Winter Special Tasty N Delicious Punjabi Sweet \" Punjabi Pinni \" #shammigarg ...",
+    "link": "https://www.facebook.com/groups/808267076662632/posts/1769052747250722/",
+    "thumbnail": "https://serpapi.com/searches/6ac00223f9aa732db199a24c/images/Etf4rqAKFKrSxBcx5EwS94emIjetThdOazm-1HLyQWY.jpeg",
+    "channel": "Kunal Kapur",
+    "duration": "9:06",
+    "platform": "Facebook",
+    "date": "27 Jan 2025"
+   },
+   {
+    "position": 4,
+    "title": "\"Methre ke pinni\" or Methi ke laddu or even Aate ke ladoo is very popular in northern part of ...",
+    "link": "https://www.facebook.com/groups/shubhra/posts/4324706274225728/",
+    "thumbnail": "https://serpapi.com/searches/6ac00223f9aa732db199a24c/images/DyyXfpbmiNmNbc3555uqBKiMDFU675GQ9hzX5lLhlLQ.jpeg",
+    "channel": "Gunjan Sharma",
+    "duration": "0:11",
+    "platform": "Facebook",
+    "date": "3 Mar 2021"
+   }
+  ],
+  "related_questions": [
+   {
+    "question": "What are Punjabi sweets called?",
+    "type": "ai_overview",
+    "page_token": "kFrElHicHdBLboJAAADQ9DIudQbQVhPTBGVA0hnqfC2bBhn-CFSJgLvepafqaZr0HeF9_9RFU_0-hXnfd7fNYjEMwzxr26xO5nE7L5pFdJuaeBFHdX2O4mqzel7B1zTeOrfB3rWDfRRdJ_cUMCl6WYZXVVk9B9JSagxUkzcYjO9CSoA9m2JUgwhIgQ30FXh1wS_rlNa04aA1PiTtwz26J5xS6TogatAkjWHUQhq6REzAfNQPXR3NQ8_F-sQUGqnrQIzWFgMkZMYBnh0olSQpAXlJ5XqJTX-vhX4TKBvZRZdJ6WPGMwtXPWHiwBDobO6gXHsypAw6EfenM7Rvwd7vQoDubuHb1CNToEKBVTbRasmJm7PA9adEvRjCIO8EhtPJJA-9g80sje9bc_Y_tv1ML_2mu7bZH2Kid04",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=kFrElHicHdBLboJAAADQ9DIudQbQVhPTBGVA0hnqfC2bBhn-CFSJgLvepafqaZr0HeF9_9RFU_0-hXnfd7fNYjEMwzxr26xO5nE7L5pFdJuaeBFHdX2O4mqzel7B1zTeOrfB3rWDfRRdJ_cUMCl6WYZXVVk9B9JSagxUkzcYjO9CSoA9m2JUgwhIgQ30FXh1wS_rlNa04aA1PiTtwz26J5xS6TogatAkjWHUQhq6REzAfNQPXR3NQ8_F-sQUGqnrQIzWFgMkZMYBnh0olSQpAXlJ5XqJTX-vhX4TKBvZRZdJ6WPGMwtXPWHiwBDobO6gXHsypAw6EfenM7Rvwd7vQoDubuHb1CNToEKBVTbRasmJm7PA9adEvRjCIO8EhtPJJA-9g80sje9bc_Y_tv1ML_2mu7bZH2Kid04",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS09UZDVjVmRYYjB0RE1uRXlUbVJqWVdOaUxVbzJSbE53V0RSSldGbHJaVzVRWm5BMGJWY3haUzB3YjJjeGVsTmZValJPVW1aRFVrdFBWMTh0V2xVNU4xTkNZa1I2TlVKU1RFMWpYMFY2UzJocVZsTXpkbk5KUzFoWlFSSVhTa0ZNUVdGMGRWbEZMVVJwTW5KdlVHdzRNbWxuUVc4YUlrRkVjM0k1WmxSYVZXeDRibXBuTjNkeGJUZEtTMU5pVmxkeGVWSlhXWEpKTkZFIiwiZmN2IjoiMyIsImVpIjoiSkFMQWF0dVlFLURpMnJvUGw4MmlnQW8iLCJxYyI6IkNpVndhVzV1YVNCemQyVmxkQ0JoYkhOdklHdHViM2R1SUdGeklHOTBhR1Z5SUc1aGJXVnpFQUI5Vmc0S1B3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSBQdW5qYWJpIHN3ZWV0cyBjYWxsZWQ/IiwibGsiOiJHaDUzYUdGMElHRnlaU0J3ZFc1cVlXSnBJSE4zWldWMGN5QmpZV3hzWldRIiwiYnMiOiJjMjJOTVF2Q01CQ0ZjYjFKY2RFTWV1QVBFTG9JTGhuRVVYQnpQdXZaWEp1bUpZbjA3NnRwQzBVYzM3M3ZmUWNuMk40TVJTVFBlSDI1a3U2Q29XT09BWE95bGg4NlE3WHBScVQ5aDhBQjFra2lBVnR4VGxBY25sMWhKUmlkS2JYcWZrdnVTN2pBZmh4Rzg3Rjd5Um1iSnhKV1lwdkNVXzFOX1N5OVRMcEpIaVl0ZTZ3S09NSnVxbk5VRDdhZXJTVWFFcDB0MVdKNlNOeDg5Z1kiLCJpZCI6ImZjX0pBTEFhdHVZRS1EaTJyb1BsODJpZ0FvXzUifQ==",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS09UZDVjVmRYYjB0RE1uRXlUbVJqWVdOaUxVbzJSbE53V0RSSldGbHJaVzVRWm5BMGJWY3haUzB3YjJjeGVsTmZValJPVW1aRFVrdFBWMTh0V2xVNU4xTkNZa1I2TlVKU1RFMWpYMFY2UzJocVZsTXpkbk5KUzFoWlFSSVhTa0ZNUVdGMGRWbEZMVVJwTW5KdlVHdzRNbWxuUVc4YUlrRkVjM0k1WmxSYVZXeDRibXBuTjNkeGJUZEtTMU5pVmxkeGVWSlhXWEpKTkZFIiwiZmN2IjoiMyIsImVpIjoiSkFMQWF0dVlFLURpMnJvUGw4MmlnQW8iLCJxYyI6IkNpVndhVzV1YVNCemQyVmxkQ0JoYkhOdklHdHViM2R1SUdGeklHOTBhR1Z5SUc1aGJXVnpFQUI5Vmc0S1B3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSBQdW5qYWJpIHN3ZWV0cyBjYWxsZWQ%2FIiwibGsiOiJHaDUzYUdGMElHRnlaU0J3ZFc1cVlXSnBJSE4zWldWMGN5QmpZV3hzWldRIiwiYnMiOiJjMjJOTVF2Q01CQ0ZjYjFKY2RFTWV1QVBFTG9JTGhuRVVYQnpQdXZaWEp1bUpZbjA3NnRwQzBVYzM3M3ZmUWNuMk40TVJTVFBlSDI1a3U2Q29XT09BWE95bGg4NlE3WHBScVQ5aDhBQjFra2lBVnR4VGxBY25sMWhKUmlkS2JYcWZrdnVTN2pBZmh4Rzg3Rjd5Um1iSnhKV1lwdkNVXzFOX1N5OVRMcEpIaVl0ZTZ3S09NSnVxbk5VRDdhZXJTVWFFcDB0MVdKNlNOeDg5Z1kiLCJpZCI6ImZjX0pBTEFhdHVZRS1EaTJyb1BsODJpZ0FvXzUifQ%3D%3D"
+   },
+   {
+    "question": "What is pinni in English?",
+    "type": "ai_overview",
+    "page_token": "JOmekHicHdBdboIwAADg7DI-CgXnoolZRH6UBZilP9iXpRQRpEAnTAZvu8tOtdNs2Qm-5Pv6lmVT_Tywou9Vt9a0YRjml7a9yPNctPOy0Xg3NkITXMqUi2q9fFqC51xsnG6wdu1gHbFSxIZ6XB2MwLRckmwH0RynuASdqAseX4srpCoPUfbBaT9mNSxjL6tiIF8xhfQEyE54DER28U4JXuBK3fA1ALwKOW1On2dk5cEkc0SyCCX-iG32cU6yOtqTRWjDfWgAR5Bqok6lU9sfE9OZUinHbGIAgSJiOGzDCSqa-EY4hYfUW-UpynYntI1dXVnIcYtsTxiMgcORP6bA6iLbV0x3717pW3_CGFGGEuORUzcYKRWLyCZKeCsvwIF-BJLFePWCJ2jOcnHfmLP_sc1bXvdrdWsvv43CecU",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=JOmekHicHdBdboIwAADg7DI-CgXnoolZRH6UBZilP9iXpRQRpEAnTAZvu8tOtdNs2Qm-5Pv6lmVT_Tywou9Vt9a0YRjml7a9yPNctPOy0Xg3NkITXMqUi2q9fFqC51xsnG6wdu1gHbFSxIZ6XB2MwLRckmwH0RynuASdqAseX4srpCoPUfbBaT9mNSxjL6tiIF8xhfQEyE54DER28U4JXuBK3fA1ALwKOW1On2dk5cEkc0SyCCX-iG32cU6yOtqTRWjDfWgAR5Bqok6lU9sfE9OZUinHbGIAgSJiOGzDCSqa-EY4hYfUW-UpynYntI1dXVnIcYtsTxiMgcORP6bA6iLbV0x3717pW3_CGFGGEuORUzcYKRWLyCZKeCsvwIF-BJLFePWCJ2jOcnHfmLP_sc1bXvdrdWsvv43CecU",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS09UZDVjVmRYYjB0RE1uRXlUbVJqWVdOaUxVbzJSbE53V0RSSldGbHJaVzVRWm5BMGJWY3haUzB3YjJjeGVsTmZValJPVW1aRFVrdFBWMTh0V2xVNU4xTkNZa1I2TlVKU1RFMWpYMFY2UzJocVZsTXpkbk5KUzFoWlFSSVhTa0ZNUVdGMGRWbEZMVVJwTW5KdlVHdzRNbWxuUVc4YUlrRkVjM0k1WmxSYVZXeDRibXBuTjNkeGJUZEtTMU5pVmxkeGVWSlhXWEpKTkZFIiwiZmN2IjoiMyIsImVpIjoiSkFMQWF0dVlFLURpMnJvUGw4MmlnQW8iLCJxYyI6IkNpVndhVzV1YVNCemQyVmxkQ0JoYkhOdklHdHViM2R1SUdGeklHOTBhR1Z5SUc1aGJXVnpFQUI5Vmc0S1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHBpbm5pIGluIEVuZ2xpc2g/IiwibGsiOiJHaGgzYUdGMElHbHpJSEJwYm01cElHbHVJR1Z1WjJ4cGMyZyIsImJzIjoiYzIyTk1RdkNNQkNGY2IxSmNkRU1ldUFQRUxvSUxobkVVWEJ6UHV2WlhKdW1KWW4wNzZ0cEMwVWMzNzN2ZlFjbjJONE1SU1RQZUgyNWt1NkNvV09PQVhPeWxoODZRN1hwUnFUOWg4QUIxa2tpQVZ0eFRsQWNubDFoSlJpZEtiWHFma3Z1UzdqQWZoeEc4N0Y3eVJtYkp4SldZcHZDVV8xTl9TeTlUTHBKSGlZdGU2d0tPTUp1cW5OVUQ3YWVyU1VhRXAwdDFXSjZTTng4OWdZIiwiaWQiOiJmY19KQUxBYXR1WUUtRGkycm9QbDgyaWdBb181In0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS09UZDVjVmRYYjB0RE1uRXlUbVJqWVdOaUxVbzJSbE53V0RSSldGbHJaVzVRWm5BMGJWY3haUzB3YjJjeGVsTmZValJPVW1aRFVrdFBWMTh0V2xVNU4xTkNZa1I2TlVKU1RFMWpYMFY2UzJocVZsTXpkbk5KUzFoWlFSSVhTa0ZNUVdGMGRWbEZMVVJwTW5KdlVHdzRNbWxuUVc4YUlrRkVjM0k1WmxSYVZXeDRibXBuTjNkeGJUZEtTMU5pVmxkeGVWSlhXWEpKTkZFIiwiZmN2IjoiMyIsImVpIjoiSkFMQWF0dVlFLURpMnJvUGw4MmlnQW8iLCJxYyI6IkNpVndhVzV1YVNCemQyVmxkQ0JoYkhOdklHdHViM2R1SUdGeklHOTBhR1Z5SUc1aGJXVnpFQUI5Vmc0S1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHBpbm5pIGluIEVuZ2xpc2g%2FIiwibGsiOiJHaGgzYUdGMElHbHpJSEJwYm01cElHbHVJR1Z1WjJ4cGMyZyIsImJzIjoiYzIyTk1RdkNNQkNGY2IxSmNkRU1ldUFQRUxvSUxobkVVWEJ6UHV2WlhKdW1KWW4wNzZ0cEMwVWMzNzN2ZlFjbjJONE1SU1RQZUgyNWt1NkNvV09PQVhPeWxoODZRN1hwUnFUOWg4QUIxa2tpQVZ0eFRsQWNubDFoSlJpZEtiWHFma3Z1UzdqQWZoeEc4N0Y3eVJtYkp4SldZcHZDVV8xTl9TeTlUTHBKSGlZdGU2d0tPTUp1cW5OVUQ3YWVyU1VhRXAwdDFXSjZTTng4OWdZIiwiaWQiOiJmY19KQUxBYXR1WUUtRGkycm9QbDgyaWdBb181In0%3D"
+   },
+   {
+    "question": "What is the price of a kilogram of pinni sweet?",
+    "type": "ai_overview",
+    "page_token": "ohzQ7XicHdBfbpswHABg9TJ9TICETESKKlHssDWhtbF_DrxM2E5CsPnTgALJ2-6wI-xUO8203uDT9-uPvTTm79Pvchi6fj2fj-M4O7ft2R5nqp1dmnnR3xs1V4W1slBmvfq2cl9OaoNuKny9qpDwroOIOiwyjgbkpshNlAc7KehNicBK1I3UcyOJk35v_Pcds6s0thHbJpkQuk6r0k-3QQmLEBceGIWgzSwO9wbynOlGxmg4QuClMTzyBU6YMC7ngKhDr8yzHFhicg8mKcCmEa0ZGkfJ3aWOtVEVcbIqLLKmW5HajQhPKln7Ba91wg70nTx0DKIrwPg9eVhR4GBPOTgAic349OOI1FLh8vN4UHfpTfGO0R2v7RWV-o3wKcwO1BWcD3Rr7qoOiIzO90LoUE7thXD6UJWteRP2ecSdlOOltsmgPO7r5r8Tf88xtrKBD06eT-q2WTx_XW9-nuph3V3b8z-q1o3r",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ohzQ7XicHdBfbpswHABg9TJ9TICETESKKlHssDWhtbF_DrxM2E5CsPnTgALJ2-6wI-xUO8203uDT9-uPvTTm79Pvchi6fj2fj-M4O7ft2R5nqp1dmnnR3xs1V4W1slBmvfq2cl9OaoNuKny9qpDwroOIOiwyjgbkpshNlAc7KehNicBK1I3UcyOJk35v_Pcds6s0thHbJpkQuk6r0k-3QQmLEBceGIWgzSwO9wbynOlGxmg4QuClMTzyBU6YMC7ngKhDr8yzHFhicg8mKcCmEa0ZGkfJ3aWOtVEVcbIqLLKmW5HajQhPKln7Ba91wg70nTx0DKIrwPg9eVhR4GBPOTgAic349OOI1FLh8vN4UHfpTfGO0R2v7RWV-o3wKcwO1BWcD3Rr7qoOiIzO90LoUE7thXD6UJWteRP2ecSdlOOltsmgPO7r5r8Tf88xtrKBD06eT-q2WTx_XW9-nuph3V3b8z-q1o3r",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS09UZDVjVmRYYjB0RE1uRXlUbVJqWVdOaUxVbzJSbE53V0RSSldGbHJaVzVRWm5BMGJWY3haUzB3YjJjeGVsTmZValJPVW1aRFVrdFBWMTh0V2xVNU4xTkNZa1I2TlVKU1RFMWpYMFY2UzJocVZsTXpkbk5KUzFoWlFSSVhTa0ZNUVdGMGRWbEZMVVJwTW5KdlVHdzRNbWxuUVc4YUlrRkVjM0k1WmxSYVZXeDRibXBuTjNkeGJUZEtTMU5pVmxkeGVWSlhXWEpKTkZFIiwiZmN2IjoiMyIsImVpIjoiSkFMQWF0dVlFLURpMnJvUGw4MmlnQW8iLCJxYyI6IkNpVndhVzV1YVNCemQyVmxkQ0JoYkhOdklHdHViM2R1SUdGeklHOTBhR1Z5SUc1aGJXVnpFQUI5Vmc0S1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBwcmljZSBvZiBhIGtpbG9ncmFtIG9mIHBpbm5pIHN3ZWV0PyIsImxrIjoiR2hod2FXNXVhU0J6ZDJWbGRDQndjbWxqWlNCd1pYSWdhMmMiLCJicyI6ImMyMk5NUXZDTUJDRmNiMUpjZEVNZXVBUEVMb0lMaG5FVVhCelB1dlpYSnVtSlluMDc2dHBDMFVjMzczdmZRY24yTjRNUlNUUGVIMjVrdTZDb1dPT0FYT3lsaDg2UTdYcFJxVDloOEFCMWtraUFWdHhUbEFjbmwxaEpSaWRLYlhxZmt2dVM3akFmaHhHODdGN3lSbWJKeEpXWXB2Q1VfMU5fU3k5VExwSkhpWXRlNndLT01KdXFuTlVEN2FlclNVYUVwMHQxV0o2U054ODlnWSIsImlkIjoiZmNfSkFMQWF0dVlFLURpMnJvUGw4MmlnQW9fNSJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS09UZDVjVmRYYjB0RE1uRXlUbVJqWVdOaUxVbzJSbE53V0RSSldGbHJaVzVRWm5BMGJWY3haUzB3YjJjeGVsTmZValJPVW1aRFVrdFBWMTh0V2xVNU4xTkNZa1I2TlVKU1RFMWpYMFY2UzJocVZsTXpkbk5KUzFoWlFSSVhTa0ZNUVdGMGRWbEZMVVJwTW5KdlVHdzRNbWxuUVc4YUlrRkVjM0k1WmxSYVZXeDRibXBuTjNkeGJUZEtTMU5pVmxkeGVWSlhXWEpKTkZFIiwiZmN2IjoiMyIsImVpIjoiSkFMQWF0dVlFLURpMnJvUGw4MmlnQW8iLCJxYyI6IkNpVndhVzV1YVNCemQyVmxkQ0JoYkhOdklHdHViM2R1SUdGeklHOTBhR1Z5SUc1aGJXVnpFQUI5Vmc0S1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBwcmljZSBvZiBhIGtpbG9ncmFtIG9mIHBpbm5pIHN3ZWV0PyIsImxrIjoiR2hod2FXNXVhU0J6ZDJWbGRDQndjbWxqWlNCd1pYSWdhMmMiLCJicyI6ImMyMk5NUXZDTUJDRmNiMUpjZEVNZXVBUEVMb0lMaG5FVVhCelB1dlpYSnVtSlluMDc2dHBDMFVjMzczdmZRY24yTjRNUlNUUGVIMjVrdTZDb1dPT0FYT3lsaDg2UTdYcFJxVDloOEFCMWtraUFWdHhUbEFjbmwxaEpSaWRLYlhxZmt2dVM3akFmaHhHODdGN3lSbWJKeEpXWXB2Q1VfMU5fU3k5VExwSkhpWXRlNndLT01KdXFuTlVEN2FlclNVYUVwMHQxV0o2U054ODlnWSIsImlkIjoiZmNfSkFMQWF0dVlFLURpMnJvUGw4MmlnQW9fNSJ9"
+   },
+   {
+    "question": "What is the name of a sweet mithai?",
+    "type": "ai_overview",
+    "page_token": "gb2ynHicHdBbjpswFABQdTPzmWBIUyVSVMkDSYbISDb25fFTgSGQYIxncIfH3-ylq-pqKvUs4Xz9UQ_d_f02t9aa8bjdTtO0aYahUfVGDpuH3hbjouVWFkqVheyO-x979PMuT8HvN_z6_oapMAZ85sRuONfqoMDDNxZ0SCSGgtd2kYA5WuWO-9im6HCjKF84zz_IJdR1GkJ8GW20YkWebBYd7LhTZZRn3-v-MLK0JSRQRl6bXenlPdfwrHW1wIrdJI0-Y2j9-AKauuDlwiRsBcZW3Kfe2UR9VXAEJNODy1GIqYYrTakFXk1FEvEMjI398wSOfS9XTApnN4trC1UX7qkDLGirGxUzzlKGEiEsu3SL7A-09JulSCpczsODCrbKp-qF6BC4YElKljhAbe6OXpKErxy1CzmDT1bG8-nlLj9P3sv_z9Ove2-P5mNo_gGkR4To",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gb2ynHicHdBbjpswFABQdTPzmWBIUyVSVMkDSYbISDb25fFTgSGQYIxncIfH3-ylq-pqKvUs4Xz9UQ_d_f02t9aa8bjdTtO0aYahUfVGDpuH3hbjouVWFkqVheyO-x979PMuT8HvN_z6_oapMAZ85sRuONfqoMDDNxZ0SCSGgtd2kYA5WuWO-9im6HCjKF84zz_IJdR1GkJ8GW20YkWebBYd7LhTZZRn3-v-MLK0JSRQRl6bXenlPdfwrHW1wIrdJI0-Y2j9-AKauuDlwiRsBcZW3Kfe2UR9VXAEJNODy1GIqYYrTakFXk1FEvEMjI398wSOfS9XTApnN4trC1UX7qkDLGirGxUzzlKGEiEsu3SL7A-09JulSCpczsODCrbKp-qF6BC4YElKljhAbe6OXpKErxy1CzmDT1bG8-nlLj9P3sv_z9Ove2-P5mNo_gGkR4To",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS09UZDVjVmRYYjB0RE1uRXlUbVJqWVdOaUxVbzJSbE53V0RSSldGbHJaVzVRWm5BMGJWY3haUzB3YjJjeGVsTmZValJPVW1aRFVrdFBWMTh0V2xVNU4xTkNZa1I2TlVKU1RFMWpYMFY2UzJocVZsTXpkbk5KUzFoWlFSSVhTa0ZNUVdGMGRWbEZMVVJwTW5KdlVHdzRNbWxuUVc4YUlrRkVjM0k1WmxSYVZXeDRibXBuTjNkeGJUZEtTMU5pVmxkeGVWSlhXWEpKTkZFIiwiZmN2IjoiMyIsImVpIjoiSkFMQWF0dVlFLURpMnJvUGw4MmlnQW8iLCJxYyI6IkNpVndhVzV1YVNCemQyVmxkQ0JoYkhOdklHdHViM2R1SUdGeklHOTBhR1Z5SUc1aGJXVnpFQUI5Vmc0S1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBuYW1lIG9mIGEgc3dlZXQgbWl0aGFpPyIsImxrIjoiR2hGemQyVmxkQ0J0YVhSb1lXa2dibUZ0WlEiLCJicyI6ImMyMk5NUXZDTUJDRmNiMUpjZEVNZXVBUEVMb0lMaG5FVVhCelB1dlpYSnVtSlluMDc2dHBDMFVjMzczdmZRY24yTjRNUlNUUGVIMjVrdTZDb1dPT0FYT3lsaDg2UTdYcFJxVDloOEFCMWtraUFWdHhUbEFjbmwxaEpSaWRLYlhxZmt2dVM3akFmaHhHODdGN3lSbWJKeEpXWXB2Q1VfMU5fU3k5VExwSkhpWXRlNndLT01KdXFuTlVEN2FlclNVYUVwMHQxV0o2U054ODlnWSIsImlkIjoiZmNfSkFMQWF0dVlFLURpMnJvUGw4MmlnQW9fNSJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS09UZDVjVmRYYjB0RE1uRXlUbVJqWVdOaUxVbzJSbE53V0RSSldGbHJaVzVRWm5BMGJWY3haUzB3YjJjeGVsTmZValJPVW1aRFVrdFBWMTh0V2xVNU4xTkNZa1I2TlVKU1RFMWpYMFY2UzJocVZsTXpkbk5KUzFoWlFSSVhTa0ZNUVdGMGRWbEZMVVJwTW5KdlVHdzRNbWxuUVc4YUlrRkVjM0k1WmxSYVZXeDRibXBuTjNkeGJUZEtTMU5pVmxkeGVWSlhXWEpKTkZFIiwiZmN2IjoiMyIsImVpIjoiSkFMQWF0dVlFLURpMnJvUGw4MmlnQW8iLCJxYyI6IkNpVndhVzV1YVNCemQyVmxkQ0JoYkhOdklHdHViM2R1SUdGeklHOTBhR1Z5SUc1aGJXVnpFQUI5Vmc0S1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBuYW1lIG9mIGEgc3dlZXQgbWl0aGFpPyIsImxrIjoiR2hGemQyVmxkQ0J0YVhSb1lXa2dibUZ0WlEiLCJicyI6ImMyMk5NUXZDTUJDRmNiMUpjZEVNZXVBUEVMb0lMaG5FVVhCelB1dlpYSnVtSlluMDc2dHBDMFVjMzczdmZRY24yTjRNUlNUUGVIMjVrdTZDb1dPT0FYT3lsaDg2UTdYcFJxVDloOEFCMWtraUFWdHhUbEFjbmwxaEpSaWRLYlhxZmt2dVM3akFmaHhHODdGN3lSbWJKeEpXWXB2Q1VfMU5fU3k5VExwSkhpWXRlNndLT01KdXFuTlVEN2FlclNVYUVwMHQxV0o2U054ODlnWSIsImlkIjoiZmNfSkFMQWF0dVlFLURpMnJvUGw4MmlnQW9fNSJ9"
+   }
+  ],
+  "ai_overview": {
+   "page_token": "MzHzzXiczZVrcuI4EIAPsOdY_yFgG0yAVLmmJGOCCWFQeGTIH5exjWzwAywHB_7NXfYee485zQg_wBCcycyPrVWVH2p1t1pSf-rv_zi2t_rx179WGK7JHctGUVTBvo8ds6L7FdtjNbLzdHbhOyTQrS_YEW2PsRzR9JjdVqwxOhE5xrTFHugDLXydyeW2XQ38odOs2hj4TGwuqnONmEvq_21JWJWlr9XftTbtVDakYnrqPay8dblAXQH-qY0rVa5aq3xlNZcqgf-0STJ9QdCmD1A-VPycP4ToC5_6EMiJ9cl5O1GAiQTionkPM-KDO0mJMqdD4SmCq2zg0EbFscAzx1E2D5odwqIuqEd0xex6Q6cdQLl30i5WIOd34NQSYecUH742ft5gPFV0LtRjbTlvcYogjsvOq5-O5CsC5mgILIw_PGsBgJkAoha-HlOuKdKDALi0I81YA9MM5th5QD88a-uWHv8E5JDY0rjF-feyYfpT_21h3-6VqcYHa01oLSbQxQSw-pzqOb5mmIZqqdyXuM9X-TrXqjWaNzFVOjliRc6wKr8Mna1S249lrtKvPPM5oI6rVVC2p6lURtdyQJZp0tEDX-VkuZ04pLREj2-WG4ZwkvcgZeoosZTzur1E1kMQXG8pGol5wouczUP_pCOO2cJSoGKpknyVd2FLEsjSFsc5ena4V7YBvxt7ormXSNswnqzrz46xXiSLDBVMLbMQU-qkLPQdvXsm1IR2USdRksBjlktAejxcTUriMls8on8IQ5juwyqJLJtBvgQq2QwwGClJxEB6Si-F1G12vvq7xcOiS4kmDEDSJ2_Di1h-RVOildFzAUMeInm5v-_up9B8moVec-wsvzXtRf3F2fITfB0a353_ZjHS_3doZbUKp7WqEC3pc2ghVICWclRsn6EFfUUpRutYq1K0PqxVl2hBJY_W7jDFAa2CWvW7aKEcWsolWjiN4wpanUK0cBFaaa06R-usVsGCWnVE6w9qlfAntSqmzEw-54XrdYkLC5isus5j86U8WHPyi7ZZq3NrpE_0fuN2FP2ygC3c8M7VDOdGtY07WO2FO-NGpQL_zjSYjTi0Pc8ukcg0w5LmEL-08vzIK2mk5IeWGZQ8zTUJ4zqBL3KaYLfrWsfiyztzoui8u7P7cjDx9Jf9ZmvwzkaPxppnh4I5fODKjdkGthvdnb2obXtkGdRr057l3C4a1mKrzfpNu7sZEz_YdqRtMJ6P9xbknztk0OoE37z9m9EdNXbBoDcyJ8O14YQP4bTc2KxeQXk25Di5M90YcVREFOzORKsN35y-ztB1EVPkGTfQRQqVsEEDBJ4xzXOJZjatkEjy6RPR5xYgGVZp3jFE11STbEXBuK23mvyC4zm-Nq9XGReHu7XY4hjiBSL_E-sLVls",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MzHzzXiczZVrcuI4EIAPsOdY_yFgG0yAVLmmJGOCCWFQeGTIH5exjWzwAywHB_7NXfYee485zQg_wBCcycyPrVWVH2p1t1pSf-rv_zi2t_rx179WGK7JHctGUVTBvo8ds6L7FdtjNbLzdHbhOyTQrS_YEW2PsRzR9JjdVqwxOhE5xrTFHugDLXydyeW2XQ38odOs2hj4TGwuqnONmEvq_21JWJWlr9XftTbtVDakYnrqPay8dblAXQH-qY0rVa5aq3xlNZcqgf-0STJ9QdCmD1A-VPycP4ToC5_6EMiJ9cl5O1GAiQTionkPM-KDO0mJMqdD4SmCq2zg0EbFscAzx1E2D5odwqIuqEd0xex6Q6cdQLl30i5WIOd34NQSYecUH742ft5gPFV0LtRjbTlvcYogjsvOq5-O5CsC5mgILIw_PGsBgJkAoha-HlOuKdKDALi0I81YA9MM5th5QD88a-uWHv8E5JDY0rjF-feyYfpT_21h3-6VqcYHa01oLSbQxQSw-pzqOb5mmIZqqdyXuM9X-TrXqjWaNzFVOjliRc6wKr8Mna1S249lrtKvPPM5oI6rVVC2p6lURtdyQJZp0tEDX-VkuZ04pLREj2-WG4ZwkvcgZeoosZTzur1E1kMQXG8pGol5wouczUP_pCOO2cJSoGKpknyVd2FLEsjSFsc5ena4V7YBvxt7ormXSNswnqzrz46xXiSLDBVMLbMQU-qkLPQdvXsm1IR2USdRksBjlktAejxcTUriMls8on8IQ5juwyqJLJtBvgQq2QwwGClJxEB6Si-F1G12vvq7xcOiS4kmDEDSJ2_Di1h-RVOildFzAUMeInm5v-_up9B8moVec-wsvzXtRf3F2fITfB0a353_ZjHS_3doZbUKp7WqEC3pc2ghVICWclRsn6EFfUUpRutYq1K0PqxVl2hBJY_W7jDFAa2CWvW7aKEcWsolWjiN4wpanUK0cBFaaa06R-usVsGCWnVE6w9qlfAntSqmzEw-54XrdYkLC5isus5j86U8WHPyi7ZZq3NrpE_0fuN2FP2ygC3c8M7VDOdGtY07WO2FO-NGpQL_zjSYjTi0Pc8ukcg0w5LmEL-08vzIK2mk5IeWGZQ8zTUJ4zqBL3KaYLfrWsfiyztzoui8u7P7cjDx9Jf9ZmvwzkaPxppnh4I5fODKjdkGthvdnb2obXtkGdRr057l3C4a1mKrzfpNu7sZEz_YdqRtMJ6P9xbknztk0OoE37z9m9EdNXbBoDcyJ8O14YQP4bTc2KxeQXk25Di5M90YcVREFOzORKsN35y-ztB1EVPkGTfQRQqVsEEDBJ4xzXOJZjatkEjy6RPR5xYgGVZp3jFE11STbEXBuK23mvyC4zm-Nq9XGReHu7XY4hjiBSL_E-sLVls"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "How to make Pinni/atta Ladoo Recipe - Slurrp",
+    "link": "https://www.slurrp.com/amp/recipes/pinni-atta-ladoo-1611359470",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVwlmObrIKmqyHVtsDRNXcal1vGBWR8ge6_JAKWaRxV1uCWMTJ9Z25UEHqvoHUltLRld1_qEVbajreWF7GRecJWUqkEia0lk6zoYCtzHpyfjne_VXAMdWR5jWYSNATvqHxe7f8VMjBSCfuD1FmujfGgwujvPQ&ved=2ahUKEwjburqFhZyXAxVgsVYBHZemCKAQFnoECDUQAQ&uoh=1",
+    "displayed_link": "https://www.slurrp.com",
+    "thumbnail": "https://serpapi.com/searches/6ac00223f9aa732db199a24c/images/iJ3LebSKePDqtnP34UfiZLdCNBhJapBxnyuwYO-1rK4.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRioBAABXRUJQVlA4IB4BAACwBgCdASocABwAPtE-tFooIigoFAEAGglsALUI2vwLsBNMxXge5Ag8Nj-dT74lFL_5s9TfQBEUCdNMKQ5xgAD-93ip0nePfiy-xgclS2tMS9mLoz3XLMSukx4MAw-XongLtRWt-v7NYqRRPqjZsEQmz5O8gVzo-KH7yLj7FWJ5Uk8NBdyD1NwkvorHm59In2X5ANpyRmO-feBvlUVRoT2wcSPUh7zKcB8pk2f6JWPuoe62tFyrEBQhS7Dcw7yO7OwuP6874UioqOiF88KA8RIphB3VwBcghbti_CueScj_D8nHlxhWF1e-TmXUXd1xnKh6foX3Y-7dRErv84_fSv4dIDSc27YB_eGTxLe-PPOuRwJ0JiT7zcvZocx1v6AA.webp",
+    "snippet": "Pinni, also known as atta ladoo, is a traditional Punjabi sweet made from whole wheat flour, ghee, jaggery, and nuts. These ladoos are rich in flavor and ...",
+    "about_this_result": {
+     "source": {
+      "description": "Pinni, also known as atta ladoo, is a traditional Punjabi sweet made from whole wheat flour, ghee, jaggery, and nuts. These ladoos are rich in flavor and ...",
+      "source_info_link": "https://www.slurrp.com/amp/recipes/pinni-atta-ladoo-1611359470",
+      "icon": "https://serpapi.com/images/i/UklGRioBAABXRUJQVlA4IB4BAACwBgCdASocABwAPtE-tFooIigoFAEAGglsALUI2vwLsBNMxXge5Ag8Nj-dT74lFL_5s9TfQBEUCdNMKQ5xgAD-93ip0nePfiy-xgclS2tMS9mLoz3XLMSukx4MAw-XongLtRWt-v7NYqRRPqjZsEQmz5O8gVzo-KH7yLj7FWJ5Uk8NBdyD1NwkvorHm59In2X5ANpyRmO-feBvlUVRoT2wcSPUh7zKcB8pk2f6JWPuoe62tFyrEBQhS7Dcw7yO7OwuP6874UioqOiF88KA8RIphB3VwBcghbti_CueScj_D8nHlxhWF1e-TmXUXd1xnKh6foX3Y-7dRErv84_fSv4dIDSc27YB_eGTxLe-PPOuRwJ0JiT7zcvZocx1v6AA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVndsbU9icklLbXF5SFZ0c0RSTlhjYWwxdkdCV1I4Z2U2X0pBS1dhUnhWMXVDV01USjlaMjVVRUhxdm9IVWx0TFJsZDFfcUVWYmFqcmVXRjdHUmVjSldVcWtFaWEwbGs2em9ZQ3R6SHB5ZmpuZV9WWEFNZFdSNWpXWVNOQVR2cUh4ZTdmOFZNakJTQ2Z1RDFGbXVqZkdnd3VqdlBREgQaAggAGpcGEgAaAggBIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA8QUIABAAGAAgACoYCgVwaW5uaRW_jp5AGgppdjtwO3Bpbm5pKhQKBXN3ZWV0FdtYNj8aBnN3ZWV0cyooCgRhbHNvFe1fmj8aBmJldHRlchoIY29tbW9ubHkaCWFsc29rbm93bipECgVrbm93bhXtX5o_GgZjYWxsZWQaBGtub3caCHJlZmVycmVkGglhbHNva25vd24aCW5pY2tuYW1lcxoIbmlja25hbWUqCQoCYXMVAAAAACpFCgVvdGhlchWr-vs7GglhbHRlcm5hdGUaB2Fub3RoZXIaDGFub3RoZXIgbmFtZRoJZGlmZmVyZW50GgpvdGhlcm5hbWVzKlUKBW5hbWVzFQAAAAAaDGFub3RoZXIgbmFtZRoEbmFtZRoEdGVybRoFdGVybXMaBXdvcmRzGgpvdGhlcm5hbWVzGghzeW5vbnltcxoJbmlja25hbWVzMrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVndsbU9icklLbXF5SFZ0c0RSTlhjYWwxdkdCV1I4Z2U2X0pBS1dhUnhWMXVDV01USjlaMjVVRUhxdm9IVWx0TFJsZDFfcUVWYmFqcmVXRjdHUmVjSldVcWtFaWEwbGs2em9ZQ3R6SHB5ZmpuZV9WWEFNZFdSNWpXWVNOQVR2cUh4ZTdmOFZNakJTQ2Z1RDFGbXVqZkdnd3VqdlBROjNIb3cgdG8gbWFrZSA8Yj5QaW5uaTwvYj4vYXR0YSBMYWRvbyBSZWNpcGUgLSBTbHVycnBCqQE8Yj5QaW5uaSwgYWxzbyBrbm93biBhcyBhdHRhIGxhZG9vPC9iPiwgaXMgYSB0cmFkaXRpb25hbCBQdW5qYWJpIHN3ZWV0IG1hZGUgZnJvbSB3aG9sZSB3aGVhdCBmbG91ciwgZ2hlZSwgamFnZ2VyeSwgYW5kIG51dHMuIFRoZXNlIGxhZG9vcyBhcmUgcmljaCBpbiBmbGF2b3IgYW5kJm5ic3A7Li4uSgJhc1IFdGVybXMiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVndsbU9icklLbXF5SFZ0c0RSTlhjYWwxdkdCV1I4Z2U2X0pBS1dhUnhWMXVDV01USjlaMjVVRUhxdm9IVWx0TFJsZDFfcUVWYmFqcmVXRjdHUmVjSldVcWtFaWEwbGs2em9ZQ3R6SHB5ZmpuZV9WWEFNZFdSNWpXWVNOQVR2cUh4ZTdmOFZNakJTQ2Z1RDFGbXVqZkdnd3VqdlBREgQaAggAGpcGEgAaAggBIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA8QUIABAAGAAgACoYCgVwaW5uaRW_jp5AGgppdjtwO3Bpbm5pKhQKBXN3ZWV0FdtYNj8aBnN3ZWV0cyooCgRhbHNvFe1fmj8aBmJldHRlchoIY29tbW9ubHkaCWFsc29rbm93bipECgVrbm93bhXtX5o_GgZjYWxsZWQaBGtub3caCHJlZmVycmVkGglhbHNva25vd24aCW5pY2tuYW1lcxoIbmlja25hbWUqCQoCYXMVAAAAACpFCgVvdGhlchWr-vs7GglhbHRlcm5hdGUaB2Fub3RoZXIaDGFub3RoZXIgbmFtZRoJZGlmZmVyZW50GgpvdGhlcm5hbWVzKlUKBW5hbWVzFQAAAAAaDGFub3RoZXIgbmFtZRoEbmFtZRoEdGVybRoFdGVybXMaBXdvcmRzGgpvdGhlcm5hbWVzGghzeW5vbnltcxoJbmlja25hbWVzMrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVndsbU9icklLbXF5SFZ0c0RSTlhjYWwxdkdCV1I4Z2U2X0pBS1dhUnhWMXVDV01USjlaMjVVRUhxdm9IVWx0TFJsZDFfcUVWYmFqcmVXRjdHUmVjSldVcWtFaWEwbGs2em9ZQ3R6SHB5ZmpuZV9WWEFNZFdSNWpXWVNOQVR2cUh4ZTdmOFZNakJTQ2Z1RDFGbXVqZkdnd3VqdlBROjNIb3cgdG8gbWFrZSA8Yj5QaW5uaTwvYj4vYXR0YSBMYWRvbyBSZWNpcGUgLSBTbHVycnBCqQE8Yj5QaW5uaSwgYWxzbyBrbm93biBhcyBhdHRhIGxhZG9vPC9iPiwgaXMgYSB0cmFkaXRpb25hbCBQdW5qYWJpIHN3ZWV0IG1hZGUgZnJvbSB3aG9sZSB3aGVhdCBmbG91ciwgZ2hlZSwgamFnZ2VyeSwgYW5kIG51dHMuIFRoZXNlIGxhZG9vcyBhcmUgcmljaCBpbiBmbGF2b3IgYW5kJm5ic3A7Li4uSgJhc1IFdGVybXMiAhABSABYAGgA",
+    "rich_snippet": {
+     "bottom": {
+      "detected_extensions": {
+       "rating": 4.2,
+       "reviews": 19
+      },
+      "extensions": [
+       "4.2(19)",
+       "2 hrs 10 mins"
+      ]
+     }
+    },
+    "source": "slurrp.com"
+   },
+   {
+    "position": 2,
+    "title": "“Why Do Punjabis Make THIS Sweet in Winter? 😍 | Traditional Pinni Recipe” ...",
+    "link": "https://www.facebook.com/61560203851525/posts/why-do-punjabis-make-this-sweet-in-winter-traditional-pinni-recipe-punjabi-pinni/122219539088340128/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzgEB6zswFZUQ53gT3AU_gXN7r_h-vlMHmIyaDrI4QqnwfTbWjdBDDOc8gSGXlJujlggfms6q6jSN5cRsVaD7C--HjvOahccgXb-iqG0aOgCo77WvbQA_c-1_diPFDs4MINxYCdu8jiqXEQJfSOjDFDd4mlhaP_2Djj41G6e-gIVIFQShr6nh0j7jjvpcwYiiZ2mCsKdAFYI7vIkCblstYFuUSzVv1VRZiqxXuXSbSErXykmx-v3iCxaFn9p3eiVn321JrigoxlzrHTvuravQkg&ved=2ahUKEwjburqFhZyXAxVgsVYBHZemCKAQFnoECCoQAQ&uoh=1",
+    "displayed_link": "2 weeks ago",
+    "thumbnail": "https://serpapi.com/searches/6ac00223f9aa732db199a24c/images/iJ3LebSKePDqtnP34UfiZDNHW68lO-aL7N-M7vOh_H0.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "Winter is that time of the year when I make these delicious atta ladoos, also known as atta pinnis. It's a favourite in my family. These ...",
+    "about_this_result": {
+     "source": {
+      "description": "Winter is that time of the year when I make these delicious atta ladoos, also known as atta pinnis. It's a favourite in my family. These ...",
+      "source_info_link": "https://www.facebook.com/61560203851525/posts/why-do-punjabis-make-this-sweet-in-winter-traditional-pinni-recipe-punjabi-pinni/122219539088340128/",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqQCL2dvdG8_dXJsPUNBRVN6Z0VCNnpzd0ZaVVE1M2dUM0FVX2dYTjdyX2gtdmxNSG1JeWFEckk0UXFud2ZUYldqZEJERE9jOGdTR1hsSnVqbGdnZm1zNnE2alNONWNSc1ZhRDdDLS1IanZPYWhjY2dYYi1pcUcwYU9nQ283N1d2YlFBX2MtMV9kaVBGRHM0TUlOeFlDZHU4amlxWEVRSmZTT2pERkRkNG1saGFQXzJEamo0MUc2ZS1nSVZJRlFTaHI2bmgwajdqanZwY3dZaWlaMm1Dc0tkQUZZSTd2SWtDYmxzdFlGdVVTelZ2MVZSWmlxeFh1WFNiU0VyWHlrbXgtdjNpQ3hhRm45cDNlaVZuMzIxSnJpZ294bHpySFR2dXJhdlFrZxIEGgIIABrHBxIAGgIIASIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQKEHCAAQABgAIAAqGAoFcGlubmkVYGOrQBoKaXY7cDtwaW5uaSoUCgVzd2VldBVaqHBAGgZzd2VldHMqKAoEYWxzbxXATXI_GgZiZXR0ZXIaCGNvbW1vbmx5GglhbHNva25vd24qRAoFa25vd24V8HYlPxoGY2FsbGVkGgRrbm93GghyZWZlcnJlZBoJYWxzb2tub3duGgluaWNrbmFtZXMaCG5pY2tuYW1lKgkKAmFzFQAAAAAqRQoFb3RoZXIVAAAAABoJYWx0ZXJuYXRlGgdhbm90aGVyGgxhbm90aGVyIG5hbWUaCWRpZmZlcmVudBoKb3RoZXJuYW1lcypVCgVuYW1lcxUAAAAAGgxhbm90aGVyIG5hbWUaBG5hbWUaBHRlcm0aBXRlcm1zGgV3b3JkcxoKb3RoZXJuYW1lcxoIc3lub255bXMaCW5pY2tuYW1lczKkAi9nb3RvP3VybD1DQUVTemdFQjZ6c3dGWlVRNTNnVDNBVV9nWE43cl9oLXZsTUhtSXlhRHJJNFFxbndmVGJXamRCRERPYzhnU0dYbEp1amxnZ2ZtczZxNmpTTjVjUnNWYUQ3Qy0tSGp2T2FoY2NnWGItaXFHMGFPZ0NvNzdXdmJRQV9jLTFfZGlQRkRzNE1JTnhZQ2R1OGppcVhFUUpmU09qREZEZDRtbGhhUF8yRGpqNDFHNmUtZ0lWSUZRU2hyNm5oMGo3amp2cGN3WWlpWjJtQ3NLZEFGWUk3dklrQ2Jsc3RZRnVVU3pWdjFWUlppcXhYdVhTYlNFclh5a214LXYzaUN4YUZuOXAzZWlWbjMyMUpyaWdveGx6ckhUdnVyYXZRa2c6feKAnFdoeSBEbyBQdW5qYWJpcyBNYWtlIFRISVMgPGI-U3dlZXQ8L2I-IGluIFdpbnRlcj8gfCBUcmFkaXRpb25hbCA8Yj5QaW5uaTwvYj4gUmVjaXBl4oCdIFB1bmphYmkgPGI-cGlubmk8L2I-IC4uLiAtIEZhY2Vib29rQpwBV2ludGVyIGlzIHRoYXQgdGltZSBvZiB0aGUgeWVhciB3aGVuIEkgbWFrZSB0aGVzZSBkZWxpY2lvdXMgPGI-YXR0YSBsYWRvb3MsIGFsc28ga25vd24gYXMgYXR0YSBwaW5uaXM8L2I-LiBJdCYjMzk7cyBhIGZhdm91cml0ZSBpbiBteSBmYW1pbHkuIFRoZXNlJm5ic3A7Li4uSgJhc1IFdGVybXMiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqQCL2dvdG8_dXJsPUNBRVN6Z0VCNnpzd0ZaVVE1M2dUM0FVX2dYTjdyX2gtdmxNSG1JeWFEckk0UXFud2ZUYldqZEJERE9jOGdTR1hsSnVqbGdnZm1zNnE2alNONWNSc1ZhRDdDLS1IanZPYWhjY2dYYi1pcUcwYU9nQ283N1d2YlFBX2MtMV9kaVBGRHM0TUlOeFlDZHU4amlxWEVRSmZTT2pERkRkNG1saGFQXzJEamo0MUc2ZS1nSVZJRlFTaHI2bmgwajdqanZwY3dZaWlaMm1Dc0tkQUZZSTd2SWtDYmxzdFlGdVVTelZ2MVZSWmlxeFh1WFNiU0VyWHlrbXgtdjNpQ3hhRm45cDNlaVZuMzIxSnJpZ294bHpySFR2dXJhdlFrZxIEGgIIABrHBxIAGgIIASIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQKEHCAAQABgAIAAqGAoFcGlubmkVYGOrQBoKaXY7cDtwaW5uaSoUCgVzd2VldBVaqHBAGgZzd2VldHMqKAoEYWxzbxXATXI_GgZiZXR0ZXIaCGNvbW1vbmx5GglhbHNva25vd24qRAoFa25vd24V8HYlPxoGY2FsbGVkGgRrbm93GghyZWZlcnJlZBoJYWxzb2tub3duGgluaWNrbmFtZXMaCG5pY2tuYW1lKgkKAmFzFQAAAAAqRQoFb3RoZXIVAAAAABoJYWx0ZXJuYXRlGgdhbm90aGVyGgxhbm90aGVyIG5hbWUaCWRpZmZlcmVudBoKb3RoZXJuYW1lcypVCgVuYW1lcxUAAAAAGgxhbm90aGVyIG5hbWUaBG5hbWUaBHRlcm0aBXRlcm1zGgV3b3JkcxoKb3RoZXJuYW1lcxoIc3lub255bXMaCW5pY2tuYW1lczKkAi9nb3RvP3VybD1DQUVTemdFQjZ6c3dGWlVRNTNnVDNBVV9nWE43cl9oLXZsTUhtSXlhRHJJNFFxbndmVGJXamRCRERPYzhnU0dYbEp1amxnZ2ZtczZxNmpTTjVjUnNWYUQ3Qy0tSGp2T2FoY2NnWGItaXFHMGFPZ0NvNzdXdmJRQV9jLTFfZGlQRkRzNE1JTnhZQ2R1OGppcVhFUUpmU09qREZEZDRtbGhhUF8yRGpqNDFHNmUtZ0lWSUZRU2hyNm5oMGo3amp2cGN3WWlpWjJtQ3NLZEFGWUk3dklrQ2Jsc3RZRnVVU3pWdjFWUlppcXhYdVhTYlNFclh5a214LXYzaUN4YUZuOXAzZWlWbjMyMUpyaWdveGx6ckhUdnVyYXZRa2c6feKAnFdoeSBEbyBQdW5qYWJpcyBNYWtlIFRISVMgPGI-U3dlZXQ8L2I-IGluIFdpbnRlcj8gfCBUcmFkaXRpb25hbCA8Yj5QaW5uaTwvYj4gUmVjaXBl4oCdIFB1bmphYmkgPGI-cGlubmk8L2I-IC4uLiAtIEZhY2Vib29rQpwBV2ludGVyIGlzIHRoYXQgdGltZSBvZiB0aGUgeWVhciB3aGVuIEkgbWFrZSB0aGVzZSBkZWxpY2lvdXMgPGI-YXR0YSBsYWRvb3MsIGFsc28ga25vd24gYXMgYXR0YSBwaW5uaXM8L2I-LiBJdCYjMzk7cyBhIGZhdm91cml0ZSBpbiBteSBmYW1pbHkuIFRoZXNlJm5ic3A7Li4uSgJhc1IFdGVybXMiAhABSABYAGgA",
+    "source": "Facebook"
+   },
+   {
+    "position": 3,
+    "title": "Find Recipes, Videos, Articles & Photos related to Pinni - Slurrp",
+    "link": "https://www.slurrp.com/slurrp360/regional/pinni-1665987715647",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVXxQ4XZnIm2nucFhGBdQCX1oNnPzLPgzdxyeGHlYd9QpMX413ErJZahPBaiidX0iAxE_3e4NTg4b8-cPvKWVRFhb8Cp_fsurHjq5b4Mf_VXwmV3q59jPGsYsJS853mQK1uJ44vx9kDLy2V8VSG35bMxPIYA&ved=2ahUKEwjburqFhZyXAxVgsVYBHZemCKAQFnoECGgQAQ&uoh=1",
+    "displayed_link": "https://www.slurrp.com",
+    "favicon": "https://serpapi.com/images/i/UklGRioBAABXRUJQVlA4IB4BAACwBgCdASocABwAPtE-tFooIigoFAEAGglsALUI2vwLsBNMxXge5Ag8Nj-dT74lFL_5s9TfQBEUCdNMKQ5xgAD-93ip0nePfiy-xgclS2tMS9mLoz3XLMSukx4MAw-XongLtRWt-v7NYqRRPqjZsEQmz5O8gVzo-KH7yLj7FWJ5Uk8NBdyD1NwkvorHm59In2X5ANpyRmO-feBvlUVRoT2wcSPUh7zKcB8pk2f6JWPuoe62tFyrEBQhS7Dcw7yO7OwuP6874UioqOiF88KA8RIphB3VwBcghbti_CueScj_D8nHlxhWF1e-TmXUXd1xnKh6foX3Y-7dRErv84_fSv4dIDSc27YB_eGTxLe-PPOuRwJ0JiT7zcvZocx1v6AA.webp",
+    "snippet": "The word Pinni is also a generic name for round-shaped treats or sweets, also referred to as Pindi in North India and the Punjab region, that are typically ...",
+    "about_this_result": {
+     "source": {
+      "description": "The word Pinni is also a generic name for round-shaped treats or sweets, also referred to as Pindi in North India and the Punjab region, that are typically ...",
+      "source_info_link": "https://www.slurrp.com/slurrp360/regional/pinni-1665987715647",
+      "icon": "https://serpapi.com/images/i/UklGRioBAABXRUJQVlA4IB4BAACwBgCdASocABwAPtE-tFooIigoFAEAGglsALUI2vwLsBNMxXge5Ag8Nj-dT74lFL_5s9TfQBEUCdNMKQ5xgAD-93ip0nePfiy-xgclS2tMS9mLoz3XLMSukx4MAw-XongLtRWt-v7NYqRRPqjZsEQmz5O8gVzo-KH7yLj7FWJ5Uk8NBdyD1NwkvorHm59In2X5ANpyRmO-feBvlUVRoT2wcSPUh7zKcB8pk2f6JWPuoe62tFyrEBQhS7Dcw7yO7OwuP6874UioqOiF88KA8RIphB3VwBcghbti_CueScj_D8nHlxhWF1e-TmXUXd1xnKh6foX3Y-7dRErv84_fSv4dIDSc27YB_eGTxLe-PPOuRwJ0JiT7zcvZocx1v6AA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVlh4UTRYWm5JbTJudWNGaEdCZFFDWDFvTm5QekxQZ3pkeHllR0hsWWQ5UXBNWDQxM0VySlphaFBCYWlpZFgwaUF4RV8zZTROVGc0YjgtY1B2S1dWUkZoYjhDcF9mc3VySGpxNWI0TWZfVlh3bVYzcTU5alBHc1lzSlM4NTNtUUsxdUo0NHZ4OWtETHkyVjhWU0czNWJNeFBJWUESBBoCCAAarwYSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAiwYIABAAGAAgACoYCgVwaW5uaRV4ccRAGgppdjtwO3Bpbm5pKhQKBXN3ZWV0FT6Z2z8aBnN3ZWV0cyooCgRhbHNvFV_yCkAaBmJldHRlchoIY29tbW9ubHkaCWFsc29rbm93bipECgVrbm93bhUAAAAAGgZjYWxsZWQaBGtub3caCHJlZmVycmVkGglhbHNva25vd24aCW5pY2tuYW1lcxoIbmlja25hbWUqCQoCYXMVAAAAACpFCgVvdGhlchUAAAAAGglhbHRlcm5hdGUaB2Fub3RoZXIaDGFub3RoZXIgbmFtZRoJZGlmZmVyZW50GgpvdGhlcm5hbWVzKlUKBW5hbWVzFQAAAAAaDGFub3RoZXIgbmFtZRoEbmFtZRoEdGVybRoFdGVybXMaBXdvcmRzGgpvdGhlcm5hbWVzGghzeW5vbnltcxoJbmlja25hbWVzMrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVlh4UTRYWm5JbTJudWNGaEdCZFFDWDFvTm5QekxQZ3pkeHllR0hsWWQ5UXBNWDQxM0VySlphaFBCYWlpZFgwaUF4RV8zZTROVGc0YjgtY1B2S1dWUkZoYjhDcF9mc3VySGpxNWI0TWZfVlh3bVYzcTU5alBHc1lzSlM4NTNtUUsxdUo0NHZ4OWtETHkyVjhWU0czNWJNeFBJWUE6TEZpbmQgUmVjaXBlcywgVmlkZW9zLCBBcnRpY2xlcyAmYW1wOyBQaG90b3MgcmVsYXRlZCB0byA8Yj5QaW5uaTwvYj4gLSBTbHVycnBCqwFUaGUgd29yZCBQaW5uaSBpcyBhbHNvIGEgZ2VuZXJpYyBuYW1lIGZvciA8Yj5yb3VuZC1zaGFwZWQgdHJlYXRzIG9yIHN3ZWV0czwvYj4sIGFsc28gcmVmZXJyZWQgdG8gYXMgUGluZGkgaW4gTm9ydGggSW5kaWEgYW5kIHRoZSBQdW5qYWIgcmVnaW9uLCB0aGF0IGFyZSB0eXBpY2FsbHkmbmJzcDsuLi5KAmFzUgV0ZXJtcyICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVlh4UTRYWm5JbTJudWNGaEdCZFFDWDFvTm5QekxQZ3pkeHllR0hsWWQ5UXBNWDQxM0VySlphaFBCYWlpZFgwaUF4RV8zZTROVGc0YjgtY1B2S1dWUkZoYjhDcF9mc3VySGpxNWI0TWZfVlh3bVYzcTU5alBHc1lzSlM4NTNtUUsxdUo0NHZ4OWtETHkyVjhWU0czNWJNeFBJWUESBBoCCAAarwYSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAiwYIABAAGAAgACoYCgVwaW5uaRV4ccRAGgppdjtwO3Bpbm5pKhQKBXN3ZWV0FT6Z2z8aBnN3ZWV0cyooCgRhbHNvFV_yCkAaBmJldHRlchoIY29tbW9ubHkaCWFsc29rbm93bipECgVrbm93bhUAAAAAGgZjYWxsZWQaBGtub3caCHJlZmVycmVkGglhbHNva25vd24aCW5pY2tuYW1lcxoIbmlja25hbWUqCQoCYXMVAAAAACpFCgVvdGhlchUAAAAAGglhbHRlcm5hdGUaB2Fub3RoZXIaDGFub3RoZXIgbmFtZRoJZGlmZmVyZW50GgpvdGhlcm5hbWVzKlUKBW5hbWVzFQAAAAAaDGFub3RoZXIgbmFtZRoEbmFtZRoEdGVybRoFdGVybXMaBXdvcmRzGgpvdGhlcm5hbWVzGghzeW5vbnltcxoJbmlja25hbWVzMrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVlh4UTRYWm5JbTJudWNGaEdCZFFDWDFvTm5QekxQZ3pkeHllR0hsWWQ5UXBNWDQxM0VySlphaFBCYWlpZFgwaUF4RV8zZTROVGc0YjgtY1B2S1dWUkZoYjhDcF9mc3VySGpxNWI0TWZfVlh3bVYzcTU5alBHc1lzSlM4NTNtUUsxdUo0NHZ4OWtETHkyVjhWU0czNWJNeFBJWUE6TEZpbmQgUmVjaXBlcywgVmlkZW9zLCBBcnRpY2xlcyAmYW1wOyBQaG90b3MgcmVsYXRlZCB0byA8Yj5QaW5uaTwvYj4gLSBTbHVycnBCqwFUaGUgd29yZCBQaW5uaSBpcyBhbHNvIGEgZ2VuZXJpYyBuYW1lIGZvciA8Yj5yb3VuZC1zaGFwZWQgdHJlYXRzIG9yIHN3ZWV0czwvYj4sIGFsc28gcmVmZXJyZWQgdG8gYXMgUGluZGkgaW4gTm9ydGggSW5kaWEgYW5kIHRoZSBQdW5qYWIgcmVnaW9uLCB0aGF0IGFyZSB0eXBpY2FsbHkmbmJzcDsuLi5KAmFzUgV0ZXJtcyICEAFIAFgAaAA",
+    "source": "slurrp.com"
+   },
+   {
+    "position": 4,
+    "title": "Top Pinni Sweet Manufacturers in Dum Dum, Kolkata near me",
+    "link": "https://www.justdial.com/Kolkata/Pinni-Sweet-Manufacturers-in-Dum-Dum/nct-11667353",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjQEB6zswFVyKbYpdHnxLu6g20sj251rDBxWXQChcaeoAo61w0JxBKYh5KdZEa13HUygjLehjjCesF-RxesibKqRU2U0I3bJXQGVRSo_Tc0CyR40G6nLCnBX1fqWHKOuPy3R2V7gMB0EZGEp_WNnqNCEXlWmTZP256pNIzj_zj9p8PVly6S4W0f0P1fk9Ll8&ved=2ahUKEwjburqFhZyXAxVgsVYBHZemCKAQFnoECFwQAQ&uoh=1",
+    "displayed_link": "https://www.justdial.com",
+    "favicon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
+    "snippet": "Alsi di pinni is a traditional Indian sweet made from flaxseeds, known for its rich flavor and nutritional benefits. This pinni sweet is often enjoyed during ...",
+    "about_this_result": {
+     "source": {
+      "description": "Alsi di pinni is a traditional Indian sweet made from flaxseeds, known for its rich flavor and nutritional benefits. This pinni sweet is often enjoyed during ...",
+      "source_info_link": "https://www.justdial.com/Kolkata/Pinni-Sweet-Manufacturers-in-Dum-Dum/nct-11667353",
+      "icon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZWeUtiWXBkSG54THU2ZzIwc2oyNTFyREJ4V1hRQ2hjYWVvQW82MXcwSnhCS1loNUtkWkVhMTNIVXlnakxlaGpqQ2VzRi1SeGVzaWJLcVJVMlUwSTNiSlhRR1ZSU29fVGMwQ3lSNDBHNm5MQ25CWDFmcVdIS091UHkzUjJWN2dNQjBFWkdFcF9XTm5xTkNFWGxXbVRaUDI1NnBOSXpqX3pqOXA4UFZseTZTNFcwZjBQMWZrOUxsOBIEGgIIABrNBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCpBggAEAAYACAAKhgKBXBpbm5pFdpii0AaCml2O3A7cGlubmkqFAoFc3dlZXQVus2LQBoGc3dlZXRzKigKBGFsc28V3QFUPxoGYmV0dGVyGghjb21tb25seRoJYWxzb2tub3duKkQKBWtub3duFXSPlT4aBmNhbGxlZBoEa25vdxoIcmVmZXJyZWQaCWFsc29rbm93bhoJbmlja25hbWVzGghuaWNrbmFtZSoJCgJhcxUAAAAAKkUKBW90aGVyFZXxFD4aCWFsdGVybmF0ZRoHYW5vdGhlchoMYW5vdGhlciBuYW1lGglkaWZmZXJlbnQaCm90aGVybmFtZXMqVQoFbmFtZXMVAAAAABoMYW5vdGhlciBuYW1lGgRuYW1lGgR0ZXJtGgV0ZXJtcxoFd29yZHMaCm90aGVybmFtZXMaCHN5bm9ueW1zGgluaWNrbmFtZXMyzQEvZ290bz91cmw9Q0FFU2pRRUI2enN3RlZ5S2JZcGRIbnhMdTZnMjBzajI1MXJEQnhXWFFDaGNhZW9BbzYxdzBKeEJLWWg1S2RaRWExM0hVeWdqTGVoampDZXNGLVJ4ZXNpYktxUlUyVTBJM2JKWFFHVlJTb19UYzBDeVI0MEc2bkxDbkJYMWZxV0hLT3VQeTNSMlY3Z01CMEVaR0VwX1dObnFOQ0VYbFdtVFpQMjU2cE5Jempfemo5cDhQVmx5NlM0VzBmMFAxZms5TGw4OktUb3AgPGI-UGlubmkgU3dlZXQ8L2I-IE1hbnVmYWN0dXJlcnMgaW4gRHVtIER1bSwgS29sa2F0YSBuZWFyIG1lIC0gSnVzdGRpYWxCrQE8Yj5BbHNpIGRpIHBpbm5pPC9iPiBpcyBhIHRyYWRpdGlvbmFsIEluZGlhbiBzd2VldCBtYWRlIGZyb20gZmxheHNlZWRzLCBrbm93biBmb3IgaXRzIHJpY2ggZmxhdm9yIGFuZCBudXRyaXRpb25hbCBiZW5lZml0cy4gVGhpcyBwaW5uaSBzd2VldCBpcyBvZnRlbiBlbmpveWVkIGR1cmluZyZuYnNwOy4uLkoCYXNSBXRlcm1zIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZWeUtiWXBkSG54THU2ZzIwc2oyNTFyREJ4V1hRQ2hjYWVvQW82MXcwSnhCS1loNUtkWkVhMTNIVXlnakxlaGpqQ2VzRi1SeGVzaWJLcVJVMlUwSTNiSlhRR1ZSU29fVGMwQ3lSNDBHNm5MQ25CWDFmcVdIS091UHkzUjJWN2dNQjBFWkdFcF9XTm5xTkNFWGxXbVRaUDI1NnBOSXpqX3pqOXA4UFZseTZTNFcwZjBQMWZrOUxsOBIEGgIIABrNBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCpBggAEAAYACAAKhgKBXBpbm5pFdpii0AaCml2O3A7cGlubmkqFAoFc3dlZXQVus2LQBoGc3dlZXRzKigKBGFsc28V3QFUPxoGYmV0dGVyGghjb21tb25seRoJYWxzb2tub3duKkQKBWtub3duFXSPlT4aBmNhbGxlZBoEa25vdxoIcmVmZXJyZWQaCWFsc29rbm93bhoJbmlja25hbWVzGghuaWNrbmFtZSoJCgJhcxUAAAAAKkUKBW90aGVyFZXxFD4aCWFsdGVybmF0ZRoHYW5vdGhlchoMYW5vdGhlciBuYW1lGglkaWZmZXJlbnQaCm90aGVybmFtZXMqVQoFbmFtZXMVAAAAABoMYW5vdGhlciBuYW1lGgRuYW1lGgR0ZXJtGgV0ZXJtcxoFd29yZHMaCm90aGVybmFtZXMaCHN5bm9ueW1zGgluaWNrbmFtZXMyzQEvZ290bz91cmw9Q0FFU2pRRUI2enN3RlZ5S2JZcGRIbnhMdTZnMjBzajI1MXJEQnhXWFFDaGNhZW9BbzYxdzBKeEJLWWg1S2RaRWExM0hVeWdqTGVoampDZXNGLVJ4ZXNpYktxUlUyVTBJM2JKWFFHVlJTb19UYzBDeVI0MEc2bkxDbkJYMWZxV0hLT3VQeTNSMlY3Z01CMEVaR0VwX1dObnFOQ0VYbFdtVFpQMjU2cE5Jempfemo5cDhQVmx5NlM0VzBmMFAxZms5TGw4OktUb3AgPGI-UGlubmkgU3dlZXQ8L2I-IE1hbnVmYWN0dXJlcnMgaW4gRHVtIER1bSwgS29sa2F0YSBuZWFyIG1lIC0gSnVzdGRpYWxCrQE8Yj5BbHNpIGRpIHBpbm5pPC9iPiBpcyBhIHRyYWRpdGlvbmFsIEluZGlhbiBzd2VldCBtYWRlIGZyb20gZmxheHNlZWRzLCBrbm93biBmb3IgaXRzIHJpY2ggZmxhdm9yIGFuZCBudXRyaXRpb25hbCBiZW5lZml0cy4gVGhpcyBwaW5uaSBzd2VldCBpcyBvZnRlbiBlbmpveWVkIGR1cmluZyZuYnNwOy4uLkoCYXNSBXRlcm1zIgIQAUgAWABoAA",
+    "source": "Justdial"
+   },
+   {
+    "position": 5,
+    "title": "Pinni Recipe (Pinni Sweet)",
+    "link": "https://www.pinterest.com/pin/pinni-recipe-pinni-sweet-2024--816910819937322291/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFQ99M1U_SEdzkiuC0ZSE2b8Z7In7vdoifAa4ZcK_QKbzvsnyLkKCJiBwP0GDqEZUVr5XhbqBjGX3vL6HKWXQLK_BvpthtBwo5pGUdXH6FR0mEJuFEGFZ76FJzkBJaPOHNZmjO3-mKJiQI-5_uBtqgTzx1ArV93BpjtjRVzQQzSFil9xGZb9a&ved=2ahUKEwjburqFhZyXAxVgsVYBHZemCKAQFnoECF4QAQ&uoh=1",
+    "displayed_link": "2 years ago",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_TYTebrwN2oAnCwjc5LnU9jdvvV_I4Ed0vypmDGL_VufypP7KaMYfIJg&usqp=CAE&s",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU-9_3QHss1rH3bxhpYTEAAL8Ibw_AOhik4gOd8y1Ee6NhTZF-IYxEe-oaeZ-Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh-E16wemD_TQ-ta8LyZ7XxUgAAAAASUVORK5CYII.png",
+    "snippet": "Pinni, a cherished winter delight in Punjabi cuisine, is a sweet made with basic ingredients like whole wheat flour, sugar, ghee, nuts, ...",
+    "about_this_result": {
+     "source": {
+      "description": "Pinni, a cherished winter delight in Punjabi cuisine, is a sweet made with basic ingredients like whole wheat flour, sugar, ghee, nuts, ...",
+      "source_info_link": "https://www.pinterest.com/pin/pinni-recipe-pinni-sweet-2024--816910819937322291/",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU-9_3QHss1rH3bxhpYTEAAL8Ibw_AOhik4gOd8y1Ee6NhTZF-IYxEe-oaeZ-Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh-E16wemD_TQ-ta8LyZ7XxUgAAAAASUVORK5CYII.png"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZROTlNMVVfU0VkemtpdUMwWlNFMmI4WjdJbjd2ZG9pZkFhNFpjS19RS2J6dnNueUxrS0NKaUJ3UDBHRHFFWlVWcjVYaGJxQmpHWDN2TDZIS1dYUUxLX0J2cHRodEJ3bzVwR1VkWEg2RlIwbUVKdUZFR0ZaNzZGSnprQkphUE9ITlptak8zLW1LSmlRSS01X3VCdHFnVHp4MUFyVjkzQnBqdGpSVnpRUXpTRmlsOXhHWmI5YRIEGgIIABqfBhIAGgIIASIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQPkFCAAQABgAIAAqGAoFcGlubmkVFtOdQBoKaXY7cDtwaW5uaSoUCgVzd2VldBXIkHpAGgZzd2VldHMqKAoEYWxzbxXiiBc-GgZiZXR0ZXIaCGNvbW1vbmx5GglhbHNva25vd24qRAoFa25vd24VAAAAABoGY2FsbGVkGgRrbm93GghyZWZlcnJlZBoJYWxzb2tub3duGgluaWNrbmFtZXMaCG5pY2tuYW1lKgkKAmFzFQAAAAAqRQoFb3RoZXIVAAAAABoJYWx0ZXJuYXRlGgdhbm90aGVyGgxhbm90aGVyIG5hbWUaCWRpZmZlcmVudBoKb3RoZXJuYW1lcypVCgVuYW1lcxUAAAAAGgxhbm90aGVyIG5hbWUaBG5hbWUaBHRlcm0aBXRlcm1zGgV3b3JkcxoKb3RoZXJuYW1lcxoIc3lub255bXMaCW5pY2tuYW1lczLKAS9nb3RvP3VybD1DQUVTaXdFQjZ6c3dGUTk5TTFVX1NFZHpraXVDMFpTRTJiOFo3SW43dmRvaWZBYTRaY0tfUUtienZzbnlMa0tDSmlCd1AwR0RxRVpVVnI1WGhicUJqR1gzdkw2SEtXWFFMS19CdnB0aHRCd281cEdVZFhINkZSMG1FSnVGRUdGWjc2Rkp6a0JKYVBPSE5abWpPMy1tS0ppUUktNV91QnRxZ1R6eDFBclY5M0JwanRqUlZ6UVF6U0ZpbDl4R1piOWE6NDxiPlBpbm5pPC9iPiBSZWNpcGUgKDxiPlBpbm5pIFN3ZWV0PC9iPikgLSBQaW50ZXJlc3RClwE8Yj5QaW5uaSwgYSBjaGVyaXNoZWQgd2ludGVyIGRlbGlnaHQgaW4gUHVuamFiaSBjdWlzaW5lPC9iPiwgaXMgYSBzd2VldCBtYWRlIHdpdGggYmFzaWMgaW5ncmVkaWVudHMgbGlrZSB3aG9sZSB3aGVhdCBmbG91ciwgc3VnYXIsIGdoZWUsIG51dHMsJm5ic3A7Li4uSgJhc1IFdGVybXMiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZROTlNMVVfU0VkemtpdUMwWlNFMmI4WjdJbjd2ZG9pZkFhNFpjS19RS2J6dnNueUxrS0NKaUJ3UDBHRHFFWlVWcjVYaGJxQmpHWDN2TDZIS1dYUUxLX0J2cHRodEJ3bzVwR1VkWEg2RlIwbUVKdUZFR0ZaNzZGSnprQkphUE9ITlptak8zLW1LSmlRSS01X3VCdHFnVHp4MUFyVjkzQnBqdGpSVnpRUXpTRmlsOXhHWmI5YRIEGgIIABqfBhIAGgIIASIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQPkFCAAQABgAIAAqGAoFcGlubmkVFtOdQBoKaXY7cDtwaW5uaSoUCgVzd2VldBXIkHpAGgZzd2VldHMqKAoEYWxzbxXiiBc-GgZiZXR0ZXIaCGNvbW1vbmx5GglhbHNva25vd24qRAoFa25vd24VAAAAABoGY2FsbGVkGgRrbm93GghyZWZlcnJlZBoJYWxzb2tub3duGgluaWNrbmFtZXMaCG5pY2tuYW1lKgkKAmFzFQAAAAAqRQoFb3RoZXIVAAAAABoJYWx0ZXJuYXRlGgdhbm90aGVyGgxhbm90aGVyIG5hbWUaCWRpZmZlcmVudBoKb3RoZXJuYW1lcypVCgVuYW1lcxUAAAAAGgxhbm90aGVyIG5hbWUaBG5hbWUaBHRlcm0aBXRlcm1zGgV3b3JkcxoKb3RoZXJuYW1lcxoIc3lub255bXMaCW5pY2tuYW1lczLKAS9nb3RvP3VybD1DQUVTaXdFQjZ6c3dGUTk5TTFVX1NFZHpraXVDMFpTRTJiOFo3SW43dmRvaWZBYTRaY0tfUUtienZzbnlMa0tDSmlCd1AwR0RxRVpVVnI1WGhicUJqR1gzdkw2SEtXWFFMS19CdnB0aHRCd281cEdVZFhINkZSMG1FSnVGRUdGWjc2Rkp6a0JKYVBPSE5abWpPMy1tS0ppUUktNV91QnRxZ1R6eDFBclY5M0JwanRqUlZ6UVF6U0ZpbDl4R1piOWE6NDxiPlBpbm5pPC9iPiBSZWNpcGUgKDxiPlBpbm5pIFN3ZWV0PC9iPikgLSBQaW50ZXJlc3RClwE8Yj5QaW5uaSwgYSBjaGVyaXNoZWQgd2ludGVyIGRlbGlnaHQgaW4gUHVuamFiaSBjdWlzaW5lPC9iPiwgaXMgYSBzd2VldCBtYWRlIHdpdGggYmFzaWMgaW5ncmVkaWVudHMgbGlrZSB3aG9sZSB3aGVhdCBmbG91ciwgc3VnYXIsIGdoZWUsIG51dHMsJm5ic3A7Li4uSgJhc1IFdGVybXMiAhABSABYAGgA",
+    "source": "Pinterest · anilabopanna"
+   },
+   {
+    "position": 6,
+    "title": "Punjabi Pinni Recipe | Aate ke ladoo",
+    "link": "https://www.youtube.com/watch?v=UckjCXvLNJk",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVTng5kjLPySRcHE1AvK7ZVoNvkZMcchPAnQFJiFofI_fKGWlL8xjsHcAYdM2TPt9mmMmKM8lVCb_bEN-b22heRdlFdxlUZk1CubLjStOU36_4zG1o3_uX9C3Gu2-p4ghDKw&ved=2ahUKEwjburqFhZyXAxVgsVYBHZemCKAQtwJ6BAhPEAE&uoh=1",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaOtRi3XY8VxujalAM_uENfabJ77tMY64G3xkKI131whBX6B-wL-SDPw&s",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "duration": "6:13",
+    "snippet": "For those unfamiliar with this term, aate or aata means whole wheat flour, and pinni is a Punjabi term used for sweets. These yummy Aate ki ...",
+    "about_this_result": {
+     "source": {
+      "description": "For those unfamiliar with this term, aate or aata means whole wheat flour, and pinni is a Punjabi term used for sweets. These yummy Aate ki ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlRuZzVrakxQeVNSY0hFMUF2SzdaVm9OdmtaTWNjaFBBblFGSmlGb2ZJX2ZLR1dsTDh4anNIY0FZZE0yVFB0OW1tTW1LTThsVkNiX2JFTi1iMjJoZVJkbEZkeGxVWmsxQ3ViTGpTdE9VMzZfNHpHMW8zX3VYOUMzR3UyLXA0Z2hES3cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlRuZzVrakxQeVNSY0hFMUF2SzdaVm9OdmtaTWNjaFBBblFGSmlGb2ZJX2ZLR1dsTDh4anNIY0FZZE0yVFB0OW1tTW1LTThsVkNiX2JFTi1iMjJoZVJkbEZkeGxVWmsxQ3ViTGpTdE9VMzZfNHpHMW8zX3VYOUMzR3UyLXA0Z2hES3cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQLgGAH6bDHSi7t0l1nooctIEHvZKUSO0NDhA",
+    "source": "YouTube · Neeta's Kitchen"
+   },
+   {
+    "position": 7,
+    "title": "Enjoy the delicious taste of Alsi Pinni, a traditional sweet crafted with expertise and love by ...",
+    "link": "https://www.facebook.com/thukralfoods/posts/enjoy-the-delicious-taste-of-alsi-pinni-a-traditional-sweet-crafted-with-experti/756587379826075/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESyQEB6zswFW8J9J_Nv0LJftOLwvsIxREwIFP4a-Zh9r9O7V7QxYYnoy3XBLSRTmZru8AzQuKsKXcOdMAwk406uA7aheGgqdUzA9GjVVRLsDRM4sDOhyg2rY33s5iG4nsKdiX_NPFCs9VhqszuuRB_I2jbCMk1CUZ6pPfpt-gd-IB9mYELMEAbNd8pyp8UhzSb5G7QmFrKj31aeEME3mhQsQ0w7_RroPiqzhJexW3-3bRSuiB7O2nTFU2Z9WvgHBh0_ZeS6xuqI9QdfrI&ved=2ahUKEwjburqFhZyXAxVgsVYBHZemCKAQtwJ6BAhLEAE&uoh=1",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHbjdBvdmQbO8-1MRbQtuyuDqNJHEceNjGg8YnDjDqtRmuEEygmt4mvg&s",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "duration": "1:07",
+    "snippet": "Alsi Pinni (flaxseed pinni) is a traditional Indian sweet made from flaxseeds (alsi), often combined with whole wheat flour, jaggery, and ghee.",
+    "about_this_result": {
+     "source": {
+      "description": "Alsi Pinni (flaxseed pinni) is a traditional Indian sweet made from flaxseeds (alsi), often combined with whole wheat flour, jaggery, and ghee.",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Cp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZXOEo5Sl9OdjBMSmZ0T0x3dnNJeFJFd0lGUDRhLVpoOXI5TzdWN1F4WVlub3kzWEJMU1JUbVpydThBelF1S3NLWGNPZE1Bd2s0MDZ1QTdhaGVHZ3FkVXpBOUdqVlZSTHNEUk00c0RPaHlnMnJZMzNzNWlHNG5zS2RpWF9OUEZDczlWaHFzenV1UkJfSTJqYkNNazFDVVo2cFBmcHQtZ2QtSUI5bVlFTE1FQWJOZDhweXA4VWh6U2I1RzdRbUZyS2ozMWFlRU1FM21oUXNRMHc3X1Jyb1BpcXpoSmV4VzMtM2JSU3VpQjdPMm5URlUyWjlXdmdIQmgwX1plUzZ4dXFJOVFkZnJJEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Cp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZXOEo5Sl9OdjBMSmZ0T0x3dnNJeFJFd0lGUDRhLVpoOXI5TzdWN1F4WVlub3kzWEJMU1JUbVpydThBelF1S3NLWGNPZE1Bd2s0MDZ1QTdhaGVHZ3FkVXpBOUdqVlZSTHNEUk00c0RPaHlnMnJZMzNzNWlHNG5zS2RpWF9OUEZDczlWaHFzenV1UkJfSTJqYkNNazFDVVo2cFBmcHQtZ2QtSUI5bVlFTE1FQWJOZDhweXA4VWh6U2I1RzdRbUZyS2ozMWFlRU1FM21oUXNRMHc3X1Jyb1BpcXpoSmV4VzMtM2JSU3VpQjdPMm5URlUyWjlXdmdIQmgwX1plUzZ4dXFJOVFkZnJJEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+    "source": "Facebook · Thukral Di Hatti - Thukral Foods"
+   }
+  ],
+  "pagination": {
+   "current": 1
+  },
+  "serpapi_pagination": {
+   "current": 1
+  }
+ }
+}

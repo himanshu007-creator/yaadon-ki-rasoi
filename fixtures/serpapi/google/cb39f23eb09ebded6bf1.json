@@ -1,0 +1,344 @@
+{
+ "engine": "google",
+ "params": {
+  "q": "traditional Indian sweet recipe jaggery crispy outside soft inside sesame coated round",
+  "gl": "in",
+  "hl": "en",
+  "google_domain": "google.co.in",
+  "device": "mobile"
+ },
+ "recordedAt": "2026-10-02T19:08:41.892Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac00138a3f730a8390f3709",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/trSuILwsTR5-wnqDI86mx-I7rtT_SLxXHN50hpsp4eg/6ac00138a3f730a8390f3709.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/trSuILwsTR5-wnqDI86mx-I7rtT_SLxXHN50hpsp4eg/6ac00138a3f730a8390f3709.json_with_pixel_position",
+   "created_at": "2026-10-02 19:08:40 UTC",
+   "processed_at": "2026-10-02 19:08:40 UTC",
+   "google_url": "https://www.google.co.in/search?q=traditional+Indian+sweet+recipe+jaggery+crispy+outside+soft+inside+sesame+coated+round&oq=traditional+Indian+sweet+recipe+jaggery+crispy+outside+soft+inside+sesame+coated+round&hl=en&gl=in&sourceid=chrome-mobile&ie=UTF-8",
+   "total_time_taken": 1.07
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "traditional Indian sweet recipe jaggery crispy outside soft inside sesame coated round",
+   "google_domain": "google.co.in",
+   "hl": "en",
+   "gl": "in",
+   "device": "mobile"
+  },
+  "search_information": {
+   "query_displayed": "traditional Indian sweet recipe jaggery crispy outside soft inside sesame coated round"
+  },
+  "recipes_results": [
+   {
+    "title": "Sesame Chikki / Til Gud Ki Chikki",
+    "link": "https://someindiangirl.com/sesame-chikki/",
+    "source": "Some Indian Girl",
+    "rating": 5,
+    "reviews": 12,
+    "total_time": "15m",
+    "total_ingredients_original": "3 ingredients",
+    "total_ingredients": 3,
+    "images": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZN6HmTs9YYru54W9kvFvRybUZlPcK_FTlc2OC8MwtQ&s=10",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1oBSBsb-wJfymkVH2A4PXzdeWmYbLGzSh7INAB6mJNK_xfsYq3BqL24p58Q&s=10",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRds_pPmvJYlFfLoa7eK54ydTK9iTsGnzM91Mpkg9O1eKq-tHRQ88a1Xn04oQ&s=10",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiCBRFTlo5VWAKsknh4HF8Zn_r-SPgVONKkKK4ufW36vqk_WoRrn_TbHkNOQ&s=10"
+    ]
+   },
+   {
+    "title": "Til Laddu",
+    "link": "https://foodiesterminal.com/til-laddu/",
+    "source": "Foodies Terminal",
+    "rating": 5,
+    "reviews": 1,
+    "total_time": "25m",
+    "total_ingredients_original": "4 ingredients",
+    "total_ingredients": 4,
+    "images": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_WgFYaZVShDZ00JlXTsPMNYjag-xQlllw8xpZFUIH4w&s=10",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrtcsT_Qa8Bir_N-YBmlzyXK_A8j7PMyaeeoIE_kpd95kUDAvpr4Cs2NkDvA&s=10",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTr9iTk6XsDoW_plQL2g-YqzVAUN0LMBMeNAlluou8BQ&s=10",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl_8HP9iRpo3ZBUtcWyN0HSl2O5lJYr5ss5DlJXKSu5w&s=10"
+    ]
+   },
+   {
+    "title": "Til Ke Laddu (Sesame Laddu)",
+    "link": "https://www.indianhealthyrecipes.com/sesame-seeds-ladoo/",
+    "source": "Swasthi's Recipes",
+    "rating": 5,
+    "reviews": 45,
+    "total_time": "20m",
+    "total_ingredients_original": "9 ingredients",
+    "total_ingredients": 9,
+    "images": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7t3iPbZ4FUS03e-vkO8VXfi3kWL4xRlTNyrkp4R1bAw&s=10",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnZkITLWQ6l7uy8nivO7NKp3HCCOXbvOwM0Ut9kg5zK1aMXLGznkVqW2dE3w&s=10",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaU2ZOfad_yIjUoWgtZVv9NWDml5pkODYomdkyQTkOUoEW6r71whJNFIYeeg&s=10",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Xq71cLWMjl_e9r350HqXMx60IwhVWByMKMgGca-Xib8a9a2R1A86WeGfeA&s=10"
+    ]
+   },
+   {
+    "title": "Mawa Anarsa Goli (Bihari Style Anarsa)",
+    "link": "https://thetastesofindia.com/bihari-anarsa-recipe/",
+    "source": "Quick Indian Vegetarian Recipes",
+    "total_time": "4h",
+    "total_ingredients_original": "6 ingredients",
+    "total_ingredients": 6,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpnO_Z4NwysX9nhFRN4c3q2oKUTfKk3j8gonx027GbWg&s=10"
+   }
+  ],
+  "inline_videos": [
+   {
+    "position": 1,
+    "title": "Jaggery Burfi Sweets | Sesame Dessert Recipe",
+    "link": "https://www.facebook.com/novenrecipes/posts/sesame-jaggery-sweets-sesame-barfi-jaggery-burfi-sweets-sesame-dessert-recipe/1109111594581119/",
+    "thumbnail": "https://serpapi.com/searches/6ac00138a3f730a8390f3709/images/TtwCKVZ8AcvA4W-SlPvqBsqoiz9ppsQUEjmkaAA8ndo.jpeg",
+    "channel": "N'Oven Recipes",
+    "duration": "3:33",
+    "platform": "Facebook",
+    "date": "24 Jun 2025"
+   },
+   {
+    "position": 2,
+    "title": "Crispy on the outside, deliciously sweet on the inside!  Homemade Kajjikayalu filled with ...",
+    "link": "https://www.instagram.com/reel/DddDwQtvLxk/",
+    "thumbnail": "https://serpapi.com/searches/6ac00138a3f730a8390f3709/images/maygCdX9KM2DzNM37e7uqtnDcjigeFI6oXmYs4LZWPY.jpeg",
+    "channel": "Ramesh Kuncham",
+    "duration": "1:18",
+    "platform": "Instagram",
+    "date": "2 weeks ago"
+   },
+   {
+    "position": 3,
+    "title": "Sesame Dessert Recipe - Jaggery Burfi Sweets",
+    "link": "https://www.facebook.com/novenrecipes/posts/sesame-jaggery-sweets-sesame-barfi-jaggery-burfi-sweets-sesame-dessert-recipe/1066408328851446/",
+    "thumbnail": "https://serpapi.com/searches/6ac00138a3f730a8390f3709/images/ym1tJPWqnZUYu8f6pB6VP8w8NYrLflzlSGwA3n_Pjpo.jpeg",
+    "channel": "N'Oven Recipes",
+    "duration": "3:33",
+    "platform": "Sesame Jaggery Sweets | Sesame Barfi | Jaggery Burfi Sweets | Sesame Dessert Recipe",
+    "date": "26 Apr 2025",
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQIKGgDAcdQMd0452iy0Ng1NEfPLxUgdh9clQ"
+   },
+   {
+    "position": 4,
+    "title": "This Ancient Indian Sweet Is Made With Just Sesame & Jaggery #fblifestyle #dessert | Mr. Ladoo",
+    "link": "https://www.facebook.com/mrladoo/videos/this-ancient-indian-sweet-is-made-with-just-sesame-jaggery/2137172680151558/",
+    "thumbnail": "https://serpapi.com/searches/6ac00138a3f730a8390f3709/images/NzUACkV0h1ybT_oBt_mlewfUQkEYHiJBMFwRZk-S4xI.jpeg",
+    "channel": "Mr. Ladoo",
+    "duration": "2:51",
+    "platform": "Facebook",
+    "date": "29 Dec 2025"
+   }
+  ],
+  "related_questions": [
+   {
+    "question": "What are some famous sweet dishes from Andhra Pradesh?",
+    "type": "ai_overview",
+    "page_token": "UBH4z3icHdDbboIwAADQ7Gd8lNt0wcQsYbSdOFFaKNiXpZabtFyCKOLb_mVfta_ZsvfzdL6-1bmRP0-sHIbustK0cRznRdsWKpuLdn5uNH6ZGqEJrtSJC7laviyN11yswWV03trRCaKuoy7WQ4QbAeg9RsrBksUhMJAw2JVDjFmNewH9PaWdykI_YEodCDFoajg6iVNJXJUIRK88aac0hEEoFz2RrXUKocMlU7iB4VHiP-vnPlpYTFGLRQolht8Tc3OnFG92NTxQK3Wj-tlkum7iCtYk9mAU2QMD5ZIn3m7v4lsmyxEDuPXNHYG67RAASwHsY_g4TkHlTSfDeYjKa1MdUnT2HPzuT_uYRRmwSx7fK2IUI407iyblyNGi4YqhjxhuM4CbWS5ua2v2P7b-zOth1fVt8QsAkHjI",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=UBH4z3icHdDbboIwAADQ7Gd8lNt0wcQsYbSdOFFaKNiXpZabtFyCKOLb_mVfta_ZsvfzdL6-1bmRP0-sHIbustK0cRznRdsWKpuLdn5uNH6ZGqEJrtSJC7laviyN11yswWV03trRCaKuoy7WQ4QbAeg9RsrBksUhMJAw2JVDjFmNewH9PaWdykI_YEodCDFoajg6iVNJXJUIRK88aac0hEEoFz2RrXUKocMlU7iB4VHiP-vnPlpYTFGLRQolht8Tc3OnFG92NTxQK3Wj-tlkum7iCtYk9mAU2QMD5ZIn3m7v4lsmyxEDuPXNHYG67RAASwHsY_g4TkHlTSfDeYjKa1MdUnT2HPzuT_uYRRmwSx7fK2IUI407iyblyNGi4YqhjxhuM4CbWS5ua2v2P7b-zOth1fVt8QsAkHjI",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVFMXFVa1YzTlZoSFZXcFhUblZtY0hBeE1YUnBkVFJsUXpadVZrUkJhM1JKTW13NE5IVnFNMGxYTlhKM1NrWTFaR1JQVGpGcmFURnRWV2xTUVZOcGRXcERUVkoxY0dKVVJ6TlZieTFCY2pKaFZXWTJObTFUTUcxTlVSSVhUMEZJUVdGd1QxaFBOakpDTW5KdlVITnlNbWgzUVZVYUlrRkVjM0k1WmxOc1JsYzBWV0ZrYW5oRGJUVnZPSEk0WDFaWlQxZERkWEZXY0ZFIiwiZmN2IjoiMyIsImVpIjoiT0FIQWFwT1hPNjJCMnJvUHNyMmh3QVUiLCJxYyI6ImN5WEtzUTJEUUF3RjBOUlVqUEFuU1pFaEtPaXM4dzh5SW1ka0d5R0t6SnBWRWluZEs5NHdWWWhhbVhmWllGMU5PdklrQzhGbU83SEtzakF1dExEY0xfaFJhVXFrUC12M18yYktpMmd1UlVYNDBYVzh2Ul96NV80RiIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgc29tZSBmYW1vdXMgc3dlZXQgZGlzaGVzIGZyb20gQW5kaHJhIFByYWRlc2g/IiwibGsiOiJHaU5tWVcxdmRYTWdjM2RsWlhRZ1pHbHphQ0J2WmlCaGJtUm9jbUVnY0hKaFpHVnphQSIsImJzIjoiYzVXUU1Vc0VRUXhHc1ozS2VyRDRRR3l1dWgzQmRyRlVPQkFzcnBUZ1pIZHl4OHdzeVI2TF85NjkyMU04TE1RaUJKTDNFaEwzNWg2MmlVYVFNcXhtUmtlNUhndzJNWS1JWW9rTm5kYU14eEtURWw2VUlsdHF3NTJfX2NXaWRxQ0ZHeGJPaVF2YkpPX3BUSWtoejQxbHBMSFJ2TktZb3gwOTdLanZXVF9hY08tYjZiLVc2MTN6WTVXZGJocVVoemxIeElOSzZiR2hQU2xlcWV5VnlpaHRDSDQ5X1NYbGsyUmZrbnQycS0tbmpXbU9PcUJaWF81TUNwNUtGR3JEamZkblFJNkZjc0ZkWDMwQyIsImlkIjoiZmNfT0FIQWFwT1hPNjJCMnJvUHNyMmh3QVVfMSJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVFMXFVa1YzTlZoSFZXcFhUblZtY0hBeE1YUnBkVFJsUXpadVZrUkJhM1JKTW13NE5IVnFNMGxYTlhKM1NrWTFaR1JQVGpGcmFURnRWV2xTUVZOcGRXcERUVkoxY0dKVVJ6TlZieTFCY2pKaFZXWTJObTFUTUcxTlVSSVhUMEZJUVdGd1QxaFBOakpDTW5KdlVITnlNbWgzUVZVYUlrRkVjM0k1WmxOc1JsYzBWV0ZrYW5oRGJUVnZPSEk0WDFaWlQxZERkWEZXY0ZFIiwiZmN2IjoiMyIsImVpIjoiT0FIQWFwT1hPNjJCMnJvUHNyMmh3QVUiLCJxYyI6ImN5WEtzUTJEUUF3RjBOUlVqUEFuU1pFaEtPaXM4dzh5SW1ka0d5R0t6SnBWRWluZEs5NHdWWWhhbVhmWllGMU5PdklrQzhGbU83SEtzakF1dExEY0xfaFJhVXFrUC12M18yYktpMmd1UlVYNDBYVzh2Ul96NV80RiIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgc29tZSBmYW1vdXMgc3dlZXQgZGlzaGVzIGZyb20gQW5kaHJhIFByYWRlc2g%2FIiwibGsiOiJHaU5tWVcxdmRYTWdjM2RsWlhRZ1pHbHphQ0J2WmlCaGJtUm9jbUVnY0hKaFpHVnphQSIsImJzIjoiYzVXUU1Vc0VRUXhHc1ozS2VyRDRRR3l1dWgzQmRyRlVPQkFzcnBUZ1pIZHl4OHdzeVI2TF85NjkyMU04TE1RaUJKTDNFaEwzNWg2MmlVYVFNcXhtUmtlNUhndzJNWS1JWW9rTm5kYU14eEtURWw2VUlsdHF3NTJfX2NXaWRxQ0ZHeGJPaVF2YkpPX3BUSWtoejQxbHBMSFJ2TktZb3gwOTdLanZXVF9hY08tYjZiLVc2MTN6WTVXZGJocVVoemxIeElOSzZiR2hQU2xlcWV5VnlpaHRDSDQ5X1NYbGsyUmZrbnQycS0tbmpXbU9PcUJaWF81TUNwNUtGR3JEamZkblFJNkZjc0ZkWDMwQyIsImlkIjoiZmNfT0FIQWFwT1hPNjJCMnJvUHNyMmh3QVVfMSJ9"
+   },
+   {
+    "question": "Which sweet is made from sesame seeds and jaggery?",
+    "type": "ai_overview",
+    "page_token": "Rcx2OXicHdBdbpswAABg7TJ9TPhJujVSNMkBB1Dxgn-DXyZjGggYwxJaCG-9w46wU-00k_Yd4fv8Y662_fvldz2Ow323Xk_TtKr6vjJvK92vrnat7g-r11oZUyjd7p6_PrvfL3offmhwuGmQsWHgAXaIiTdIwKQI3RCdOVVNmWamDPmCBXU2S7bId03RpNrKI4EZlINm5MZb0hhObDySczyjgB-JPwAUSiBM7VFfvtMG-oVgI3O2lETSyqhu5cEdWBhvUvFi3owJMJMNMSVhEBHUmaM89qOw4C7afKSCH15Fv-XerAovf3BRgnxBM7H4Sv14KTo3Uh0fuMA30lVz1sI8NRBj5prcSfpXkdwKnnQ_InhiFqGUQxvW5SljNcjP4CTCb17axg_dvWTajx8qKgHH_TVjeNGN6ZgwlAXJL9xCl9rUVRbfpV8OGsKRtdtGi9mX09NFf-z9p__X-5-XbtwNt776B8XQjp8",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Rcx2OXicHdBdbpswAABg7TJ9TPhJujVSNMkBB1Dxgn-DXyZjGggYwxJaCG-9w46wU-00k_Yd4fv8Y662_fvldz2Ow323Xk_TtKr6vjJvK92vrnat7g-r11oZUyjd7p6_PrvfL3offmhwuGmQsWHgAXaIiTdIwKQI3RCdOVVNmWamDPmCBXU2S7bId03RpNrKI4EZlINm5MZb0hhObDySczyjgB-JPwAUSiBM7VFfvtMG-oVgI3O2lETSyqhu5cEdWBhvUvFi3owJMJMNMSVhEBHUmaM89qOw4C7afKSCH15Fv-XerAovf3BRgnxBM7H4Sv14KTo3Uh0fuMA30lVz1sI8NRBj5prcSfpXkdwKnnQ_InhiFqGUQxvW5SljNcjP4CTCb17axg_dvWTajx8qKgHH_TVjeNGN6ZgwlAXJL9xCl9rUVRbfpV8OGsKRtdtGi9mX09NFf-z9p__X-5-XbtwNt776B8XQjp8",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVFMXFVa1YzTlZoSFZXcFhUblZtY0hBeE1YUnBkVFJsUXpadVZrUkJhM1JKTW13NE5IVnFNMGxYTlhKM1NrWTFaR1JQVGpGcmFURnRWV2xTUVZOcGRXcERUVkoxY0dKVVJ6TlZieTFCY2pKaFZXWTJObTFUTUcxTlVSSVhUMEZJUVdGd1QxaFBOakpDTW5KdlVITnlNbWgzUVZVYUlrRkVjM0k1WmxOc1JsYzBWV0ZrYW5oRGJUVnZPSEk0WDFaWlQxZERkWEZXY0ZFIiwiZmN2IjoiMyIsImVpIjoiT0FIQWFwT1hPNjJCMnJvUHNyMmh3QVUiLCJxYyI6ImN5WEtzUTJEUUF3RjBOUlVqUEFuU1pFaEtPaXM4dzh5SW1ka0d5R0t6SnBWRWluZEs5NHdWWWhhbVhmWllGMU5PdklrQzhGbU83SEtzakF1dExEY0xfaFJhVXFrUC12M18yYktpMmd1UlVYNDBYVzh2Ul96NV80RiIsInF1ZXN0aW9uIjoiV2hpY2ggc3dlZXQgaXMgbWFkZSBmcm9tIHNlc2FtZSBzZWVkcyBhbmQgamFnZ2VyeT8iLCJsayI6IkdqRjNhR2xqYUNCemQyVmxkQ0JwY3lCdFlXUmxJR1p5YjIwZ2MyVnpZVzFsSUhObFpXUnpJR0Z1WkNCcVlXZG5aWEo1IiwiYnMiOiJjNVdRTVVzRVFReEdzWjNLZXJENFFHeXV1aDNCZHJGVU9CQXNycFRnWkhkeXg4d3N5UjZMXzk2OTIxTThMTVFpQkpMM0VoTDM1aDYyaVVhUU1xeG1Sa2U1SGd3Mk1ZLUlZb2tObmRhTXh4S1RFbDZVSWx0cXc1Ml9fY1dpZHFDRkd4Yk9pUXZiSk9fcFRJa2h6NDFscExIUnZOS1lveDA5N0tqdldUX2FjTy1iNmItVzYxM3pZNVdkYmhxVWh6bEh4SU5LNmJHaFBTbGVxZXlWeWlodENINDlfU1hsazJSZmtudDJxLS1ualdtT09xQlpYXzVNQ3A1S0ZHckRqZmRuUUk2RmNzRmRYMzBDIiwiaWQiOiJmY19PQUhBYXBPWE82MkIycm9Qc3IyaHdBVV8xIn0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVFMXFVa1YzTlZoSFZXcFhUblZtY0hBeE1YUnBkVFJsUXpadVZrUkJhM1JKTW13NE5IVnFNMGxYTlhKM1NrWTFaR1JQVGpGcmFURnRWV2xTUVZOcGRXcERUVkoxY0dKVVJ6TlZieTFCY2pKaFZXWTJObTFUTUcxTlVSSVhUMEZJUVdGd1QxaFBOakpDTW5KdlVITnlNbWgzUVZVYUlrRkVjM0k1WmxOc1JsYzBWV0ZrYW5oRGJUVnZPSEk0WDFaWlQxZERkWEZXY0ZFIiwiZmN2IjoiMyIsImVpIjoiT0FIQWFwT1hPNjJCMnJvUHNyMmh3QVUiLCJxYyI6ImN5WEtzUTJEUUF3RjBOUlVqUEFuU1pFaEtPaXM4dzh5SW1ka0d5R0t6SnBWRWluZEs5NHdWWWhhbVhmWllGMU5PdklrQzhGbU83SEtzakF1dExEY0xfaFJhVXFrUC12M18yYktpMmd1UlVYNDBYVzh2Ul96NV80RiIsInF1ZXN0aW9uIjoiV2hpY2ggc3dlZXQgaXMgbWFkZSBmcm9tIHNlc2FtZSBzZWVkcyBhbmQgamFnZ2VyeT8iLCJsayI6IkdqRjNhR2xqYUNCemQyVmxkQ0JwY3lCdFlXUmxJR1p5YjIwZ2MyVnpZVzFsSUhObFpXUnpJR0Z1WkNCcVlXZG5aWEo1IiwiYnMiOiJjNVdRTVVzRVFReEdzWjNLZXJENFFHeXV1aDNCZHJGVU9CQXNycFRnWkhkeXg4d3N5UjZMXzk2OTIxTThMTVFpQkpMM0VoTDM1aDYyaVVhUU1xeG1Sa2U1SGd3Mk1ZLUlZb2tObmRhTXh4S1RFbDZVSWx0cXc1Ml9fY1dpZHFDRkd4Yk9pUXZiSk9fcFRJa2h6NDFscExIUnZOS1lveDA5N0tqdldUX2FjTy1iNmItVzYxM3pZNVdkYmhxVWh6bEh4SU5LNmJHaFBTbGVxZXlWeWlodENINDlfU1hsazJSZmtudDJxLS1ualdtT09xQlpYXzVNQ3A1S0ZHckRqZmRuUUk2RmNzRmRYMzBDIiwiaWQiOiJmY19PQUhBYXBPWE82MkIycm9Qc3IyaHdBVV8xIn0%3D"
+   },
+   {
+    "question": "Which sweets are prepared during Makar Sankranti?",
+    "type": "ai_overview",
+    "page_token": "faDpjXicHdDPToMwAIDx-DIeN2i36ZYsRrQtQ2Gj0vLnYrp2G0iBhuEQbr6Dj-BT-TQar1_yu3yf37qoy5-rr7zrzHk1nfZ9Pzk1zUkfJrKZFPVUnIdaTqXQei9kuVrcLOy7o1yji3QeWumEzBj-SK0Xy0MMyl66zUyRLMr4XwfeTACKKOlBUBlMIz6nXMMAO-RQq0KROaGWmlHkjxn3_Agg22fejIKPgsP8WVbBU4zsLbOdRx_NzwGihaq6TcDpexh_1AfX0ynUDyFYLraYVlmCwZ6bdB97O5-Yno06PMRBoJBOI8seVaSOFMxblTDw4mKSWjgTiWoFWSaqPg3cxu3exZegWobZqD3xxjoGMYnwve3HeZmMZc-5wShXu5DlTpo4uxjdAr_cDPLPSLgZhKscTpsiZHSUb7pi1saWSd5w2FiZ1oaXyzCu2CBqjmLkQY6kpfrro7ys4fX_6_XrsepWpm1Ov_34i5A",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=faDpjXicHdDPToMwAIDx-DIeN2i36ZYsRrQtQ2Gj0vLnYrp2G0iBhuEQbr6Dj-BT-TQar1_yu3yf37qoy5-rr7zrzHk1nfZ9Pzk1zUkfJrKZFPVUnIdaTqXQei9kuVrcLOy7o1yji3QeWumEzBj-SK0Xy0MMyl66zUyRLMr4XwfeTACKKOlBUBlMIz6nXMMAO-RQq0KROaGWmlHkjxn3_Agg22fejIKPgsP8WVbBU4zsLbOdRx_NzwGihaq6TcDpexh_1AfX0ynUDyFYLraYVlmCwZ6bdB97O5-Yno06PMRBoJBOI8seVaSOFMxblTDw4mKSWjgTiWoFWSaqPg3cxu3exZegWobZqD3xxjoGMYnwve3HeZmMZc-5wShXu5DlTpo4uxjdAr_cDPLPSLgZhKscTpsiZHSUb7pi1saWSd5w2FiZ1oaXyzCu2CBqjmLkQY6kpfrro7ys4fX_6_XrsepWpm1Ov_34i5A",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVFMXFVa1YzTlZoSFZXcFhUblZtY0hBeE1YUnBkVFJsUXpadVZrUkJhM1JKTW13NE5IVnFNMGxYTlhKM1NrWTFaR1JQVGpGcmFURnRWV2xTUVZOcGRXcERUVkoxY0dKVVJ6TlZieTFCY2pKaFZXWTJObTFUTUcxTlVSSVhUMEZJUVdGd1QxaFBOakpDTW5KdlVITnlNbWgzUVZVYUlrRkVjM0k1WmxOc1JsYzBWV0ZrYW5oRGJUVnZPSEk0WDFaWlQxZERkWEZXY0ZFIiwiZmN2IjoiMyIsImVpIjoiT0FIQWFwT1hPNjJCMnJvUHNyMmh3QVUiLCJxYyI6ImN5WEtzUTJEUUF3RjBOUlVqUEFuU1pFaEtPaXM4dzh5SW1ka0d5R0t6SnBWRWluZEs5NHdWWWhhbVhmWllGMU5PdklrQzhGbU83SEtzakF1dExEY0xfaFJhVXFrUC12M18yYktpMmd1UlVYNDBYVzh2Ul96NV80RiIsInF1ZXN0aW9uIjoiV2hpY2ggc3dlZXRzIGFyZSBwcmVwYXJlZCBkdXJpbmcgTWFrYXIgU2Fua3JhbnRpPyIsImxrIjoiR2pCM2FHbGphQ0J6ZDJWbGRITWdZWEpsSUhCeVpYQmhjbVZrSUdSMWNtbHVaeUJ0WVd0aGNpQnpZVzVyY21GdWRHayIsImJzIjoiYzVXUU1Vc0VRUXhHc1ozS2VyRDRRR3l1dWgzQmRyRlVPQkFzcnBUZ1pIZHl4OHdzeVI2TF85NjkyMU04TE1RaUJKTDNFaEwzNWg2MmlVYVFNcXhtUmtlNUhndzJNWS1JWW9rTm5kYU14eEtURWw2VUlsdHF3NTJfX2NXaWRxQ0ZHeGJPaVF2YkpPX3BUSWtoejQxbHBMSFJ2TktZb3gwOTdLanZXVF9hY08tYjZiLVc2MTN6WTVXZGJocVVoemxIeElOSzZiR2hQU2xlcWV5VnlpaHRDSDQ5X1NYbGsyUmZrbnQycS0tbmpXbU9PcUJaWF81TUNwNUtGR3JEamZkblFJNkZjc0ZkWDMwQyIsImlkIjoiZmNfT0FIQWFwT1hPNjJCMnJvUHNyMmh3QVVfMSJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVFMXFVa1YzTlZoSFZXcFhUblZtY0hBeE1YUnBkVFJsUXpadVZrUkJhM1JKTW13NE5IVnFNMGxYTlhKM1NrWTFaR1JQVGpGcmFURnRWV2xTUVZOcGRXcERUVkoxY0dKVVJ6TlZieTFCY2pKaFZXWTJObTFUTUcxTlVSSVhUMEZJUVdGd1QxaFBOakpDTW5KdlVITnlNbWgzUVZVYUlrRkVjM0k1WmxOc1JsYzBWV0ZrYW5oRGJUVnZPSEk0WDFaWlQxZERkWEZXY0ZFIiwiZmN2IjoiMyIsImVpIjoiT0FIQWFwT1hPNjJCMnJvUHNyMmh3QVUiLCJxYyI6ImN5WEtzUTJEUUF3RjBOUlVqUEFuU1pFaEtPaXM4dzh5SW1ka0d5R0t6SnBWRWluZEs5NHdWWWhhbVhmWllGMU5PdklrQzhGbU83SEtzakF1dExEY0xfaFJhVXFrUC12M18yYktpMmd1UlVYNDBYVzh2Ul96NV80RiIsInF1ZXN0aW9uIjoiV2hpY2ggc3dlZXRzIGFyZSBwcmVwYXJlZCBkdXJpbmcgTWFrYXIgU2Fua3JhbnRpPyIsImxrIjoiR2pCM2FHbGphQ0J6ZDJWbGRITWdZWEpsSUhCeVpYQmhjbVZrSUdSMWNtbHVaeUJ0WVd0aGNpQnpZVzVyY21GdWRHayIsImJzIjoiYzVXUU1Vc0VRUXhHc1ozS2VyRDRRR3l1dWgzQmRyRlVPQkFzcnBUZ1pIZHl4OHdzeVI2TF85NjkyMU04TE1RaUJKTDNFaEwzNWg2MmlVYVFNcXhtUmtlNUhndzJNWS1JWW9rTm5kYU14eEtURWw2VUlsdHF3NTJfX2NXaWRxQ0ZHeGJPaVF2YkpPX3BUSWtoejQxbHBMSFJ2TktZb3gwOTdLanZXVF9hY08tYjZiLVc2MTN6WTVXZGJocVVoemxIeElOSzZiR2hQU2xlcWV5VnlpaHRDSDQ5X1NYbGsyUmZrbnQycS0tbmpXbU9PcUJaWF81TUNwNUtGR3JEamZkblFJNkZjc0ZkWDMwQyIsImlkIjoiZmNfT0FIQWFwT1hPNjJCMnJvUHNyMmh3QVVfMSJ9"
+   },
+   {
+    "question": "What are the top 10 sweet dishes in India?",
+    "type": "ai_overview",
+    "page_token": "hB1QPHicHdBfboIwAIDx7DI-qoA4NTFLqgXpAhulLdqXpbYgSPnjRIG97S471U6zuAN8v4fv-0fnVfH71Gdt21xXk0nXdeNTXZ90Mpb1OK8m4jpUciKF1kchi9X8eW68pHINbx7YXDwQ0qZhWzwlsOkkDK4-5RF2-UVEhhvuwQFr9KrOwKZVUBKI8mNsl1EV5MoAjEJ0U7QBcWEfQrO9RHvg-S6PmMvcMDdIDNEMW4oIlxvM7G0WtzyGge1bCEUVIsLhmDvNJpguO6yXCFPYhnFP5NYzmckZc8D9jS5MCjOgGBfJzqHJo487E1v4diT-gAteRYNhYcJTCVtBWMbpvqlgpt5DmoHDHrzHcGH6hTfIchlKyxvETgGG6zyk-EuedUmpM-UF0onmTFmAMYtNCdX9AwsKZ6bK5V11o1Te19bo_-f6Iy3bVfNZn_4AiSGCKQ",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=hB1QPHicHdBfboIwAIDx7DI-qoA4NTFLqgXpAhulLdqXpbYgSPnjRIG97S471U6zuAN8v4fv-0fnVfH71Gdt21xXk0nXdeNTXZ90Mpb1OK8m4jpUciKF1kchi9X8eW68pHINbx7YXDwQ0qZhWzwlsOkkDK4-5RF2-UVEhhvuwQFr9KrOwKZVUBKI8mNsl1EV5MoAjEJ0U7QBcWEfQrO9RHvg-S6PmMvcMDdIDNEMW4oIlxvM7G0WtzyGge1bCEUVIsLhmDvNJpguO6yXCFPYhnFP5NYzmckZc8D9jS5MCjOgGBfJzqHJo487E1v4diT-gAteRYNhYcJTCVtBWMbpvqlgpt5DmoHDHrzHcGH6hTfIchlKyxvETgGG6zyk-EuedUmpM-UF0onmTFmAMYtNCdX9AwsKZ6bK5V11o1Te19bo_-f6Iy3bVfNZn_4AiSGCKQ",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVFMXFVa1YzTlZoSFZXcFhUblZtY0hBeE1YUnBkVFJsUXpadVZrUkJhM1JKTW13NE5IVnFNMGxYTlhKM1NrWTFaR1JQVGpGcmFURnRWV2xTUVZOcGRXcERUVkoxY0dKVVJ6TlZieTFCY2pKaFZXWTJObTFUTUcxTlVSSVhUMEZJUVdGd1QxaFBOakpDTW5KdlVITnlNbWgzUVZVYUlrRkVjM0k1WmxOc1JsYzBWV0ZrYW5oRGJUVnZPSEk0WDFaWlQxZERkWEZXY0ZFIiwiZmN2IjoiMyIsImVpIjoiT0FIQWFwT1hPNjJCMnJvUHNyMmh3QVUiLCJxYyI6ImN5WEtzUTJEUUF3RjBOUlVqUEFuU1pFaEtPaXM4dzh5SW1ka0d5R0t6SnBWRWluZEs5NHdWWWhhbVhmWllGMU5PdklrQzhGbU83SEtzakF1dExEY0xfaFJhVXFrUC12M18yYktpMmd1UlVYNDBYVzh2Ul96NV80RiIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCAxMCBzd2VldCBkaXNoZXMgaW4gSW5kaWE/IiwibGsiOiJHaHAwYjNBZ01UQWdhVzVrYVdGdUlITjNaV1YwSUdScGMyaGxjdyIsImJzIjoiYzVXUU1Vc0VRUXhHc1ozS2VyRDRRR3l1dWgzQmRyRlVPQkFzcnBUZ1pIZHl4OHdzeVI2TF85NjkyMU04TE1RaUJKTDNFaEwzNWg2MmlVYVFNcXhtUmtlNUhndzJNWS1JWW9rTm5kYU14eEtURWw2VUlsdHF3NTJfX2NXaWRxQ0ZHeGJPaVF2YkpPX3BUSWtoejQxbHBMSFJ2TktZb3gwOTdLanZXVF9hY08tYjZiLVc2MTN6WTVXZGJocVVoemxIeElOSzZiR2hQU2xlcWV5VnlpaHRDSDQ5X1NYbGsyUmZrbnQycS0tbmpXbU9PcUJaWF81TUNwNUtGR3JEamZkblFJNkZjc0ZkWDMwQyIsImlkIjoiZmNfT0FIQWFwT1hPNjJCMnJvUHNyMmh3QVVfMSJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVFMXFVa1YzTlZoSFZXcFhUblZtY0hBeE1YUnBkVFJsUXpadVZrUkJhM1JKTW13NE5IVnFNMGxYTlhKM1NrWTFaR1JQVGpGcmFURnRWV2xTUVZOcGRXcERUVkoxY0dKVVJ6TlZieTFCY2pKaFZXWTJObTFUTUcxTlVSSVhUMEZJUVdGd1QxaFBOakpDTW5KdlVITnlNbWgzUVZVYUlrRkVjM0k1WmxOc1JsYzBWV0ZrYW5oRGJUVnZPSEk0WDFaWlQxZERkWEZXY0ZFIiwiZmN2IjoiMyIsImVpIjoiT0FIQWFwT1hPNjJCMnJvUHNyMmh3QVUiLCJxYyI6ImN5WEtzUTJEUUF3RjBOUlVqUEFuU1pFaEtPaXM4dzh5SW1ka0d5R0t6SnBWRWluZEs5NHdWWWhhbVhmWllGMU5PdklrQzhGbU83SEtzakF1dExEY0xfaFJhVXFrUC12M18yYktpMmd1UlVYNDBYVzh2Ul96NV80RiIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCAxMCBzd2VldCBkaXNoZXMgaW4gSW5kaWE%2FIiwibGsiOiJHaHAwYjNBZ01UQWdhVzVrYVdGdUlITjNaV1YwSUdScGMyaGxjdyIsImJzIjoiYzVXUU1Vc0VRUXhHc1ozS2VyRDRRR3l1dWgzQmRyRlVPQkFzcnBUZ1pIZHl4OHdzeVI2TF85NjkyMU04TE1RaUJKTDNFaEwzNWg2MmlVYVFNcXhtUmtlNUhndzJNWS1JWW9rTm5kYU14eEtURWw2VUlsdHF3NTJfX2NXaWRxQ0ZHeGJPaVF2YkpPX3BUSWtoejQxbHBMSFJ2TktZb3gwOTdLanZXVF9hY08tYjZiLVc2MTN6WTVXZGJocVVoemxIeElOSzZiR2hQU2xlcWV5VnlpaHRDSDQ5X1NYbGsyUmZrbnQycS0tbmpXbU9PcUJaWF81TUNwNUtGR3JEamZkblFJNkZjc0ZkWDMwQyIsImlkIjoiZmNfT0FIQWFwT1hPNjJCMnJvUHNyMmh3QVVfMSJ9"
+   }
+  ],
+  "ai_overview": {
+   "page_token": "L94VCHiczZXdkqI4FIBr7_c1lht7FPCnx66iphJExWl_0rbTrTcUQgwoGCUorXfzLvtU-zQb-VF0tKdnLrY2VYTk5OTkJDlfzve_PXe5-OfPP5wwXLGHUimKoiKhlHi4aNGiuyyZbLe0SjPqscByvhBPcZcCo5vAwq6tWE5AffzJp1PXw4LjKXgp7LZKWbCYIgrYVfqgDcxV_7Vfk6Ec0AELZCcCIyG2qhhTk-E5X_ZtzkpGiVeLv8oN3imuWREvjRYsvrXFwFgA6alBirIol4v9kulzJfCfFlXjFQQN_gH9XcWP2UOIV-TUh0BLZp-MNxIFmEggubXuYUVyMKfqUWZ0UHmK4CIbOJThbV_gmeEoWweND25xE9wiujLtekGnE0C5OikXO9DyJ3AqibB58o9cGz8vMF4qOhdasbaWn3HyIPbLzaufrqSPAB4OgEPIu3ddAWBcAVGdXPcpV3T1awWIaUcdl2zCI1gsTQP-k0qu5VhxI2CHwFaf6yJtaTam3-jbzK3t9W-mFKzMSn02gj5hoGRNuZ5HTRvbhmOIX-K-JEtVsV6-_3wXU2WxI1bsDKtPk4G31cv7Z00sPhZfpBxQx93qKDvTVKqhazGgaTzo-IUvcrLjSahxSKv8-sa5YQhHeQtqpo6SmVpet5PIOgiC6yVFI5me8KJl6_CWesQx21gKVCzVk79-4Tafo4IsbEkco2eXe-UYyA9jTzz2EmkDxou16fjo60WwaFAnfGbmYkqdmrm-42_PiE_hXdRMlFTQzWIJqN3D06QnJrPNI95CBML0HBbnh6BdApUcBugN9cRjoD6lj0JqNrtf64fNw1uPEg8YgNQPvoYXvvyMpkQro-cChjxEzTrtjvZr-W1r9MrGs79GKiCPWqO7vo-uQ0P96S8mI-t_h1aWq0iaq26ipX4MLYRuoKUfFRtnaEGq67fROuaqFK13c9UlWlDPo7U7LHFA60au-lW0UA4t_RItkvpxBa3mTbTILbTSXHWO1lmugjdy1RGt38hVld_JVTFlOPmdJ67NnNxMYE0Ca-EgqG6qYtlv9cfy3p76cI8mTIp-msBmfvjgm7Z3Z7j2A5Q74c6-M7iAPmBbWCthYNpu6NKl6RX0pe2aywKLMA4LAbbcFS7MTUJwsCtYgctWuwLdhMy1cYHRWVhwl0kbM9PHBYuaIbYLAd0sbcH3AqqIZm0RaX2xK096A7KWMKwM2x7qOyoinWiArMZw5r5i2iKDLg1mtGd5gd8l9-ZkXtnaCx2Flkqar6_z3s4bTsvOs4Nq9tcWT9ztxzfnpdJg67l9H6nzYK8S0XH7G7snss5mpEGptfONlTSdaE6t8_oYLrbPvVGVxH4x5X5PdH3xqR1NxoIfWArnr1ImHQReCEdC5RDwZIpUyr-IfzWANCjzEBWYZRqYbZWKXavWP0szURKl8rQqCz4JdyulLgpsGSjSvxribuE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=L94VCHiczZXdkqI4FIBr7_c1lht7FPCnx66iphJExWl_0rbTrTcUQgwoGCUorXfzLvtU-zQb-VF0tKdnLrY2VYTk5OTkJDlfzve_PXe5-OfPP5wwXLGHUimKoiKhlHi4aNGiuyyZbLe0SjPqscByvhBPcZcCo5vAwq6tWE5AffzJp1PXw4LjKXgp7LZKWbCYIgrYVfqgDcxV_7Vfk6Ec0AELZCcCIyG2qhhTk-E5X_ZtzkpGiVeLv8oN3imuWREvjRYsvrXFwFgA6alBirIol4v9kulzJfCfFlXjFQQN_gH9XcWP2UOIV-TUh0BLZp-MNxIFmEggubXuYUVyMKfqUWZ0UHmK4CIbOJThbV_gmeEoWweND25xE9wiujLtekGnE0C5OikXO9DyJ3AqibB58o9cGz8vMF4qOhdasbaWn3HyIPbLzaufrqSPAB4OgEPIu3ddAWBcAVGdXPcpV3T1awWIaUcdl2zCI1gsTQP-k0qu5VhxI2CHwFaf6yJtaTam3-jbzK3t9W-mFKzMSn02gj5hoGRNuZ5HTRvbhmOIX-K-JEtVsV6-_3wXU2WxI1bsDKtPk4G31cv7Z00sPhZfpBxQx93qKDvTVKqhazGgaTzo-IUvcrLjSahxSKv8-sa5YQhHeQtqpo6SmVpet5PIOgiC6yVFI5me8KJl6_CWesQx21gKVCzVk79-4Tafo4IsbEkco2eXe-UYyA9jTzz2EmkDxou16fjo60WwaFAnfGbmYkqdmrm-42_PiE_hXdRMlFTQzWIJqN3D06QnJrPNI95CBML0HBbnh6BdApUcBugN9cRjoD6lj0JqNrtf64fNw1uPEg8YgNQPvoYXvvyMpkQro-cChjxEzTrtjvZr-W1r9MrGs79GKiCPWqO7vo-uQ0P96S8mI-t_h1aWq0iaq26ipX4MLYRuoKUfFRtnaEGq67fROuaqFK13c9UlWlDPo7U7LHFA60au-lW0UA4t_RItkvpxBa3mTbTILbTSXHWO1lmugjdy1RGt38hVld_JVTFlOPmdJ67NnNxMYE0Ca-EgqG6qYtlv9cfy3p76cI8mTIp-msBmfvjgm7Z3Z7j2A5Q74c6-M7iAPmBbWCthYNpu6NKl6RX0pe2aywKLMA4LAbbcFS7MTUJwsCtYgctWuwLdhMy1cYHRWVhwl0kbM9PHBYuaIbYLAd0sbcH3AqqIZm0RaX2xK096A7KWMKwM2x7qOyoinWiArMZw5r5i2iKDLg1mtGd5gd8l9-ZkXtnaCx2Flkqar6_z3s4bTsvOs4Nq9tcWT9ztxzfnpdJg67l9H6nzYK8S0XH7G7snss5mpEGptfONlTSdaE6t8_oYLrbPvVGVxH4x5X5PdH3xqR1NxoIfWArnr1ImHQReCEdC5RDwZIpUyr-IfzWANCjzEBWYZRqYbZWKXavWP0szURKl8rQqCz4JdyulLgpsGSjSvxribuE"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Sesame Jaggery Sweets",
+    "link": "https://www.instagram.com/popular/sesame-jaggery-sweets/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVyBGd8sZPyb9gargTpjr9iTlYpvHtzDTLD2PBqGBUYW8720RNtbQh0OqbTU1kLuuDvh4-fBn9BGA7YQTtuWdL9JJdTrP-fuNeg6fLlcSMrMM1sMSIwbOHVSz0SWXptK8xRzp2tt-6sY4Xj7UrHY0&ved=2ahUKEwiTk56VhJyXAxWtgFYBHbJeCFgQFnoECC8QAQ&uoh=1",
+    "displayed_link": "https://www.instagram.com",
+    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "snippet": "Sesame Jaggery Sweets · Better than store-bought & 100% Fail-Proof! Why buy it when · Winter Special Gud Patti Crunchy, Sweet & Healthy Delight!",
+    "about_this_result": {
+     "source": {
+      "description": "Sesame Jaggery Sweets · Better than store-bought & 100% Fail-Proof! Why buy it when · Winter Special Gud Patti Crunchy, Sweet & Healthy Delight!",
+      "source_info_link": "https://www.instagram.com/popular/sesame-jaggery-sweets/",
+      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVnlCR2Q4c1pQeWI5Z2FyZ1RwanI5aVRsWXB2SHR6RFRMRDJQQnFHQlVZVzg3MjBSTnRiUWgwT3FiVFUxa0x1dUR2aDQtZkJuOUJHQTdZUVR0dVdkTDlKSmRUclAtZnVOZWc2ZkxsY1NNck1NMXNNU0l3Yk9IVlN6MFNXWHB0Szh4UnpwMnR0LTZzWTRYajdVckhZMBIEGgIIABq5CBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCVCAgAEAAYACAAKk0KC3RyYWRpdGlvbmFsFaAhyD8aCWF1dGhlbnRpYxoHY2xhc3NpYxoJdHJhZGl0aW9uGgd0eXBpY2FsGhF0cmFkaXRpb25hbGluZGlhbipHCgZpbmRpYW4VepBqPxoFaW5kaWEaEXRyYWRpdGlvbmFsaW5kaWFuGgtpbmRpYW5zd2VldBoRaW5kaWFuc3dlZXRyZWNpcGUqSwoFc3dlZXQVDNB4QBoIZGVzc2VydHMaBnN3ZWV0cxoLaW5kaWFuc3dlZXQaEWluZGlhbnN3ZWV0cmVjaXBlGgtzd2VldHJlY2lwZSpSCgZyZWNpcGUVz99RQBoHY29va2luZxoEZGlzaBoHcmVjaXBlcxoRaW5kaWFuc3dlZXRyZWNpcGUaC3N3ZWV0cmVjaXBlGgtpdjtwO3JlY2lwZSocCgdqYWdnZXJ5FbCQt0AaDGl2O3A7amFnZ2VyeSoyCgZjcmlzcHkVYLfEPxoFY3Jpc3AaB2NydW5jaHkaBmNydXN0eRoLaXY7cDtjcmlzcHkqHQoHb3V0c2lkZRVRXmM8GgZib3R0b20aBW91dGVyKhIKBHNvZnQV7CqRPxoFbXVzaHkqMwoGaW5zaWRlFYeQ9TwaAmluGgdpbmRvb3JzGgVpbm5lchoIaW50ZXJuYWwaBndpdGhpbioaCgZzZXNhbWUVAoqrQBoLaXY7cDtzZXNhbWUqRwoGY29hdGVkFQAAAAAaB2NvYXRpbmcaCGNvYXRpbmdzGgdjb3ZlcmVkGgdjcnVzdGVkGgZkaXBwZWQaC2l2O3A7Y29hdGVkKi8KBXJvdW5kFQAAAAAaBmFyb3VuZBoIY2lyY3VsYXIaB3JvdW5kZWQaBnJvdW5kczKpAS9nb3RvP3VybD1DQUVTY3dIck96QVZ5QkdkOHNaUHliOWdhcmdUcGpyOWlUbFlwdkh0ekRUTEQyUEJxR0JVWVc4NzIwUk50YlFoME9xYlRVMWtMdXVEdmg0LWZCbjlCR0E3WVFUdHVXZEw5SkpkVHJQLWZ1TmVnNmZMbGNTTXJNTTFzTVNJd2JPSFZTejBTV1hwdEs4eFJ6cDJ0dC02c1k0WGo3VXJIWTA6KDxiPlNlc2FtZSBKYWdnZXJ5IFN3ZWV0czwvYj4gLSBJbnN0YWdyYW1CpwFTZXNhbWUgSmFnZ2VyeSBTd2VldHMgJm1pZGRvdDsgQmV0dGVyIHRoYW4gc3RvcmUtYm91Z2h0ICZhbXA7IDEwMCUgRmFpbC1Qcm9vZiEgV2h5IGJ1eSBpdCB3aGVuICZtaWRkb3Q7IFdpbnRlciBTcGVjaWFsIEd1ZCBQYXR0aSAgQ3J1bmNoeSwgU3dlZXQgJmFtcDsgSGVhbHRoeSBEZWxpZ2h0IVICaW4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVnlCR2Q4c1pQeWI5Z2FyZ1RwanI5aVRsWXB2SHR6RFRMRDJQQnFHQlVZVzg3MjBSTnRiUWgwT3FiVFUxa0x1dUR2aDQtZkJuOUJHQTdZUVR0dVdkTDlKSmRUclAtZnVOZWc2ZkxsY1NNck1NMXNNU0l3Yk9IVlN6MFNXWHB0Szh4UnpwMnR0LTZzWTRYajdVckhZMBIEGgIIABq5CBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCVCAgAEAAYACAAKk0KC3RyYWRpdGlvbmFsFaAhyD8aCWF1dGhlbnRpYxoHY2xhc3NpYxoJdHJhZGl0aW9uGgd0eXBpY2FsGhF0cmFkaXRpb25hbGluZGlhbipHCgZpbmRpYW4VepBqPxoFaW5kaWEaEXRyYWRpdGlvbmFsaW5kaWFuGgtpbmRpYW5zd2VldBoRaW5kaWFuc3dlZXRyZWNpcGUqSwoFc3dlZXQVDNB4QBoIZGVzc2VydHMaBnN3ZWV0cxoLaW5kaWFuc3dlZXQaEWluZGlhbnN3ZWV0cmVjaXBlGgtzd2VldHJlY2lwZSpSCgZyZWNpcGUVz99RQBoHY29va2luZxoEZGlzaBoHcmVjaXBlcxoRaW5kaWFuc3dlZXRyZWNpcGUaC3N3ZWV0cmVjaXBlGgtpdjtwO3JlY2lwZSocCgdqYWdnZXJ5FbCQt0AaDGl2O3A7amFnZ2VyeSoyCgZjcmlzcHkVYLfEPxoFY3Jpc3AaB2NydW5jaHkaBmNydXN0eRoLaXY7cDtjcmlzcHkqHQoHb3V0c2lkZRVRXmM8GgZib3R0b20aBW91dGVyKhIKBHNvZnQV7CqRPxoFbXVzaHkqMwoGaW5zaWRlFYeQ9TwaAmluGgdpbmRvb3JzGgVpbm5lchoIaW50ZXJuYWwaBndpdGhpbioaCgZzZXNhbWUVAoqrQBoLaXY7cDtzZXNhbWUqRwoGY29hdGVkFQAAAAAaB2NvYXRpbmcaCGNvYXRpbmdzGgdjb3ZlcmVkGgdjcnVzdGVkGgZkaXBwZWQaC2l2O3A7Y29hdGVkKi8KBXJvdW5kFQAAAAAaBmFyb3VuZBoIY2lyY3VsYXIaB3JvdW5kZWQaBnJvdW5kczKpAS9nb3RvP3VybD1DQUVTY3dIck96QVZ5QkdkOHNaUHliOWdhcmdUcGpyOWlUbFlwdkh0ekRUTEQyUEJxR0JVWVc4NzIwUk50YlFoME9xYlRVMWtMdXVEdmg0LWZCbjlCR0E3WVFUdHVXZEw5SkpkVHJQLWZ1TmVnNmZMbGNTTXJNTTFzTVNJd2JPSFZTejBTV1hwdEs4eFJ6cDJ0dC02c1k0WGo3VXJIWTA6KDxiPlNlc2FtZSBKYWdnZXJ5IFN3ZWV0czwvYj4gLSBJbnN0YWdyYW1CpwFTZXNhbWUgSmFnZ2VyeSBTd2VldHMgJm1pZGRvdDsgQmV0dGVyIHRoYW4gc3RvcmUtYm91Z2h0ICZhbXA7IDEwMCUgRmFpbC1Qcm9vZiEgV2h5IGJ1eSBpdCB3aGVuICZtaWRkb3Q7IFdpbnRlciBTcGVjaWFsIEd1ZCBQYXR0aSAgQ3J1bmNoeSwgU3dlZXQgJmFtcDsgSGVhbHRoeSBEZWxpZ2h0IVICaW4iAhABSABYAGgA",
+    "source": "Instagram"
+   },
+   {
+    "position": 2,
+    "title": "Sesame jaggery burfi in 10 min",
+    "link": "https://southindianfoods.in/sesame-jaggery-burfi-how-to-make-step-by-step-photos.html",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFQ5XIew8oMknhbhTJPkbdbLYnST3whyHvPDI9EOZ28tYawNwT9J1ZVfMz8OYUN_n6Aschwd2J4dllh-v3yM9K4jGTkBB-5aE5IsOAvbahfgzz-Y2fUnAQuDpe_R3jNwVtxbAeq8ZYE-mJYA17uXjJYj-S6d6pX5VYgqsDrmqyFH3lQfbXEreiV7ferg&ved=2ahUKEwiTk56VhJyXAxWtgFYBHbJeCFgQFnoECDAQAQ&uoh=1",
+    "displayed_link": "https://southindianfoods.in",
+    "snippet": "Heat pan add sesame seeds until crisp & splutter · Let it cool, then coarsely grind · Heat same pan, add jaggery & water, cook till 1 string consistency [Apr 5 ...",
+    "about_this_result": {
+     "source": {
+      "description": "Heat pan add sesame seeds until crisp & splutter · Let it cool, then coarsely grind · Heat same pan, add jaggery & water, cook till 1 string consistency [Apr 5 ...",
+      "source_info_link": "https://southindianfoods.in/sesame-jaggery-burfi-how-to-make-step-by-step-photos.html"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZRNVhJZXc4b01rbmhiaFRKUGtiZGJMWW5TVDN3aHlIdlBESTlFT1oyOHRZYXdOd1Q5SjFaVmZNejhPWVVOX242QXNjaHdkMko0ZGxsaC12M3lNOUs0akdUa0JCLTVhRTVJc09BdmJhaGZnenotWTJmVW5BUXVEcGVfUjNqTndWdHhiQWVxOFpZRS1tSllBMTd1WGpKWWotUzZkNnBYNVZZZ3FzRHJtcXlGSDNsUWZiWEVyZWlWN2ZlcmcSBBoCCAAa_AgSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA2AgIABAAGAAgACpNCgt0cmFkaXRpb25hbBUAAAAAGglhdXRoZW50aWMaB2NsYXNzaWMaCXRyYWRpdGlvbhoHdHlwaWNhbBoRdHJhZGl0aW9uYWxpbmRpYW4qRwoGaW5kaWFuFdcrIEAaBWluZGlhGhF0cmFkaXRpb25hbGluZGlhbhoLaW5kaWFuc3dlZXQaEWluZGlhbnN3ZWV0cmVjaXBlKksKBXN3ZWV0FY89vT8aCGRlc3NlcnRzGgZzd2VldHMaC2luZGlhbnN3ZWV0GhFpbmRpYW5zd2VldHJlY2lwZRoLc3dlZXRyZWNpcGUqUgoGcmVjaXBlFQ5pHD8aB2Nvb2tpbmcaBGRpc2gaB3JlY2lwZXMaEWluZGlhbnN3ZWV0cmVjaXBlGgtzd2VldHJlY2lwZRoLaXY7cDtyZWNpcGUqHAoHamFnZ2VyeRUwKPJAGgxpdjtwO2phZ2dlcnkqMgoGY3Jpc3B5FQAAAAAaBWNyaXNwGgdjcnVuY2h5GgZjcnVzdHkaC2l2O3A7Y3Jpc3B5Kh0KB291dHNpZGUVAAAAABoGYm90dG9tGgVvdXRlcioSCgRzb2Z0FQAAAAAaBW11c2h5KjMKBmluc2lkZRUAAAAAGgJpbhoHaW5kb29ycxoFaW5uZXIaCGludGVybmFsGgZ3aXRoaW4qGgoGc2VzYW1lFcwq8kAaC2l2O3A7c2VzYW1lKkcKBmNvYXRlZBUAAAAAGgdjb2F0aW5nGghjb2F0aW5ncxoHY292ZXJlZBoHY3J1c3RlZBoGZGlwcGVkGgtpdjtwO2NvYXRlZCovCgVyb3VuZBUAAAAAGgZhcm91bmQaCGNpcmN1bGFyGgdyb3VuZGVkGgZyb3VuZHMy0QEvZ290bz91cmw9Q0FFU2tBRUI2enN3RlE1WElldzhvTWtuaGJoVEpQa2JkYkxZblNUM3doeUh2UERJOUVPWjI4dFlhd053VDlKMVpWZk16OE9ZVU5fbjZBc2Nod2QySjRkbGxoLXYzeU05SzRqR1RrQkItNWFFNUlzT0F2YmFoZmd6ei1ZMmZVbkFRdURwZV9SM2pOd1Z0eGJBZXE4WllFLW1KWUExN3VYakpZai1TNmQ2cFg1VllncXNEcm1xeUZIM2xRZmJYRXJlaVY3ZmVyZzosPGI-U2VzYW1lIGphZ2dlcnk8L2I-IGJ1cmZpIDxiPmluPC9iPiAxMCBtaW5CvgFIZWF0IHBhbiBhZGQgc2VzYW1lIHNlZWRzIHVudGlsIGNyaXNwICZhbXA7IHNwbHV0dGVyICZtaWRkb3Q7IExldCBpdCBjb29sLCB0aGVuIGNvYXJzZWx5IGdyaW5kICZtaWRkb3Q7IEhlYXQgc2FtZSBwYW4sIGFkZCBqYWdnZXJ5ICZhbXA7IHdhdGVyLCBjb29rIHRpbGwgMSBzdHJpbmcgY29uc2lzdGVuY3kgW0FwciA1Jm5ic3A7Li4uUgJpbiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZRNVhJZXc4b01rbmhiaFRKUGtiZGJMWW5TVDN3aHlIdlBESTlFT1oyOHRZYXdOd1Q5SjFaVmZNejhPWVVOX242QXNjaHdkMko0ZGxsaC12M3lNOUs0akdUa0JCLTVhRTVJc09BdmJhaGZnenotWTJmVW5BUXVEcGVfUjNqTndWdHhiQWVxOFpZRS1tSllBMTd1WGpKWWotUzZkNnBYNVZZZ3FzRHJtcXlGSDNsUWZiWEVyZWlWN2ZlcmcSBBoCCAAa_AgSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA2AgIABAAGAAgACpNCgt0cmFkaXRpb25hbBUAAAAAGglhdXRoZW50aWMaB2NsYXNzaWMaCXRyYWRpdGlvbhoHdHlwaWNhbBoRdHJhZGl0aW9uYWxpbmRpYW4qRwoGaW5kaWFuFdcrIEAaBWluZGlhGhF0cmFkaXRpb25hbGluZGlhbhoLaW5kaWFuc3dlZXQaEWluZGlhbnN3ZWV0cmVjaXBlKksKBXN3ZWV0FY89vT8aCGRlc3NlcnRzGgZzd2VldHMaC2luZGlhbnN3ZWV0GhFpbmRpYW5zd2VldHJlY2lwZRoLc3dlZXRyZWNpcGUqUgoGcmVjaXBlFQ5pHD8aB2Nvb2tpbmcaBGRpc2gaB3JlY2lwZXMaEWluZGlhbnN3ZWV0cmVjaXBlGgtzd2VldHJlY2lwZRoLaXY7cDtyZWNpcGUqHAoHamFnZ2VyeRUwKPJAGgxpdjtwO2phZ2dlcnkqMgoGY3Jpc3B5FQAAAAAaBWNyaXNwGgdjcnVuY2h5GgZjcnVzdHkaC2l2O3A7Y3Jpc3B5Kh0KB291dHNpZGUVAAAAABoGYm90dG9tGgVvdXRlcioSCgRzb2Z0FQAAAAAaBW11c2h5KjMKBmluc2lkZRUAAAAAGgJpbhoHaW5kb29ycxoFaW5uZXIaCGludGVybmFsGgZ3aXRoaW4qGgoGc2VzYW1lFcwq8kAaC2l2O3A7c2VzYW1lKkcKBmNvYXRlZBUAAAAAGgdjb2F0aW5nGghjb2F0aW5ncxoHY292ZXJlZBoHY3J1c3RlZBoGZGlwcGVkGgtpdjtwO2NvYXRlZCovCgVyb3VuZBUAAAAAGgZhcm91bmQaCGNpcmN1bGFyGgdyb3VuZGVkGgZyb3VuZHMy0QEvZ290bz91cmw9Q0FFU2tBRUI2enN3RlE1WElldzhvTWtuaGJoVEpQa2JkYkxZblNUM3doeUh2UERJOUVPWjI4dFlhd053VDlKMVpWZk16OE9ZVU5fbjZBc2Nod2QySjRkbGxoLXYzeU05SzRqR1RrQkItNWFFNUlzT0F2YmFoZmd6ei1ZMmZVbkFRdURwZV9SM2pOd1Z0eGJBZXE4WllFLW1KWUExN3VYakpZai1TNmQ2cFg1VllncXNEcm1xeUZIM2xRZmJYRXJlaVY3ZmVyZzosPGI-U2VzYW1lIGphZ2dlcnk8L2I-IGJ1cmZpIDxiPmluPC9iPiAxMCBtaW5CvgFIZWF0IHBhbiBhZGQgc2VzYW1lIHNlZWRzIHVudGlsIGNyaXNwICZhbXA7IHNwbHV0dGVyICZtaWRkb3Q7IExldCBpdCBjb29sLCB0aGVuIGNvYXJzZWx5IGdyaW5kICZtaWRkb3Q7IEhlYXQgc2FtZSBwYW4sIGFkZCBqYWdnZXJ5ICZhbXA7IHdhdGVyLCBjb29rIHRpbGwgMSBzdHJpbmcgY29uc2lzdGVuY3kgW0FwciA1Jm5ic3A7Li4uUgJpbiICEAFIAFgAaAA",
+    "source": "SouthIndianFoods.in"
+   },
+   {
+    "position": 3,
+    "title": "Sesame Jaggery Sweets | Sesame Barfi | Jaggery Burfi Sweets | Sesame Dessert Recipe | N'Oven Recipes",
+    "link": "https://www.facebook.com/novenrecipes/videos/sesame-jaggery-sweets-sesame-barfi-jaggery-burfi-sweets-sesame-dessert-recipe/1037730888713706/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESyAEB6zswFejlJnFZMcN0IF19iAyB_mgfsCSReIfyNqMCuPl731yaHUoOBnJuahImR2zED8I9GFdp9T6owSzlmkslcN7QAlJ3kGIOe1WoOSP06KxXh_v3XE6uF77Gj3ucad3Wk7xaMoyY7TKuFuNTuokmOfmljDpO1GZF0dE627FZuPmxVhL14LPzJCH-eeCtBPcyZZcULH-meMxOIbmE-TvS4_UWlj5wntvScoE3L_2POqpPgA8YghAVxQovh2J-DIIxj34PAKzhRQ&ved=2ahUKEwiTk56VhJyXAxWtgFYBHbJeCFgQtwJ6BAhAEAE&uoh=1",
+    "thumbnail": "https://serpapi.com/searches/6ac00138a3f730a8390f3709/images/UZkG6nxNiQpDgdqNkxSZ15HnEvuBEKZAJqonpjwKSSI.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "duration": "3:33",
+    "snippet": "Sesame Jaggery Sweets | Sesame Barfi | Jaggery Burfi Sweets | Sesame Dessert Recipe. Bella Legacion and 112 others.",
+    "about_this_result": {
+     "source": {
+      "description": "Sesame Jaggery Sweets | Sesame Barfi | Jaggery Burfi Sweets | Sesame Dessert Recipe. Bella Legacion and 112 others.",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpwCL2dvdG8_dXJsPUNBRVN5QUVCNnpzd0ZlamxKbkZaTWNOMElGMTlpQXlCX21nZnNDU1JlSWZ5TnFNQ3VQbDczMXlhSFVvT0JuSnVhaEltUjJ6RUQ4STlHRmRwOVQ2b3dTemxta3NsY043UUFsSjNrR0lPZTFXb09TUDA2S3hYaF92M1hFNnVGNzdHajN1Y2FkM1drN3hhTW95WTdUS3VGdU5UdW9rbU9mbWxqRHBPMUdaRjBkRTYyN0ZadVBteFZoTDE0TFB6SkNILWVlQ3RCUGN5WlpjVUxILW1lTXhPSWJtRS1UdlM0X1VXbGo1d250dlNjb0UzTF8yUE9xcFBnQThZZ2hBVnhRb3ZoMkotRElJeGozNFBBS3poUlESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpwCL2dvdG8_dXJsPUNBRVN5QUVCNnpzd0ZlamxKbkZaTWNOMElGMTlpQXlCX21nZnNDU1JlSWZ5TnFNQ3VQbDczMXlhSFVvT0JuSnVhaEltUjJ6RUQ4STlHRmRwOVQ2b3dTemxta3NsY043UUFsSjNrR0lPZTFXb09TUDA2S3hYaF92M1hFNnVGNzdHajN1Y2FkM1drN3hhTW95WTdUS3VGdU5UdW9rbU9mbWxqRHBPMUdaRjBkRTYyN0ZadVBteFZoTDE0TFB6SkNILWVlQ3RCUGN5WlpjVUxILW1lTXhPSWJtRS1UdlM0X1VXbGo1d250dlNjb0UzTF8yUE9xcFBnQThZZ2hBVnhRb3ZoMkotRElJeGozNFBBS3poUlESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "source": "Facebook · N'Oven Recipes"
+   },
+   {
+    "position": 4,
+    "title": "South Indian sweets recipes with coconut milk and jaggery",
+    "link": "https://www.facebook.com/groups/841680932237957/posts/1045207835218598/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFWcbXv8Y_2MjY-tHDu82iD7uARo7SLSBxf1Gw1XDsVQo83cMIHA-EABquN8YFel2wed0jGIFK80Fh5Q2_p4fvPKOe6WAyC4tDHWuglAriEaMqgrmc0Xk4NsCB9lIR5sY4CIpyL3Nws_Kg5XwhKMUgp5xwwNwiKlCFq5_s8V4&ved=2ahUKEwiTk56VhJyXAxWtgFYBHbJeCFgQFnoECEkQAQ&uoh=1",
+    "displayed_link": "1 month ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "Boil white peas until soft and tender. 2. Melt jaggery with a little water, strain and simmer the boiled peas in it. 3. Add thick coconut milk ...",
+    "about_this_result": {
+     "source": {
+      "description": "Boil white peas until soft and tender. 2. Melt jaggery with a little water, strain and simmer the boiled peas in it. 3. Add thick coconut milk ...",
+      "source_info_link": "https://www.facebook.com/groups/841680932237957/posts/1045207835218598/",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZXY2JYdjhZXzJNalktdEhEdTgyaUQ3dUFSbzdTTFNCeGYxR3cxWERzVlFvODNjTUlIQS1FQUJxdU44WUZlbDJ3ZWQwakdJRks4MEZoNVEyX3A0ZnZQS09lNldBeUM0dERIV3VnbEFyaUVhTXFncm1jMFhrNE5zQ0I5bElSNXNZNENJcHlMM053c19LZzVYd2hLTVVncDV4d3dOd2lLbENGcTVfczhWNBIEGgIIABroCBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDECAgAEAAYACAAKk0KC3RyYWRpdGlvbmFsFaVkoj8aCWF1dGhlbnRpYxoHY2xhc3NpYxoJdHJhZGl0aW9uGgd0eXBpY2FsGhF0cmFkaXRpb25hbGluZGlhbipHCgZpbmRpYW4VwrqiQBoFaW5kaWEaEXRyYWRpdGlvbmFsaW5kaWFuGgtpbmRpYW5zd2VldBoRaW5kaWFuc3dlZXRyZWNpcGUqSwoFc3dlZXQVudRrQBoIZGVzc2VydHMaBnN3ZWV0cxoLaW5kaWFuc3dlZXQaEWluZGlhbnN3ZWV0cmVjaXBlGgtzd2VldHJlY2lwZSpSCgZyZWNpcGUV4w8ZQBoHY29va2luZxoEZGlzaBoHcmVjaXBlcxoRaW5kaWFuc3dlZXRyZWNpcGUaC3N3ZWV0cmVjaXBlGgtpdjtwO3JlY2lwZSocCgdqYWdnZXJ5FQgS10AaDGl2O3A7amFnZ2VyeSoyCgZjcmlzcHkVUdXhPxoFY3Jpc3AaB2NydW5jaHkaBmNydXN0eRoLaXY7cDtjcmlzcHkqHQoHb3V0c2lkZRWGgrI_GgZib3R0b20aBW91dGVyKhIKBHNvZnQV-KMWQBoFbXVzaHkqMwoGaW5zaWRlFdmpmD8aAmluGgdpbmRvb3JzGgVpbm5lchoIaW50ZXJuYWwaBndpdGhpbioaCgZzZXNhbWUVAAAAABoLaXY7cDtzZXNhbWUqRwoGY29hdGVkFWJzqj8aB2NvYXRpbmcaCGNvYXRpbmdzGgdjb3ZlcmVkGgdjcnVzdGVkGgZkaXBwZWQaC2l2O3A7Y29hdGVkKi8KBXJvdW5kFU5QrzwaBmFyb3VuZBoIY2lyY3VsYXIaB3JvdW5kZWQaBnJvdW5kczK-AS9nb3RvP3VybD1DQUVTZ2dFQjZ6c3dGV2NiWHY4WV8yTWpZLXRIRHU4MmlEN3VBUm83U0xTQnhmMUd3MVhEc1ZRbzgzY01JSEEtRUFCcXVOOFlGZWwyd2VkMGpHSUZLODBGaDVRMl9wNGZ2UEtPZTZXQXlDNHRESFd1Z2xBcmlFYU1xZ3JtYzBYazROc0NCOWxJUjVzWTRDSXB5TDNOd3NfS2c1WHdoS01VZ3A1eHd3TndpS2xDRnE1X3M4VjQ6UlNvdXRoIDxiPkluZGlhbiBzd2VldHMgcmVjaXBlczwvYj4gd2l0aCBjb2NvbnV0IG1pbGsgYW5kIDxiPmphZ2dlcnk8L2I-IC0gRmFjZWJvb2tClwFCb2lsIHdoaXRlIHBlYXMgdW50aWwgc29mdCBhbmQgdGVuZGVyLiAyLiBNZWx0IGphZ2dlcnkgd2l0aCBhIGxpdHRsZSB3YXRlciwgc3RyYWluIGFuZCBzaW1tZXIgdGhlIGJvaWxlZCBwZWFzIGluIGl0LiAzLiBBZGQgdGhpY2sgY29jb251dCBtaWxrJm5ic3A7Li4uUgJpbiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZXY2JYdjhZXzJNalktdEhEdTgyaUQ3dUFSbzdTTFNCeGYxR3cxWERzVlFvODNjTUlIQS1FQUJxdU44WUZlbDJ3ZWQwakdJRks4MEZoNVEyX3A0ZnZQS09lNldBeUM0dERIV3VnbEFyaUVhTXFncm1jMFhrNE5zQ0I5bElSNXNZNENJcHlMM053c19LZzVYd2hLTVVncDV4d3dOd2lLbENGcTVfczhWNBIEGgIIABroCBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDECAgAEAAYACAAKk0KC3RyYWRpdGlvbmFsFaVkoj8aCWF1dGhlbnRpYxoHY2xhc3NpYxoJdHJhZGl0aW9uGgd0eXBpY2FsGhF0cmFkaXRpb25hbGluZGlhbipHCgZpbmRpYW4VwrqiQBoFaW5kaWEaEXRyYWRpdGlvbmFsaW5kaWFuGgtpbmRpYW5zd2VldBoRaW5kaWFuc3dlZXRyZWNpcGUqSwoFc3dlZXQVudRrQBoIZGVzc2VydHMaBnN3ZWV0cxoLaW5kaWFuc3dlZXQaEWluZGlhbnN3ZWV0cmVjaXBlGgtzd2VldHJlY2lwZSpSCgZyZWNpcGUV4w8ZQBoHY29va2luZxoEZGlzaBoHcmVjaXBlcxoRaW5kaWFuc3dlZXRyZWNpcGUaC3N3ZWV0cmVjaXBlGgtpdjtwO3JlY2lwZSocCgdqYWdnZXJ5FQgS10AaDGl2O3A7amFnZ2VyeSoyCgZjcmlzcHkVUdXhPxoFY3Jpc3AaB2NydW5jaHkaBmNydXN0eRoLaXY7cDtjcmlzcHkqHQoHb3V0c2lkZRWGgrI_GgZib3R0b20aBW91dGVyKhIKBHNvZnQV-KMWQBoFbXVzaHkqMwoGaW5zaWRlFdmpmD8aAmluGgdpbmRvb3JzGgVpbm5lchoIaW50ZXJuYWwaBndpdGhpbioaCgZzZXNhbWUVAAAAABoLaXY7cDtzZXNhbWUqRwoGY29hdGVkFWJzqj8aB2NvYXRpbmcaCGNvYXRpbmdzGgdjb3ZlcmVkGgdjcnVzdGVkGgZkaXBwZWQaC2l2O3A7Y29hdGVkKi8KBXJvdW5kFU5QrzwaBmFyb3VuZBoIY2lyY3VsYXIaB3JvdW5kZWQaBnJvdW5kczK-AS9nb3RvP3VybD1DQUVTZ2dFQjZ6c3dGV2NiWHY4WV8yTWpZLXRIRHU4MmlEN3VBUm83U0xTQnhmMUd3MVhEc1ZRbzgzY01JSEEtRUFCcXVOOFlGZWwyd2VkMGpHSUZLODBGaDVRMl9wNGZ2UEtPZTZXQXlDNHRESFd1Z2xBcmlFYU1xZ3JtYzBYazROc0NCOWxJUjVzWTRDSXB5TDNOd3NfS2c1WHdoS01VZ3A1eHd3TndpS2xDRnE1X3M4VjQ6UlNvdXRoIDxiPkluZGlhbiBzd2VldHMgcmVjaXBlczwvYj4gd2l0aCBjb2NvbnV0IG1pbGsgYW5kIDxiPmphZ2dlcnk8L2I-IC0gRmFjZWJvb2tClwFCb2lsIHdoaXRlIHBlYXMgdW50aWwgc29mdCBhbmQgdGVuZGVyLiAyLiBNZWx0IGphZ2dlcnkgd2l0aCBhIGxpdHRsZSB3YXRlciwgc3RyYWluIGFuZCBzaW1tZXIgdGhlIGJvaWxlZCBwZWFzIGluIGl0LiAzLiBBZGQgdGhpY2sgY29jb251dCBtaWxrJm5ic3A7Li4uUgJpbiICEAFIAFgAaAA",
+    "source": "Facebook · The Pioneer Woman Slow cooker Recipes ✅"
+   },
+   {
+    "position": 5,
+    "title": "Traditional Indian Sweet Anyone want recipe ?",
+    "link": "https://www.facebook.com/groups/299549141271337/posts/530308448195404/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFSbKD1w2utmLvrryqJsnwEvzZF_WHMiEyllJFqPAu61lTqgMvCqLffTOpR513S40B4A0pYxofqleewQzOMTFSkIQSTWhJy4LlvJlvlHUopUN67Ova-xO83skiU4_FToCyUJ52KFQsRcPLz80n9Mecn0h4ojYaFEp_O4hseg&ved=2ahUKEwiTk56VhJyXAxWtgFYBHbJeCFgQFnoECEgQAQ&uoh=1",
+    "displayed_link": "20+ comments · 5 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "Heat gum in ghee for few minutes till it swells up & becomes white.Cool it & crush to coarse. Heat water in a pan, add the jaggery/gud pieces.",
+    "about_this_result": {
+     "source": {
+      "description": "Heat gum in ghee for few minutes till it swells up & becomes white.Cool it & crush to coarse. Heat water in a pan, add the jaggery/gud pieces.",
+      "source_info_link": "https://www.facebook.com/groups/299549141271337/posts/530308448195404/",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZTYktEMXcydXRtTHZycnlxSnNud0V2elpGX1dITWlFeWxsSkZxUEF1NjFsVHFnTXZDcUxmZlRPcFI1MTNTNDBCNEEwcFl4b2ZxbGVld1F6T01URlNrSVFTVFdoSnk0TGx2Smx2bEhVb3BVTjY3T3ZhLXhPODNza2lVNF9GVG9DeVVKNTJLRlFzUmNQTHo4MG45TWVjbjBoNG9qWWFGRXBfTzRoc2VnEgQaAggAGtoIEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQLYICAAQABgAIAAqTQoLdHJhZGl0aW9uYWwV-q-aQBoJYXV0aGVudGljGgdjbGFzc2ljGgl0cmFkaXRpb24aB3R5cGljYWwaEXRyYWRpdGlvbmFsaW5kaWFuKkcKBmluZGlhbhWeFaJAGgVpbmRpYRoRdHJhZGl0aW9uYWxpbmRpYW4aC2luZGlhbnN3ZWV0GhFpbmRpYW5zd2VldHJlY2lwZSpLCgVzd2VldBUgvKhAGghkZXNzZXJ0cxoGc3dlZXRzGgtpbmRpYW5zd2VldBoRaW5kaWFuc3dlZXRyZWNpcGUaC3N3ZWV0cmVjaXBlKlIKBnJlY2lwZRWEfK5AGgdjb29raW5nGgRkaXNoGgdyZWNpcGVzGhFpbmRpYW5zd2VldHJlY2lwZRoLc3dlZXRyZWNpcGUaC2l2O3A7cmVjaXBlKhwKB2phZ2dlcnkVkv-kPxoMaXY7cDtqYWdnZXJ5KjIKBmNyaXNweRWvT7s8GgVjcmlzcBoHY3J1bmNoeRoGY3J1c3R5GgtpdjtwO2NyaXNweSodCgdvdXRzaWRlFQAAAAAaBmJvdHRvbRoFb3V0ZXIqEgoEc29mdBXHnWg9GgVtdXNoeSozCgZpbnNpZGUVoAnQPBoCaW4aB2luZG9vcnMaBWlubmVyGghpbnRlcm5hbBoGd2l0aGluKhoKBnNlc2FtZRUAAAAAGgtpdjtwO3Nlc2FtZSpHCgZjb2F0ZWQVAAAAABoHY29hdGluZxoIY29hdGluZ3MaB2NvdmVyZWQaB2NydXN0ZWQaBmRpcHBlZBoLaXY7cDtjb2F0ZWQqLwoFcm91bmQVTKgmPBoGYXJvdW5kGghjaXJjdWxhchoHcm91bmRlZBoGcm91bmRzMr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZTYktEMXcydXRtTHZycnlxSnNud0V2elpGX1dITWlFeWxsSkZxUEF1NjFsVHFnTXZDcUxmZlRPcFI1MTNTNDBCNEEwcFl4b2ZxbGVld1F6T01URlNrSVFTVFdoSnk0TGx2Smx2bEhVb3BVTjY3T3ZhLXhPODNza2lVNF9GVG9DeVVKNTJLRlFzUmNQTHo4MG45TWVjbjBoNG9qWWFGRXBfTzRoc2VnOkY8Yj5UcmFkaXRpb25hbCBJbmRpYW4gU3dlZXQ8L2I-IEFueW9uZSB3YW50IDxiPnJlY2lwZTwvYj4gPyAtIEZhY2Vib29rQpYBSGVhdCBndW0gaW4gZ2hlZSBmb3IgZmV3IG1pbnV0ZXMgdGlsbCBpdCBzd2VsbHMgdXAgJmFtcDsgYmVjb21lcyB3aGl0ZS5Db29sIGl0ICZhbXA7IGNydXNoIHRvIGNvYXJzZS4gSGVhdCB3YXRlciBpbiBhIHBhbiwgYWRkIHRoZSBqYWdnZXJ5L2d1ZCBwaWVjZXMuUgJpbiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZTYktEMXcydXRtTHZycnlxSnNud0V2elpGX1dITWlFeWxsSkZxUEF1NjFsVHFnTXZDcUxmZlRPcFI1MTNTNDBCNEEwcFl4b2ZxbGVld1F6T01URlNrSVFTVFdoSnk0TGx2Smx2bEhVb3BVTjY3T3ZhLXhPODNza2lVNF9GVG9DeVVKNTJLRlFzUmNQTHo4MG45TWVjbjBoNG9qWWFGRXBfTzRoc2VnEgQaAggAGtoIEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQLYICAAQABgAIAAqTQoLdHJhZGl0aW9uYWwV-q-aQBoJYXV0aGVudGljGgdjbGFzc2ljGgl0cmFkaXRpb24aB3R5cGljYWwaEXRyYWRpdGlvbmFsaW5kaWFuKkcKBmluZGlhbhWeFaJAGgVpbmRpYRoRdHJhZGl0aW9uYWxpbmRpYW4aC2luZGlhbnN3ZWV0GhFpbmRpYW5zd2VldHJlY2lwZSpLCgVzd2VldBUgvKhAGghkZXNzZXJ0cxoGc3dlZXRzGgtpbmRpYW5zd2VldBoRaW5kaWFuc3dlZXRyZWNpcGUaC3N3ZWV0cmVjaXBlKlIKBnJlY2lwZRWEfK5AGgdjb29raW5nGgRkaXNoGgdyZWNpcGVzGhFpbmRpYW5zd2VldHJlY2lwZRoLc3dlZXRyZWNpcGUaC2l2O3A7cmVjaXBlKhwKB2phZ2dlcnkVkv-kPxoMaXY7cDtqYWdnZXJ5KjIKBmNyaXNweRWvT7s8GgVjcmlzcBoHY3J1bmNoeRoGY3J1c3R5GgtpdjtwO2NyaXNweSodCgdvdXRzaWRlFQAAAAAaBmJvdHRvbRoFb3V0ZXIqEgoEc29mdBXHnWg9GgVtdXNoeSozCgZpbnNpZGUVoAnQPBoCaW4aB2luZG9vcnMaBWlubmVyGghpbnRlcm5hbBoGd2l0aGluKhoKBnNlc2FtZRUAAAAAGgtpdjtwO3Nlc2FtZSpHCgZjb2F0ZWQVAAAAABoHY29hdGluZxoIY29hdGluZ3MaB2NvdmVyZWQaB2NydXN0ZWQaBmRpcHBlZBoLaXY7cDtjb2F0ZWQqLwoFcm91bmQVTKgmPBoGYXJvdW5kGghjaXJjdWxhchoHcm91bmRlZBoGcm91bmRzMr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZTYktEMXcydXRtTHZycnlxSnNud0V2elpGX1dITWlFeWxsSkZxUEF1NjFsVHFnTXZDcUxmZlRPcFI1MTNTNDBCNEEwcFl4b2ZxbGVld1F6T01URlNrSVFTVFdoSnk0TGx2Smx2bEhVb3BVTjY3T3ZhLXhPODNza2lVNF9GVG9DeVVKNTJLRlFzUmNQTHo4MG45TWVjbjBoNG9qWWFGRXBfTzRoc2VnOkY8Yj5UcmFkaXRpb25hbCBJbmRpYW4gU3dlZXQ8L2I-IEFueW9uZSB3YW50IDxiPnJlY2lwZTwvYj4gPyAtIEZhY2Vib29rQpYBSGVhdCBndW0gaW4gZ2hlZSBmb3IgZmV3IG1pbnV0ZXMgdGlsbCBpdCBzd2VsbHMgdXAgJmFtcDsgYmVjb21lcyB3aGl0ZS5Db29sIGl0ICZhbXA7IGNydXNoIHRvIGNvYXJzZS4gSGVhdCB3YXRlciBpbiBhIHBhbiwgYWRkIHRoZSBqYWdnZXJ5L2d1ZCBwaWVjZXMuUgJpbiICEAFIAFgAaAA",
+    "source": "Facebook · Cooking Shooking Hindi Fan Club"
+   },
+   {
+    "position": 6,
+    "title": "5 Delicious Indian Sweets Made with White Til (Sesame Seeds) - Your Kitchen Diaries",
+    "link": "https://yourkitchendiaries1.wordpress.com/2025/04/02/5-delicious-indian-sweets-made-with-white-til-sesame-seeds/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqwEB6zswFQiXJqjK8f1EaZSaT8g7eysABkCEXezjQmnqkLc-IYYJHBgq70TcbAdoUQk2K3IaNuQ4chVBojL7GPV1GILB9pYvYnxKYKgrJHLccsAqUs9qXwDQkEMSbinFF2KRu4MNWjyTlIeK7StKPtdR6igKk6DYHAEd9zsDz7ZRf30WVpjrGI09wsWQOOirMTfw1tPfqzaa0yNOxlBVhK75-Pbm1Ao2FaF8Lvk&ved=2ahUKEwiTk56VhJyXAxWtgFYBHbJeCFgQFnoECFcQAQ&uoh=1",
+    "displayed_link": "https://yourkitchendiaries1.wordpress.com",
+    "favicon": "https://serpapi.com/images/i/UklGRrgBAABXRUJQVlA4IKwBAAAwCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhILIgrd0yCbLu812YHKjsblRMANK40ILCMI69v_v7aUIN5FvHHnrgO0bnIQQkAD-24WT7V3JM53xD-Z9Q1-3wbpjhLwy9rMCDzn2yWJCTozGhAhHWOOlZ-nYvELcoffiaY9O823ImVPgcgJPpfXz_HsY4-ZBU7_rUy2dVK-6rUXvzyRTo-ElqN7JUu7MwHNcfBdmHiZtOAKeOo9taoYgxeVkrqrXTra2PlNkwBq25VEFq9X3yfR1WU7P4it78N2xVE1TlbTv9trh3xmJDdicgX1v_MyLan6SHiiBcbI-uB1P6_dNaFZyB_d1HmVsAHmGNFKpfgb61LNyloMEfWL97VQBaJ6L841F61Chj1KTFndfuJlUjLbZP0DPv4GYW22Db6Zekv6loQgvvTXX1sWZU1y_u2uqmtDcZhIsIfcrlOGNpvlf4PrlB5mr5XdwxMruclVxeEwAJfOx9OINu7h3c2j0poOqy51f_i6VvwtctkHbmGvJWqk_idLaav8Hd-W3wR52EOA_nMiHLT9RDQAAAA.webp",
+    "date": "2 Apr 2025",
+    "snippet": "Til Chikki is a crunchy, nutty delight that requires just two main ingredients—sesame seeds and jaggery. But don't be fooled by its simplicity; ...",
+    "about_this_result": {
+     "source": {
+      "description": "Til Chikki is a crunchy, nutty delight that requires just two main ingredients—sesame seeds and jaggery. But don't be fooled by its simplicity; ...",
+      "source_info_link": "https://yourkitchendiaries1.wordpress.com/2025/04/02/5-delicious-indian-sweets-made-with-white-til-sesame-seeds/",
+      "icon": "https://serpapi.com/images/i/UklGRrgBAABXRUJQVlA4IKwBAAAwCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhILIgrd0yCbLu812YHKjsblRMANK40ILCMI69v_v7aUIN5FvHHnrgO0bnIQQkAD-24WT7V3JM53xD-Z9Q1-3wbpjhLwy9rMCDzn2yWJCTozGhAhHWOOlZ-nYvELcoffiaY9O823ImVPgcgJPpfXz_HsY4-ZBU7_rUy2dVK-6rUXvzyRTo-ElqN7JUu7MwHNcfBdmHiZtOAKeOo9taoYgxeVkrqrXTra2PlNkwBq25VEFq9X3yfR1WU7P4it78N2xVE1TlbTv9trh3xmJDdicgX1v_MyLan6SHiiBcbI-uB1P6_dNaFZyB_d1HmVsAHmGNFKpfgb61LNyloMEfWL97VQBaJ6L841F61Chj1KTFndfuJlUjLbZP0DPv4GYW22Db6Zekv6loQgvvTXX1sWZU1y_u2uqmtDcZhIsIfcrlOGNpvlf4PrlB5mr5XdwxMruclVxeEwAJfOx9OINu7h3c2j0poOqy51f_i6VvwtctkHbmGvJWqk_idLaav8Hd-W3wR52EOA_nMiHLT9RDQAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CvUBL2dvdG8_dXJsPUNBRVNxd0VCNnpzd0ZRaVhKcWpLOGYxRWFaU2FUOGc3ZXlzQUJrQ0VYZXpqUW1ucWtMYy1JWVlKSEJncTcwVGNiQWRvVVFrMkszSWFOdVE0Y2hWQm9qTDdHUFYxR0lMQjlwWXZZbnhLWUtnckpITGNjc0FxVXM5cVh3RFFrRU1TYmluRkYyS1J1NE1OV2p5VGxJZUs3U3RLUHRkUjZpZ0trNkRZSEFFZDl6c0R6N1pSZjMwV1ZwanJHSTA5d3NXUU9PaXJNVGZ3MXRQZnF6YWEweU5PeGxCVmhLNzUtUGJtMUFvMkZhRjhMdmsSBBoCCAAatQkSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAkQkIABAAGAAgACpNCgt0cmFkaXRpb25hbBVRccU_GglhdXRoZW50aWMaB2NsYXNzaWMaCXRyYWRpdGlvbhoHdHlwaWNhbBoRdHJhZGl0aW9uYWxpbmRpYW4qRwoGaW5kaWFuFc0HqUAaBWluZGlhGhF0cmFkaXRpb25hbGluZGlhbhoLaW5kaWFuc3dlZXQaEWluZGlhbnN3ZWV0cmVjaXBlKksKBXN3ZWV0FSfLAUAaCGRlc3NlcnRzGgZzd2VldHMaC2luZGlhbnN3ZWV0GhFpbmRpYW5zd2VldHJlY2lwZRoLc3dlZXRyZWNpcGUqUgoGcmVjaXBlFUlajT8aB2Nvb2tpbmcaBGRpc2gaB3JlY2lwZXMaEWluZGlhbnN3ZWV0cmVjaXBlGgtzd2VldHJlY2lwZRoLaXY7cDtyZWNpcGUqHAoHamFnZ2VyeRVGP2pAGgxpdjtwO2phZ2dlcnkqMgoGY3Jpc3B5FQAAAAAaBWNyaXNwGgdjcnVuY2h5GgZjcnVzdHkaC2l2O3A7Y3Jpc3B5Kh0KB291dHNpZGUVAAAAABoGYm90dG9tGgVvdXRlcioSCgRzb2Z0FQgulT4aBW11c2h5KjMKBmluc2lkZRUAAAAAGgJpbhoHaW5kb29ycxoFaW5uZXIaCGludGVybmFsGgZ3aXRoaW4qGgoGc2VzYW1lFQaV0kAaC2l2O3A7c2VzYW1lKkcKBmNvYXRlZBUAAAAAGgdjb2F0aW5nGghjb2F0aW5ncxoHY292ZXJlZBoHY3J1c3RlZBoGZGlwcGVkGgtpdjtwO2NvYXRlZCovCgVyb3VuZBUAAAAAGgZhcm91bmQaCGNpcmN1bGFyGgdyb3VuZGVkGgZyb3VuZHMy9QEvZ290bz91cmw9Q0FFU3F3RUI2enN3RlFpWEpxaks4ZjFFYVpTYVQ4ZzdleXNBQmtDRVhlempRbW5xa0xjLUlZWUpIQmdxNzBUY2JBZG9VUWsySzNJYU51UTRjaFZCb2pMN0dQVjFHSUxCOXBZdllueEtZS2dySkhMY2NzQXFVczlxWHdEUWtFTVNiaW5GRjJLUnU0TU5XanlUbEllSzdTdEtQdGRSNmlnS2s2RFlIQUVkOXpzRHo3WlJmMzBXVnBqckdJMDl3c1dRT09pck1UZncxdFBmcXphYTB5Tk94bEJWaEs3NS1QYm0xQW8yRmFGOEx2azphNSBEZWxpY2lvdXMgPGI-SW5kaWFuIFN3ZWV0czwvYj4gTWFkZSB3aXRoIFdoaXRlIFRpbCAoPGI-U2VzYW1lPC9iPiBTZWVkcykgLSBZb3VyIEtpdGNoZW4gRGlhcmllc0KeAVRpbCBDaGlra2kgaXMgYSBjcnVuY2h5LCBudXR0eSBkZWxpZ2h0IHRoYXQgcmVxdWlyZXMganVzdCB0d28gbWFpbiBpbmdyZWRpZW50c-KAlHNlc2FtZSBzZWVkcyBhbmQgamFnZ2VyeS4gQnV0IGRvbiYjMzk7dCBiZSBmb29sZWQgYnkgaXRzIHNpbXBsaWNpdHk7Jm5ic3A7Li4uUgJpbiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CvUBL2dvdG8_dXJsPUNBRVNxd0VCNnpzd0ZRaVhKcWpLOGYxRWFaU2FUOGc3ZXlzQUJrQ0VYZXpqUW1ucWtMYy1JWVlKSEJncTcwVGNiQWRvVVFrMkszSWFOdVE0Y2hWQm9qTDdHUFYxR0lMQjlwWXZZbnhLWUtnckpITGNjc0FxVXM5cVh3RFFrRU1TYmluRkYyS1J1NE1OV2p5VGxJZUs3U3RLUHRkUjZpZ0trNkRZSEFFZDl6c0R6N1pSZjMwV1ZwanJHSTA5d3NXUU9PaXJNVGZ3MXRQZnF6YWEweU5PeGxCVmhLNzUtUGJtMUFvMkZhRjhMdmsSBBoCCAAatQkSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAkQkIABAAGAAgACpNCgt0cmFkaXRpb25hbBVRccU_GglhdXRoZW50aWMaB2NsYXNzaWMaCXRyYWRpdGlvbhoHdHlwaWNhbBoRdHJhZGl0aW9uYWxpbmRpYW4qRwoGaW5kaWFuFc0HqUAaBWluZGlhGhF0cmFkaXRpb25hbGluZGlhbhoLaW5kaWFuc3dlZXQaEWluZGlhbnN3ZWV0cmVjaXBlKksKBXN3ZWV0FSfLAUAaCGRlc3NlcnRzGgZzd2VldHMaC2luZGlhbnN3ZWV0GhFpbmRpYW5zd2VldHJlY2lwZRoLc3dlZXRyZWNpcGUqUgoGcmVjaXBlFUlajT8aB2Nvb2tpbmcaBGRpc2gaB3JlY2lwZXMaEWluZGlhbnN3ZWV0cmVjaXBlGgtzd2VldHJlY2lwZRoLaXY7cDtyZWNpcGUqHAoHamFnZ2VyeRVGP2pAGgxpdjtwO2phZ2dlcnkqMgoGY3Jpc3B5FQAAAAAaBWNyaXNwGgdjcnVuY2h5GgZjcnVzdHkaC2l2O3A7Y3Jpc3B5Kh0KB291dHNpZGUVAAAAABoGYm90dG9tGgVvdXRlcioSCgRzb2Z0FQgulT4aBW11c2h5KjMKBmluc2lkZRUAAAAAGgJpbhoHaW5kb29ycxoFaW5uZXIaCGludGVybmFsGgZ3aXRoaW4qGgoGc2VzYW1lFQaV0kAaC2l2O3A7c2VzYW1lKkcKBmNvYXRlZBUAAAAAGgdjb2F0aW5nGghjb2F0aW5ncxoHY292ZXJlZBoHY3J1c3RlZBoGZGlwcGVkGgtpdjtwO2NvYXRlZCovCgVyb3VuZBUAAAAAGgZhcm91bmQaCGNpcmN1bGFyGgdyb3VuZGVkGgZyb3VuZHMy9QEvZ290bz91cmw9Q0FFU3F3RUI2enN3RlFpWEpxaks4ZjFFYVpTYVQ4ZzdleXNBQmtDRVhlempRbW5xa0xjLUlZWUpIQmdxNzBUY2JBZG9VUWsySzNJYU51UTRjaFZCb2pMN0dQVjFHSUxCOXBZdllueEtZS2dySkhMY2NzQXFVczlxWHdEUWtFTVNiaW5GRjJLUnU0TU5XanlUbEllSzdTdEtQdGRSNmlnS2s2RFlIQUVkOXpzRHo3WlJmMzBXVnBqckdJMDl3c1dRT09pck1UZncxdFBmcXphYTB5Tk94bEJWaEs3NS1QYm0xQW8yRmFGOEx2azphNSBEZWxpY2lvdXMgPGI-SW5kaWFuIFN3ZWV0czwvYj4gTWFkZSB3aXRoIFdoaXRlIFRpbCAoPGI-U2VzYW1lPC9iPiBTZWVkcykgLSBZb3VyIEtpdGNoZW4gRGlhcmllc0KeAVRpbCBDaGlra2kgaXMgYSBjcnVuY2h5LCBudXR0eSBkZWxpZ2h0IHRoYXQgcmVxdWlyZXMganVzdCB0d28gbWFpbiBpbmdyZWRpZW50c-KAlHNlc2FtZSBzZWVkcyBhbmQgamFnZ2VyeS4gQnV0IGRvbiYjMzk7dCBiZSBmb29sZWQgYnkgaXRzIHNpbXBsaWNpdHk7Jm5ic3A7Li4uUgJpbiICEAFIAFgAaAA",
+    "source": "WordPress.com"
+   },
+   {
+    "position": 7,
+    "title": "Sweet craving in minutes? Try this Instant Til Ki Quick Panjiri simple, wholesome and so ...",
+    "link": "https://www.instagram.com/reel/Ddxki2_slUW/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVWPhFIKO55WA-LmLK_EZ1qzPiy3dTgxoQ07efSUsN0KydvPbkPwJkS9ene2--0vj5QFfj2GsKHLVbpzn0AYE3naFy7b8e1q2Bk7j9E08W-eGe7g059gKBGc5j_3zbkjcCtQ&ved=2ahUKEwiTk56VhJyXAxWtgFYBHbJeCFgQtwJ6BAg_EAE&uoh=1",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiRnCOswmZTvqOwWaDDyFte2BjMUOn0b87ixnCLycZxa6yreD4d_h39g&s",
+    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "duration": "0:30",
+    "snippet": "A quick sesame panjiri made with til, coconut, jaggery powder and cardamom. Perfect when you want something sweet without making a heavy dessert ...",
+    "about_this_result": {
+     "source": {
+      "description": "A quick sesame panjiri made with til, coconut, jaggery powder and cardamom. Perfect when you want something sweet without making a heavy dessert ...",
+      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVldQaEZJS081NVdBLUxtTEtfRVoxcXpQaXkzZFRneG9RMDdlZlNVc04wS3lkdlBia1B3SmtTOWVuZTItLTB2ajVRRmZqMkdzS0hMVmJwem4wQVlFM25hRnk3YjhlMXEyQms3ajlFMDhXLWVHZTdnMDU5Z0tCR2M1al8zemJramNDdFESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVldQaEZJS081NVdBLUxtTEtfRVoxcXpQaXkzZFRneG9RMDdlZlNVc04wS3lkdlBia1B3SmtTOWVuZTItLTB2ajVRRmZqMkdzS0hMVmJwem4wQVlFM25hRnk3YjhlMXEyQms3ajlFMDhXLWVHZTdnMDU5Z0tCR2M1al8zemJramNDdFESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "source": "Instagram"
+   }
+  ],
+  "pagination": {
+   "current": 1
+  },
+  "serpapi_pagination": {
+   "current": 1
+  }
+ }
+}

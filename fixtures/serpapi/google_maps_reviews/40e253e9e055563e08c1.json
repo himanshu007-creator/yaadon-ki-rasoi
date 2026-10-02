@@ -1,0 +1,233 @@
+{
+ "engine": "google_maps_reviews",
+ "params": {
+  "data_id": "0x391a8355bb241fb5:0x1c59ac01de2ede7b",
+  "hl": "en",
+  "sort_by": "qualityScore",
+  "query": "pinni"
+ },
+ "recordedAt": "2026-10-02T19:12:49.373Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac0022af89c973ff9e4a305",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/BANop4hFdBacpyyPnZCqvayPsRUcvQEdtIiCyuV0XiQ/6ac0022af89c973ff9e4a305.md",
+   "created_at": "2026-10-02 19:12:42 UTC",
+   "processed_at": "2026-10-02 19:12:42 UTC",
+   "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x391a8355bb241fb5:0x1c59ac01de2ede7b!5m2!4m1!1i2!9m1!1b1?hl=en",
+   "total_time_taken": 6.67
+  },
+  "search_parameters": {
+   "engine": "google_maps_reviews",
+   "data_id": "0x391a8355bb241fb5:0x1c59ac01de2ede7b",
+   "hl": "en",
+   "sort_by": "qualityScore",
+   "query": "pinni"
+  },
+  "reviews": [
+   {
+    "position": 1,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURCcGQtRmRnEAE!2m1!1s0x0:0x1c59ac01de2ede7b!3m1!1s2@1:CIHM0ogKEICAgIDBpd-Fdg%7C%7C?hl=en",
+    "rating": 5,
+    "date": "3 years ago",
+    "iso_date": "2023-01-24T16:34:18Z",
+    "iso_date_of_last_edit": "2023-01-24T16:34:18Z",
+    "images": [
+     "https://lh3.googleusercontent.com/grass-cs/AABkmLeMBevbRVRLLH-9jgmXQtn_zZL5l37sUHUJRnLyvkxdyxGsH4pqWN9fyCFWQCLnZSGW0F54F0H6FEUgYNuh3kVhAu6y4_dGcB64L0scJVmiEjN3iOfM8dweyzJRMTVdz0JUuTdPGQ=k-no",
+     "https://lh3.googleusercontent.com/grass-cs/AABkmLdjBTJn7gSkTYMAd0WwdolBYJlJnZGcoxJu4bHJ8SGHRaY4hGQK5CfIKXnrJK-h1VJJvk9mevv8EWeLE0JmICUvbhGx-hQvoOpONg_ciR5sMCjh2i-69oCQbJ_NDPZRc1n23Tsu=k-no",
+     "https://lh3.googleusercontent.com/grass-cs/AABkmLduWH3z1xzIsgs9PcG7DaW9XdCaH7T7HbsUePIDXz6pB8x8h1xfTl4nruObb7hO3koDKC-FVeMjgKdEJMYWq43IE7XHsDcIR52M3mMTV8YNxNJGprB9gGQ_ie9YJQvHy_M3rG3J=k-no",
+     "https://lh3.googleusercontent.com/grass-cs/AABkmLeMoF5cgqYYxfHeBw4r1k0UZ6YnYhPWW4cunHO4LuNI6LeuRZzexfrabfZnVJ2EINGGisCz95Vq9A5zOaRE9HkVOddGZaKy6W1J5bBTfsB9f0MZ-3epWEsDQF-yZC2Dt2CHxKA=k-no"
+    ],
+    "source": "Google",
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCcGQtRmRnEAE",
+    "user": {
+     "name": "Sukhdeep Kaur",
+     "link": "https://www.google.com/maps/contrib/117389623449376866690?hl=en",
+     "contributor_id": "117389623449376866690",
+     "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocINHvH7ctSEAKJrJRPvh_sbkjLI9upMP5ZSZ9YvbQTzNx0K0Q=s120-c-rp-mo-br100",
+     "reviews": 3,
+     "photos": 4
+    },
+    "snippet": "We received their Pinni and Panjeeri and Gachacks in Canada , well packed and shipped. Such an amazing treat to cherish flavour of Punjabi Winter delicacies. Traditional recipe made in Desi Ghee, assured they retained their amazing taste long enough to remind us Pinni’s our Daddi g made in our childhood. Thank you for your amazing service and the opportunity you provide millions of people living away from native land to stay close to Punjab.",
+    "extracted_snippet": {
+     "original": "We received their Pinni and Panjeeri and Gachacks in Canada , well packed and shipped. Such an amazing treat to cherish flavour of Punjabi Winter delicacies. Traditional recipe made in Desi Ghee, assured they retained their amazing taste long enough to remind us Pinni’s our Daddi g made in our childhood. Thank you for your amazing service and the opportunity you provide millions of people living away from native land to stay close to Punjab."
+    },
+    "likes": 0,
+    "response": {
+     "date": "3 years ago",
+     "iso_date": "2023-01-25T07:10:31Z",
+     "iso_date_of_last_edit": "2023-01-25T07:10:31Z",
+     "snippet": "thanks heaps for such a lovely review. Now you can directly call or message at our 24 hour Help Line No +917303100009 for product enquiries. Shop on www.nathuandghudoo.com ",
+     "extracted_snippet": {
+      "original": "thanks heaps for such a lovely review. Now you can directly call or message at our 24 hour Help Line No +917303100009 for product enquiries. Shop on www.nathuandghudoo.com "
+     }
+    }
+   },
+   {
+    "position": 2,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2sxbk5WTkdVV2RRU3pnek0zZFRMVkpIUTFKclkyYxAB!2m1!1s0x0:0x1c59ac01de2ede7b!3m1!1s2@1:CAIQACodChtycF9oOk1nNVNGUWdQSzgzM3dTLVJHQ1JrY2c%7C%7C?hl=en",
+    "rating": 5,
+    "date": "3 months ago",
+    "iso_date": "2026-06-14T07:33:45Z",
+    "iso_date_of_last_edit": "2026-06-14T07:33:45Z",
+    "source": "Google",
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxbk5WTkdVV2RRU3pnek0zZFRMVkpIUTFKclkyYxAB",
+    "user": {
+     "name": "Sunny Malhotra",
+     "link": "https://www.google.com/maps/contrib/108470516736463183793?hl=en",
+     "contributor_id": "108470516736463183793",
+     "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIvzrEfxq20w1jpq-POuoPCAuh7vhdVxk-RtAISZHUdX3KkwA=s120-c-rp-mo-br100",
+     "reviews": 1,
+     "photos": 0
+    },
+    "snippet": "Best poori in Ludhiana\nTried their pinni too very nice and tasty\nOwner mr abhishek is quite intellectual and highly knowledgeable",
+    "extracted_snippet": {
+     "original": "Best poori in Ludhiana\nTried their pinni too very nice and tasty\nOwner mr abhishek is quite intellectual and highly knowledgeable"
+    },
+    "likes": 0,
+    "response": {
+     "date": "3 months ago",
+     "iso_date": "2026-06-14T07:43:22Z",
+     "iso_date_of_last_edit": "2026-06-14T07:43:22Z",
+     "snippet": "Many Thanks Mr Sunny, for your kind rating and words. Yes you are absolutely right we can send our special sweets like rewdi, gajak, til bhuga, pinni and other sweets anywhere in India and Globally.\nThank you once again so much for your valuable feedback and for choosing Nathu Mal & Ghudoo Mal.\n\nWe are truly delighted that you loved the taste, quality and experience. At Nathu Mal & Ghudoo Mal, we take pride in crafting authentic traditional sweets, premium dry fruit delicacies, gourmet gifting hampers, and handcrafted festive specialties using the finest ingredients and age-old recipes.\n\nYour appreciation motivates our entire team to continue delivering excellence in every bite and every box. We look forward to serving you again soon with more signature mithai, luxury gifting collections, and authentic Punjabi flavors.\n\nWarm Regards,\nTeam Nathu Mal & Ghudoo Mal\nOfficial Website: www.nathuandghudoo.com\nOfficial Contact: +91 73031 00009",
+     "extracted_snippet": {
+      "original": "Many Thanks Mr Sunny, for your kind rating and words. Yes you are absolutely right we can send our special sweets like rewdi, gajak, til bhuga, pinni and other sweets anywhere in India and Globally.\nThank you once again so much for your valuable feedback and for choosing Nathu Mal & Ghudoo Mal.\n\nWe are truly delighted that you loved the taste, quality and experience. At Nathu Mal & Ghudoo Mal, we take pride in crafting authentic traditional sweets, premium dry fruit delicacies, gourmet gifting hampers, and handcrafted festive specialties using the finest ingredients and age-old recipes.\n\nYour appreciation motivates our entire team to continue delivering excellence in every bite and every box. We look forward to serving you again soon with more signature mithai, luxury gifting collections, and authentic Punjabi flavors.\n\nWarm Regards,\nTeam Nathu Mal & Ghudoo Mal\nOfficial Website: www.nathuandghudoo.com\nOfficial Contact: +91 73031 00009"
+     }
+    }
+   },
+   {
+    "position": 3,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURtMXE3SkZnEAE!2m1!1s0x0:0x1c59ac01de2ede7b!3m1!1s2@1:CIHM0ogKEICAgIDm1q7JFg%7C%7C?hl=en",
+    "rating": 5,
+    "date": "4 years ago",
+    "iso_date": "2022-01-27T16:28:13Z",
+    "iso_date_of_last_edit": "2022-01-27T16:28:13Z",
+    "images": [
+     "https://lh3.googleusercontent.com/grass-cs/AABkmLcVSDcf9Em_svNhfHylXzcja7tnIQTvLM0-g5HrvRunND01YVV1J3P64_yPFXlRc6OB4rUf-rnrxaEl9FrPODFR7dyUNJrO-T9vun5U5gT0z0EskwMbvswlBDubZn9ZteQKXPxL=k-no",
+     "https://lh3.googleusercontent.com/grass-cs/AABkmLeYqjW1vqT54MVO649t2zIDEZP-LMKaIL7_3aVv8qPSXKxMJEgCViv30j3ryBufSfTt-DjZEzPaiI--6jtukAPKzsNIYej5ZVm6PYojDtGvqG4mLCQUEjCUg9ePGzS8c6sTl9OX=k-no"
+    ],
+    "source": "Google",
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtMXE3SkZnEAE",
+    "user": {
+     "name": "lakhbeer singh",
+     "link": "https://www.google.com/maps/contrib/118179495547625410104?hl=en",
+     "contributor_id": "118179495547625410104",
+     "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocItPRrgp_qXYT3wydm4esU_MDW8b3cJYxLQykp5Yo8NLbO11QQ=s120-c-rp-mo-ba12-br100",
+     "reviews": 29,
+     "photos": 14
+    },
+    "snippet": "We loved your pinni and tillbugga, both were out of this world and we got to enjoy your traditionally made sweets in the comfort of our homes 💯keep up the good work sir",
+    "extracted_snippet": {
+     "original": "We loved your pinni and tillbugga, both were out of this world and we got to enjoy your traditionally made sweets in the comfort of our homes 💯keep up the good work sir"
+    },
+    "likes": 0,
+    "response": {
+     "date": "4 years ago",
+     "iso_date": "2022-02-07T17:09:40Z",
+     "iso_date_of_last_edit": "2022-02-07T17:09:40Z",
+     "snippet": "Many thanks for kind review and rating. You can now place orders of your favorite gachak , bhuga , reodi & other desi ghee items on our website www.nathuandghudoo.com 7 get the requisite sweets delivered the very next day. Our one point of contact 7303100009 is always at your service. Our customers are not less than our Gods !",
+     "extracted_snippet": {
+      "original": "Many thanks for kind review and rating. You can now place orders of your favorite gachak , bhuga , reodi & other desi ghee items on our website www.nathuandghudoo.com 7 get the requisite sweets delivered the very next day. Our one point of contact 7303100009 is always at your service. Our customers are not less than our Gods !"
+     }
+    }
+   },
+   {
+    "position": 4,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNNbmNTcUx3EAE!2m1!1s0x0:0x1c59ac01de2ede7b!3m1!1s2@1:CIHM0ogKEICAgICMncSqLw%7C%7C?hl=en",
+    "rating": 5,
+    "date": "6 years ago",
+    "iso_date": "2019-12-01T11:35:20Z",
+    "iso_date_of_last_edit": "2019-12-01T11:35:20Z",
+    "source": "Google",
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNNbmNTcUx3EAE",
+    "user": {
+     "name": "Sumit Khanna",
+     "link": "https://www.google.com/maps/contrib/114450062214845390968?hl=en",
+     "contributor_id": "114450062214845390968",
+     "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUp5UAcVFY9DqCmKSk9tCucmaQV5h4kF2oDkol_zQiT9sCTUskP=s120-c-rp-mo-br100",
+     "reviews": 9,
+     "photos": 3
+    },
+    "snippet": "Best shop in ludhiana for gachak reodi bhugga and pinni. one of the oldest shop and quality is very good and all items are of pure desi ghee. Must try whenever you in ludhiana",
+    "extracted_snippet": {
+     "original": "Best shop in ludhiana for gachak reodi bhugga and pinni. one of the oldest shop and quality is very good and all items are of pure desi ghee. Must try whenever you in ludhiana"
+    },
+    "likes": 1,
+    "response": {
+     "date": "5 years ago",
+     "iso_date": "2021-05-23T04:41:11Z",
+     "iso_date_of_last_edit": "2021-05-23T04:41:11Z",
+     "snippet": "many thanks for your kind review. We have started online pan india & international deliveries , kindly get in touch with our contact no 7303100009",
+     "extracted_snippet": {
+      "original": "many thanks for your kind review. We have started online pan india & international deliveries , kindly get in touch with our contact no 7303100009"
+     }
+    }
+   },
+   {
+    "position": 5,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25oaVdrdEROMHRUZHpSTU5qTk9UM2RIU2tGaU1XYxAB!2m1!1s0x0:0x1c59ac01de2ede7b!3m1!1s2@1:CAIQACodChtycF9oOnhiWktDN0tTdzRMNjNOT3dHSkFiMWc%7C%7C?hl=en",
+    "rating": 5,
+    "date": "a week ago",
+    "iso_date": "2026-09-25T03:44:54Z",
+    "iso_date_of_last_edit": "2026-09-25T03:44:54Z",
+    "source": "Google",
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oaVdrdEROMHRUZHpSTU5qTk9UM2RIU2tGaU1XYxAB",
+    "user": {
+     "name": "Megha Aggarwal",
+     "link": "https://www.google.com/maps/contrib/103766654999311030286?hl=en",
+     "contributor_id": "103766654999311030286",
+     "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLzDW7fft8skGa6H8_i-q66WrRc1uuKDYxRmE8KnOgdU1hv6A=s120-c-rp-mo-br100",
+     "reviews": 3,
+     "photos": 0
+    },
+    "snippet": "Ludhiana's best sweet shop for winter sweets like till bhuga , Gajak and pinni .\nWe ordered stuff on their website www.nathuandghudoo.com , the goods were delivered on time and intact. We also ordered for our relatives in USA , to ny surprise the sweets were delivered in 2 days.",
+    "extracted_snippet": {
+     "original": "Ludhiana's best sweet shop for winter sweets like till bhuga , Gajak and pinni .\nWe ordered stuff on their website www.nathuandghudoo.com , the goods were delivered on time and intact. We also ordered for our relatives in USA , to ny surprise the sweets were delivered in 2 days."
+    },
+    "likes": 0,
+    "response": {
+     "date": "6 days ago",
+     "iso_date": "2026-09-26T07:55:02Z",
+     "iso_date_of_last_edit": "2026-09-26T07:55:02Z",
+     "snippet": "thank you for your kind rating and review. Means a lot ",
+     "extracted_snippet": {
+      "original": "thank you for your kind rating and review. Means a lot "
+     }
+    }
+   },
+   {
+    "position": 6,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xwdVpscDJSa053Vm1SWGVWSnNWM2xQZVdGeFZrRRAB!2m1!1s0x0:0x1c59ac01de2ede7b!3m1!1s2@1:CAIQACodChtycF9oOlpuZlp2RkNwVmRXeVJsV3lPeWFxVkE%7C%7C?hl=en",
+    "rating": 5,
+    "date": "8 months ago",
+    "iso_date": "2026-01-26T05:41:14Z",
+    "iso_date_of_last_edit": "2026-01-26T05:41:14Z",
+    "source": "Google",
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwdVpscDJSa053Vm1SWGVWSnNWM2xQZVdGeFZrRRAB",
+    "user": {
+     "name": "Tevish Goel",
+     "link": "https://www.google.com/maps/contrib/105567448176424091752?hl=en",
+     "contributor_id": "105567448176424091752",
+     "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocI7ibt9UeE69yE7qYbYyMDRHdOnFovJ9owTjDl2aj8A4s4iHw=s120-c-rp-mo-br100",
+     "reviews": 1,
+     "photos": 0
+    },
+    "snippet": "Best pinni in ludhiana",
+    "extracted_snippet": {
+     "original": "Best pinni in ludhiana",
+     "translated": "Best Pins in Ludhiana"
+    },
+    "likes": 0,
+    "response": {
+     "date": "8 months ago",
+     "iso_date": "2026-01-26T06:40:01Z",
+     "iso_date_of_last_edit": "2026-01-26T06:40:01Z",
+     "snippet": "Thank you so much for your wonderful feedback!\nWe are delighted to know that you loved your experience with Nathumal & Ghudoomal,Urban Estate Dugri, Ludhiana. Your appreciation for our authentic Punjabi sweets, premium quality ingredients, and bespoke gifting motivates our entire team to serve you even better.\n\nWe look forward to welcoming you again soon for your favourite Til Bhugga, Gachak, Revdi, Atta Pinni and Desi Ghee specials.\nFor fresh sweets, festive hampers & pan-India delivery, visit us anytime at our official homepage\nwww.nathuandghudoo.com\n\nConsumer Services Contact No. 7303100009\n\nWarm regards,\nTeam Nathumal & Ghudoomal Ludhiana’s Trusted Sweet Shop\n",
+     "extracted_snippet": {
+      "original": "Thank you so much for your wonderful feedback!\nWe are delighted to know that you loved your experience with Nathumal & Ghudoomal,Urban Estate Dugri, Ludhiana. Your appreciation for our authentic Punjabi sweets, premium quality ingredients, and bespoke gifting motivates our entire team to serve you even better.\n\nWe look forward to welcoming you again soon for your favourite Til Bhugga, Gachak, Revdi, Atta Pinni and Desi Ghee specials.\nFor fresh sweets, festive hampers & pan-India delivery, visit us anytime at our official homepage\nwww.nathuandghudoo.com\n\nConsumer Services Contact No. 7303100009\n\nWarm regards,\nTeam Nathumal & Ghudoomal Ludhiana’s Trusted Sweet Shop\n"
+     }
+    }
+   }
+  ]
+ }
+}

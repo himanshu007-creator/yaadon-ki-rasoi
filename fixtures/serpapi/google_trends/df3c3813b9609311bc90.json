@@ -1,0 +1,581 @@
+{
+ "engine": "google_trends",
+ "params": {
+  "geo": "IN",
+  "region": "REGION",
+  "date": "today 5-y",
+  "tz": -330,
+  "include_low_search_volume": true,
+  "q": "pinni,cuisine india",
+  "data_type": "GEO_MAP"
+ },
+ "recordedAt": "2026-10-02T19:15:25.031Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac002cbb6a867ef5b9ff8d1",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/Zh8kXDpsXzTjwTXXV7UHlisX-4iHJEn3g6o6l8tydYI/6ac002cbb6a867ef5b9ff8d1.md",
+   "created_at": "2026-10-02 19:15:23 UTC",
+   "processed_at": "2026-10-02 19:15:23 UTC",
+   "google_trends_url": "https://trends.google.com/trends/embed/explore/GEO_MAP?hl=en&tz=-330&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22pinni%22%2C%22geo%22%3A%22IN%22%2C%22time%22%3A%22today+5-y%22%7D%2C%7B%22keyword%22%3A%22cuisine+india%22%2C%22geo%22%3A%22IN%22%2C%22time%22%3A%22today+5-y%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+   "total_time_taken": 1.62
+  },
+  "search_parameters": {
+   "engine": "google_trends",
+   "q": "pinni,cuisine india",
+   "hl": "en",
+   "geo": "IN",
+   "date": "today 5-y",
+   "tz": "-330",
+   "data_type": "GEO_MAP",
+   "region": "REGION",
+   "include_low_search_volume": "true"
+  },
+  "compared_breakdown_by_region": [
+   {
+    "geo": "IN-AP",
+    "location": "Andhra Pradesh",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "99%",
+      "extracted_value": 99
+     },
+     {
+      "query": "cuisine india",
+      "value": "1%",
+      "extracted_value": 1
+     }
+    ]
+   },
+   {
+    "geo": "IN-TG",
+    "location": "Telangana",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "95%",
+      "extracted_value": 95
+     },
+     {
+      "query": "cuisine india",
+      "value": "5%",
+      "extracted_value": 5
+     }
+    ]
+   },
+   {
+    "geo": "IN-PB",
+    "location": "Punjab",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "89%",
+      "extracted_value": 89
+     },
+     {
+      "query": "cuisine india",
+      "value": "11%",
+      "extracted_value": 11
+     }
+    ]
+   },
+   {
+    "geo": "IN-CH",
+    "location": "Chandigarh",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "85%",
+      "extracted_value": 85
+     },
+     {
+      "query": "cuisine india",
+      "value": "15%",
+      "extracted_value": 15
+     }
+    ]
+   },
+   {
+    "geo": "IN-HP",
+    "location": "Himachal Pradesh",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "90%",
+      "extracted_value": 90
+     },
+     {
+      "query": "cuisine india",
+      "value": "10%",
+      "extracted_value": 10
+     }
+    ]
+   },
+   {
+    "geo": "IN-PY",
+    "location": "Puducherry",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "81%",
+      "extracted_value": 81
+     },
+     {
+      "query": "cuisine india",
+      "value": "19%",
+      "extracted_value": 19
+     }
+    ]
+   },
+   {
+    "geo": "IN-AN",
+    "location": "Andaman and Nicobar Islands",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "100%",
+      "extracted_value": 100
+     },
+     {
+      "query": "cuisine india",
+      "value": "",
+      "extracted_value": 0
+     }
+    ]
+   },
+   {
+    "geo": "IN-DL",
+    "location": "Delhi",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "69%",
+      "extracted_value": 69
+     },
+     {
+      "query": "cuisine india",
+      "value": "31%",
+      "extracted_value": 31
+     }
+    ]
+   },
+   {
+    "geo": "IN-HR",
+    "location": "Haryana",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "71%",
+      "extracted_value": 71
+     },
+     {
+      "query": "cuisine india",
+      "value": "29%",
+      "extracted_value": 29
+     }
+    ]
+   },
+   {
+    "geo": "IN-KA",
+    "location": "Karnataka",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "71%",
+      "extracted_value": 71
+     },
+     {
+      "query": "cuisine india",
+      "value": "29%",
+      "extracted_value": 29
+     }
+    ]
+   },
+   {
+    "geo": "IN-TN",
+    "location": "Tamil Nadu",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "74%",
+      "extracted_value": 74
+     },
+     {
+      "query": "cuisine india",
+      "value": "26%",
+      "extracted_value": 26
+     }
+    ]
+   },
+   {
+    "geo": "IN-UP",
+    "location": "Uttar Pradesh",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "77%",
+      "extracted_value": 77
+     },
+     {
+      "query": "cuisine india",
+      "value": "23%",
+      "extracted_value": 23
+     }
+    ]
+   },
+   {
+    "geo": "IN-GA",
+    "location": "Goa",
+    "max_value_index": 1,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "39%",
+      "extracted_value": 39
+     },
+     {
+      "query": "cuisine india",
+      "value": "61%",
+      "extracted_value": 61
+     }
+    ]
+   },
+   {
+    "geo": "IN-UT",
+    "location": "Uttarakhand",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "62%",
+      "extracted_value": 62
+     },
+     {
+      "query": "cuisine india",
+      "value": "38%",
+      "extracted_value": 38
+     }
+    ]
+   },
+   {
+    "geo": "IN-JK",
+    "location": "Jammu and Kashmir",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "68%",
+      "extracted_value": 68
+     },
+     {
+      "query": "cuisine india",
+      "value": "32%",
+      "extracted_value": 32
+     }
+    ]
+   },
+   {
+    "geo": "IN-NL",
+    "location": "Nagaland",
+    "max_value_index": 1,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "",
+      "extracted_value": 0
+     },
+     {
+      "query": "cuisine india",
+      "value": "100%",
+      "extracted_value": 100
+     }
+    ]
+   },
+   {
+    "geo": "IN-MH",
+    "location": "Maharashtra",
+    "max_value_index": 1,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "47%",
+      "extracted_value": 47
+     },
+     {
+      "query": "cuisine india",
+      "value": "53%",
+      "extracted_value": 53
+     }
+    ]
+   },
+   {
+    "geo": "IN-OR",
+    "location": "Odisha",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "62%",
+      "extracted_value": 62
+     },
+     {
+      "query": "cuisine india",
+      "value": "38%",
+      "extracted_value": 38
+     }
+    ]
+   },
+   {
+    "geo": "IN-ML",
+    "location": "Meghalaya",
+    "max_value_index": 1,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "26%",
+      "extracted_value": 26
+     },
+     {
+      "query": "cuisine india",
+      "value": "74%",
+      "extracted_value": 74
+     }
+    ]
+   },
+   {
+    "geo": "IN-CT",
+    "location": "Chhattisgarh",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "64%",
+      "extracted_value": 64
+     },
+     {
+      "query": "cuisine india",
+      "value": "36%",
+      "extracted_value": 36
+     }
+    ]
+   },
+   {
+    "geo": "IN-RJ",
+    "location": "Rajasthan",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "64%",
+      "extracted_value": 64
+     },
+     {
+      "query": "cuisine india",
+      "value": "36%",
+      "extracted_value": 36
+     }
+    ]
+   },
+   {
+    "geo": "IN-MN",
+    "location": "Manipur",
+    "max_value_index": 1,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "37%",
+      "extracted_value": 37
+     },
+     {
+      "query": "cuisine india",
+      "value": "63%",
+      "extracted_value": 63
+     }
+    ]
+   },
+   {
+    "geo": "IN-GJ",
+    "location": "Gujarat",
+    "max_value_index": 1,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "42%",
+      "extracted_value": 42
+     },
+     {
+      "query": "cuisine india",
+      "value": "58%",
+      "extracted_value": 58
+     }
+    ]
+   },
+   {
+    "geo": "IN-AR",
+    "location": "Arunachal Pradesh",
+    "max_value_index": 1,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "46%",
+      "extracted_value": 46
+     },
+     {
+      "query": "cuisine india",
+      "value": "54%",
+      "extracted_value": 54
+     }
+    ]
+   },
+   {
+    "geo": "IN-KL",
+    "location": "Kerala",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "55%",
+      "extracted_value": 55
+     },
+     {
+      "query": "cuisine india",
+      "value": "45%",
+      "extracted_value": 45
+     }
+    ]
+   },
+   {
+    "geo": "IN-AS",
+    "location": "Assam",
+    "max_value_index": 1,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "42%",
+      "extracted_value": 42
+     },
+     {
+      "query": "cuisine india",
+      "value": "58%",
+      "extracted_value": 58
+     }
+    ]
+   },
+   {
+    "geo": "IN-MZ",
+    "location": "Mizoram",
+    "max_value_index": 1,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "",
+      "extracted_value": 0
+     },
+     {
+      "query": "cuisine india",
+      "value": "100%",
+      "extracted_value": 100
+     }
+    ]
+   },
+   {
+    "geo": "IN-MP",
+    "location": "Madhya Pradesh",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "61%",
+      "extracted_value": 61
+     },
+     {
+      "query": "cuisine india",
+      "value": "39%",
+      "extracted_value": 39
+     }
+    ]
+   },
+   {
+    "geo": "IN-WB",
+    "location": "West Bengal",
+    "max_value_index": 1,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "41%",
+      "extracted_value": 41
+     },
+     {
+      "query": "cuisine india",
+      "value": "59%",
+      "extracted_value": 59
+     }
+    ]
+   },
+   {
+    "geo": "IN-JH",
+    "location": "Jharkhand",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "52%",
+      "extracted_value": 52
+     },
+     {
+      "query": "cuisine india",
+      "value": "48%",
+      "extracted_value": 48
+     }
+    ]
+   },
+   {
+    "geo": "IN-TR",
+    "location": "Tripura",
+    "max_value_index": 1,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "39%",
+      "extracted_value": 39
+     },
+     {
+      "query": "cuisine india",
+      "value": "61%",
+      "extracted_value": 61
+     }
+    ]
+   },
+   {
+    "geo": "IN-BR",
+    "location": "Bihar",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "pinni",
+      "value": "53%",
+      "extracted_value": 53
+     },
+     {
+      "query": "cuisine india",
+      "value": "47%",
+      "extracted_value": 47
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "engine": "youtube_video_transcript",
+ "params": {
+  "v": "N1GjkZZcK5k",
+  "language_code": "hi"
+ },
+ "recordedAt": "2026-10-02T19:21:29.487Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac00430a8dce68548d8249d",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/JLdOXvOmb-A0_cEBrVst2SmnV4zx_Y4Y7CehcHrRIMU/6ac00430a8dce68548d8249d.md",
+   "created_at": "2026-10-02 19:21:20 UTC",
+   "processed_at": "2026-10-02 19:21:20 UTC",
+   "youtube_video_transcript_url": "https://www.youtube.com/watch?v=N1GjkZZcK5k",
+   "total_time_taken": 8.62
+  },
+  "search_parameters": {
+   "engine": "youtube_video_transcript",
+   "v": "N1GjkZZcK5k",
+   "language_code": "hi"
+  },
+  "search_information": {
+   "results_state": "Fully empty"
+  },
+  "error": "YouTube Video Transcript hasn't returned any results for this query."
+ }
+}

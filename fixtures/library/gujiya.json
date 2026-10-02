@@ -1,0 +1,1693 @@
+{
+ "slug": "gujiya",
+ "name": "Gujiya",
+ "blurb": "A crimped half-moon pastry filled with khoya and suji, fried in ghee.",
+ "region": "Uttar Pradesh · Maharashtra · Gujarat · Andhra",
+ "seed": {
+  "text": "Diwali pe Dadi maida ki bhari hui meethi cheez banati thi, andar khoya aur suji, kinare gundh ke, ghee mein talti thi",
+  "festival": "diwali",
+  "maker": "dadi",
+  "regionHint": "UP",
+  "city": {
+   "name": "Delhi",
+   "state": "DL",
+   "lat": 28.6139,
+   "lng": 77.209
+  },
+  "home": {
+   "name": "Kanpur",
+   "state": "UP",
+   "lat": 26.4499,
+   "lng": 80.3319
+  },
+  "uiLang": "hinglish"
+ },
+ "recordedAt": "2026-10-02T19:22:02.458Z",
+ "docsCount": 30,
+ "domains": [
+  "indianhealthyrecipes.com",
+  "thetastesofindia.com",
+  "dessarts.com",
+  "cookingcarnival.com",
+  "facebook.com",
+  "instagram.com",
+  "reshkitchen.com",
+  "indianfoods.co.in",
+  "funfoodfrolic.com",
+  "homecookingshow.in",
+  "mycookingjourney.com",
+  "youtube.com",
+  "discover.hubpages.com",
+  "indianspicetreat.quora.com"
+ ],
+ "candidates": [
+  {
+   "name": "Gujiya",
+   "aliases": [
+    "Mawa Gujia",
+    "Karanji",
+    "Ghughra"
+   ],
+   "supportDocIds": [
+    "q0-r0",
+    "q0-r1",
+    "q0-r2",
+    "q1-r0"
+   ],
+   "matched": [
+    "khoya"
+   ],
+   "domains": [
+    "indianhealthyrecipes.com",
+    "thetastesofindia.com",
+    "dessarts.com",
+    "indianfoods.co.in"
+   ],
+   "score": 0.65,
+   "id": "c01",
+   "photo": {
+    "thumb": "https://serpapi.com/searches/6ac001fd1b6c6ef34473dc0c/images/hwdVG2f4DrBro_jGzGal0ApEa8Z6a2OfyJqZkbN33Gc.jpeg",
+    "source": "thetastesofindia.com",
+    "link": "https://thetastesofindia.com/how-to-make-gujiya/"
+   }
+  },
+  {
+   "name": "Suji Halwa",
+   "aliases": [],
+   "supportDocIds": [
+    "q0-o3",
+    "q1-o1",
+    "q1-o2",
+    "q1-o4",
+    "q1-o6"
+   ],
+   "matched": [
+    "ghee",
+    "semolina",
+    "sweet"
+   ],
+   "domains": [
+    "instagram.com",
+    "facebook.com",
+    "youtube.com",
+    "discover.hubpages.com",
+    "indianspicetreat.quora.com"
+   ],
+   "score": 0.61,
+   "id": "c02",
+   "photo": {
+    "thumb": "https://serpapi.com/searches/6ac001fd50d43e133c24a572/images/wQCvRcgzfqmNN0X6ixAn7dZXiEkcGIH5ECe_XOaw_dE.jpeg",
+    "source": "youtube.com",
+    "link": "https://www.youtube.com/shorts/vwFRQdLbGdQ"
+   }
+  },
+  {
+   "name": "Makhandi Halwa",
+   "aliases": [],
+   "supportDocIds": [
+    "q0-o2",
+    "q0-o3"
+   ],
+   "matched": [
+    "ghee",
+    "semolina",
+    "sweet"
+   ],
+   "domains": [
+    "instagram.com"
+   ],
+   "score": 0.44,
+   "id": "c03",
+   "photo": {
+    "thumb": "https://serpapi.com/searches/6ac001fd1b6c6ef34473dc0c/images/_KEvywJ1pjhF0LvF59h76MttiBLMFfWzOJ4skdtzYmg.jpeg",
+    "source": "instagram.com",
+    "link": "https://www.instagram.com/reel/DdQ9FJhETCz/"
+   }
+  }
+ ],
+ "confirmedId": "c01",
+ "reveal": {
+  "aliases": {
+   "names": [
+    "gujiya",
+    "karanji",
+    "ghughra"
+   ],
+   "byState": {
+    "UK": {
+     "name": "gujiya",
+     "share": 97
+    },
+    "KA": {
+     "name": "karanji",
+     "share": 79
+    },
+    "DL": {
+     "name": "gujiya",
+     "share": 94
+    },
+    "UP": {
+     "name": "gujiya",
+     "share": 96
+    },
+    "HR": {
+     "name": "gujiya",
+     "share": 93
+    },
+    "DH": {
+     "name": "gujiya",
+     "share": 49
+    },
+    "GJ": {
+     "name": "ghughra",
+     "share": 63
+    },
+    "CH": {
+     "name": "gujiya",
+     "share": 96
+    },
+    "MH": {
+     "name": "karanji",
+     "share": 67
+    },
+    "MP": {
+     "name": "gujiya",
+     "share": 76
+    },
+    "HP": {
+     "name": "gujiya",
+     "share": 93
+    },
+    "CG": {
+     "name": "gujiya",
+     "share": 73
+    },
+    "PB": {
+     "name": "gujiya",
+     "share": 93
+    },
+    "JH": {
+     "name": "gujiya",
+     "share": 83
+    },
+    "RJ": {
+     "name": "gujiya",
+     "share": 74
+    },
+    "BR": {
+     "name": "gujiya",
+     "share": 92
+    },
+    "GA": {
+     "name": "karanji",
+     "share": 49
+    },
+    "AN": {
+     "name": "gujiya",
+     "share": 100
+    },
+    "SK": {
+     "name": "gujiya",
+     "share": 100
+    },
+    "JK": {
+     "name": "gujiya",
+     "share": 90
+    },
+    "OD": {
+     "name": "gujiya",
+     "share": 66
+    },
+    "WB": {
+     "name": "gujiya",
+     "share": 81
+    },
+    "MN": {
+     "name": "gujiya",
+     "share": 100
+    },
+    "AS": {
+     "name": "gujiya",
+     "share": 89
+    },
+    "AR": {
+     "name": "gujiya",
+     "share": 100
+    },
+    "TG": {
+     "name": "gujiya",
+     "share": 65
+    },
+    "TR": {
+     "name": "gujiya",
+     "share": 100
+    },
+    "ML": {
+     "name": "gujiya",
+     "share": 100
+    },
+    "PY": {
+     "name": "gujiya",
+     "share": 55
+    },
+    "NL": {
+     "name": "gujiya",
+     "share": 100
+    },
+    "TN": {
+     "name": "gujiya",
+     "share": 55
+    },
+    "AP": {
+     "name": "gujiya",
+     "share": 61
+    },
+    "KL": {
+     "name": "gujiya",
+     "share": 55
+    }
+   }
+  },
+  "heartbeat": {
+   "term": "Gujiya",
+   "points": [
+    {
+     "t": 1072915200000,
+     "v": 0
+    },
+    {
+     "t": 1075593600000,
+     "v": 0
+    },
+    {
+     "t": 1078099200000,
+     "v": 0
+    },
+    {
+     "t": 1080777600000,
+     "v": 0
+    },
+    {
+     "t": 1083369600000,
+     "v": 0
+    },
+    {
+     "t": 1086048000000,
+     "v": 0
+    },
+    {
+     "t": 1088640000000,
+     "v": 0
+    },
+    {
+     "t": 1091318400000,
+     "v": 0
+    },
+    {
+     "t": 1093996800000,
+     "v": 0
+    },
+    {
+     "t": 1096588800000,
+     "v": 0
+    },
+    {
+     "t": 1099267200000,
+     "v": 0
+    },
+    {
+     "t": 1101859200000,
+     "v": 0
+    },
+    {
+     "t": 1104537600000,
+     "v": 0
+    },
+    {
+     "t": 1107216000000,
+     "v": 0
+    },
+    {
+     "t": 1109635200000,
+     "v": 0
+    },
+    {
+     "t": 1112313600000,
+     "v": 0
+    },
+    {
+     "t": 1114905600000,
+     "v": 0
+    },
+    {
+     "t": 1117584000000,
+     "v": 0
+    },
+    {
+     "t": 1120176000000,
+     "v": 0
+    },
+    {
+     "t": 1122854400000,
+     "v": 0
+    },
+    {
+     "t": 1125532800000,
+     "v": 0
+    },
+    {
+     "t": 1128124800000,
+     "v": 0
+    },
+    {
+     "t": 1130803200000,
+     "v": 0
+    },
+    {
+     "t": 1133395200000,
+     "v": 0
+    },
+    {
+     "t": 1136073600000,
+     "v": 0
+    },
+    {
+     "t": 1138752000000,
+     "v": 0
+    },
+    {
+     "t": 1141171200000,
+     "v": 0
+    },
+    {
+     "t": 1143849600000,
+     "v": 0
+    },
+    {
+     "t": 1146441600000,
+     "v": 0
+    },
+    {
+     "t": 1149120000000,
+     "v": 0
+    },
+    {
+     "t": 1151712000000,
+     "v": 0
+    },
+    {
+     "t": 1154390400000,
+     "v": 0
+    },
+    {
+     "t": 1157068800000,
+     "v": 0
+    },
+    {
+     "t": 1159660800000,
+     "v": 0
+    },
+    {
+     "t": 1162339200000,
+     "v": 0
+    },
+    {
+     "t": 1164931200000,
+     "v": 0
+    },
+    {
+     "t": 1167609600000,
+     "v": 0
+    },
+    {
+     "t": 1170288000000,
+     "v": 0
+    },
+    {
+     "t": 1172707200000,
+     "v": 0
+    },
+    {
+     "t": 1175385600000,
+     "v": 0
+    },
+    {
+     "t": 1177977600000,
+     "v": 0
+    },
+    {
+     "t": 1180656000000,
+     "v": 0
+    },
+    {
+     "t": 1183248000000,
+     "v": 0
+    },
+    {
+     "t": 1185926400000,
+     "v": 0
+    },
+    {
+     "t": 1188604800000,
+     "v": 0
+    },
+    {
+     "t": 1191196800000,
+     "v": 0
+    },
+    {
+     "t": 1193875200000,
+     "v": 0
+    },
+    {
+     "t": 1196467200000,
+     "v": 0
+    },
+    {
+     "t": 1199145600000,
+     "v": 0
+    },
+    {
+     "t": 1201824000000,
+     "v": 0
+    },
+    {
+     "t": 1204329600000,
+     "v": 15
+    },
+    {
+     "t": 1207008000000,
+     "v": 0
+    },
+    {
+     "t": 1209600000000,
+     "v": 0
+    },
+    {
+     "t": 1212278400000,
+     "v": 0
+    },
+    {
+     "t": 1214870400000,
+     "v": 0
+    },
+    {
+     "t": 1217548800000,
+     "v": 0
+    },
+    {
+     "t": 1220227200000,
+     "v": 0
+    },
+    {
+     "t": 1222819200000,
+     "v": 0
+    },
+    {
+     "t": 1225497600000,
+     "v": 0
+    },
+    {
+     "t": 1228089600000,
+     "v": 0
+    },
+    {
+     "t": 1230768000000,
+     "v": 0
+    },
+    {
+     "t": 1233446400000,
+     "v": 0
+    },
+    {
+     "t": 1235865600000,
+     "v": 11
+    },
+    {
+     "t": 1238544000000,
+     "v": 0
+    },
+    {
+     "t": 1241136000000,
+     "v": 0
+    },
+    {
+     "t": 1243814400000,
+     "v": 0
+    },
+    {
+     "t": 1246406400000,
+     "v": 0
+    },
+    {
+     "t": 1249084800000,
+     "v": 0
+    },
+    {
+     "t": 1251763200000,
+     "v": 0
+    },
+    {
+     "t": 1254355200000,
+     "v": 0
+    },
+    {
+     "t": 1257033600000,
+     "v": 0
+    },
+    {
+     "t": 1259625600000,
+     "v": 0
+    },
+    {
+     "t": 1262304000000,
+     "v": 0
+    },
+    {
+     "t": 1264982400000,
+     "v": 23
+    },
+    {
+     "t": 1267401600000,
+     "v": 8
+    },
+    {
+     "t": 1270080000000,
+     "v": 0
+    },
+    {
+     "t": 1272672000000,
+     "v": 0
+    },
+    {
+     "t": 1275350400000,
+     "v": 0
+    },
+    {
+     "t": 1277942400000,
+     "v": 0
+    },
+    {
+     "t": 1280620800000,
+     "v": 0
+    },
+    {
+     "t": 1283299200000,
+     "v": 0
+    },
+    {
+     "t": 1285891200000,
+     "v": 0
+    },
+    {
+     "t": 1288569600000,
+     "v": 6
+    },
+    {
+     "t": 1291161600000,
+     "v": 0
+    },
+    {
+     "t": 1293840000000,
+     "v": 0
+    },
+    {
+     "t": 1296518400000,
+     "v": 0
+    },
+    {
+     "t": 1298937600000,
+     "v": 20
+    },
+    {
+     "t": 1301616000000,
+     "v": 2
+    },
+    {
+     "t": 1304208000000,
+     "v": 0
+    },
+    {
+     "t": 1306886400000,
+     "v": 2
+    },
+    {
+     "t": 1309478400000,
+     "v": 0
+    },
+    {
+     "t": 1312156800000,
+     "v": 3
+    },
+    {
+     "t": 1314835200000,
+     "v": 0
+    },
+    {
+     "t": 1317427200000,
+     "v": 5
+    },
+    {
+     "t": 1320105600000,
+     "v": 1
+    },
+    {
+     "t": 1322697600000,
+     "v": 0
+    },
+    {
+     "t": 1325376000000,
+     "v": 1
+    },
+    {
+     "t": 1328054400000,
+     "v": 5
+    },
+    {
+     "t": 1330560000000,
+     "v": 29
+    },
+    {
+     "t": 1333238400000,
+     "v": 2
+    },
+    {
+     "t": 1335830400000,
+     "v": 0
+    },
+    {
+     "t": 1338508800000,
+     "v": 2
+    },
+    {
+     "t": 1341100800000,
+     "v": 2
+    },
+    {
+     "t": 1343779200000,
+     "v": 2
+    },
+    {
+     "t": 1346457600000,
+     "v": 3
+    },
+    {
+     "t": 1349049600000,
+     "v": 3
+    },
+    {
+     "t": 1351728000000,
+     "v": 9
+    },
+    {
+     "t": 1354320000000,
+     "v": 1
+    },
+    {
+     "t": 1356998400000,
+     "v": 2
+    },
+    {
+     "t": 1359676800000,
+     "v": 3
+    },
+    {
+     "t": 1362096000000,
+     "v": 46
+    },
+    {
+     "t": 1364774400000,
+     "v": 4
+    },
+    {
+     "t": 1367366400000,
+     "v": 2
+    },
+    {
+     "t": 1370044800000,
+     "v": 2
+    },
+    {
+     "t": 1372636800000,
+     "v": 4
+    },
+    {
+     "t": 1375315200000,
+     "v": 3
+    },
+    {
+     "t": 1377993600000,
+     "v": 4
+    },
+    {
+     "t": 1380585600000,
+     "v": 8
+    },
+    {
+     "t": 1383264000000,
+     "v": 8
+    },
+    {
+     "t": 1385856000000,
+     "v": 2
+    },
+    {
+     "t": 1388534400000,
+     "v": 2
+    },
+    {
+     "t": 1391212800000,
+     "v": 3
+    },
+    {
+     "t": 1393632000000,
+     "v": 52
+    },
+    {
+     "t": 1396310400000,
+     "v": 3
+    },
+    {
+     "t": 1398902400000,
+     "v": 2
+    },
+    {
+     "t": 1401580800000,
+     "v": 2
+    },
+    {
+     "t": 1404172800000,
+     "v": 3
+    },
+    {
+     "t": 1406851200000,
+     "v": 6
+    },
+    {
+     "t": 1409529600000,
+     "v": 4
+    },
+    {
+     "t": 1412121600000,
+     "v": 14
+    },
+    {
+     "t": 1414800000000,
+     "v": 3
+    },
+    {
+     "t": 1417392000000,
+     "v": 3
+    },
+    {
+     "t": 1420070400000,
+     "v": 3
+    },
+    {
+     "t": 1422748800000,
+     "v": 14
+    },
+    {
+     "t": 1425168000000,
+     "v": 67
+    },
+    {
+     "t": 1427846400000,
+     "v": 4
+    },
+    {
+     "t": 1430438400000,
+     "v": 3
+    },
+    {
+     "t": 1433116800000,
+     "v": 3
+    },
+    {
+     "t": 1435708800000,
+     "v": 3
+    },
+    {
+     "t": 1438387200000,
+     "v": 5
+    },
+    {
+     "t": 1441065600000,
+     "v": 7
+    },
+    {
+     "t": 1443657600000,
+     "v": 5
+    },
+    {
+     "t": 1446336000000,
+     "v": 18
+    },
+    {
+     "t": 1448928000000,
+     "v": 6
+    },
+    {
+     "t": 1451606400000,
+     "v": 5
+    },
+    {
+     "t": 1454284800000,
+     "v": 7
+    },
+    {
+     "t": 1456790400000,
+     "v": 87
+    },
+    {
+     "t": 1459468800000,
+     "v": 6
+    },
+    {
+     "t": 1462060800000,
+     "v": 4
+    },
+    {
+     "t": 1464739200000,
+     "v": 4
+    },
+    {
+     "t": 1467331200000,
+     "v": 4
+    },
+    {
+     "t": 1470009600000,
+     "v": 6
+    },
+    {
+     "t": 1472688000000,
+     "v": 8
+    },
+    {
+     "t": 1475280000000,
+     "v": 17
+    },
+    {
+     "t": 1477958400000,
+     "v": 6
+    },
+    {
+     "t": 1480550400000,
+     "v": 4
+    },
+    {
+     "t": 1483228800000,
+     "v": 4
+    },
+    {
+     "t": 1485907200000,
+     "v": 8
+    },
+    {
+     "t": 1488326400000,
+     "v": 90
+    },
+    {
+     "t": 1491004800000,
+     "v": 5
+    },
+    {
+     "t": 1493596800000,
+     "v": 4
+    },
+    {
+     "t": 1496275200000,
+     "v": 4
+    },
+    {
+     "t": 1498867200000,
+     "v": 6
+    },
+    {
+     "t": 1501545600000,
+     "v": 10
+    },
+    {
+     "t": 1504224000000,
+     "v": 6
+    },
+    {
+     "t": 1506816000000,
+     "v": 16
+    },
+    {
+     "t": 1509494400000,
+     "v": 5
+    },
+    {
+     "t": 1512086400000,
+     "v": 4
+    },
+    {
+     "t": 1514764800000,
+     "v": 5
+    },
+    {
+     "t": 1517443200000,
+     "v": 39
+    },
+    {
+     "t": 1519862400000,
+     "v": 44
+    },
+    {
+     "t": 1522540800000,
+     "v": 5
+    },
+    {
+     "t": 1525132800000,
+     "v": 4
+    },
+    {
+     "t": 1527811200000,
+     "v": 5
+    },
+    {
+     "t": 1530403200000,
+     "v": 6
+    },
+    {
+     "t": 1533081600000,
+     "v": 8
+    },
+    {
+     "t": 1535760000000,
+     "v": 12
+    },
+    {
+     "t": 1538352000000,
+     "v": 9
+    },
+    {
+     "t": 1541030400000,
+     "v": 16
+    },
+    {
+     "t": 1543622400000,
+     "v": 7
+    },
+    {
+     "t": 1546300800000,
+     "v": 6
+    },
+    {
+     "t": 1548979200000,
+     "v": 7
+    },
+    {
+     "t": 1551398400000,
+     "v": 75
+    },
+    {
+     "t": 1554076800000,
+     "v": 7
+    },
+    {
+     "t": 1556668800000,
+     "v": 5
+    },
+    {
+     "t": 1559347200000,
+     "v": 5
+    },
+    {
+     "t": 1561939200000,
+     "v": 6
+    },
+    {
+     "t": 1564617600000,
+     "v": 10
+    },
+    {
+     "t": 1567296000000,
+     "v": 10
+    },
+    {
+     "t": 1569888000000,
+     "v": 13
+    },
+    {
+     "t": 1572566400000,
+     "v": 7
+    },
+    {
+     "t": 1575158400000,
+     "v": 5
+    },
+    {
+     "t": 1577836800000,
+     "v": 5
+    },
+    {
+     "t": 1580515200000,
+     "v": 11
+    },
+    {
+     "t": 1583020800000,
+     "v": 72
+    },
+    {
+     "t": 1585699200000,
+     "v": 10
+    },
+    {
+     "t": 1588291200000,
+     "v": 8
+    },
+    {
+     "t": 1590969600000,
+     "v": 5
+    },
+    {
+     "t": 1593561600000,
+     "v": 7
+    },
+    {
+     "t": 1596240000000,
+     "v": 13
+    },
+    {
+     "t": 1598918400000,
+     "v": 6
+    },
+    {
+     "t": 1601510400000,
+     "v": 5
+    },
+    {
+     "t": 1604188800000,
+     "v": 14
+    },
+    {
+     "t": 1606780800000,
+     "v": 6
+    },
+    {
+     "t": 1609459200000,
+     "v": 5
+    },
+    {
+     "t": 1612137600000,
+     "v": 6
+    },
+    {
+     "t": 1614556800000,
+     "v": 78
+    },
+    {
+     "t": 1617235200000,
+     "v": 11
+    },
+    {
+     "t": 1619827200000,
+     "v": 5
+    },
+    {
+     "t": 1622505600000,
+     "v": 5
+    },
+    {
+     "t": 1625097600000,
+     "v": 4
+    },
+    {
+     "t": 1627776000000,
+     "v": 6
+    },
+    {
+     "t": 1630454400000,
+     "v": 8
+    },
+    {
+     "t": 1633046400000,
+     "v": 7
+    },
+    {
+     "t": 1635724800000,
+     "v": 9
+    },
+    {
+     "t": 1638316800000,
+     "v": 4
+    },
+    {
+     "t": 1640995200000,
+     "v": 6
+    },
+    {
+     "t": 1643673600000,
+     "v": 9
+    },
+    {
+     "t": 1646092800000,
+     "v": 100
+    },
+    {
+     "t": 1648771200000,
+     "v": 7
+    },
+    {
+     "t": 1651363200000,
+     "v": 5
+    },
+    {
+     "t": 1654041600000,
+     "v": 5
+    },
+    {
+     "t": 1656633600000,
+     "v": 7
+    },
+    {
+     "t": 1659312000000,
+     "v": 13
+    },
+    {
+     "t": 1661990400000,
+     "v": 9
+    },
+    {
+     "t": 1664582400000,
+     "v": 16
+    },
+    {
+     "t": 1667260800000,
+     "v": 7
+    },
+    {
+     "t": 1669852800000,
+     "v": 7
+    },
+    {
+     "t": 1672531200000,
+     "v": 8
+    },
+    {
+     "t": 1675209600000,
+     "v": 21
+    },
+    {
+     "t": 1677628800000,
+     "v": 91
+    },
+    {
+     "t": 1680307200000,
+     "v": 7
+    },
+    {
+     "t": 1682899200000,
+     "v": 5
+    },
+    {
+     "t": 1685577600000,
+     "v": 6
+    },
+    {
+     "t": 1688169600000,
+     "v": 5
+    },
+    {
+     "t": 1690848000000,
+     "v": 7
+    },
+    {
+     "t": 1693526400000,
+     "v": 10
+    },
+    {
+     "t": 1696118400000,
+     "v": 7
+    },
+    {
+     "t": 1698796800000,
+     "v": 12
+    },
+    {
+     "t": 1701388800000,
+     "v": 6
+    },
+    {
+     "t": 1704067200000,
+     "v": 6
+    },
+    {
+     "t": 1706745600000,
+     "v": 7
+    },
+    {
+     "t": 1709251200000,
+     "v": 89
+    },
+    {
+     "t": 1711929600000,
+     "v": 10
+    },
+    {
+     "t": 1714521600000,
+     "v": 4
+    },
+    {
+     "t": 1717200000000,
+     "v": 5
+    },
+    {
+     "t": 1719792000000,
+     "v": 6
+    },
+    {
+     "t": 1722470400000,
+     "v": 8
+    },
+    {
+     "t": 1725148800000,
+     "v": 13
+    },
+    {
+     "t": 1727740800000,
+     "v": 11
+    },
+    {
+     "t": 1730419200000,
+     "v": 8
+    },
+    {
+     "t": 1733011200000,
+     "v": 5
+    },
+    {
+     "t": 1735689600000,
+     "v": 6
+    },
+    {
+     "t": 1738368000000,
+     "v": 9
+    },
+    {
+     "t": 1740787200000,
+     "v": 87
+    },
+    {
+     "t": 1743465600000,
+     "v": 6
+    },
+    {
+     "t": 1746057600000,
+     "v": 4
+    },
+    {
+     "t": 1748736000000,
+     "v": 5
+    },
+    {
+     "t": 1751328000000,
+     "v": 7
+    },
+    {
+     "t": 1754006400000,
+     "v": 12
+    },
+    {
+     "t": 1756684800000,
+     "v": 8
+    },
+    {
+     "t": 1759276800000,
+     "v": 13
+    },
+    {
+     "t": 1761955200000,
+     "v": 6
+    },
+    {
+     "t": 1764547200000,
+     "v": 6
+    },
+    {
+     "t": 1767225600000,
+     "v": 7
+    },
+    {
+     "t": 1769904000000,
+     "v": 32
+    },
+    {
+     "t": 1772323200000,
+     "v": 77
+    },
+    {
+     "t": 1775001600000,
+     "v": 6
+    },
+    {
+     "t": 1777593600000,
+     "v": 5
+    },
+    {
+     "t": 1780272000000,
+     "v": 5
+    },
+    {
+     "t": 1782864000000,
+     "v": 6
+    },
+    {
+     "t": 1785542400000,
+     "v": 10
+    },
+    {
+     "t": 1788220800000,
+     "v": 15
+    },
+    {
+     "t": 1790812800000,
+     "v": 11
+    }
+   ],
+   "peaks": [
+    {
+     "t": 1204329600000,
+     "v": 15
+    },
+    {
+     "t": 1235865600000,
+     "v": 11
+    },
+    {
+     "t": 1264982400000,
+     "v": 23
+    },
+    {
+     "t": 1298937600000,
+     "v": 20
+    },
+    {
+     "t": 1330560000000,
+     "v": 29
+    },
+    {
+     "t": 1362096000000,
+     "v": 46
+    },
+    {
+     "t": 1393632000000,
+     "v": 52
+    },
+    {
+     "t": 1425168000000,
+     "v": 67
+    },
+    {
+     "t": 1456790400000,
+     "v": 87
+    },
+    {
+     "t": 1488326400000,
+     "v": 90
+    },
+    {
+     "t": 1519862400000,
+     "v": 44
+    },
+    {
+     "t": 1551398400000,
+     "v": 75
+    },
+    {
+     "t": 1583020800000,
+     "v": 72
+    },
+    {
+     "t": 1614556800000,
+     "v": 78
+    },
+    {
+     "t": 1646092800000,
+     "v": 100
+    },
+    {
+     "t": 1677628800000,
+     "v": 91
+    },
+    {
+     "t": 1709251200000,
+     "v": 89
+    },
+    {
+     "t": 1740787200000,
+     "v": 87
+    },
+    {
+     "t": 1772323200000,
+     "v": 77
+    }
+   ],
+   "festiveYears": 0,
+   "years": 19
+  },
+  "steps": {
+   "videoId": "fIebwiemcV8",
+   "title": "Sooji Mawa Gujiya | बिना फालतू मेहनत हलवाई जैसी खस्ता गुजिया बनाने का तरीका |Holi Special Gujiya",
+   "channel": "bharatzkitchen HINDI",
+   "mode": "verbatim",
+   "ingredients": [],
+   "steps": [
+    {
+     "n": 1,
+     "startMs": 0,
+     "text": "होली का टाइम हो और घर पर गुजिया ना बने ऐसा करना तो पाप से कम नहीं है तो इस होली पे…"
+    },
+    {
+     "n": 2,
+     "startMs": 68100,
+     "text": "मिलना आप देख सकते हो की मैं तो सिर्फ घी के साथ ही मिलने लग गया है पूरा बिल्कुल इसको ऐसे मिलना…"
+    },
+    {
+     "n": 3,
+     "startMs": 130860,
+     "text": "से मल लेना आप देख सकते हो की आता बिल्कुल भी एवं नहीं है यह कहीं से लग ही नहीं रहा की…"
+    },
+    {
+     "n": 4,
+     "startMs": 194580,
+     "text": "इसी घी में मैंने अब यहां पर कोकोनट बनाना है यानी की सूखा नारियल घिसा हुआ वह भुनाना है तो इसी घी…"
+    },
+    {
+     "n": 5,
+     "startMs": 255900,
+     "text": "में जाने के लिए अच्छा अब लास्ट स्टेप रहता है तो मैंने कढ़ाई को अच्छे साफ कर लिया है और कढ़ाई को…"
+    },
+    {
+     "n": 6,
+     "startMs": 322199,
+     "text": "मैंने गरम कोई में ही डाली है लास्ट चीज आपने डालनी है सूजी भुनी हुई सूजी आप यहां पर डालना और उसको…"
+    },
+    {
+     "n": 7,
+     "startMs": 386639,
+     "text": "तो एक-एक करके मैंने ऐसे सारे पेड़े रख ली है बना के और अब आपको इसको बेलने की भी तकनीक बता देता…"
+    }
+   ]
+  },
+  "shops": {
+   "city": "Delhi",
+   "shops": [
+    {
+     "title": "Hira Sweets",
+     "dataId": "0x390cfba8f905de7d:0x48b7cd5894d0b879",
+     "rating": 4.1,
+     "reviews": 20274,
+     "address": "E-60, Vikas Marg, Veer Savarkar Block, Block G, Laxmi Nagar, New Delhi, Delhi, 110092, India",
+     "gps": {
+      "lat": 28.633744,
+      "lng": 77.28191699999999
+     },
+     "distanceKm": 7.5,
+     "phone": "+91 91365 87254",
+     "openState": "Closed · Opens 8 AM",
+     "thumb": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHk9Q1jM47mvPWqnhr_HfQ-MetSzGD0bIkrsa66nqdic07NSOQj83KOvhcGxX1nrWQQwBV3hILDbFzRkOil-AzTsvBiHZO6shvTul8ifWNR1b8V-TXEGv2LYaP3qLOoHbJJAcrOMXv3C3fZzqIhhQ3AUj1cAJvfbtlDpPoD_dg5MfRp0jblFXX3sQ=w1000-h1000-c-n",
+     "mentions": 7,
+     "heritageScore": 0.72,
+     "quote": {
+      "text": "we used to enjoy this sweet from childhood",
+      "date": "Edited 2 years ago",
+      "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR3NHJMX0VREAE!2m1!1s0x0:0x48b7cd5894d0b879!3m1!1s2@1:CIHM0ogKEICAgIDw4rL_EQ%7C%7C?hl=en"
+     }
+    },
+    {
+     "title": "SHAGUN SWEETS | VASUNDHARA",
+     "dataId": "0x390cfb1dac51df2b:0xa2459022b3618503",
+     "rating": 4.8,
+     "reviews": 1123,
+     "address": "Agrasen Chowk, 260/10, Pocket B, Sector 16, Vasundhara, Ghaziabad, Uttar Pradesh 201012, India",
+     "gps": {
+      "lat": 28.6538616,
+      "lng": 77.3555786
+     },
+     "distanceKm": 15,
+     "phone": "+91 70423 14939",
+     "openState": "Closed · Opens 8:30 AM",
+     "thumb": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHRJiG9TndXFhyrgyHXosi75cQEjWPlPtq0_Vih9D1Q3H1MhmNS_nXd3QYWMNoklya4FDsC7mIl3ScSaiOvwahmIJS59UVbH0iQnw0qJtx4FAapeQAFnquNj_K9kKm9_jMDyFXAz1p45EZS0Hys4NFDKvWtGQ0g4DACJL_OGjIFIUUfLWFxfI7D=w1000-h1000-c-n",
+     "mentions": 0,
+     "heritageScore": 0.77
+    },
+    {
+     "title": "Gulab sweets",
+     "dataId": "0x390d017f3a0a9a4d:0xf85cba7bc9c0ac95",
+     "rating": 4.1,
+     "reviews": 8025,
+     "address": "Metro Pillar No. 353, Madhuban Chowk, Shop No. 5, Vaishali Rd, near Kohat, New Delhi, Delhi 110034, India",
+     "gps": {
+      "lat": 28.6999705,
+      "lng": 77.1373595
+     },
+     "distanceKm": 11.9,
+     "phone": "+91 93101 00002",
+     "openState": "Closed · Opens 8 AM",
+     "thumb": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qf1hAHX9XRguOgARXvAKTM0yulFXlm1QZj3mBFwVsPA3_ECqyR_iG56Rhdjc50XjFFaAuSQHxGJHRKlFu47Ds4BmkyTpCDZmb2VRSEtLJHfnmuJDgiSlK7UZtDR-FeKDBbIlas=w1000-h1000-c-n",
+     "mentions": 0,
+     "heritageScore": 0.71
+    }
+   ]
+  }
+ },
+ "calls": [
+  {
+   "engine": "google",
+   "tag": "retrieve",
+   "params": {
+    "q": "Diwali sweet recipe deep fried ghee semolina wheat flour khoya",
+    "gl": "in",
+    "hl": "en",
+    "google_domain": "google.co.in",
+    "device": "mobile"
+   },
+   "source": "app-cache",
+   "credits": 0,
+   "ms": 0
+  },
+  {
+   "engine": "google",
+   "tag": "retrieve",
+   "params": {
+    "q": "traditional Uttar Pradesh sweet recipe deep fried ghee semolina",
+    "gl": "in",
+    "hl": "en",
+    "google_domain": "google.co.in",
+    "device": "mobile"
+   },
+   "source": "app-cache",
+   "credits": 0,
+   "ms": 0
+  },
+  {
+   "engine": "google_trends",
+   "tag": "trends-map",
+   "params": {
+    "geo": "IN",
+    "region": "REGION",
+    "date": "today 5-y",
+    "tz": -330,
+    "include_low_search_volume": true,
+    "q": "gujiya,mawa gujia,karanji,ghughra",
+    "data_type": "GEO_MAP"
+   },
+   "source": "app-cache",
+   "credits": 0,
+   "ms": 0
+  },
+  {
+   "engine": "youtube",
+   "tag": "yt-search",
+   "params": {
+    "search_query": "Gujiya recipe traditional",
+    "gl": "in",
+    "hl": "en"
+   },
+   "source": "app-cache",
+   "credits": 0,
+   "ms": 0
+  },
+  {
+   "engine": "google_maps",
+   "tag": "maps",
+   "params": {
+    "type": "search",
+    "q": "Gujiya sweets",
+    "ll": "@28.6139,77.2090,13z",
+    "hl": "en"
+   },
+   "source": "app-cache",
+   "credits": 0,
+   "ms": 0
+  },
+  {
+   "engine": "google_trends",
+   "tag": "trends-ts",
+   "params": {
+    "q": "gujiya",
+    "data_type": "TIMESERIES",
+    "geo": "IN",
+    "date": "all",
+    "tz": -330
+   },
+   "source": "app-cache",
+   "credits": 0,
+   "ms": 0
+  },
+  {
+   "engine": "google_maps_reviews",
+   "tag": "reviews",
+   "params": {
+    "data_id": "0x390cfb1dac51df2b:0xa2459022b3618503",
+    "hl": "en",
+    "sort_by": "qualityScore",
+    "query": "gujiya"
+   },
+   "source": "app-cache",
+   "credits": 0,
+   "ms": 0
+  },
+  {
+   "engine": "google_maps_reviews",
+   "tag": "reviews",
+   "params": {
+    "data_id": "0x390cfba8f905de7d:0x48b7cd5894d0b879",
+    "hl": "en",
+    "sort_by": "qualityScore",
+    "query": "gujiya"
+   },
+   "source": "app-cache",
+   "credits": 0,
+   "ms": 0
+  },
+  {
+   "engine": "youtube_video_transcript",
+   "tag": "yt-transcript",
+   "params": {
+    "v": "fIebwiemcV8",
+    "language_code": "hi"
+   },
+   "source": "app-cache",
+   "credits": 0,
+   "ms": 0
+  },
+  {
+   "engine": "google_maps_reviews",
+   "tag": "reviews",
+   "params": {
+    "data_id": "0x390cfba8f905de7d:0x48b7cd5894d0b879",
+    "hl": "en",
+    "sort_by": "qualityScore",
+    "query": "childhood"
+   },
+   "source": "app-cache",
+   "credits": 0,
+   "ms": 0
+  }
+ ]
+}

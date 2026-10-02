@@ -1,0 +1,892 @@
+{
+ "engine": "google_maps",
+ "params": {
+  "type": "search",
+  "q": "Adhirasam sweets",
+  "ll": "@12.9716,77.5946,13z",
+  "hl": "en"
+ },
+ "recordedAt": "2026-10-02T19:11:39.986Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac001ea77e3d90172710960",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/E_elvNEgIPTJNDdFoMDdZvkXpG76kaXSaR2ohZ_hRpE/6ac001ea77e3d90172710960.md",
+   "created_at": "2026-10-02 19:11:38 UTC",
+   "processed_at": "2026-10-02 19:11:38 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/Adhirasam+sweets/@12.9716,77.5946,13z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+   "total_time_taken": 0.84
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "Adhirasam sweets",
+   "ll": "@12.9716,77.5946,13z",
+   "google_domain": "google.com",
+   "hl": "en"
+  },
+  "search_information": {
+   "local_results_state": "Results for exact spelling",
+   "query_displayed": "Adhirasam sweets"
+  },
+  "local_results": [
+   {
+    "position": 1,
+    "title": "Sampradaya™ - Sweets & Savouries",
+    "place_id": "ChIJX8yhYMEXrjsRwVNlzne78K8",
+    "data_id": "0x3bae17c160a1cc5f:0xaff0bb77ce6553c1",
+    "data_cid": "12677839074286195649",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17c160a1cc5f%3A0xaff0bb77ce6553c1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17c160a1cc5f%3A0xaff0bb77ce6553c1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 13.025272099999999,
+     "longitude": 77.6379281
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX8yhYMEXrjsRwVNlzne78K8",
+    "provider_id": "/g/11qgj3_9ls",
+    "rating": 4.2,
+    "reviews": 213,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop"
+    ],
+    "address": "4BM-446, 5th Cross, 4th B Main Rd, HRBR Layout 2nd Block, Kalyan Nagar, Bengaluru, Karnataka 560043, India",
+    "country": "India",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+     "saturday": "9 AM–9:30 PM",
+     "sunday": "9 AM–9:30 PM",
+     "monday": "9 AM–9:30 PM",
+     "tuesday": "9 AM–9:30 PM",
+     "wednesday": "9 AM–9:30 PM",
+     "thursday": "9 AM–9:30 PM",
+     "friday": "9 AM–9:30 PM"
+    },
+    "phone": "+91 94496 88688",
+    "website": "https://www.sampradayaonline.com/",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEAL_EZyuISY1sARjz_ViqaMZqPCptBp_mNou6p39s-CxntuSiy7od1wJMPqYU4S8_uXr8LVXndjfpdet2gBnsAhLc8g403peF-jV7l87Xw_EI7FOOUxH3ytbC8TQK2ZeyfdZ24p6KCIQ8MfdqcwFWPNiy07mhslBnu6XDQEq6Wq1tVUX7GTrKYIw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/74luE3icHcTbbkRAAADQL7KuMdMmfcDSKnZtLYsXaRm3MBczgv5pf6VPTXoezs9vLwTlz7I89fqpI6Sb0MrRUhMsEBanmsxyR7lEF7IfshU2xrl3rbByy2P1k0Ll1sf4XWUD-4xKFjtU2LSaL2Q1qf7EJWfHYk2GA5BG3d6jmBWpkcBqzRcYZjluxpY2SGidjbnVhzXsDEWnyJPGDEwQ5Fvl-sC7XtP9TT_ElwPvt0Ar0dE2pWZQM3D8G4zahtWb94gvw6GAueeTjVczP99cZj6YKrI0B6_3JSj87WVTFUWR-v9rCf8BJOFW_w"
+   },
+   {
+    "position": 2,
+    "title": "Sri Krishna Sweets Private Limited",
+    "place_id": "ChIJ5XarvyUWrjsRSXT8vHFZSC0",
+    "data_id": "0x3bae1625bfab76e5:0x2d485971bcfc7449",
+    "data_cid": "3262956275066762313",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1625bfab76e5%3A0x2d485971bcfc7449&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1625bfab76e5%3A0x2d485971bcfc7449&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.9983338,
+     "longitude": 77.5697077
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5XarvyUWrjsRSXT8vHFZSC0",
+    "provider_id": "/g/1w110mt5",
+    "rating": 4.1,
+    "reviews": 492,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "Between Sampege, 50, 7th Cross, Near Malleshwarm Co-operative Bank, &, Margosa Rd, Malleshwaram, Bengaluru, Karnataka 560003, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8:30 AM",
+    "hours": "Closed · Opens 8:30 AM",
+    "operating_hours": {
+     "saturday": "8:30 AM–9 PM",
+     "sunday": "8:30 AM–9 PM",
+     "monday": "8:30 AM–9 PM",
+     "tuesday": "8:30 AM–9 PM",
+     "wednesday": "8:30 AM–9 PM",
+     "thursday": "8:30 AM–9 PM",
+     "friday": "8:30 AM–9 PM"
+    },
+    "phone": "+91 73732 00456",
+    "website": "http://www.buykrishnasweets.com/",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFVkB2tNLAN2oqydxBDG21IurLyfy-cThbtGcjo9VaKhaISEjYcn1txG6JaWDodmRWWrutHqv-H-GQS7NL_sr7MmxK4mOUCDgJ4vnSM787tYuqmhHDzqJ_z76Ke6DCT8u5fgKFoAR3XyAJWXymFV4v2HkwroE67rO1HKN3Hw4kj57x5eGC9seGR=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/MpnjmnicHcRLcoIwAADQE0X-RDvTBYIQAXEKFnTlUIhkwBAI4edNvUmXnelbvPcvEaIbPiTpSbRNxVj1xOOAecFagVuxKRiVqm4AHWfLKllhqTvETZu9KqLQilTWr-WydzxVOY48XB8rKC7kR3hFzXZpHpD8mBzqW9EqYvFMP88cVtI4y_goUD8BBLyvBEbhfeDwRJdAp-dv26l8fWqTE9xCcRt7SpDz6v37C5oBNh37sh2NRxW4zIq162r52XWlbqpPKmpmzg4m5GcFBZGGZr2pDbgY2LN3A_biz1mRZRmQ_wvQ_gEFhFU7"
+   },
+   {
+    "position": 3,
+    "title": "Santhanam Sweets & Savouries",
+    "place_id": "ChIJN7eO64kWrjsROyMM4ygFmtk",
+    "data_id": "0x3bae1689eb8eb737:0xd99a0528e30c233b",
+    "data_cid": "15679850725809857339",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1689eb8eb737%3A0xd99a0528e30c233b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1689eb8eb737%3A0xd99a0528e30c233b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.9838159,
+     "longitude": 77.608801
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN7eO64kWrjsROyMM4ygFmtk",
+    "provider_id": "/g/1tfgmvl8",
+    "rating": 4.3,
+    "reviews": 3416,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop",
+     "Caterer"
+    ],
+    "address": "294, Narayan Pillai St, 3rd Cross, Bharati Nagar, Shivaji Nagar, Bengaluru, Karnataka 560001, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–10 PM",
+     "sunday": "8 AM–10 PM",
+     "monday": "8:30 AM–10 PM",
+     "tuesday": "8:30 AM–10 PM",
+     "wednesday": "8:30 AM–10 PM",
+     "thursday": "8:30 AM–10 PM",
+     "friday": "8 AM–10 PM"
+    },
+    "phone": "+91 80 2554 1268",
+    "website": "https://santhanamsweets.in/",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmfnPuLLYqagXMgj0kSVqtjy_gX2WodoiitymJJCFbf3oUqcP-J4whQK8__Ud5-tHyn3eBnuVZtcm76VnE2Yip03FYUFg0EODCQJUv3e2anAjNgxxLoLM72tqg2Iv7RPy2yenME=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/dqJ4k3icHcRbUoMwFADQFaWkSRXHGT_6gGkRlD6gxR-mpukFLDdgLm2zQtfgbpzxfJzfn4qos8-ed6nkCIyBix6s_lYGSSONlGk96CxTlllvutyku317xnSI46I_wiGBhn9t854aV8JB7M3J1DW5Norm4edZmqxXKYsmt2r9-lSW2emB0dKh1DMc8g9Srf-YYyCKuuMyLLIQePC-mK-j7Cq1OOK0eYP7PTZx4gvqQayu_iZ1wmlMgpfbmHPOqv8Vwz_yBkWC"
+   },
+   {
+    "position": 4,
+    "title": "Sri Krishna Sweets Private Limited",
+    "place_id": "ChIJz8R2wzQVrjsR0Qrokz02yJM",
+    "data_id": "0x3bae1534c376c4cf:0x93c8363d93e80ad1",
+    "data_cid": "10648820957019900625",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1534c376c4cf%3A0x93c8363d93e80ad1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1534c376c4cf%3A0x93c8363d93e80ad1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.9108707,
+     "longitude": 77.5808474
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz8R2wzQVrjsR0Qrokz02yJM",
+    "provider_id": "/g/11h1q4z5tc",
+    "rating": 4.1,
+    "reviews": 239,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "I Phase, Vishnu Towers, No.20, 9th Cross Rd, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8:30 AM",
+    "hours": "Closed · Opens 8:30 AM",
+    "operating_hours": {
+     "saturday": "8:30 AM–9:30 PM",
+     "sunday": "8:30 AM–9:30 PM",
+     "monday": "8:30 AM–9:30 PM",
+     "tuesday": "8:30 AM–9:30 PM",
+     "wednesday": "8:30 AM–9:30 PM",
+     "thursday": "8:30 AM–9:30 PM",
+     "friday": "8:30 AM–9:30 PM"
+    },
+    "phone": "+91 73732 00467",
+    "website": "https://www.buykrishnasweets.com/",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHmdl5zj2-lwQuUixXDwtUzhBc4qmFOq5RZhAQlVhUxjlvNYNEXR7RvQwBPsrAdaaTkNU2W4auVRKTF4s3cO3q2Chh5-035lr81Y6Pk_2NL0jYlj1JkmJYJE3cVB9LVbMYozkyifeRsU7Pc7Vh6qAKzM3okTOul5tvbeS095_HenV6dzHr7qMw-=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/d6EJrnicHcRJboMwAADAFzksxtBU6gGaRIiwF2joJSLGxQGDA2YLP-1PeqzUOczPLx3Hh3iVJEbhruK8YmQSZMC8G0k37jBvpeohwGPg61My3VI7ULstGdpqFbAlmtL7ejksY7pRC2t9ewp6FH9RM2IZTdeazX7uHy-xEc_RYoViMMuiSBo_VT-1Ysric3LSBMQB7NV3ShGQIWLDi5LrYXNVfVeuc1YrTtM6uXOEOLP2bnbzcr41z_s3iUVqhNjIqN6b582DvEmCiaFxvpEPeY-uNukyvdzswei9BbwtiizLgP6PQfcHP5VV8Q"
+   },
+   {
+    "position": 5,
+    "title": "Sri Krishna Sweets",
+    "place_id": "ChIJtXxOfyIXrjsR-LtPE1VNbAI",
+    "data_id": "0x3bae17227f4e7cb5:0x26c4d55134fbbf8",
+    "data_cid": "174599513352158200",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17227f4e7cb5%3A0x26c4d55134fbbf8&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17227f4e7cb5%3A0x26c4d55134fbbf8&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.978848399999999,
+     "longitude": 77.6363169
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtXxOfyIXrjsR-LtPE1VNbAI",
+    "provider_id": "/g/11kl3dh2zj",
+    "rating": 4.4,
+    "reviews": 565,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "236, 13th Cross Rd, 2nd Stage, Indira Nagar II Stage, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
+    "country": "India",
+    "open_state": "Closed · Opens 9:30 AM",
+    "hours": "Closed · Opens 9:30 AM",
+    "operating_hours": {
+     "saturday": "9:30 AM–9:30 PM",
+     "sunday": "9:30 AM–9:30 PM",
+     "monday": "9:30 AM–9:30 PM",
+     "tuesday": "9:30 AM–9:30 PM",
+     "wednesday": "9:30 AM–9:30 PM",
+     "thursday": "9:30 AM–9:30 PM",
+     "friday": "9:30 AM–9:30 PM"
+    },
+    "phone": "+91 73732 00458",
+    "website": "http://www.buykrishnasweets.com/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFVkB2tNLAN2oqydxBDG21IurLyfy-cThbtGcjo9VaKhaISEjYcn1txG6JaWDodmRWWrutHqv-H-GQS7NL_sr7MmxK4mOUCDgJ4vnSM787tYuqmhHDzqJ_z76Ke6DCT8u5fgKFoAR3XyAJWXymFV4v2HkwroE67rO1HKN3Hw4kj57x5eGC9seGR=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/MpnjmnicHcRLcoIwAADQE0X-RDvTBYIQAXEKFnTlUIhkwBAI4edNvUmXnelbvPcvEaIbPiTpSbRNxVj1xOOAecFagVuxKRiVqm4AHWfLKllhqTvETZu9KqLQilTWr-WydzxVOY48XB8rKC7kR3hFzXZpHpD8mBzqW9EqYvFMP88cVtI4y_goUD8BBLyvBEbhfeDwRJdAp-dv26l8fWqTE9xCcRt7SpDz6v37C5oBNh37sh2NRxW4zIq162r52XWlbqpPKmpmzg4m5GcFBZGGZr2pDbgY2LN3A_biz1mRZRmQ_wvQ_gEFhFU7"
+   },
+   {
+    "position": 6,
+    "title": "Sri Ram Sweet Centre",
+    "place_id": "ChIJn3IeXgQVrjsRnDi8x4i-mRM",
+    "data_id": "0x3bae15045e1e729f:0x1399be88c7bc389c",
+    "data_cid": "1412369452833192092",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15045e1e729f%3A0x1399be88c7bc389c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15045e1e729f%3A0x1399be88c7bc389c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.9143423,
+     "longitude": 77.60078779999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJn3IeXgQVrjsRnDi8x4i-mRM",
+    "provider_id": "/g/1q62f61r9",
+    "rating": 4.2,
+    "reviews": 3168,
+    "type": "Bakery",
+    "types": [
+     "Bakery",
+     "Indian sweets shop"
+    ],
+    "address": "#69/A, 2nd Cross Rd, BHCS Layout, BHBCS Layout, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560076, India",
+    "country": "India",
+    "open_state": "Closed · Opens 7:30 AM",
+    "hours": "Closed · Opens 7:30 AM",
+    "operating_hours": {
+     "saturday": "7:30 AM–10 PM",
+     "sunday": "7:30 AM–10 PM",
+     "monday": "7:30 AM–10 PM",
+     "tuesday": "7:30 AM–10 PM",
+     "wednesday": "7:30 AM–10 PM",
+     "thursday": "7:30 AM–10 PM",
+     "friday": "7:30 AM–10 PM"
+    },
+    "phone": "+91 80507 18410",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiYKJOICITIfEhgiFtLX29IPEAoML2cvMXE2MmY2MXI5GAE6AwjwDQ%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=6wHAav-EBPfJp84Pu6qYsQo&ei=6wHAav-EBPfJp84Pu6qYsQo&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmmvpIT8WppEXiym6JB_TdBakR8PG8dUfnmp3pl1-bBmx-kXuUR4kq90nzp136rUfwkuq6sd842swEANq-GQ4hTaR7aPaa7NmvQ2Nu2WXODQODiF7y3pl6oOFLUkChbbsGM7CFhQA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/rho1tnicHcxJDoIwAADAF1XWAJp4ABTUKFsgcDNlLSldsCDqD32Cv9F4meN83miauNhI0oC0VcdYNzSzaG4Vo1NDp1XFiNRxASoBhGQfkijNCbnzY2rlnO-L_kmMk3NNawfixIp8q85aSrjGBwWUDnkAXMxZouNxLdMXVzTjlrULnkdD1JauimVvByPwYx2lMDFhBKEZkHusBrOaF-EuDne9Zz5_m8FC75xhF5Wl8C-m66HY3i6KLMsA_a0A_QIMskT4"
+   },
+   {
+    "position": 7,
+    "title": "Amruta Sweets And Condiments",
+    "place_id": "ChIJ52pGv0oUrjsRW9hKTEKrDOE",
+    "data_id": "0x3bae144abf466ae7:0xe10cab424c4ad85b",
+    "data_cid": "16216524659490478171",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae144abf466ae7%3A0xe10cab424c4ad85b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae144abf466ae7%3A0xe10cab424c4ad85b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.943938,
+     "longitude": 77.60891149999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ52pGv0oUrjsRW9hKTEKrDOE",
+    "provider_id": "/g/1ptylq2qc",
+    "rating": 4.7,
+    "reviews": 7,
+    "unclaimed_listing": true,
+    "type": "Candy store",
+    "types": [
+     "Candy store",
+     "Bakery"
+    ],
+    "address": "5th Main, Hosur Rd, AK Colony, Adugodi, Bengaluru, Karnataka 560030, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–10 PM",
+     "sunday": "8 AM–10 PM",
+     "monday": "8 AM–10 PM",
+     "tuesday": "8 AM–10 PM",
+     "wednesday": "8 AM–10 PM",
+     "thursday": "8 AM–10 PM",
+     "friday": "8 AM–10 PM"
+    },
+    "phone": "+91 99800 82033",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEkTFGrzuEu2EIBTg8PFqjFNJ-gTlPK-QEHmvCzsMY76wvFsjzYXhlcNyGBHr2XUBif-MiNoJLedwJN-88ataHlJ8janBrIGqrAJVAXYKwWNKlUmYEhH2dhgWPNYeUR5Wc81HyWzTeCyDVkYoKYDtgj50tUloDgLxY46CTP73bAAH36o4jgtj3Um1zUGklode_SFxU=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/7ToQQXicHcTbboIwAADQ7GlfU7l5IUv2wB1BG9yo2KfFQddaC9VSRPjUfc2SnYfz-_LKtL71b4YhmLOgUlJBhp6oWnaadHpRy9agtx7clHxOhrdrliGLrmWcqHmIBjva-iV1i_jOY5gBWooiB4cobR_B3O_xZj0-4p7P-MREDafET5V9Qv7lB-wvUGY70owZBK571udUZC4_d77aJnflZUfvhPOxgrlALY5YajeMVgXEBH2sqtq10qmaSxJM4fGKZY5DTfnK1EjIkO6eeLkOymLjfHte6qzlklPNHdRaM0quQjbk6zN-ovfRMk0TsP9r0P0BPT9Z9A"
+   },
+   {
+    "position": 8,
+    "title": "Sri Krishna Sweets",
+    "place_id": "ChIJi1uK9KoVrjsRDwtxAFXr2U0",
+    "data_id": "0x3bae15aaf48a5b8b:0x4dd9eb5500710b0f",
+    "data_cid": "5609773561178819343",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15aaf48a5b8b%3A0x4dd9eb5500710b0f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15aaf48a5b8b%3A0x4dd9eb5500710b0f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.9423111,
+     "longitude": 77.5709794
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi1uK9KoVrjsRDwtxAFXr2U0",
+    "provider_id": "/g/11n003h4sb",
+    "rating": 4.2,
+    "reviews": 184,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop",
+     "Candy store"
+    ],
+    "address": "RM Complex, 121, DV Gundappa Rd, Basavanagudi, Bengaluru, Karnataka 560004, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8:30 AM",
+    "hours": "Closed · Opens 8:30 AM",
+    "operating_hours": {
+     "saturday": "8:30 AM–9:30 PM",
+     "sunday": "8:30 AM–9:30 PM",
+     "monday": "8:30 AM–9:30 PM",
+     "tuesday": "8:30 AM–9:30 PM",
+     "wednesday": "8:30 AM–9:30 PM",
+     "thursday": "8:30 AM–9:30 PM",
+     "friday": "8:30 AM–9:30 PM"
+    },
+    "phone": "+91 73732 00457",
+    "website": "https://buykrishnasweets.com/pages/store-locations",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFVkB2tNLAN2oqydxBDG21IurLyfy-cThbtGcjo9VaKhaISEjYcn1txG6JaWDodmRWWrutHqv-H-GQS7NL_sr7MmxK4mOUCDgJ4vnSM787tYuqmhHDzqJ_z76Ke6DCT8u5fgKFoAR3XyAJWXymFV4v2HkwroE67rO1HKN3Hw4kj57x5eGC9seGR=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/MpnjmnicHcRLcoIwAADQE0X-RDvTBYIQAXEKFnTlUIhkwBAI4edNvUmXnelbvPcvEaIbPiTpSbRNxVj1xOOAecFagVuxKRiVqm4AHWfLKllhqTvETZu9KqLQilTWr-WydzxVOY48XB8rKC7kR3hFzXZpHpD8mBzqW9EqYvFMP88cVtI4y_goUD8BBLyvBEbhfeDwRJdAp-dv26l8fWqTE9xCcRt7SpDz6v37C5oBNh37sh2NRxW4zIq162r52XWlbqpPKmpmzg4m5GcFBZGGZr2pDbgY2LN3A_biz1mRZRmQ_wvQ_gEFhFU7"
+   },
+   {
+    "position": 9,
+    "title": "JS TRADERS KERALA Authentic STORE",
+    "place_id": "ChIJ-1Hen049rjsRTNJRS8rNMXg",
+    "data_id": "0x3bae3d4e9fde51fb:0x7831cdca4b51d24c",
+    "data_cid": "8660929827140915788",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae3d4e9fde51fb%3A0x7831cdca4b51d24c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae3d4e9fde51fb%3A0x7831cdca4b51d24c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 13.044053199999999,
+     "longitude": 77.5020267
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-1Hen049rjsRTNJRS8rNMXg",
+    "provider_id": "/g/11nr0yl7dn",
+    "rating": 4.9,
+    "reviews": 23,
+    "type": "Supermarket",
+    "types": [
+     "Supermarket",
+     "Convenience store",
+     "Frozen food store",
+     "General store",
+     "Grocery delivery service",
+     "Indian grocery store",
+     "Indian sweets shop",
+     "Rice shop",
+     "Spice store"
+    ],
+    "address": "Arvind Oasis, 7, Jodi Bhavi Road, and, behind Sobha Elite, Rukmin Nagar, Apartments, Nagasandra, Bengaluru, Karnataka 560073, India",
+    "country": "India",
+    "open_state": "Closed · Opens 10 AM",
+    "hours": "Closed · Opens 10 AM",
+    "operating_hours": {
+     "saturday": "10 AM–9:30 PM",
+     "sunday": "4:30–8:30 PM",
+     "monday": "10 AM–9:30 PM",
+     "tuesday": "10 AM–9:30 PM",
+     "wednesday": "10 AM–9:30 PM",
+     "thursday": "10 AM–9:30 PM",
+     "friday": "10 AM–9:30 PM"
+    },
+    "phone": "+91 73381 97347",
+    "website": "https://jstraders.store/",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnir4Z22VBPjH4dN5fcDBs0SkVMIAQ5uMt_Qf50luMz1INKIAHs57T506FcZEqASYaZLRA4cnl1qhvFcSSzc5twk7KSrrxSwTX4mEJT6YjTkfaKb39CCLLlytEfkrTIG4VC2jfSH4tJFUI=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/m2OPrXicHcTBToMwGADgJ2IU1m7RxEOHIB2wbGtFx8XMXwpCV7a2iNtDevdtTPwO3-9P69zZ3vu-auezZhgaVY-2NjBoV2s3g-HkN2frgfWsT9P9VrzoT4OrMCxX2y7FHxsi4XFlEe_LgtEdGQv3tpMEqbG4BWyTMZpashQELRKo4gvlh2OV7ykGrYJL-5UA5zcgbuqXGTfmm0_iFZ_itVgcOtHLY_Y-v4uiPFdXF8veCPaEyyjsJE-xWyfP7GEKEEJe-z94-g-26EWQ"
+   },
+   {
+    "position": 10,
+    "title": "ASHA SWEET CENTER, JP Nagar",
+    "place_id": "ChIJ75YnJw0VrjsRbSihTphMlvI",
+    "data_id": "0x3bae150d272796ef:0xf2964c984ea1286d",
+    "data_cid": "17480243220723083373",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae150d272796ef%3A0xf2964c984ea1286d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae150d272796ef%3A0xf2964c984ea1286d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.9131942,
+     "longitude": 77.5859363
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ75YnJw0VrjsRbSihTphMlvI",
+    "provider_id": "/g/11bx51n5_8",
+    "rating": 4.2,
+    "reviews": 2578,
+    "type": "Candy store",
+    "types": [
+     "Candy store",
+     "Bakery",
+     "Corporate gift supplier",
+     "Sweets and dessert buffet",
+     "Fast food restaurant",
+     "Food court",
+     "Indian sweets shop",
+     "North Indian restaurant",
+     "Vegetarian restaurant"
+    ],
+    "address": "CA-37, 24th Main Rd, R.K Colony, TMC Layout, 1st Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+    "country": "India",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+     "saturday": "9 AM–10 PM",
+     "sunday": "9 AM–10 PM",
+     "monday": "9 AM–10 PM",
+     "tuesday": "9 AM–10 PM",
+     "wednesday": "9 AM–10 PM",
+     "thursday": "9 AM–10 PM",
+     "friday": "9 AM–10 PM"
+    },
+    "phone": "+91 84969 53533",
+    "website": "https://ashasweetcenter.com/",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFrz8sE4C704v09r_xt4e6TTUV0Hc7WfPzqxjKhgG5EbO-9-IjATDgh2TKKme78gif1FPBYUG8WH0s4h5z5ypFgfo6Nwewok-LdwjPadCP0Xt4g8oKMTdhiAbkZ8cMzLVt-DUwj1CL9Uih2Rxtql4KgqpcegU-mc3ePTRGlXt0JuAjDrP5L7VWp=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/bsIz73icHcTBboIwAADQL6oULQJLdmAguIFbYwqol2WW0oJAC9SB_On-ZMcle4f38yu0VuOTYTRis-JS8obdRzZQ2WnW6RWVrcHVCNQg54fhJQUKRDgszrhDvg3RN3SHz1kjtiUkzeCe2nmJl36uY8Eja3f9AC54rT0ScLEmcdwy2-FVaYb45ZxGTr6HIxLWYj1UyEu5fZ_YJG8gKaYafxU-hieNuCPjAylE5V1vF4celiTTIEin2vQTN63E-jjrvkEx7xVlPAUt3TBMjlFz0vDt7tXBgK3EznL1PJkQQiD-p6D7AzWJVNU"
+   },
+   {
+    "position": 11,
+    "title": "ADHIRASAM",
+    "place_id": "ChIJPWv5bAFfUjoRtSBtbu1Vwp4",
+    "data_id": "0x3a525f016cf96b3d:0x9ec255ed6e6d20b5",
+    "data_cid": "11439800481722736821",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3a525f016cf96b3d%3A0x9ec255ed6e6d20b5&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3a525f016cf96b3d%3A0x9ec255ed6e6d20b5&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.925691599999999,
+     "longitude": 80.1119009
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJPWv5bAFfUjoRtSBtbu1Vwp4",
+    "provider_id": "/g/11ngphcsbl",
+    "rating": 4.6,
+    "reviews": 43,
+    "type": "Candy store",
+    "types": [
+     "Candy store",
+     "Bakery"
+    ],
+    "address": "27, Kakkan St, West Tambaram, Tambaram, Tamil Nadu 600045, India",
+    "country": "India",
+    "open_state": "Closed · Opens 10 AM",
+    "hours": "Closed · Opens 10 AM",
+    "operating_hours": {
+     "saturday": "10 AM–10 PM",
+     "sunday": "10 AM–10 PM",
+     "monday": "10 AM–10 PM",
+     "tuesday": "10 AM–10 PM",
+     "wednesday": "10 AM–10 PM",
+     "thursday": "10 AM–10 PM",
+     "friday": "10 AM–10 PM"
+    },
+    "phone": "+91 89398 39467",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnEceCIhc9LbGemR70rdFZv2gKws_D1gx7nJ7AMd5Vfxy24fC1j2dbH_m9QGvxELvGxxZd_S2vhmbbMFx8FJt3Ce13yUIpWHMLLMN_NwiiYmvZUSWKk7U4uhY4TqcinO4o6J2TP=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Yl5glXicHcRdDoIgAADgE5mKltXWQ7PUTPvVXL64iQRWgAUhnbAzdJu2vofv-yFSdmJqmnfiDDDn-I5eAj0hZxIxOYCcmrgTBhSGMOfRYZcVbAmRvyJwktQhogfPejZBqQBe96Ja2Fh7LPbmaTM8XfQbuBffvoKmjio62YdKLxMVal021REoQus6DfQ4iKXjI9t556uuiNIkSTfVpm_bM1VlfizWNy93X-TsZg_Ysq3LRzHIdrPetizLIP-hwX5cUUSQ"
+   },
+   {
+    "position": 12,
+    "title": "Santhanam Balaji Sweets",
+    "place_id": "ChIJ092JpX8XrjsRhNK9jcyyIB0",
+    "data_id": "0x3bae177fa589ddd3:0x1d20b2cc8dbdd284",
+    "data_cid": "2098874017975751300",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae177fa589ddd3%3A0x1d20b2cc8dbdd284&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae177fa589ddd3%3A0x1d20b2cc8dbdd284&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 13.0147611,
+     "longitude": 77.6334784
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ092JpX8XrjsRhNK9jcyyIB0",
+    "provider_id": "/g/11s3wjyjg8",
+    "rating": 4.6,
+    "reviews": 308,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "20 , nehru road, Kammanahalli Main Rd, Kacharakanahalli, Bengaluru, Karnataka 560084, India",
+    "country": "India",
+    "open_state": "Closed · Opens 9:30 AM",
+    "hours": "Closed · Opens 9:30 AM",
+    "operating_hours": {
+     "saturday": "9:30 AM–9:30 PM",
+     "sunday": "9:30 AM–9:30 PM",
+     "monday": "9:30 AM–9:30 PM",
+     "tuesday": "9:30 AM–9:30 PM",
+     "wednesday": "9:30 AM–9:30 PM",
+     "thursday": "9:30 AM–9:30 PM",
+     "friday": "9:30 AM–9:30 PM"
+    },
+    "phone": "+91 98452 05949",
+    "website": "https://site.dgtechsoln.com/santhanam-balaji-sweets/",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot",
+       "Wheelchair accessible restroom",
+       "Wheelchair accessible seating"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhE910_pxa1cYwi-Qv_TmV8rrPnAtY6bJjdOVYdiLLaOG808aj8KInRp2-BPdZtI_iEoERuFoGRlq0OGBF_ndygQ2ArPKD7NXgTOxbm3NXzwoogqN2H_fo-UFf1wFxJ6lWIlgturIvZtWZKLrSilKyIQhVf5Qdgh0LpA2NxBpkto4B4b0_mQB4YU=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/wROUTXicHc7NckNAAADgJ9pYoql2pgcmqDB-0kTCZQfLki67WSvom_ZNemynl-_8ff-0UvLxVVFou90Qxgitp7EWFRtkPchNxXqF8BFwwZZVMQOs71v7RYWIL4VaZXMHkgc69akhRDyYMtuVhxuO0gx3QVBErgGN4mb43nDkGrBinEsPdTazj5PD3CO9w8i1HDTglSSaKWJ__xxeySlayn4bXr_mv8491N5Rw8DZadTZWQ47evEokZPwHrm85H4gPjrqr17Sps1TgkkLA25q4WLxT8l0Sy8h6hNLz85vswohBO2_FRh-AQR2VkI"
+   },
+   {
+    "position": 13,
+    "title": "Adhirasam Shop",
+    "place_id": "ChIJr_OpDIBlUjoRZ_jQBmyos4M",
+    "data_id": "0x3a5265800ca9f3af:0x83b3a86c06d0f867",
+    "data_cid": "9490114021724059751",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5265800ca9f3af%3A0x83b3a86c06d0f867&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3a5265800ca9f3af%3A0x83b3a86c06d0f867&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 13.1265716,
+     "longitude": 80.2763784
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJr_OpDIBlUjoRZ_jQBmyos4M",
+    "provider_id": "/g/11c5459p8c",
+    "rating": 4.6,
+    "reviews": 40,
+    "unclaimed_listing": true,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "13/5, Nehru Nagar, Selaivayal, Chennai, Tamil Nadu 600081, India",
+    "country": "India",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+     "saturday": "9 AM–10 PM",
+     "sunday": "9 AM–10 PM",
+     "monday": "9 AM–10 PM",
+     "tuesday": "9 AM–10 PM",
+     "wednesday": "9 AM–10 PM",
+     "thursday": "9 AM–10 PM",
+     "friday": "9 AM–10 PM"
+    },
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QnkHWQTCS2yFDD_rLSfiMw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=142.64738&pitch=0&thumbfov=100",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Vt3maHicHc1RDoIgGADg2_AWoLmyNtZDrvVQD862Hh0iwr8UGJDkbbpWt6l1ge_7vHWMLuwJCdFLGWeQycFLjmHlOFbWqlFyBwELO5E5I1E_p85wGA-OGws9q83jfK9vxyZfTlXV-kszwDUh0bViBGkiC5J7obFKP9HbHisXUGIlRZrtcrTwxLIix5tiuy6Rgyg0o-i_DHZmGaVfeCY5iw"
+   },
+   {
+    "position": 14,
+    "title": "Shree Kandhan Stores",
+    "place_id": "ChIJrYs_7SERrjsRaZ9ZaoIg858",
+    "data_id": "0x3bae1121ed3f8bad:0x9ff320826a599f69",
+    "data_cid": "11525591615873326953",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1121ed3f8bad%3A0x9ff320826a599f69&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1121ed3f8bad%3A0x9ff320826a599f69&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 13.0113079,
+     "longitude": 77.66798109999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrYs_7SERrjsRaZ9ZaoIg858",
+    "provider_id": "/g/11bwdht617",
+    "rating": 4.6,
+    "reviews": 1348,
+    "type": "Indian grocery store",
+    "types": [
+     "Indian grocery store",
+     "Dairy store",
+     "Dry fruit store",
+     "Herb shop",
+     "Indian sweets shop",
+     "Rice shop",
+     "Store"
+    ],
+    "address": "48, Dwaraka Plaza, Kempegowda Road, Kodanda Reddy Layout, Ramamurthy Nagar, Bengaluru, Karnataka 560016, India",
+    "country": "India",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+     "saturday": "9 AM–8 PM",
+     "sunday": "9 AM–2 PM",
+     "monday": "9 AM–8 PM",
+     "tuesday": "9 AM–8 PM",
+     "wednesday": "9 AM–8 PM",
+     "thursday": "9 AM–8 PM",
+     "friday": "9 AM–8 PM"
+    },
+    "phone": "+91 80 2565 6669",
+    "website": "https://shreekandhanstores.ordereasyapp.com/Register?countryCode=IN",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm2mFSTRgaXcZS-aVWDXcy6XDwWeAzrxZIobwxqTe1cxGTPZ4hcX12N7mgLR3_9LnuWCdUaaR_TG_cRQVIOCi5muB-MU2nS0JgdvdufnVmKuxKNKm8zszkpbB_pbn8634VAnYnqLvNr1OCd=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/9fSchHicHcTLUoMwFADQL0p51VqdcUHpWCtIa0gB2TBwicGxuaGEFMpPuvZvnPEszu9POwydfrSsc-sthFLizI3mPSgcOA4LUNISnSagibb8F3pkmXTlc8KoqHIoElKl2TaH2yrfjhn3534q9qoepwvjDkw7diyWLeSOG99LEVGvfIjQZEFzqipasl0J9D3dH4KvO2k25O3kYmK_iubamE9MZWimMA7letbzd1dvyq7G9cpbpj5-4CW6xr1zCJqn0bFtm7T_A8E_-X1IbA"
+   },
+   {
+    "position": 15,
+    "title": "Ambal Adhirasam",
+    "place_id": "ChIJM_EswQRnUjoR2Yb5QPnbYaI",
+    "data_id": "0x3a526704c12cf133:0xa261dbf940f986d9",
+    "data_cid": "11700875170468693721",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3a526704c12cf133%3A0xa261dbf940f986d9&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3a526704c12cf133%3A0xa261dbf940f986d9&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 13.0365401,
+     "longitude": 80.2750038
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJM_EswQRnUjoR2Yb5QPnbYaI",
+    "provider_id": "/g/11rp8pcpl2",
+    "rating": 4.9,
+    "reviews": 21,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "Pidaariyar Koil St, Basha Garden, Mylapore, Chennai, Tamil Nadu 600004, India",
+    "country": "India",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+     "saturday": "9 AM–6 PM",
+     "sunday": "9 AM–6 PM",
+     "monday": "10 AM–6 PM",
+     "tuesday": "9 AM–6 PM",
+     "wednesday": "9 AM–6 PM",
+     "thursday": "9 AM–6 PM",
+     "friday": "9 AM–6 PM"
+    },
+    "phone": "+91 98401 84535",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmofVxjDzqBaaQYut_J2cc5tIxZvSyDgQv35o1Zn24OggFDGPpfXpZ8BlKJt1O7Nt5F6Pt7AHtkT7H_xy80uo81f7xrXXExLn2OuKuFbVVn8TBpwF6ACGjyGVhZ0p0A_8f85Fw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/nJHNH3icHcRRboIwGADgEyEFhzQmPsCwMF0ElTDkhbAGShy21f6V4gG9g7cx2ffwvZ49gFRL2x76-YwJwYZWq_ZGBYeWw4yKi82ksqiylB0khyz_uYiuMOfocQ2bZn_SUG9cSj34MtX9OEVsf597wqm4-5EyRqI4k10pKxwO2w04qb8Djywy8IME_nI_qc2EkRbY6XxzK8u1-eZuqrea_BYFx3koR7IIPuPzFBd9hSQKatxhj4yr0UEIWf3_1OJvT0VEEA"
+   },
+   {
+    "position": 16,
+    "title": "AthiMurukku Homemade Delights",
+    "place_id": "ChIJ-7YEP05zrjsRsupEFjutXiA",
+    "data_id": "0x3bae734e3f04b6fb:0x205ead3b1644eab2",
+    "data_cid": "2332492126312786610",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae734e3f04b6fb%3A0x205ead3b1644eab2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae734e3f04b6fb%3A0x205ead3b1644eab2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.812499899999999,
+     "longitude": 77.7830204
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-7YEP05zrjsRsupEFjutXiA",
+    "provider_id": "/g/11z3b4xnjq",
+    "rating": 4.8,
+    "reviews": 10,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop"
+    ],
+    "address": "Shriram Smrithi Apartment, Sarjapura - Attibele Rd, Bidaraguppe, Bengaluru, Bidarguppe, Karnataka 562107, India",
+    "country": "India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "phone": "+91 90804 86322",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkyKrlf108wD7RB3z0jr-m7cLVJkElHTVTU_tj1KKSsyUQl9hRvRzzqjr6_Xy7j6Ky-ht7TGsnKSedqfBpYi4RFHeQLP1Gf8-zuuCIDsl2gtFIqfKM83pAYlD5LE3V2lUF1ZA9Aevj_AacV=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/-cuNqXicHcRLroIwAADAE1VaUUETF1VEfOUlWgE_G2JqodbKr0UDl3TtbUycxXzewphKzyxLCXuQl2WueKt5w8rC8MIMWPmw8koDpoG2cEC30eHekUZlCLovz6ELu4eyAQ-HhcnffaWCKIni1EhEyF538U5NBX3Svq9lM0mPnSMnpAPCONFaF2TPr3W2qE63EfUDvgu3aJ25oG_b5cbTapgbf1Nn5N-1K3xS3jhc2clQxT464ynmT5niC0vmLwQhBOI3A8UXrdpG_w"
+   },
+   {
+    "position": 17,
+    "title": "RUSI ATHIRASAM SHOP",
+    "place_id": "ChIJrVakktZxrjsRwitLdT-VcT0",
+    "data_id": "0x3bae71d692a456ad:0x3d71953f754b2bc2",
+    "data_cid": "4427484008465247170",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae71d692a456ad%3A0x3d71953f754b2bc2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae71d692a456ad%3A0x3d71953f754b2bc2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.7301374,
+     "longitude": 77.8072536
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrVakktZxrjsRwitLdT-VcT0",
+    "provider_id": "/g/11mv9qb2y5",
+    "rating": 4.8,
+    "reviews": 31,
+    "type": "Candy store",
+    "types": [
+     "Candy store",
+     "Food producer"
+    ],
+    "address": "5/555- B, Hosur Inner Ring Rd, Muneeshwar Nagar, Muneeswara Nagar, Hosur, Tamil Nadu 635109, India",
+    "country": "India",
+    "open_state": "Closed · Opens 10 AM",
+    "hours": "Closed · Opens 10 AM",
+    "operating_hours": {
+     "saturday": "10 AM–9 PM",
+     "sunday": "10 AM–9 PM",
+     "monday": "10 AM–9 PM",
+     "tuesday": "10 AM–9 PM",
+     "wednesday": "10 AM–9 PM",
+     "thursday": "10 AM–9 PM",
+     "friday": "10 AM–9 PM"
+    },
+    "phone": "+91 95972 90266",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnY5ZoKBjVHAx95O3CkvJWWBx2PEZ0_xZm0rf8-tFLmYJac13kWFKjeKGjGv8km560z7GJcZW1AishO5yaStg9GxPltA4HmSYL8btjbkU9NL1QlaG_ZIs3pz7UWNGjkEwSXU70=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ywibvXicHcThEoEwAADgJ5qWpHLnRxxLdUQy7Y_LLmVrrbMhHtA7eBt3vh_f91Nr3amJYTS1NaikrJryrsobla0uWz2gUhhVpwBVQBl-sEv2uM1tIqMZOwR-79kba84fIcazfpgsCDz1RMDbxQV6GYs8LKhpcbyMWBkhhh4uF_YYvh0UUoJN_6rqjf0qUl15qE8a7Y8Ckeaxe9bszDNvHZvbpkAnslJW93YyvEaML57pMXPg9GlCCEH9n4L2B6xcQzs"
+   },
+   {
+    "position": 18,
+    "title": "ISH/ Indian Snack House Banaswadi",
+    "place_id": "ChIJt1NtegAXrjsR1o4VoYWvz5s",
+    "data_id": "0x3bae17007a6d53b7:0x9bcfaf85a1158ed6",
+    "data_cid": "11227385384525991638",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17007a6d53b7%3A0x9bcfaf85a1158ed6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17007a6d53b7%3A0x9bcfaf85a1158ed6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 13.0119768,
+     "longitude": 77.65213899999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJt1NtegAXrjsR1o4VoYWvz5s",
+    "provider_id": "/g/11wbz_81ys",
+    "rating": 3.3,
+    "reviews": 71,
+    "unclaimed_listing": true,
+    "type": "Bakery",
+    "types": [
+     "Bakery"
+    ],
+    "address": "Sarvagna Nagar, 3RD FLOOR, 546/1, CHAITANYA SHREE NILAYA (BUILDING NEXT TO NCN CRYSTA RAMAIAH LAYOUT ROAD, B.B, Dodda Banaswadi Main Rd, M.P East, Dodda Banaswadi, Bengaluru, Karnataka 560043, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8:30 AM",
+    "hours": "Closed · Opens 8:30 AM",
+    "operating_hours": {
+     "saturday": "8:30 AM–7:30 PM",
+     "sunday": "8:30 AM–7:30 PM",
+     "monday": "8:30 AM–7:30 PM",
+     "tuesday": "8:30 AM–7:30 PM",
+     "wednesday": "8:30 AM–7:30 PM",
+     "thursday": "8:30 AM–7:30 PM",
+     "friday": "8:30 AM–7:30 PM"
+    },
+    "phone": "+91 90259 99363",
+    "website": "https://www.indiansnackhouse.com/",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlMXor8u1I7HafBpyPKuF4dZhGc5rca3Ao402yZe-U3dIylVw6G8M6BYGbzAqyh1y8FdmxHVJrhRZgbzwo6crdE28jPyAS9vTizubnx2pZkfJ-e0do7-rBwsVM4wAg7mjBpZMeM=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/4U3Ee3icHcRdboIwAADgE1XKj8CW7KEkCro0IU5x65u0tVWBdi2slgt6Bm9jsu_hez7kOGr7HgSdjBdCKdHxyXJD1TDyYVxQ1QdCW0AtsAGqdvX-2OFvZfIp3GTV6VxoX39O64QRWdKloacYqQRGnnBwiNnGd41LyxynxU_ZzujXy9Dna9bfq2Zr5I6IdnYqpYatovxae_T19re_zFM73CNNbuct4JCpDJjC2QYnDomsvxaaYI4_XAghBPJ_CoYXc8tFRg"
+   },
+   {
+    "position": 19,
+    "title": "SRIVARI ADHIRASAM KADAI",
+    "place_id": "ChIJg3B2uIJjUjoRThRN4oda3Pc",
+    "data_id": "0x3a526382b8767083:0xf7dc5a87e24d144e",
+    "data_cid": "17860249761908331598",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3a526382b8767083%3A0xf7dc5a87e24d144e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3a526382b8767083%3A0xf7dc5a87e24d144e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 13.121680999999999,
+     "longitude": 80.15059509999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJg3B2uIJjUjoRThRN4oda3Pc",
+    "provider_id": "/g/11kbz32d04",
+    "rating": 5,
+    "reviews": 14,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop"
+    ],
+    "address": "53, Mounasamy Madam St, Vijayalakshmi Puram, Ambattur, Chennai, Tamil Nadu 600053, India",
+    "country": "India",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+     "saturday": "9 AM–9 PM",
+     "sunday": "Closed",
+     "monday": "9 AM–9 PM",
+     "tuesday": "9 AM–9 PM",
+     "wednesday": "9 AM–9 PM",
+     "thursday": "9 AM–9 PM",
+     "friday": "9 AM–9 PM"
+    },
+    "phone": "+91 86674 58302",
+    "website": "https://wa.me/qr/S27Z7U7WSRBAO1",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk8nIv-PlzDaL-mrWG_jSOHmk4vKmpkwCi_eVNDqbx565rboqbUVy7K6If2NtMdlprOLNXD0B17VjQ3IA5ezNeVIR8UblE1MDDfsx9KaOfm0iX4R23h4tJhsqO9VLcoOXw1RI8X=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Hy4zq3icHcRRkoIgAADQE5GYWtbMflQ0RZq0bpF_TRJKCaLCZnXBzrC32Znex_t7C2sbM3UcKbxBqXUp-a_hHdO15bUdMK2csjGAGWCc2Trd7Y9VWOM72MkXOsdAdcfV6fZD1qry75Fqqn5xPXGaoDZ_BKOgy3WbH-hzHI1wMUzs9iKbjsRJhuDcHdPbt4dnAX8lnOI0PORy6W4RKsxjEp1JoeA189OhJ3y7EaYlExozTbLeTXGYffUuhBCIzwzU_20nRBs"
+   },
+   {
+    "position": 20,
+    "title": "Ayesha Adhirasam (Sweets & Snacks)",
+    "place_id": "ChIJuQPgp8VnUjoRLgXuXCsK4vA",
+    "data_id": "0x3a5267c5a7e003b9:0xf0e20a2b5cee052e",
+    "data_cid": "17357447095198287150",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267c5a7e003b9%3A0xf0e20a2b5cee052e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267c5a7e003b9%3A0xf0e20a2b5cee052e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 13.0554475,
+     "longitude": 80.27241459999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuQPgp8VnUjoRLgXuXCsK4vA",
+    "provider_id": "/g/11y1m0n33k",
+    "rating": 4.4,
+    "reviews": 7,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop"
+    ],
+    "address": "8/2,agathi muthan street, Ramaswamy St, Triplicane, Chennai, Tamil Nadu 600005, India",
+    "country": "India",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+     "saturday": "9 AM–10 PM",
+     "sunday": "9 AM–10 PM",
+     "monday": "9 AM–10 PM",
+     "tuesday": "9 AM–10 PM",
+     "wednesday": "9 AM–10 PM",
+     "thursday": "9 AM–10 PM",
+     "friday": "9 AM–10 PM"
+    },
+    "phone": "+91 97910 70856",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkG2h1Jp9LzEoUAaQa0MLZkZ3KT0f0JEVfdPakEKKEw5YO0qYFaliCyZSHUgsq6vQiGrk8Ayj_gMD5YMO_053pL2EyV5U5icGpZDxwM6l7ZJ70-VFx5Bgw8QejcjOobEZ2OYcCwLw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/RN6MtXicHcRLroIwFADQFVWukKrvJQ5QK4ZPEBUMnRisWH7SatGKO3QJ7sbEMzifd9F1Uv0bRlNYAy4Eb_K7ym9MtF3edgMmLgaXCjGFlGGvNuvdvnbMYujKP_9FRGxnUQaBT2tqeTs4g0uS82md1cTziMZpCNd0mTXlvKfbVczVdfSISudWT-y-OvBggdMgPAC2pG-SPsExLpkj6eKpg1Ezpu4YULJ84hnXkyivWBWKI6FmmLK59vVUDwEAFb8Zar9sIEQL"
+   }
+  ],
+  "serpapi_pagination": {
+   "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4012.9716%2C77.5946%2C13z&q=Adhirasam+sweets&start=20&type=search"
+  }
+ }
+}

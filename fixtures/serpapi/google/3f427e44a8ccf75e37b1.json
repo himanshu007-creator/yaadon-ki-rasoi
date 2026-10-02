@@ -1,0 +1,381 @@
+{
+ "engine": "google",
+ "params": {
+  "q": "Diwali sweet recipe jaggery ghee wheat flour dry fruits roasted",
+  "gl": "in",
+  "hl": "en",
+  "google_domain": "google.co.in",
+  "device": "mobile"
+ },
+ "recordedAt": "2026-10-02T19:12:31.814Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac0021ef0114a2d346ed9d9",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/iOywWFCgyq4vyf3fPO8kTyWiD4AZZUFCnsSDmFOOW9o/6ac0021ef0114a2d346ed9d9.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/iOywWFCgyq4vyf3fPO8kTyWiD4AZZUFCnsSDmFOOW9o/6ac0021ef0114a2d346ed9d9.json_with_pixel_position",
+   "created_at": "2026-10-02 19:12:30 UTC",
+   "processed_at": "2026-10-02 19:12:30 UTC",
+   "google_url": "https://www.google.co.in/search?q=Diwali+sweet+recipe+jaggery+ghee+wheat+flour+dry+fruits+roasted&oq=Diwali+sweet+recipe+jaggery+ghee+wheat+flour+dry+fruits+roasted&hl=en&gl=in&sourceid=chrome-mobile&ie=UTF-8",
+   "total_time_taken": 0.59
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Diwali sweet recipe jaggery ghee wheat flour dry fruits roasted",
+   "google_domain": "google.co.in",
+   "hl": "en",
+   "gl": "in",
+   "device": "mobile"
+  },
+  "search_information": {
+   "query_displayed": "Diwali sweet recipe jaggery ghee wheat flour dry fruits roasted"
+  },
+  "recipes_results": [
+   {
+    "title": "Til Dry Fruit Ladoo Recipe",
+    "link": "https://thetastesofindia.com/til-dry-fruit-ladoo/",
+    "source": "Quick Indian Vegetarian Recipes",
+    "total_time": "30m",
+    "total_ingredients_original": "12 ingredients",
+    "total_ingredients": 12,
+    "thumbnail": "https://serpapi.com/searches/6ac0021ef0114a2d346ed9d9/images/W0CSisf1AvzvJxLIjkY7SlIV1onAd3Ktl7oKi5txyj4.jpeg"
+   },
+   {
+    "title": "Atta Ladoo Recipe",
+    "link": "https://www.indianhealthyrecipes.com/atta-ladoo-recipe-wheat-flour-laddu/",
+    "source": "Swasthi's Recipes",
+    "rating": 4.9,
+    "reviews": 27,
+    "total_time": "15m",
+    "total_ingredients_original": "5 ingredients",
+    "total_ingredients": 5,
+    "images": [
+     "https://serpapi.com/searches/6ac0021ef0114a2d346ed9d9/images/W0CSisf1AvzvJxLIjkY7Sut0X1QFaM6qufLwvVQIQl0.jpeg",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4Ld3yAtM5F5VHz7YnqM4eRaY-qiTkEkUuacl4zcZxK8YRkm8wQ4dGuXcWQ&s=10",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-IioljVRruDaQMpVB8qhDPgnkVurxFzmD_L1hg5C9bBfgzJPiuyhnAbyCNg&s=10",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT_dtU0biV8OloOqL7zWHP5-GGxdhAbsico02PzQqE57xXJMoLg4Lvmkpn5g&s=10"
+    ]
+   },
+   {
+    "title": "Atta Ladoo Recipe | Healthy Indian Sweet",
+    "link": "https://www.tarladalal.com/atta-ladoo/",
+    "source": "Tarla Dalal",
+    "rating": 5,
+    "reviews": 32,
+    "total_time": "20m",
+    "total_ingredients_original": "5 ingredients",
+    "total_ingredients": 5,
+    "images": [
+     "https://serpapi.com/searches/6ac0021ef0114a2d346ed9d9/images/W0CSisf1AvzvJxLIjkY7Sql99asFFXNKztaJWsuO-2c.jpeg",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRync-pNPEnUUyGALgsUxP2cp3y67M71CGbMe2i7TSvvaAjDJkz46xlHRmf9A&s=10",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSogrSGUu595lJsBcADGyWhmNHDPCo7lIIENqKP_tencYkCWPGbW9W2WjNSkw&s=10",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQy_Sn6DfJ4JwdtE7TXFv3dXrxlV-_kEOloLaInK8He9Lh66o_-G34E28rFw&s=10"
+    ]
+   },
+   {
+    "title": "Wheat Halwa",
+    "link": "https://homecookingshow.in/recipe/wheat-halwa/",
+    "source": "Home Cooking Show",
+    "rating": 5,
+    "reviews": 1,
+    "total_time": "25m",
+    "total_ingredients_original": "10 ingredients",
+    "total_ingredients": 10,
+    "thumbnail": "https://serpapi.com/searches/6ac0021ef0114a2d346ed9d9/images/W0CSisf1AvzvJxLIjkY7Sp84akfV0TaDSEm3veSrxzw.jpeg"
+   }
+  ],
+  "inline_videos": [
+   {
+    "position": 1,
+    "title": "2 Ingredients Easy Diwali Special Sweet Recipe",
+    "link": "https://www.youtube.com/watch?v=x0bkcDUkXss",
+    "thumbnail": "https://serpapi.com/searches/6ac0021ef0114a2d346ed9d9/images/MfKJI3Qs19JKpeolUC1jHhVi8HesLaqX23znLDwLN3I.jpeg",
+    "channel": "najju world",
+    "duration": "3:31",
+    "platform": "YouTube",
+    "date": "27 Oct 2021",
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQqXkLKBNbRzLgcKqhbTXSWIU_Q0BWgiVReXA"
+   },
+   {
+    "position": 2,
+    "title": "GUR PAPDI (NAVRATRI SPECIAL)  - Made with whole wheat flour, ghee, nuts and jaggery ...",
+    "link": "https://www.instagram.com/reel/CyfbsAwyaht/?hl=en",
+    "thumbnail": "https://serpapi.com/searches/6ac0021ef0114a2d346ed9d9/images/4k7fkEPrS4M0j4ZCgyGatsDbcsDppvfuih56We_P-4g.jpeg",
+    "channel": "Malvika Hada Kumar | Recipe Developer",
+    "duration": "0:54",
+    "platform": "Instagram",
+    "date": "17 Oct 2023",
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTQGz4wMEzfQ6v3nU-ssnr9ARuVfYlohYYkVQ"
+   },
+   {
+    "position": 3,
+    "title": "Festival Special Recipe using Wheat flour and Jaggery",
+    "link": "https://www.facebook.com/rdcookingyt/posts/festival-special-recipe-using-wheat-flour-and-jaggery/745140404291399/",
+    "thumbnail": "https://serpapi.com/searches/6ac0021ef0114a2d346ed9d9/images/-EbpU7jol0dJ2bMntYGnOR_CSk4kSumw0jEwRhOdSpI.jpeg",
+    "channel": "RD cooking",
+    "duration": "4:05",
+    "platform": "Facebook",
+    "date": "8 Aug 2023"
+   },
+   {
+    "position": 4,
+    "title": "This is exactly what Punjabis do in winter — make warm, nourishing atta laddus packed with ...",
+    "link": "https://www.instagram.com/reel/DTqJDz0AuqL/",
+    "thumbnail": "https://serpapi.com/searches/6ac0021ef0114a2d346ed9d9/images/JAKxTUZqv4Uz1qQ4icI4ys8pRCuMyhf8rbxKhJFAvig.jpeg",
+    "channel": "Ruchika Kinger",
+    "duration": "0:49",
+    "platform": "Instagram",
+    "date": "18 Jan 2026"
+   }
+  ],
+  "related_questions": [
+   {
+    "question": "What are some popular Indian sweet treats?",
+    "type": "ai_overview",
+    "page_token": "OPZm13icHdBfbpswHABg7TJ9TGzQWjVSNInEpkGJG4xt_rxMzL8QUozxGjoDb73LTtXTTNp3hO_zr7nZ7uvb1I6ju2_Wa-_96joMV3NZ6WF1s-v6Plu91rUxv2rdbR6fHvGPRm_JxyHa_T5EqXRO7TnKrDuCdOeMsllKPIqXduKqjXICQ0WShYfcSeU8x85f4sTqjtdZSImwdEltcs6M9nIPvSgUP5loV2AQtVIN5HCs36pUFEkiYrOTwcRUoYwKAL3GrhS9R7XgR22hzY05v4prkKGR6u4ZneIuADIxgeFDGWNFXkUMJTFb6L4UVVQa4GXfxmBcfDH0DDjqeP6dVtaEpIUDoCkqC7IwRLBcmAdK04uAXu8wr6fhlkq-6DfTyxnfJdYzD6UHJJcTVu-ioFVGxkYEzzMjrK_8Q6P_bMOH_5_bn00_btz7cP0HY86FWQ",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=OPZm13icHdBfbpswHABg7TJ9TGzQWjVSNInEpkGJG4xt_rxMzL8QUozxGjoDb73LTtXTTNp3hO_zr7nZ7uvb1I6ju2_Wa-_96joMV3NZ6WF1s-v6Plu91rUxv2rdbR6fHvGPRm_JxyHa_T5EqXRO7TnKrDuCdOeMsllKPIqXduKqjXICQ0WShYfcSeU8x85f4sTqjtdZSImwdEltcs6M9nIPvSgUP5loV2AQtVIN5HCs36pUFEkiYrOTwcRUoYwKAL3GrhS9R7XgR22hzY05v4prkKGR6u4ZneIuADIxgeFDGWNFXkUMJTFb6L4UVVQa4GXfxmBcfDH0DDjqeP6dVtaEpIUDoCkqC7IwRLBcmAdK04uAXu8wr6fhlkq-6DfTyxnfJdYzD6UHJJcTVu-ioFVGxkYEzzMjrK_8Q6P_bMOH_5_bn00_btz7cP0HY86FWQ",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1UxRnlkMjF4TlVoSVVHNTVOMFJPU0U1R1kwcEpia3RqTVhWMFpHbDNSREpqZG5weFlVbE1XR1oyZDJGS1IyMUJTbVZ3TTJWUE5GUnZaVFJVVlhkaGRtUlFiRzlsYWpSb2FuTkJWa0oxY3pCbGNrUXdVR3BrVTFGQ1VSSVhTSGRNUVdGeE16ZEJOVk16Y0hSUlVIazNabkF0VVdzYUlrRkVjM0k1WmxNM01rUjRjM1JuYVRsSWExWTRUM1pTWTFGQ1ZWVklaVTV2UkdjIiwiZmN2IjoiMyIsImVpIjoiSHdMQWFxMzdBNVMzcHRRUHk3ZnAtUWsiLCJxYyI6IkNqOWthWGRoYkdrZ2MzZGxaWFFnY21WamFYQmxJR3BoWjJkbGNua2daMmhsWlNCM2FHVmhkQ0JtYkc5MWNpQmtjbmtnWm5KMWFYUnpJSEp2WVhOMFpXUVFBSDFNVXZzLSIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgc29tZSBwb3B1bGFyIEluZGlhbiBzd2VldCB0cmVhdHM/IiwibGsiOiJHaE5wYm1ScFlXNGdjM2RsWlhRZ2RISmxZWFJ6IiwiYnMiOiJjMldQTVdfQ1FBeUYxZldtU3FnRDZmS20wakl3NUE5RUtnTmlLRXVIekZiaWNLNmFYSFIyUVB4N2pqUklxTm5zOXo3NVBidXRXNWVlREJRWkdscEdIX3JobHlMMlhTM1VRY19NQm90TXBrWC1raTFrcnJ0dnR5cTlWSDVTcS1UdmtSeElod09kSWxrVU5LUlc1T19aMl9rZktuZTBlMFRkcF92WUp2Y1NCdlF4bktSbUVDSlgwak9hRUZHVE1Wb3hUeklXdS0wNkNSUG52dHhtX0U0VTVoTWQxTkx4Tmd3NjVkZWlfaGE5RzM0b1pSZjVhN1k4X3MxejhQbnBDZyIsImlkIjoiZmNfSHdMQWFxMzdBNVMzcHRRUHk3ZnAtUWtfNiJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1UxRnlkMjF4TlVoSVVHNTVOMFJPU0U1R1kwcEpia3RqTVhWMFpHbDNSREpqZG5weFlVbE1XR1oyZDJGS1IyMUJTbVZ3TTJWUE5GUnZaVFJVVlhkaGRtUlFiRzlsYWpSb2FuTkJWa0oxY3pCbGNrUXdVR3BrVTFGQ1VSSVhTSGRNUVdGeE16ZEJOVk16Y0hSUlVIazNabkF0VVdzYUlrRkVjM0k1WmxNM01rUjRjM1JuYVRsSWExWTRUM1pTWTFGQ1ZWVklaVTV2UkdjIiwiZmN2IjoiMyIsImVpIjoiSHdMQWFxMzdBNVMzcHRRUHk3ZnAtUWsiLCJxYyI6IkNqOWthWGRoYkdrZ2MzZGxaWFFnY21WamFYQmxJR3BoWjJkbGNua2daMmhsWlNCM2FHVmhkQ0JtYkc5MWNpQmtjbmtnWm5KMWFYUnpJSEp2WVhOMFpXUVFBSDFNVXZzLSIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgc29tZSBwb3B1bGFyIEluZGlhbiBzd2VldCB0cmVhdHM%2FIiwibGsiOiJHaE5wYm1ScFlXNGdjM2RsWlhRZ2RISmxZWFJ6IiwiYnMiOiJjMldQTVdfQ1FBeUYxZldtU3FnRDZmS20wakl3NUE5RUtnTmlLRXVIekZiaWNLNmFYSFIyUVB4N2pqUklxTm5zOXo3NVBidXRXNWVlREJRWkdscEdIX3JobHlMMlhTM1VRY19NQm90TXBrWC1raTFrcnJ0dnR5cTlWSDVTcS1UdmtSeElod09kSWxrVU5LUlc1T19aMl9rZktuZTBlMFRkcF92WUp2Y1NCdlF4bktSbUVDSlgwak9hRUZHVE1Wb3hUeklXdS0wNkNSUG52dHhtX0U0VTVoTWQxTkx4Tmd3NjVkZWlfaGE5RzM0b1pSZjVhN1k4X3MxejhQbnBDZyIsImlkIjoiZmNfSHdMQWFxMzdBNVMzcHRRUHk3ZnAtUWtfNiJ9"
+   },
+   {
+    "question": "Which sweet can I eat in Navratri fast?",
+    "type": "ai_overview",
+    "page_token": "1XLPFnicHdDbbrIwAADg7GV2qS0sLpqY5ccBk9g6ag_Sm6W0qEA5TDtx3P3vsqfa02zZ_Xf1_f-yZVt_391OzvWXxXQ6DMPk2HVHW0x0Nynbqbp8tnqqlbW50vVi9jiDTwe9DD_Wwep9HaSs7_kzAbs29JhvtnkbxKzCTISuoTT8JC0upThJXSVo1_5KNl8VFRdFHHXESxIqXKpBskEtT9Ix4fxZP-xqowjoZQb7MgN2QxneUJE5SgnOPPkqqPRQdHyQDF-0kDW15sr8aJtDWeWe3WY131N2GTKfzHI4P2c0wAi4K_LwaEZyVpGEKuZlIdCobBQzxn0C7LugvEz3Zi25IeHJrA24Bdk-HDEIIRvxYKIoLahp9AoSdevKlJFRV7ZhcB4TigNkkVOgD3ADxpT-A4wiyHwykBfu5HB_0Nelf__3uXw7NG7Rn7vjD-cRg2U",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=1XLPFnicHdDbbrIwAADg7GV2qS0sLpqY5ccBk9g6ag_Sm6W0qEA5TDtx3P3vsqfa02zZ_Xf1_f-yZVt_391OzvWXxXQ6DMPk2HVHW0x0Nynbqbp8tnqqlbW50vVi9jiDTwe9DD_Wwep9HaSs7_kzAbs29JhvtnkbxKzCTISuoTT8JC0upThJXSVo1_5KNl8VFRdFHHXESxIqXKpBskEtT9Ix4fxZP-xqowjoZQb7MgN2QxneUJE5SgnOPPkqqPRQdHyQDF-0kDW15sr8aJtDWeWe3WY131N2GTKfzHI4P2c0wAi4K_LwaEZyVpGEKuZlIdCobBQzxn0C7LugvEz3Zi25IeHJrA24Bdk-HDEIIRvxYKIoLahp9AoSdevKlJFRV7ZhcB4TigNkkVOgD3ADxpT-A4wiyHwykBfu5HB_0Nelf__3uXw7NG7Rn7vjD-cRg2U",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1UxRnlkMjF4TlVoSVVHNTVOMFJPU0U1R1kwcEpia3RqTVhWMFpHbDNSREpqZG5weFlVbE1XR1oyZDJGS1IyMUJTbVZ3TTJWUE5GUnZaVFJVVlhkaGRtUlFiRzlsYWpSb2FuTkJWa0oxY3pCbGNrUXdVR3BrVTFGQ1VSSVhTSGRNUVdGeE16ZEJOVk16Y0hSUlVIazNabkF0VVdzYUlrRkVjM0k1WmxNM01rUjRjM1JuYVRsSWExWTRUM1pTWTFGQ1ZWVklaVTV2UkdjIiwiZmN2IjoiMyIsImVpIjoiSHdMQWFxMzdBNVMzcHRRUHk3ZnAtUWsiLCJxYyI6IkNqOWthWGRoYkdrZ2MzZGxaWFFnY21WamFYQmxJR3BoWjJkbGNua2daMmhsWlNCM2FHVmhkQ0JtYkc5MWNpQmtjbmtnWm5KMWFYUnpJSEp2WVhOMFpXUVFBSDFNVXZzLSIsInF1ZXN0aW9uIjoiV2hpY2ggc3dlZXQgY2FuIEkgZWF0IGluIE5hdnJhdHJpIGZhc3Q/IiwibGsiOiJHaVozYUdsamFDQnpkMlZsZENCallXNGdhU0JsWVhRZ2FXNGdibUYyY21GMGNta2dabUZ6ZEEiLCJicyI6ImMyV1BNV19DUUF5RjFmV21TcWdENmZLbTBqSXc1QTlFS2dOaUtFdUh6RmJpY0s2YVhIUjJRUHg3ampSSXFObnM5ejc1UGJ1dFc1ZWVEQlFaR2xwR0hfcmhseUwyWFMzVVFjX01Cb3RNcGtYLWtpMWtycnR2dHlxOVZINVNxLVR2a1J4SWh3T2RJbGtVTktSVzVPX1oyX2tmS25lMGUwVGRwX3ZZSnZjU0J2UXhuS1JtRUNKWDBqT2FFRkdUTVZveFR6SVd1LTA2Q1JQbnZ0eG1fRTRVNWhNZDFOTHhOZ3c2NWRlaV9oYTlHMzRvWlJmNWE3WThfczF6OFBucENnIiwiaWQiOiJmY19Id0xBYXEzN0E1UzNwdFFQeTdmcC1Ra182In0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1UxRnlkMjF4TlVoSVVHNTVOMFJPU0U1R1kwcEpia3RqTVhWMFpHbDNSREpqZG5weFlVbE1XR1oyZDJGS1IyMUJTbVZ3TTJWUE5GUnZaVFJVVlhkaGRtUlFiRzlsYWpSb2FuTkJWa0oxY3pCbGNrUXdVR3BrVTFGQ1VSSVhTSGRNUVdGeE16ZEJOVk16Y0hSUlVIazNabkF0VVdzYUlrRkVjM0k1WmxNM01rUjRjM1JuYVRsSWExWTRUM1pTWTFGQ1ZWVklaVTV2UkdjIiwiZmN2IjoiMyIsImVpIjoiSHdMQWFxMzdBNVMzcHRRUHk3ZnAtUWsiLCJxYyI6IkNqOWthWGRoYkdrZ2MzZGxaWFFnY21WamFYQmxJR3BoWjJkbGNua2daMmhsWlNCM2FHVmhkQ0JtYkc5MWNpQmtjbmtnWm5KMWFYUnpJSEp2WVhOMFpXUVFBSDFNVXZzLSIsInF1ZXN0aW9uIjoiV2hpY2ggc3dlZXQgY2FuIEkgZWF0IGluIE5hdnJhdHJpIGZhc3Q%2FIiwibGsiOiJHaVozYUdsamFDQnpkMlZsZENCallXNGdhU0JsWVhRZ2FXNGdibUYyY21GMGNta2dabUZ6ZEEiLCJicyI6ImMyV1BNV19DUUF5RjFmV21TcWdENmZLbTBqSXc1QTlFS2dOaUtFdUh6RmJpY0s2YVhIUjJRUHg3ampSSXFObnM5ejc1UGJ1dFc1ZWVEQlFaR2xwR0hfcmhseUwyWFMzVVFjX01Cb3RNcGtYLWtpMWtycnR2dHlxOVZINVNxLVR2a1J4SWh3T2RJbGtVTktSVzVPX1oyX2tmS25lMGUwVGRwX3ZZSnZjU0J2UXhuS1JtRUNKWDBqT2FFRkdUTVZveFR6SVd1LTA2Q1JQbnZ0eG1fRTRVNWhNZDFOTHhOZ3c2NWRlaV9oYTlHMzRvWlJmNWE3WThfczF6OFBucENnIiwiaWQiOiJmY19Id0xBYXEzN0E1UzNwdFFQeTdmcC1Ra182In0%3D"
+   },
+   {
+    "question": "Can you provide a recipe for date mithai?",
+    "type": "ai_overview",
+    "page_token": "N6cLNnicHZDBaoMwAEDZz_RYddGOFsrALbELi6WJiTWXYWOtYqJS3VK97V_2VfualV3e6cGD9_2j67b5fZDVOPbDxnGstctL1130eam6Zd06-TC1ylG51qdcNZvV08p7LtUWDjZ86Wx44H0vXqnLAB6ZWYMDl0FiuM_bwlMeDSXHwclkVgJkGIgpcdcti_B0fLxp3sZBklZZ7hUTP-I6jsQbjcbmzEdyEvhTQuLHqPG4R4cciZk2Ra7SWKeI-ElblSyhVzJTWkQqEIJY6VaZNOvV3dPM6DlPNb43KJnVLHc95Lo3HOGAuOgmoWXIrUACUaUSAg6JuDN0uQiD-FHad4GuUY1DuounfSpZJoqRzdDNeD-QpvEZDCoGM0sA2osd99IjootSfW3B4v_Y9qM046a_dpc_1Ml4dw",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=N6cLNnicHZDBaoMwAEDZz_RYddGOFsrALbELi6WJiTWXYWOtYqJS3VK97V_2VfualV3e6cGD9_2j67b5fZDVOPbDxnGstctL1130eam6Zd06-TC1ylG51qdcNZvV08p7LtUWDjZ86Wx44H0vXqnLAB6ZWYMDl0FiuM_bwlMeDSXHwclkVgJkGIgpcdcti_B0fLxp3sZBklZZ7hUTP-I6jsQbjcbmzEdyEvhTQuLHqPG4R4cciZk2Ra7SWKeI-ElblSyhVzJTWkQqEIJY6VaZNOvV3dPM6DlPNb43KJnVLHc95Lo3HOGAuOgmoWXIrUACUaUSAg6JuDN0uQiD-FHad4GuUY1DuounfSpZJoqRzdDNeD-QpvEZDCoGM0sA2osd99IjootSfW3B4v_Y9qM046a_dpc_1Ml4dw",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1UxRnlkMjF4TlVoSVVHNTVOMFJPU0U1R1kwcEpia3RqTVhWMFpHbDNSREpqZG5weFlVbE1XR1oyZDJGS1IyMUJTbVZ3TTJWUE5GUnZaVFJVVlhkaGRtUlFiRzlsYWpSb2FuTkJWa0oxY3pCbGNrUXdVR3BrVTFGQ1VSSVhTSGRNUVdGeE16ZEJOVk16Y0hSUlVIazNabkF0VVdzYUlrRkVjM0k1WmxNM01rUjRjM1JuYVRsSWExWTRUM1pTWTFGQ1ZWVklaVTV2UkdjIiwiZmN2IjoiMyIsImVpIjoiSHdMQWFxMzdBNVMzcHRRUHk3ZnAtUWsiLCJxYyI6IkNqOWthWGRoYkdrZ2MzZGxaWFFnY21WamFYQmxJR3BoWjJkbGNua2daMmhsWlNCM2FHVmhkQ0JtYkc5MWNpQmtjbmtnWm5KMWFYUnpJSEp2WVhOMFpXUVFBSDFNVXZzLSIsInF1ZXN0aW9uIjoiQ2FuIHlvdSBwcm92aWRlIGEgcmVjaXBlIGZvciBkYXRlIG1pdGhhaT8iLCJsayI6IkdoTmtZWFJsY3lCdGFYUm9ZV2tnY21WamFYQmwiLCJicyI6ImMyV1BNV19DUUF5RjFmV21TcWdENmZLbTBqSXc1QTlFS2dOaUtFdUh6RmJpY0s2YVhIUjJRUHg3ampSSXFObnM5ejc1UGJ1dFc1ZWVEQlFaR2xwR0hfcmhseUwyWFMzVVFjX01Cb3RNcGtYLWtpMWtycnR2dHlxOVZINVNxLVR2a1J4SWh3T2RJbGtVTktSVzVPX1oyX2tmS25lMGUwVGRwX3ZZSnZjU0J2UXhuS1JtRUNKWDBqT2FFRkdUTVZveFR6SVd1LTA2Q1JQbnZ0eG1fRTRVNWhNZDFOTHhOZ3c2NWRlaV9oYTlHMzRvWlJmNWE3WThfczF6OFBucENnIiwiaWQiOiJmY19Id0xBYXEzN0E1UzNwdFFQeTdmcC1Ra182In0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1UxRnlkMjF4TlVoSVVHNTVOMFJPU0U1R1kwcEpia3RqTVhWMFpHbDNSREpqZG5weFlVbE1XR1oyZDJGS1IyMUJTbVZ3TTJWUE5GUnZaVFJVVlhkaGRtUlFiRzlsYWpSb2FuTkJWa0oxY3pCbGNrUXdVR3BrVTFGQ1VSSVhTSGRNUVdGeE16ZEJOVk16Y0hSUlVIazNabkF0VVdzYUlrRkVjM0k1WmxNM01rUjRjM1JuYVRsSWExWTRUM1pTWTFGQ1ZWVklaVTV2UkdjIiwiZmN2IjoiMyIsImVpIjoiSHdMQWFxMzdBNVMzcHRRUHk3ZnAtUWsiLCJxYyI6IkNqOWthWGRoYkdrZ2MzZGxaWFFnY21WamFYQmxJR3BoWjJkbGNua2daMmhsWlNCM2FHVmhkQ0JtYkc5MWNpQmtjbmtnWm5KMWFYUnpJSEp2WVhOMFpXUVFBSDFNVXZzLSIsInF1ZXN0aW9uIjoiQ2FuIHlvdSBwcm92aWRlIGEgcmVjaXBlIGZvciBkYXRlIG1pdGhhaT8iLCJsayI6IkdoTmtZWFJsY3lCdGFYUm9ZV2tnY21WamFYQmwiLCJicyI6ImMyV1BNV19DUUF5RjFmV21TcWdENmZLbTBqSXc1QTlFS2dOaUtFdUh6RmJpY0s2YVhIUjJRUHg3ampSSXFObnM5ejc1UGJ1dFc1ZWVEQlFaR2xwR0hfcmhseUwyWFMzVVFjX01Cb3RNcGtYLWtpMWtycnR2dHlxOVZINVNxLVR2a1J4SWh3T2RJbGtVTktSVzVPX1oyX2tmS25lMGUwVGRwX3ZZSnZjU0J2UXhuS1JtRUNKWDBqT2FFRkdUTVZveFR6SVd1LTA2Q1JQbnZ0eG1fRTRVNWhNZDFOTHhOZ3c2NWRlaV9oYTlHMzRvWlJmNWE3WThfczF6OFBucENnIiwiaWQiOiJmY19Id0xBYXEzN0E1UzNwdFFQeTdmcC1Ra182In0%3D"
+   },
+   {
+    "question": "What is the most famous sweet dish in Gujarat?",
+    "type": "ai_overview",
+    "page_token": "3HDfb3icHdBbjpswAEBRdTPzmQB5VESKKkHsTNzi1h4_gn8qsJPwsDGd0MDw1z10CV1VV9NRV3B17q8_tu7avx9-V8PQ33fL5TiOi5v3N3tZaL-ou2Vxf-v0UhfWloVud9uP2_DTVe_BQyfpq04I73txoAGDuMAMO82Q_wrGCMsqZ1Kg0uFvxNJMd9Ug5nyFmVAvAVqbczJzYbbiOA0Mkvni4ki404RdBbi8jaSxX6SrUtnGD-LiKpN9Q1ftG-EQiMamGTef1QF3hQtdLgw3oB2EQz8zh34IhhDn1UQlX1MI7zzymxLGXjpU8PAU6Gd0KI8bJdxmXR57z6I8zHmPSihsVocNdZWnYEKsU896lWSKwewi31tRD2SnBKjMyQRTkp_BjAMQ8hmPBkJyYcbpNKTF5GvC6awb6zizKZPxrM4JeBHwnS9q1SWuFIqyo8FkVliNT1f92K-e_r_ef7-6Yde_-ts_m7aO_w",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3HDfb3icHdBbjpswAEBRdTPzmQB5VESKKkHsTNzi1h4_gn8qsJPwsDGd0MDw1z10CV1VV9NRV3B17q8_tu7avx9-V8PQ33fL5TiOi5v3N3tZaL-ou2Vxf-v0UhfWloVud9uP2_DTVe_BQyfpq04I73txoAGDuMAMO82Q_wrGCMsqZ1Kg0uFvxNJMd9Ug5nyFmVAvAVqbczJzYbbiOA0Mkvni4ki404RdBbi8jaSxX6SrUtnGD-LiKpN9Q1ftG-EQiMamGTef1QF3hQtdLgw3oB2EQz8zh34IhhDn1UQlX1MI7zzymxLGXjpU8PAU6Gd0KI8bJdxmXR57z6I8zHmPSihsVocNdZWnYEKsU896lWSKwewi31tRD2SnBKjMyQRTkp_BjAMQ8hmPBkJyYcbpNKTF5GvC6awb6zizKZPxrM4JeBHwnS9q1SWuFIqyo8FkVliNT1f92K-e_r_ef7-6Yde_-ts_m7aO_w",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1UxRnlkMjF4TlVoSVVHNTVOMFJPU0U1R1kwcEpia3RqTVhWMFpHbDNSREpqZG5weFlVbE1XR1oyZDJGS1IyMUJTbVZ3TTJWUE5GUnZaVFJVVlhkaGRtUlFiRzlsYWpSb2FuTkJWa0oxY3pCbGNrUXdVR3BrVTFGQ1VSSVhTSGRNUVdGeE16ZEJOVk16Y0hSUlVIazNabkF0VVdzYUlrRkVjM0k1WmxNM01rUjRjM1JuYVRsSWExWTRUM1pTWTFGQ1ZWVklaVTV2UkdjIiwiZmN2IjoiMyIsImVpIjoiSHdMQWFxMzdBNVMzcHRRUHk3ZnAtUWsiLCJxYyI6IkNqOWthWGRoYkdrZ2MzZGxaWFFnY21WamFYQmxJR3BoWjJkbGNua2daMmhsWlNCM2FHVmhkQ0JtYkc5MWNpQmtjbmtnWm5KMWFYUnpJSEp2WVhOMFpXUVFBSDFNVXZzLSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbW9zdCBmYW1vdXMgc3dlZXQgZGlzaCBpbiBHdWphcmF0PyIsImxrIjoiR2hsbmRXcGhjbUYwSUdaaGJXOTFjeUJ6ZDJWbGRDQmthWE5vIiwiYnMiOiJjMldQTVdfQ1FBeUYxZldtU3FnRDZmS20wakl3NUE5RUtnTmlLRXVIekZiaWNLNmFYSFIyUVB4N2pqUklxTm5zOXo3NVBidXRXNWVlREJRWkdscEdIX3JobHlMMlhTM1VRY19NQm90TXBrWC1raTFrcnJ0dnR5cTlWSDVTcS1UdmtSeElod09kSWxrVU5LUlc1T19aMl9rZktuZTBlMFRkcF92WUp2Y1NCdlF4bktSbUVDSlgwak9hRUZHVE1Wb3hUeklXdS0wNkNSUG52dHhtX0U0VTVoTWQxTkx4Tmd3NjVkZWlfaGE5RzM0b1pSZjVhN1k4X3MxejhQbnBDZyIsImlkIjoiZmNfSHdMQWFxMzdBNVMzcHRRUHk3ZnAtUWtfNiJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1UxRnlkMjF4TlVoSVVHNTVOMFJPU0U1R1kwcEpia3RqTVhWMFpHbDNSREpqZG5weFlVbE1XR1oyZDJGS1IyMUJTbVZ3TTJWUE5GUnZaVFJVVlhkaGRtUlFiRzlsYWpSb2FuTkJWa0oxY3pCbGNrUXdVR3BrVTFGQ1VSSVhTSGRNUVdGeE16ZEJOVk16Y0hSUlVIazNabkF0VVdzYUlrRkVjM0k1WmxNM01rUjRjM1JuYVRsSWExWTRUM1pTWTFGQ1ZWVklaVTV2UkdjIiwiZmN2IjoiMyIsImVpIjoiSHdMQWFxMzdBNVMzcHRRUHk3ZnAtUWsiLCJxYyI6IkNqOWthWGRoYkdrZ2MzZGxaWFFnY21WamFYQmxJR3BoWjJkbGNua2daMmhsWlNCM2FHVmhkQ0JtYkc5MWNpQmtjbmtnWm5KMWFYUnpJSEp2WVhOMFpXUVFBSDFNVXZzLSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbW9zdCBmYW1vdXMgc3dlZXQgZGlzaCBpbiBHdWphcmF0PyIsImxrIjoiR2hsbmRXcGhjbUYwSUdaaGJXOTFjeUJ6ZDJWbGRDQmthWE5vIiwiYnMiOiJjMldQTVdfQ1FBeUYxZldtU3FnRDZmS20wakl3NUE5RUtnTmlLRXVIekZiaWNLNmFYSFIyUVB4N2pqUklxTm5zOXo3NVBidXRXNWVlREJRWkdscEdIX3JobHlMMlhTM1VRY19NQm90TXBrWC1raTFrcnJ0dnR5cTlWSDVTcS1UdmtSeElod09kSWxrVU5LUlc1T19aMl9rZktuZTBlMFRkcF92WUp2Y1NCdlF4bktSbUVDSlgwak9hRUZHVE1Wb3hUeklXdS0wNkNSUG52dHhtX0U0VTVoTWQxTkx4Tmd3NjVkZWlfaGE5RzM0b1pSZjVhN1k4X3MxejhQbnBDZyIsImlkIjoiZmNfSHdMQWFxMzdBNVMzcHRRUHk3ZnAtUWtfNiJ9"
+   }
+  ],
+  "ai_overview": {
+   "page_token": "Y7bVT3iczZVbcqpIGIAXMOsYX0zkokRJFXWquyWmjZe0ieMxLxQitiiKXCLBt9nLrGUWMauZphWFRJNzzsPU_FXQ0pf_1v_n_-dfrrNe_vPb3_Mo2oS3ghDHcYV6HnXtiuVVnLVghsnaEmaeGwbW_Bt1NWddmruavS4lW61askJNLNmOdh93gOlX60B5qm4i8pjUZ5trsizx45oxMUN7wfS_LULBENhr-Xu1yT4qflix10YLVtSOGjhdubeLGxVZlKuVvmCu2CbwnwpE6QvoMaCfbUM_pk3X-UByU5QfZRZOJul-w5I9ON2sg7MCU018zekePhu4AXbMUYIPe9qfOIOLijv7gYz3nlJa9PMLwdx-LhE4t1jUg8_Hsz8PHo4T72_63AXwQyQuzsXcD5K_FFo4gPLOwZPXCoAKbqAW-vSyU_1KAuHu6PNF8VC7BjLvYFeYUlbAojAJ2CAJjjW3-I8gTOsaPauidxc-Wovh02riXHdd22xGyXDZlBbDZDmOBWvC9rmeObWnxtwQv_FvSZYUUa3WG1ccKis8UhUWqCJY7g1GQB3pYaVTGUk5no7pwAScgkpndXKuCFgZsxQiXqGZHLfNs6zG3dMqBvQB5MXLDvFMj3NW8L7yAYFLcFbQ0WBaSGl2Se66GE_wGENWaQee4MF5eFo62GXMAXiaThkY5G3mCyYzdPoJs2GauQcRD97D1tGTYknx5LVPBMZ7jfBQ0WBM5zrmNexlTjVp81hv-jidaxejTK-E3WBKLkI425tlFn_450Q8rN4TD645T0OG-BAaiwJluXn7ELt-gQ88SEPAZ7L1tZCvYNpbyOB5x0KeoZbvDx8V33Pun1-obBq--qCsJ2oY9dfxeWa81eQnW5H1vyMr61Q1XmkXyUI_RhZz5BJZvNz469SpYKp8qOuXyTp0KgvsyfqsU30gC0M9T1baqRhZg_Od6qfJwjmySIEs_ClZDxfJopfISjvVe7KKnUq_0Kkysn6lUw1-pVNxyOz9UGxbrwt6uX1JOk3i-2780lXIbvm9S9sP_uLxjmx0-mX7mq2i25U5da8MZ3oL5XaUTK8MNuHd2tOSrzWd2HSdchjbdlQObMvZ2OWFSakdJGU6t-1yPLfNqDxzvdegPGWTs-DVicJy4JlhxDSs3MDTRPNGqvq-PnTAzrp3O72dt4toNFzH7e_DWni9HfSq4Oa11bp7binV5f3OwI_kydz2_nibSH28rSnXwPOfIwMpk3p3tOjtZLW_ifTm2x2-swh9epF1VY-vSR8QtOost7GYwN7YqQcD1RXr6KX2etO0bYN7E2rDURf2t2jlbHFpFVgaK5zahg4IGFFgAcToRYwx5LEnZs8NwwjKrGpLoWUadrjVatMbRW1IM1ESpepEkUsrGiUbTRVL4TrQpH8BhMxW4g",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Y7bVT3iczZVbcqpIGIAXMOsYX0zkokRJFXWquyWmjZe0ieMxLxQitiiKXCLBt9nLrGUWMauZphWFRJNzzsPU_FXQ0pf_1v_n_-dfrrNe_vPb3_Mo2oS3ghDHcYV6HnXtiuVVnLVghsnaEmaeGwbW_Bt1NWddmruavS4lW61askJNLNmOdh93gOlX60B5qm4i8pjUZ5trsizx45oxMUN7wfS_LULBENhr-Xu1yT4qflix10YLVtSOGjhdubeLGxVZlKuVvmCu2CbwnwpE6QvoMaCfbUM_pk3X-UByU5QfZRZOJul-w5I9ON2sg7MCU018zekePhu4AXbMUYIPe9qfOIOLijv7gYz3nlJa9PMLwdx-LhE4t1jUg8_Hsz8PHo4T72_63AXwQyQuzsXcD5K_FFo4gPLOwZPXCoAKbqAW-vSyU_1KAuHu6PNF8VC7BjLvYFeYUlbAojAJ2CAJjjW3-I8gTOsaPauidxc-Wovh02riXHdd22xGyXDZlBbDZDmOBWvC9rmeObWnxtwQv_FvSZYUUa3WG1ccKis8UhUWqCJY7g1GQB3pYaVTGUk5no7pwAScgkpndXKuCFgZsxQiXqGZHLfNs6zG3dMqBvQB5MXLDvFMj3NW8L7yAYFLcFbQ0WBaSGl2Se66GE_wGENWaQee4MF5eFo62GXMAXiaThkY5G3mCyYzdPoJs2GauQcRD97D1tGTYknx5LVPBMZ7jfBQ0WBM5zrmNexlTjVp81hv-jidaxejTK-E3WBKLkI425tlFn_450Q8rN4TD645T0OG-BAaiwJluXn7ELt-gQ88SEPAZ7L1tZCvYNpbyOB5x0KeoZbvDx8V33Pun1-obBq--qCsJ2oY9dfxeWa81eQnW5H1vyMr61Q1XmkXyUI_RhZz5BJZvNz469SpYKp8qOuXyTp0KgvsyfqsU30gC0M9T1baqRhZg_Od6qfJwjmySIEs_ClZDxfJopfISjvVe7KKnUq_0Kkysn6lUw1-pVNxyOz9UGxbrwt6uX1JOk3i-2780lXIbvm9S9sP_uLxjmx0-mX7mq2i25U5da8MZ3oL5XaUTK8MNuHd2tOSrzWd2HSdchjbdlQObMvZ2OWFSakdJGU6t-1yPLfNqDxzvdegPGWTs-DVicJy4JlhxDSs3MDTRPNGqvq-PnTAzrp3O72dt4toNFzH7e_DWni9HfSq4Oa11bp7binV5f3OwI_kydz2_nibSH28rSnXwPOfIwMpk3p3tOjtZLW_ifTm2x2-swh9epF1VY-vSR8QtOost7GYwN7YqQcD1RXr6KX2etO0bYN7E2rDURf2t2jlbHFpFVgaK5zahg4IGFFgAcToRYwx5LEnZs8NwwjKrGpLoWUadrjVatMbRW1IM1ESpepEkUsrGiUbTRVL4TrQpH8BhMxW4g"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Quick and Healthy Recipes for a Better Lifestyle By Nisha Gupta – tagged \"festive jaggery ...",
+    "link": "https://www.dineshflourmills.com/blogs/recipes-2/tagged/festive-jaggery-recipe?srsltid=AU7gw4UFBmg19AFMn4lqY7fU19M1NdrKOYQUlGVEwRrQPUzqKcCa3OH5",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESyAEB6zswFbm6R_VI-Wc6d6dsPmN0vfihroiXt96_W6mJ_b9SQKpZ9PHuhqnOL6uD9U9z5w82fDMSFSrsfg_8V-cOU8PtfExxeXLgKevlYeRKFPCJ0_Ql13xcMGXespJP8wQwkDZqTB6zgFvUxb6peLALJYuxJJQyXE6BZFnMaKpbj6D8nHDYfKfg-wOXUdTCqRKHvsmKoBxOCDx56yGCgxA-5_W41H5DNPMsGb7Z1vhLb6La2gC332TKcy_6sCTM1Hkk06gmx7aERA&ved=2ahUKEwjthvqChZyXAxWUm4kEHctbOp8QFnoECCkQAQ&uoh=1",
+    "displayed_link": "https://www.dineshflourmills.com",
+    "favicon": "https://serpapi.com/images/i/UklGRvgBAABXRUJQVlA4IOwBAACQCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zND-HoHyAX99oI4BoHdwBvAH6gewB0oP-jmYYgJnCyA6QHUCVBDP_KN2sMvvwvrbFNgUg2y0bNO6CUmR0Ur_Uq4wA_vY0XekR2xZPgNrMVCmPY_xM7SUDu0G73GlxmsLjWFrfxzEcjJjmXo__fPH5nP-LKtHSxP3DJz-5IGshn6EUnG7Ma5ECj_97uD_wp138V1j0PHcgaTIwQ2X4-x4fvKxZv_xjr1XJYtv3UfSoMJaKz1H_tvyKYNgzi5NUdK_lZBJAGAjZqdYmLl2tw9JopzLmHpkwlSQZRcTsYdDwMQD5MZUUeIFHVDZjauWWKU-ZfiT6_8rueyfRjDADaKBiQF7R__5OW_I19nYOv4hKQ7JP8uudgBIz6KqH1b67xBNGFYTQiaXhpnxASojC5wf6a2ix3qUGyqjcIyyXuzeM90KE7dPoGiNak4wyD2yinuSJ-IJ9orbBxMrFk7v4R05dxZrmIunbqb_LiNhnAavP7dd2owxdV0962w-HQx3CUgHgg6z3J0TLUoEDVo31kMgHUwn5zDD5ZbZHrjBb9YXGpyONFHrByAvpLI1LMfK8LyjTJoMuyGbKwK9cxaiZs-uiWUQTUcpcEI5xGQVh8uAAAAA.webp",
+    "snippet": "Method Dry-roast the seeds and dry-fruit mix for 2 to 3 minutes. Roast the makhana in half the ghee. Melt jaggery with one tablespoon of water over low heat. ...",
+    "about_this_result": {
+     "source": {
+      "description": "Method Dry-roast the seeds and dry-fruit mix for 2 to 3 minutes. Roast the makhana in half the ghee. Melt jaggery with one tablespoon of water over low heat. ...",
+      "source_info_link": "https://www.dineshflourmills.com/blogs/recipes-2/tagged/festive-jaggery-recipe?srsltid=AU7gw4UFBmg19AFMn4lqY7fU19M1NdrKOYQUlGVEwRrQPUzqKcCa3OH5",
+      "icon": "https://serpapi.com/images/i/UklGRvgBAABXRUJQVlA4IOwBAACQCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zND-HoHyAX99oI4BoHdwBvAH6gewB0oP-jmYYgJnCyA6QHUCVBDP_KN2sMvvwvrbFNgUg2y0bNO6CUmR0Ur_Uq4wA_vY0XekR2xZPgNrMVCmPY_xM7SUDu0G73GlxmsLjWFrfxzEcjJjmXo__fPH5nP-LKtHSxP3DJz-5IGshn6EUnG7Ma5ECj_97uD_wp138V1j0PHcgaTIwQ2X4-x4fvKxZv_xjr1XJYtv3UfSoMJaKz1H_tvyKYNgzi5NUdK_lZBJAGAjZqdYmLl2tw9JopzLmHpkwlSQZRcTsYdDwMQD5MZUUeIFHVDZjauWWKU-ZfiT6_8rueyfRjDADaKBiQF7R__5OW_I19nYOv4hKQ7JP8uudgBIz6KqH1b67xBNGFYTQiaXhpnxASojC5wf6a2ix3qUGyqjcIyyXuzeM90KE7dPoGiNak4wyD2yinuSJ-IJ9orbBxMrFk7v4R05dxZrmIunbqb_LiNhnAavP7dd2owxdV0962w-HQx3CUgHgg6z3J0TLUoEDVo31kMgHUwn5zDD5ZbZHrjBb9YXGpyONFHrByAvpLI1LMfK8LyjTJoMuyGbKwK9cxaiZs-uiWUQTUcpcEI5xGQVh8uAAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpwCL2dvdG8_dXJsPUNBRVN5QUVCNnpzd0ZibTZSX1ZJLVdjNmQ2ZHNQbU4wdmZpaHJvaVh0OTZfVzZtSl9iOVNRS3BaOVBIdWhxbk9MNnVEOVU5ejV3ODJmRE1TRlNyc2ZnXzhWLWNPVThQdGZFeHhlWExnS2V2bFllUktGUENKMF9RbDEzeGNNR1hlc3BKUDh3UXdrRFpxVEI2emdGdlV4YjZwZUxBTEpZdXhKSlF5WEU2QlpGbk1hS3BiajZEOG5IRFlmS2ZnLXdPWFVkVENxUktIdnNtS29CeE9DRHg1NnlHQ2d4QS01X1c0MUg1RE5QTXNHYjdaMXZoTGI2TGEyZ0MzMzJUS2N5XzZzQ1RNMUhrazA2Z214N2FFUkESBBoCCAAagggSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA3gcIABAAGAAgAConCgZkaXdhbGkVAAAAABoLZGl3YWxpc3dlZXQaC2l2O3A7ZGl3YWxpKjQKBXN3ZWV0FQAAAAAaBGZvb2QaBnN3ZWV0cxoLZGl3YWxpc3dlZXQaC3N3ZWV0cmVjaXBlKkcKBnJlY2lwZRXsLbs_Ggdjb29raW5nGgRkaXNoGgZtYWtpbmcaB3JlY2lwZXMaC3N3ZWV0cmVjaXBlGgtpdjtwO3JlY2lwZSocCgdqYWdnZXJ5FQbHI0AaDGl2O3A7amFnZ2VyeSoWCgRnaGVlFV0pxz8aCWl2O3A7Z2hlZSokCgV3aGVhdBVEUis_Ggp3aGVhdGZsb3VyGgppdjtwO3doZWF0KiQKBWZsb3VyFTkYbUAaCndoZWF0ZmxvdXIaCml2O3A7ZmxvdXIqHQoDZHJ5FZ9xuj8aBmRyeWluZxoJZHJ5ZnJ1aXRzKiwKBmZydWl0cxWX8ZQ_GgVmcnVpdBoJZHJ5ZnJ1aXRzGgtpdjtwO2ZydWl0cypTCgdyb2FzdGVkFQWWiT8aBGJha2UaBWJha2VkGgZiYWtpbmcaBXJvYXN0Gghyb2FzdGluZxoGcm9hc3RzGgd0b2FzdGVkGgxpdjtwO3JvYXN0ZWQyxAEvZ290bz91cmw9Q0FFU2hnRUI2enN3RmZpc1JwN3JObm44R2JkY0RnWEVKV2gtcGJ4Z2pQMWxiM2pGV0VSZXNwMHBTZmFCV1k4WGxVdUJwNUFSV1lPUDI3NUJXb1p6M0JUVWRXdjZFLVZDZkdiRjBhRm5XRXc3RElQaHE0SEFmWUxHR3k3c2Nmd2dKS0NtUEY1UXBNT09NMWpiWUthaDd3NEV1U1VGTGFtRDhfaUZGODlnejZFcllRbXBZa3pVVG9MSndBOpABUXVpY2sgYW5kIEhlYWx0aHkgPGI-UmVjaXBlczwvYj4gZm9yIGEgQmV0dGVyIExpZmVzdHlsZSBCeSBOaXNoYSBHdXB0YSDigJMgdGFnZ2VkICZxdW90O2Zlc3RpdmUgPGI-amFnZ2VyeSByZWNpcGU8L2I-JnF1b3Q7IC0gRGluZXNoIEZsb3VyIE1pbGxzQq0BTWV0aG9kIDxiPkRyeS1yb2FzdCB0aGUgc2VlZHMgYW5kIGRyeS1mcnVpdCBtaXggZm9yIDIgdG8gMyBtaW51dGVzPC9iPi4gUm9hc3QgdGhlIG1ha2hhbmEgaW4gaGFsZiB0aGUgZ2hlZS4gTWVsdCBqYWdnZXJ5IHdpdGggb25lIHRhYmxlc3Bvb24gb2Ygd2F0ZXIgb3ZlciBsb3cgaGVhdC4mbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpwCL2dvdG8_dXJsPUNBRVN5QUVCNnpzd0ZibTZSX1ZJLVdjNmQ2ZHNQbU4wdmZpaHJvaVh0OTZfVzZtSl9iOVNRS3BaOVBIdWhxbk9MNnVEOVU5ejV3ODJmRE1TRlNyc2ZnXzhWLWNPVThQdGZFeHhlWExnS2V2bFllUktGUENKMF9RbDEzeGNNR1hlc3BKUDh3UXdrRFpxVEI2emdGdlV4YjZwZUxBTEpZdXhKSlF5WEU2QlpGbk1hS3BiajZEOG5IRFlmS2ZnLXdPWFVkVENxUktIdnNtS29CeE9DRHg1NnlHQ2d4QS01X1c0MUg1RE5QTXNHYjdaMXZoTGI2TGEyZ0MzMzJUS2N5XzZzQ1RNMUhrazA2Z214N2FFUkESBBoCCAAagggSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA3gcIABAAGAAgAConCgZkaXdhbGkVAAAAABoLZGl3YWxpc3dlZXQaC2l2O3A7ZGl3YWxpKjQKBXN3ZWV0FQAAAAAaBGZvb2QaBnN3ZWV0cxoLZGl3YWxpc3dlZXQaC3N3ZWV0cmVjaXBlKkcKBnJlY2lwZRXsLbs_Ggdjb29raW5nGgRkaXNoGgZtYWtpbmcaB3JlY2lwZXMaC3N3ZWV0cmVjaXBlGgtpdjtwO3JlY2lwZSocCgdqYWdnZXJ5FQbHI0AaDGl2O3A7amFnZ2VyeSoWCgRnaGVlFV0pxz8aCWl2O3A7Z2hlZSokCgV3aGVhdBVEUis_Ggp3aGVhdGZsb3VyGgppdjtwO3doZWF0KiQKBWZsb3VyFTkYbUAaCndoZWF0ZmxvdXIaCml2O3A7ZmxvdXIqHQoDZHJ5FZ9xuj8aBmRyeWluZxoJZHJ5ZnJ1aXRzKiwKBmZydWl0cxWX8ZQ_GgVmcnVpdBoJZHJ5ZnJ1aXRzGgtpdjtwO2ZydWl0cypTCgdyb2FzdGVkFQWWiT8aBGJha2UaBWJha2VkGgZiYWtpbmcaBXJvYXN0Gghyb2FzdGluZxoGcm9hc3RzGgd0b2FzdGVkGgxpdjtwO3JvYXN0ZWQyxAEvZ290bz91cmw9Q0FFU2hnRUI2enN3RmZpc1JwN3JObm44R2JkY0RnWEVKV2gtcGJ4Z2pQMWxiM2pGV0VSZXNwMHBTZmFCV1k4WGxVdUJwNUFSV1lPUDI3NUJXb1p6M0JUVWRXdjZFLVZDZkdiRjBhRm5XRXc3RElQaHE0SEFmWUxHR3k3c2Nmd2dKS0NtUEY1UXBNT09NMWpiWUthaDd3NEV1U1VGTGFtRDhfaUZGODlnejZFcllRbXBZa3pVVG9MSndBOpABUXVpY2sgYW5kIEhlYWx0aHkgPGI-UmVjaXBlczwvYj4gZm9yIGEgQmV0dGVyIExpZmVzdHlsZSBCeSBOaXNoYSBHdXB0YSDigJMgdGFnZ2VkICZxdW90O2Zlc3RpdmUgPGI-amFnZ2VyeSByZWNpcGU8L2I-JnF1b3Q7IC0gRGluZXNoIEZsb3VyIE1pbGxzQq0BTWV0aG9kIDxiPkRyeS1yb2FzdCB0aGUgc2VlZHMgYW5kIGRyeS1mcnVpdCBtaXggZm9yIDIgdG8gMyBtaW51dGVzPC9iPi4gUm9hc3QgdGhlIG1ha2hhbmEgaW4gaGFsZiB0aGUgZ2hlZS4gTWVsdCBqYWdnZXJ5IHdpdGggb25lIHRhYmxlc3Bvb24gb2Ygd2F0ZXIgb3ZlciBsb3cgaGVhdC4mbmJzcDsuLi4iAhABSABYAGgA",
+    "source": "Dinesh Flour Mills"
+   },
+   {
+    "position": 2,
+    "title": "Whole wheat Rasmalai cookies.. Dry fruit cookies.. Anyone interested for recipe..",
+    "link": "https://www.facebook.com/groups/221943632273851/posts/588910618910482/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVIGNBAffiNiZtDVt-LD8AsTRFFPlCskFxEotAeL4yu4Fn0FiXu6xDvnGp_Pwz9rtWANpW7DHlLedxk-d4kCkdRtJB-Qvet2pyIryjDOakI3Jxpw4TkVVQRBGKiQop9Q9kpcCJPAnJhZRYb-zQBmeiLUt7Mi979yHe6g&ved=2ahUKEwjthvqChZyXAxWUm4kEHctbOp8QFnoECC4QAQ&uoh=1",
+    "displayed_link": "230+ comments · 5 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "Ingredients: - 250g whole wheat flour ( powdered jaggery) Preheat oven to 190°C (375°F). Roasted (optional) Powder Ghee Chopped Dry fruits ...",
+    "sitelinks": {
+     "expanded": [
+      {
+       "title": "Healthy Diwali recipes without fryingEuphoric Delights·20+ comments·7y",
+       "link": "https://www.facebook.com/groups/euphoric.delights/posts/2068284556543840/"
+      },
+      {
+       "title": "Hallo healthy eaters Let this Christmas be a celebration of love, good health and ...Healthy looks Tasty!·10+ comments·5y",
+       "link": "https://www.facebook.com/groups/1399675110224012/posts/1553197931538395/"
+      }
+     ]
+    },
+    "about_this_result": {
+     "source": {
+      "description": "Ingredients: - 250g whole wheat flour ( powdered jaggery) Preheat oven to 190°C (375°F). Roasted (optional) Powder Ghee Chopped Dry fruits ...",
+      "source_info_link": "https://www.facebook.com/groups/221943632273851/posts/588910618910482/",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVklHTkJBZmZpTmladERWdC1MRDhBc1RSRkZQbENza0Z4RW90QWVMNHl1NEZuMEZpWHU2eER2bkdwX1B3ejlydFdBTnBXN0RIbExlZHhrLWQ0a0NrZFJ0SkItUXZldDJweUlyeWpET2FrSTNKeHB3NFRrVlZRUkJHS2lRb3A5UTlrcGNDSlBBbkpoWlJZYi16UUJtZWlMVXQ3TWk5Nzl5SGU2ZxIEGgIIABq-BxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCaBwgAEAAYACAAKicKBmRpd2FsaRUAAAAAGgtkaXdhbGlzd2VldBoLaXY7cDtkaXdhbGkqNAoFc3dlZXQVgCwAPRoEZm9vZBoGc3dlZXRzGgtkaXdhbGlzd2VldBoLc3dlZXRyZWNpcGUqRwoGcmVjaXBlFSDgzkAaB2Nvb2tpbmcaBGRpc2gaBm1ha2luZxoHcmVjaXBlcxoLc3dlZXRyZWNpcGUaC2l2O3A7cmVjaXBlKhwKB2phZ2dlcnkV0BQyPxoMaXY7cDtqYWdnZXJ5KhYKBGdoZWUVTaI4PxoJaXY7cDtnaGVlKiQKBXdoZWF0FZj72UAaCndoZWF0ZmxvdXIaCml2O3A7d2hlYXQqJAoFZmxvdXIVSbzdPxoKd2hlYXRmbG91choKaXY7cDtmbG91ciodCgNkcnkVVMWEQBoGZHJ5aW5nGglkcnlmcnVpdHMqLAoGZnJ1aXRzFbJVNz8aBWZydWl0GglkcnlmcnVpdHMaC2l2O3A7ZnJ1aXRzKlMKB3JvYXN0ZWQVrEiiPRoEYmFrZRoFYmFrZWQaBmJha2luZxoFcm9hc3QaCHJvYXN0aW5nGgZyb2FzdHMaB3RvYXN0ZWQaDGl2O3A7cm9hc3RlZDK4AS9nb3RvP3VybD1DQUVTZmdIck96QVZJR05CQWZmaU5pWnREVnQtTEQ4QXNUUkZGUGxDc2tGeEVvdEFlTDR5dTRGbjBGaVh1NnhEdm5HcF9Qd3o5cnRXQU5wVzdESGxMZWR4ay1kNGtDa2RSdEpCLVF2ZXQycHlJcnlqRE9ha0kzSnhwdzRUa1ZWUVJCR0tpUW9wOVE5a3BjQ0pQQW5KaFpSWWItelFCbWVpTFV0N01pOTc5eUhlNmc6cVdob2xlIDxiPndoZWF0PC9iPiBSYXNtYWxhaSBjb29raWVzLi4gPGI-RHJ5IGZydWl0PC9iPiBjb29raWVzLi4gQW55b25lIGludGVyZXN0ZWQgZm9yIDxiPnJlY2lwZTwvYj4uLiAtIEZhY2Vib29rQpUBSW5ncmVkaWVudHM6IC0gMjUwZyB3aG9sZSB3aGVhdCBmbG91ciAoIHBvd2RlcmVkIGphZ2dlcnkpIFByZWhlYXQgb3ZlbiB0byAxOTDCsEMgKDM3NcKwRikuIFJvYXN0ZWQgKG9wdGlvbmFsKSBQb3dkZXIgR2hlZSBDaG9wcGVkIERyeSBmcnVpdHMmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVklHTkJBZmZpTmladERWdC1MRDhBc1RSRkZQbENza0Z4RW90QWVMNHl1NEZuMEZpWHU2eER2bkdwX1B3ejlydFdBTnBXN0RIbExlZHhrLWQ0a0NrZFJ0SkItUXZldDJweUlyeWpET2FrSTNKeHB3NFRrVlZRUkJHS2lRb3A5UTlrcGNDSlBBbkpoWlJZYi16UUJtZWlMVXQ3TWk5Nzl5SGU2ZxIEGgIIABq-BxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCaBwgAEAAYACAAKicKBmRpd2FsaRUAAAAAGgtkaXdhbGlzd2VldBoLaXY7cDtkaXdhbGkqNAoFc3dlZXQVgCwAPRoEZm9vZBoGc3dlZXRzGgtkaXdhbGlzd2VldBoLc3dlZXRyZWNpcGUqRwoGcmVjaXBlFSDgzkAaB2Nvb2tpbmcaBGRpc2gaBm1ha2luZxoHcmVjaXBlcxoLc3dlZXRyZWNpcGUaC2l2O3A7cmVjaXBlKhwKB2phZ2dlcnkV0BQyPxoMaXY7cDtqYWdnZXJ5KhYKBGdoZWUVTaI4PxoJaXY7cDtnaGVlKiQKBXdoZWF0FZj72UAaCndoZWF0ZmxvdXIaCml2O3A7d2hlYXQqJAoFZmxvdXIVSbzdPxoKd2hlYXRmbG91choKaXY7cDtmbG91ciodCgNkcnkVVMWEQBoGZHJ5aW5nGglkcnlmcnVpdHMqLAoGZnJ1aXRzFbJVNz8aBWZydWl0GglkcnlmcnVpdHMaC2l2O3A7ZnJ1aXRzKlMKB3JvYXN0ZWQVrEiiPRoEYmFrZRoFYmFrZWQaBmJha2luZxoFcm9hc3QaCHJvYXN0aW5nGgZyb2FzdHMaB3RvYXN0ZWQaDGl2O3A7cm9hc3RlZDK4AS9nb3RvP3VybD1DQUVTZmdIck96QVZJR05CQWZmaU5pWnREVnQtTEQ4QXNUUkZGUGxDc2tGeEVvdEFlTDR5dTRGbjBGaVh1NnhEdm5HcF9Qd3o5cnRXQU5wVzdESGxMZWR4ay1kNGtDa2RSdEpCLVF2ZXQycHlJcnlqRE9ha0kzSnhwdzRUa1ZWUVJCR0tpUW9wOVE5a3BjQ0pQQW5KaFpSWWItelFCbWVpTFV0N01pOTc5eUhlNmc6cVdob2xlIDxiPndoZWF0PC9iPiBSYXNtYWxhaSBjb29raWVzLi4gPGI-RHJ5IGZydWl0PC9iPiBjb29raWVzLi4gQW55b25lIGludGVyZXN0ZWQgZm9yIDxiPnJlY2lwZTwvYj4uLiAtIEZhY2Vib29rQpUBSW5ncmVkaWVudHM6IC0gMjUwZyB3aG9sZSB3aGVhdCBmbG91ciAoIHBvd2RlcmVkIGphZ2dlcnkpIFByZWhlYXQgb3ZlbiB0byAxOTDCsEMgKDM3NcKwRikuIFJvYXN0ZWQgKG9wdGlvbmFsKSBQb3dkZXIgR2hlZSBDaG9wcGVkIERyeSBmcnVpdHMmbmJzcDsuLi4iAhABSABYAGgA",
+    "source": "Facebook · Cake and Desserts Recipe | Home Bakers"
+   },
+   {
+    "position": 3,
+    "title": "Dry Fruit Barfi Recipe - Healthy Energy Bar Barfi | Dates & Nut Burfi Halwa - Khajoor Roll",
+    "link": "https://www.youtube.com/watch?v=uSfpLoXgBgU",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVvi16LoIUYSXR10ZWFSRuc1SjrbmkVEBxAT4Dy8jtxDTZBfrkEmvxpcA3P7KJp_ld8pbi9y0wnKcJykdoqKgYB16dS0J6lF9sert7FmtkGa8_eRJNDzzDsD4ky4M4aA&ved=2ahUKEwjthvqChZyXAxWUm4kEHctbOp8QtwJ6BAgdEAE&uoh=1",
+    "thumbnail": "https://serpapi.com/searches/6ac0021ef0114a2d346ed9d9/images/QSSuImhOUQddK7F6wq1qJRGxXWAg1UOGjsSvHt07RT0.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "duration": "3:32",
+    "snippet": "Simple and easy Indian fudge or Indian mithai recipe made with dry fruits. This recipe does not have any extra added sugar and the sweetness is ...",
+    "about_this_result": {
+     "source": {
+      "description": "Simple and easy Indian fudge or Indian mithai recipe made with dry fruits. This recipe does not have any extra added sugar and the sweetness is ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnZpMTZMb0lVWVNYUjEwWldGU1J1YzFTanJibWtWRUJ4QVQ0RHk4anR4RFRaQmZya0VtdnhwY0EzUDdLSnBfbGQ4cGJpOXkwd25LY0p5a2RvcUtnWUIxNmRTMEo2bEY5c2VydDdGbXRrR2E4X2VSSk5EenpEc0Q0a3k0TTRhQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnZpMTZMb0lVWVNYUjEwWldGU1J1YzFTanJibWtWRUJ4QVQ0RHk4anR4RFRaQmZya0VtdnhwY0EzUDdLSnBfbGQ4cGJpOXkwd25LY0p5a2RvcUtnWUIxNmRTMEo2bEY5c2VydDdGbXRrR2E4X2VSSk5EenpEc0Q0a3k0TTRhQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "source": "YouTube · Hebbars Kitchen"
+   },
+   {
+    "position": 4,
+    "title": "Create a pastry dough with flour and ghee. For the stuffing, mix grated coconut with jaggery and poppy",
+    "link": "https://www.facebook.com/everydayfooodlife/posts/craving-something-sweet-but-want-to-skip-the-deep-frying-weve-got-you-covered-wi/122244450386041683/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzgEB6zswFRO6ywd2LXw88YHkMRXR7oXclMj0Z69erpEw1eE-cIebkxd6d8RCzLjLF7PGtZGGCNeAdyyL58SG-D80BkWRCdDbhoLtefIVLHUyT8CkcizqwLrXupcNc_tGtEIIa7gwl4aoQFvsoOyO4q3-7f7TCQmcoDq8fASgaGfFdZyZQL_B9crrviNnJAZ-8TfjPWFGB8mVbo9OGbwxZ3vOP0M4efyRPzj6DE6OeBnAA28oABPCUFKoP_8J4G9AlNUjjURehGiLsdrgZ6aaeA&ved=2ahUKEwjthvqChZyXAxWUm4kEHctbOp8QFnoECFYQAQ&uoh=1",
+    "displayed_link": "30+ reactions · 4 months ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "Ingredients: 2 cups flour, 1 cup coconut, 1/2 cup jaggery, 2 tbsp ghee, poppy seeds. Method dunk them into warm sugar syrup until soaked ...",
+    "about_this_result": {
+     "source": {
+      "description": "Ingredients: 2 cups flour, 1 cup coconut, 1/2 cup jaggery, 2 tbsp ghee, poppy seeds. Method dunk them into warm sugar syrup until soaked ...",
+      "source_info_link": "https://www.facebook.com/everydayfooodlife/posts/craving-something-sweet-but-want-to-skip-the-deep-frying-weve-got-you-covered-wi/122244450386041683/",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqQCL2dvdG8_dXJsPUNBRVN6Z0VCNnpzd0ZSTzZ5d2QyTFh3ODhZSGtNUlhSN29YY2xNajBaNjllcnBFdzFlRS1jSWVia3hkNmQ4UkN6TGpMRjdQR3RaR0dDTmVBZHl5TDU4U0ctRDgwQmtXUkNkRGJob0x0ZWZJVkxIVXlUOENrY2l6cXdMclh1cGNOY190R3RFSUlhN2d3bDRhb1FGdnNvT3lPNHEzLTdmN1RDUW1jb0RxOGZBU2dhR2ZGZFp5WlFMX0I5Y3JydmlObkpBWi04VGZqUFdGR0I4bVZibzlPR2J3eFozdk9QME00ZWZ5UlB6ajZERTZPZUJuQUEyOG9BQlBDVUZLb1BfOEo0RzlBbE5VampVUmVoR2lMc2RyZ1o2YWFlQRIEGgIIABrDCBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCfCAgAEAAYACAAKicKBmRpd2FsaRUAAAAAGgtkaXdhbGlzd2VldBoLaXY7cDtkaXdhbGkqNAoFc3dlZXQVwLQvQBoEZm9vZBoGc3dlZXRzGgtkaXdhbGlzd2VldBoLc3dlZXRyZWNpcGUqRwoGcmVjaXBlFQAiAz4aB2Nvb2tpbmcaBGRpc2gaBm1ha2luZxoHcmVjaXBlcxoLc3dlZXRyZWNpcGUaC2l2O3A7cmVjaXBlKhwKB2phZ2dlcnkVX6v2PxoMaXY7cDtqYWdnZXJ5KhYKBGdoZWUVFJpzQBoJaXY7cDtnaGVlKiQKBXdoZWF0FQAAAAAaCndoZWF0ZmxvdXIaCml2O3A7d2hlYXQqJAoFZmxvdXIVkGhiQBoKd2hlYXRmbG91choKaXY7cDtmbG91ciodCgNkcnkVAAAAABoGZHJ5aW5nGglkcnlmcnVpdHMqLAoGZnJ1aXRzFQAAAAAaBWZydWl0GglkcnlmcnVpdHMaC2l2O3A7ZnJ1aXRzKlMKB3JvYXN0ZWQVAAAAABoEYmFrZRoFYmFrZWQaBmJha2luZxoFcm9hc3QaCHJvYXN0aW5nGgZyb2FzdHMaB3RvYXN0ZWQaDGl2O3A7cm9hc3RlZDKkAi9nb3RvP3VybD1DQUVTemdFQjZ6c3dGUk82eXdkMkxYdzg4WUhrTVJYUjdvWGNsTWowWjY5ZXJwRXcxZUUtY0llYmt4ZDZkOFJDekxqTEY3UEd0WkdHQ05lQWR5eUw1OFNHLUQ4MEJrV1JDZERiaG9MdGVmSVZMSFV5VDhDa2NpenF3THJYdXBjTmNfdEd0RUlJYTdnd2w0YW9RRnZzb095TzRxMy03ZjdUQ1FtY29EcThmQVNnYUdmRmRaeVpRTF9COWNycnZpTm5KQVotOFRmalBXRkdCOG1WYm85T0did3haM3ZPUDBNNGVmeVJQemo2REU2T2VCbkFBMjhvQUJQQ1VGS29QXzhKNEc5QWxOVWpqVVJlaEdpTHNkcmdaNmFhZUE6hgFDcmVhdGUgYSBwYXN0cnkgZG91Z2ggd2l0aCA8Yj5mbG91cjwvYj4gYW5kIDxiPmdoZWU8L2I-LiBGb3IgdGhlIHN0dWZmaW5nLCBtaXggZ3JhdGVkIGNvY29udXQgd2l0aCA8Yj5qYWdnZXJ5PC9iPiBhbmQgcG9wcHkgLSBGYWNlYm9va0KYATxiPkluZ3JlZGllbnRzOiAyIGN1cHMgZmxvdXIsIDEgY3VwIGNvY29udXQsIDEvMiBjdXAgamFnZ2VyeSwgMiB0YnNwIGdoZWUsIHBvcHB5IHNlZWRzPC9iPi4gTWV0aG9kIGR1bmsgdGhlbSBpbnRvIHdhcm0gc3VnYXIgc3lydXAgdW50aWwgc29ha2VkJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqQCL2dvdG8_dXJsPUNBRVN6Z0VCNnpzd0ZSTzZ5d2QyTFh3ODhZSGtNUlhSN29YY2xNajBaNjllcnBFdzFlRS1jSWVia3hkNmQ4UkN6TGpMRjdQR3RaR0dDTmVBZHl5TDU4U0ctRDgwQmtXUkNkRGJob0x0ZWZJVkxIVXlUOENrY2l6cXdMclh1cGNOY190R3RFSUlhN2d3bDRhb1FGdnNvT3lPNHEzLTdmN1RDUW1jb0RxOGZBU2dhR2ZGZFp5WlFMX0I5Y3JydmlObkpBWi04VGZqUFdGR0I4bVZibzlPR2J3eFozdk9QME00ZWZ5UlB6ajZERTZPZUJuQUEyOG9BQlBDVUZLb1BfOEo0RzlBbE5VampVUmVoR2lMc2RyZ1o2YWFlQRIEGgIIABrDCBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCfCAgAEAAYACAAKicKBmRpd2FsaRUAAAAAGgtkaXdhbGlzd2VldBoLaXY7cDtkaXdhbGkqNAoFc3dlZXQVwLQvQBoEZm9vZBoGc3dlZXRzGgtkaXdhbGlzd2VldBoLc3dlZXRyZWNpcGUqRwoGcmVjaXBlFQAiAz4aB2Nvb2tpbmcaBGRpc2gaBm1ha2luZxoHcmVjaXBlcxoLc3dlZXRyZWNpcGUaC2l2O3A7cmVjaXBlKhwKB2phZ2dlcnkVX6v2PxoMaXY7cDtqYWdnZXJ5KhYKBGdoZWUVFJpzQBoJaXY7cDtnaGVlKiQKBXdoZWF0FQAAAAAaCndoZWF0ZmxvdXIaCml2O3A7d2hlYXQqJAoFZmxvdXIVkGhiQBoKd2hlYXRmbG91choKaXY7cDtmbG91ciodCgNkcnkVAAAAABoGZHJ5aW5nGglkcnlmcnVpdHMqLAoGZnJ1aXRzFQAAAAAaBWZydWl0GglkcnlmcnVpdHMaC2l2O3A7ZnJ1aXRzKlMKB3JvYXN0ZWQVAAAAABoEYmFrZRoFYmFrZWQaBmJha2luZxoFcm9hc3QaCHJvYXN0aW5nGgZyb2FzdHMaB3RvYXN0ZWQaDGl2O3A7cm9hc3RlZDKkAi9nb3RvP3VybD1DQUVTemdFQjZ6c3dGUk82eXdkMkxYdzg4WUhrTVJYUjdvWGNsTWowWjY5ZXJwRXcxZUUtY0llYmt4ZDZkOFJDekxqTEY3UEd0WkdHQ05lQWR5eUw1OFNHLUQ4MEJrV1JDZERiaG9MdGVmSVZMSFV5VDhDa2NpenF3THJYdXBjTmNfdEd0RUlJYTdnd2w0YW9RRnZzb095TzRxMy03ZjdUQ1FtY29EcThmQVNnYUdmRmRaeVpRTF9COWNycnZpTm5KQVotOFRmalBXRkdCOG1WYm85T0did3haM3ZPUDBNNGVmeVJQemo2REU2T2VCbkFBMjhvQUJQQ1VGS29QXzhKNEc5QWxOVWpqVVJlaEdpTHNkcmdaNmFhZUE6hgFDcmVhdGUgYSBwYXN0cnkgZG91Z2ggd2l0aCA8Yj5mbG91cjwvYj4gYW5kIDxiPmdoZWU8L2I-LiBGb3IgdGhlIHN0dWZmaW5nLCBtaXggZ3JhdGVkIGNvY29udXQgd2l0aCA8Yj5qYWdnZXJ5PC9iPiBhbmQgcG9wcHkgLSBGYWNlYm9va0KYATxiPkluZ3JlZGllbnRzOiAyIGN1cHMgZmxvdXIsIDEgY3VwIGNvY29udXQsIDEvMiBjdXAgamFnZ2VyeSwgMiB0YnNwIGdoZWUsIHBvcHB5IHNlZWRzPC9iPi4gTWV0aG9kIGR1bmsgdGhlbSBpbnRvIHdhcm0gc3VnYXIgc3lydXAgdW50aWwgc29ha2VkJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "source": "Facebook · Everyday FoodLife"
+   },
+   {
+    "position": 5,
+    "title": "Whole Wheat Flour and Jaggery Fudge Recipe by Jolly Makkar | FoodRhythms",
+    "link": "https://foodrhythms.com/recipes/whole-wheat-flour-and-jaggery-fudge-d17adfdc-2757-4e0b-ac68-4829064b64b0",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEB6zswFS7AUYNR2GnCTO_ja38565_b9Z3jqDWFiXG2inXkzVvi2m5h4XLKuDGgkZrpBCtq_YLNLKWzCwOGedELxO9qiQj4u7nihxjQgjAOzizspnbLilfHwSvqDd0zdBC16DZ8AEk4sid8kLrOHmthLS1VEApmJrUIJNzTVvou6JJnGgxrO_9CKRlYSKqVNClTQPqsVJkY96FuJ69JdTSv&ved=2ahUKEwjthvqChZyXAxWUm4kEHctbOp8QFnoECFoQAQ&uoh=1",
+    "displayed_link": "https://foodrhythms.com",
+    "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADwBgCdASogACAAPtEwtFooIigoGAEAGglpABPPngA4Axi3OL9H8Aj0AFrX-Gq5EewnxAzHcrW1tHY_UxJwD9rAAP7-lUmmMWX9DcdgKSvVrUhEBiqfhtoTYmwhCQipfPdGh29I8lH11WORFJVtDmyBFn-rAGN_LvBYmDEcRWqeMC7HTY49Cu2D_XqEUfGKxDQo6h5nern8ybj2mBsKz4woQHTjIqztQxtpy9nRdehoIHLC31VPreLd4kOQ3u_QfyzS0k5offpIWQn0SZbb680S4mimds_e4IFboWtRD_CdATObCWp3CTIgNTM_jV8DBgysBA2RGZTj1IsMFjEhOkEfr_gvvFr1WSf7UFjNk3ZSo--f7tdaK4dyke7_j6JKElrHJOHVhccmR6qaX8QL2y2_cUEcn10pGZ7Hf_0FXdAbBgrD59CdgAAA.webp",
+    "snippet": "A traditional rich Indian desert made from whole wheat flour(atta), jaggery(gud), desi ghee(clarified butter) and some crunchy nuts(dry fruits).",
+    "about_this_result": {
+     "source": {
+      "description": "A traditional rich Indian desert made from whole wheat flour(atta), jaggery(gud), desi ghee(clarified butter) and some crunchy nuts(dry fruits).",
+      "source_info_link": "https://foodrhythms.com/recipes/whole-wheat-flour-and-jaggery-fudge-d17adfdc-2757-4e0b-ac68-4829064b64b0",
+      "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADwBgCdASogACAAPtEwtFooIigoGAEAGglpABPPngA4Axi3OL9H8Aj0AFrX-Gq5EewnxAzHcrW1tHY_UxJwD9rAAP7-lUmmMWX9DcdgKSvVrUhEBiqfhtoTYmwhCQipfPdGh29I8lH11WORFJVtDmyBFn-rAGN_LvBYmDEcRWqeMC7HTY49Cu2D_XqEUfGKxDQo6h5nern8ybj2mBsKz4woQHTjIqztQxtpy9nRdehoIHLC31VPreLd4kOQ3u_QfyzS0k5offpIWQn0SZbb680S4mimds_e4IFboWtRD_CdATObCWp3CTIgNTM_jV8DBgysBA2RGZTj1IsMFjEhOkEfr_gvvFr1WSf7UFjNk3ZSo--f7tdaK4dyke7_j6JKElrHJOHVhccmR6qaX8QL2y2_cUEcn10pGZ7Hf_0FXdAbBgrD59CdgAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZTN0FVWU5SMkduQ1RPX2phMzg1NjVfYjlaM2pxRFdGaVhHMmluWGt6VnZpMm01aDRYTEt1REdna1pycEJDdHFfWUxOTEtXekN3T0dlZEVMeE85cWlRajR1N25paHhqUWdqQU96aXpzcG5iTGlsZkh3U3ZxRGQwemRCQzE2RFo4QUVrNHNpZDhrTHJPSG10aExTMVZFQXBtSnJVSUpOelRWdm91NkpKbkdneHJPXzlDS1JsWVNLcVZOQ2xUUVBxc1ZKa1k5NkZ1SjY5SmRUU3YSBBoCCAAa0wcSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJArwcIABAAGAAgAConCgZkaXdhbGkVETeFPhoLZGl3YWxpc3dlZXQaC2l2O3A7ZGl3YWxpKjQKBXN3ZWV0FaOL6z8aBGZvb2QaBnN3ZWV0cxoLZGl3YWxpc3dlZXQaC3N3ZWV0cmVjaXBlKkcKBnJlY2lwZRXSRtdAGgdjb29raW5nGgRkaXNoGgZtYWtpbmcaB3JlY2lwZXMaC3N3ZWV0cmVjaXBlGgtpdjtwO3JlY2lwZSocCgdqYWdnZXJ5FfaN60AaDGl2O3A7amFnZ2VyeSoWCgRnaGVlFWSTrz8aCWl2O3A7Z2hlZSokCgV3aGVhdBV2xvtAGgp3aGVhdGZsb3VyGgppdjtwO3doZWF0KiQKBWZsb3VyFbh_6EAaCndoZWF0ZmxvdXIaCml2O3A7ZmxvdXIqHQoDZHJ5FaOL6z8aBmRyeWluZxoJZHJ5ZnJ1aXRzKiwKBmZydWl0cxWji-s_GgVmcnVpdBoJZHJ5ZnJ1aXRzGgtpdjtwO2ZydWl0cypTCgdyb2FzdGVkFQAAAAAaBGJha2UaBWJha2VkGgZiYWtpbmcaBXJvYXN0Gghyb2FzdGluZxoGcm9hc3RzGgd0b2FzdGVkGgxpdjtwO3JvYXN0ZWQy5gEvZ290bz91cmw9Q0FFU29BRUI2enN3RlM3QVVZTlIyR25DVE9famEzODU2NV9iOVozanFEV0ZpWEcyaW5Ya3pWdmkybTVoNFhMS3VER2drWnJwQkN0cV9ZTE5MS1d6Q3dPR2VkRUx4TzlxaVFqNHU3bmloeGpRZ2pBT3ppenNwbmJMaWxmSHdTdnFEZDB6ZEJDMTZEWjhBRWs0c2lkOGtMck9IbXRoTFMxVkVBcG1KclVJSk56VFZ2b3U2SkpuR2d4ck9fOUNLUmxZU0txVk5DbFRRUHFzVkprWTk2RnVKNjlKZFRTdjpdV2hvbGUgPGI-V2hlYXQgRmxvdXI8L2I-IGFuZCA8Yj5KYWdnZXJ5PC9iPiBGdWRnZSA8Yj5SZWNpcGU8L2I-IGJ5IEpvbGx5IE1ha2thciB8IEZvb2RSaHl0aG1zQpABQSB0cmFkaXRpb25hbCByaWNoIEluZGlhbiBkZXNlcnQgbWFkZSBmcm9tIHdob2xlIHdoZWF0IGZsb3VyKGF0dGEpLCBqYWdnZXJ5KGd1ZCksIGRlc2kgZ2hlZShjbGFyaWZpZWQgYnV0dGVyKSBhbmQgc29tZSBjcnVuY2h5IG51dHMoZHJ5IGZydWl0cykuIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZTN0FVWU5SMkduQ1RPX2phMzg1NjVfYjlaM2pxRFdGaVhHMmluWGt6VnZpMm01aDRYTEt1REdna1pycEJDdHFfWUxOTEtXekN3T0dlZEVMeE85cWlRajR1N25paHhqUWdqQU96aXpzcG5iTGlsZkh3U3ZxRGQwemRCQzE2RFo4QUVrNHNpZDhrTHJPSG10aExTMVZFQXBtSnJVSUpOelRWdm91NkpKbkdneHJPXzlDS1JsWVNLcVZOQ2xUUVBxc1ZKa1k5NkZ1SjY5SmRUU3YSBBoCCAAa0wcSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJArwcIABAAGAAgAConCgZkaXdhbGkVETeFPhoLZGl3YWxpc3dlZXQaC2l2O3A7ZGl3YWxpKjQKBXN3ZWV0FaOL6z8aBGZvb2QaBnN3ZWV0cxoLZGl3YWxpc3dlZXQaC3N3ZWV0cmVjaXBlKkcKBnJlY2lwZRXSRtdAGgdjb29raW5nGgRkaXNoGgZtYWtpbmcaB3JlY2lwZXMaC3N3ZWV0cmVjaXBlGgtpdjtwO3JlY2lwZSocCgdqYWdnZXJ5FfaN60AaDGl2O3A7amFnZ2VyeSoWCgRnaGVlFWSTrz8aCWl2O3A7Z2hlZSokCgV3aGVhdBV2xvtAGgp3aGVhdGZsb3VyGgppdjtwO3doZWF0KiQKBWZsb3VyFbh_6EAaCndoZWF0ZmxvdXIaCml2O3A7ZmxvdXIqHQoDZHJ5FaOL6z8aBmRyeWluZxoJZHJ5ZnJ1aXRzKiwKBmZydWl0cxWji-s_GgVmcnVpdBoJZHJ5ZnJ1aXRzGgtpdjtwO2ZydWl0cypTCgdyb2FzdGVkFQAAAAAaBGJha2UaBWJha2VkGgZiYWtpbmcaBXJvYXN0Gghyb2FzdGluZxoGcm9hc3RzGgd0b2FzdGVkGgxpdjtwO3JvYXN0ZWQy5gEvZ290bz91cmw9Q0FFU29BRUI2enN3RlM3QVVZTlIyR25DVE9famEzODU2NV9iOVozanFEV0ZpWEcyaW5Ya3pWdmkybTVoNFhMS3VER2drWnJwQkN0cV9ZTE5MS1d6Q3dPR2VkRUx4TzlxaVFqNHU3bmloeGpRZ2pBT3ppenNwbmJMaWxmSHdTdnFEZDB6ZEJDMTZEWjhBRWs0c2lkOGtMck9IbXRoTFMxVkVBcG1KclVJSk56VFZ2b3U2SkpuR2d4ck9fOUNLUmxZU0txVk5DbFRRUHFzVkprWTk2RnVKNjlKZFRTdjpdV2hvbGUgPGI-V2hlYXQgRmxvdXI8L2I-IGFuZCA8Yj5KYWdnZXJ5PC9iPiBGdWRnZSA8Yj5SZWNpcGU8L2I-IGJ5IEpvbGx5IE1ha2thciB8IEZvb2RSaHl0aG1zQpABQSB0cmFkaXRpb25hbCByaWNoIEluZGlhbiBkZXNlcnQgbWFkZSBmcm9tIHdob2xlIHdoZWF0IGZsb3VyKGF0dGEpLCBqYWdnZXJ5KGd1ZCksIGRlc2kgZ2hlZShjbGFyaWZpZWQgYnV0dGVyKSBhbmQgc29tZSBjcnVuY2h5IG51dHMoZHJ5IGZydWl0cykuIgIQAUgAWABoAA",
+    "source": "foodrhythms.com"
+   },
+   {
+    "position": 6,
+    "title": "Tag: dry fruits cookies - Batter Up With Sujata",
+    "link": "https://batterupwithsujata.wordpress.com/tag/dry-fruits-cookies/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVJviqHI4DNUpqVPafOwcWGdks8f0HrtSGppDIkQcbYtDIbUbHqfus03rtBpuiq6UIQ33EaEukNjHc5FY5pGu61Qe0Az1jDWeMp7GaWJ0GP4naRN6-d1X3DVsQn6I1pd3HA-gWHErnPLZjJAsLkCo89d0p9A&ved=2ahUKEwjthvqChZyXAxWUm4kEHctbOp8QFnoECFUQAQ&uoh=1",
+    "displayed_link": "https://batterupwithsujata.wordpress.com",
+    "favicon": "https://serpapi.com/images/i/UklGRpIBAABXRUJQVlA4IIYBAAAwBwCdASocABwAPtEutFooIagoGAEAGgljAJ0E9lWAywNJZMt8hiaqLHiwKaLDW9_orXcLiWHDl-BUU8WlOKz7PIAA_sJyVC2Dpfm-SslreJ0KBI-6gwccakaflJI2-8ImOVksTMzNWlhbvNLM7e3aemgblcygwyiQ_CkNlroAxAM357LfExI_VTZLdqJWFU3PFvwXpB3m8U3xMxDVZb33bJqDU1DuVDHe-dgu_8czyIPPYnkvE1Qj99mA0R3v6Osmv4CLpfU4vmwp8wI0DP37Wh2dHaOCqbGFCMM2HWNEqyviR_va_0rpR_Et6dlV_mXDS2JjM9vZx-X826DCzHd8edLY2mkdmqjvskM4jmpS7NBm5vvrqpTVmoNFyttGop-Iq4tXXjSXEgs92kS_4eYwQXj_y9LP3uXKRU4OSEX2668np6sD20__nMm3_9P3-ncLLzef6hl6mN5jHRAMfM27_stiAZDe_oWG-QLzrt9Z6PNuwY3W9nrHsvRfJsVMb3l3wKMPwAA.webp",
+    "date": "26 Dec 2016",
+    "snippet": "Wholewheat flour, oats, dry fruits and jaggery makes the cookies healthy too. Date palm jaggery or khajur gur is the most nutrient rich ...",
+    "about_this_result": {
+     "source": {
+      "description": "Wholewheat flour, oats, dry fruits and jaggery makes the cookies healthy too. Date palm jaggery or khajur gur is the most nutrient rich ...",
+      "source_info_link": "https://batterupwithsujata.wordpress.com/tag/dry-fruits-cookies/",
+      "icon": "https://serpapi.com/images/i/UklGRpIBAABXRUJQVlA4IIYBAAAwBwCdASocABwAPtEutFooIagoGAEAGgljAJ0E9lWAywNJZMt8hiaqLHiwKaLDW9_orXcLiWHDl-BUU8WlOKz7PIAA_sJyVC2Dpfm-SslreJ0KBI-6gwccakaflJI2-8ImOVksTMzNWlhbvNLM7e3aemgblcygwyiQ_CkNlroAxAM357LfExI_VTZLdqJWFU3PFvwXpB3m8U3xMxDVZb33bJqDU1DuVDHe-dgu_8czyIPPYnkvE1Qj99mA0R3v6Osmv4CLpfU4vmwp8wI0DP37Wh2dHaOCqbGFCMM2HWNEqyviR_va_0rpR_Et6dlV_mXDS2JjM9vZx-X826DCzHd8edLY2mkdmqjvskM4jmpS7NBm5vvrqpTVmoNFyttGop-Iq4tXXjSXEgs92kS_4eYwQXj_y9LP3uXKRU4OSEX2668np6sD20__nMm3_9P3-ncLLzef6hl6mN5jHRAMfM27_stiAZDe_oWG-QLzrt9Z6PNuwY3W9nrHsvRfJsVMb3l3wKMPwAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVkp2aXFISTRETlVwcVZQYWZPd2NXR2RrczhmMEhydFNHcHBESWtRY2JZdERJYlViSHFmdXMwM3J0QnB1aXE2VUlRMzNFYUV1a05qSGM1Rlk1cEd1NjFRZTBBejFqRFdlTXA3R2FXSjBHUDRuYVJONi1kMVgzRFZzUW42STFwZDNIQS1nV0hFcm5QTFpqSkFzTGtDbzg5ZDBwOUESBBoCCAAa_QYSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA2QYIABAAGAAgAConCgZkaXdhbGkVAAAAABoLZGl3YWxpc3dlZXQaC2l2O3A7ZGl3YWxpKjQKBXN3ZWV0FdohyT4aBGZvb2QaBnN3ZWV0cxoLZGl3YWxpc3dlZXQaC3N3ZWV0cmVjaXBlKkcKBnJlY2lwZRUcixlAGgdjb29raW5nGgRkaXNoGgZtYWtpbmcaB3JlY2lwZXMaC3N3ZWV0cmVjaXBlGgtpdjtwO3JlY2lwZSocCgdqYWdnZXJ5FURHrT8aDGl2O3A7amFnZ2VyeSoWCgRnaGVlFQAAAAAaCWl2O3A7Z2hlZSokCgV3aGVhdBUIsoY_Ggp3aGVhdGZsb3VyGgppdjtwO3doZWF0KiQKBWZsb3VyFfvUyT8aCndoZWF0ZmxvdXIaCml2O3A7ZmxvdXIqHQoDZHJ5FWyPW0AaBmRyeWluZxoJZHJ5ZnJ1aXRzKiwKBmZydWl0cxVi41JAGgVmcnVpdBoJZHJ5ZnJ1aXRzGgtpdjtwO2ZydWl0cypTCgdyb2FzdGVkFWnAsj0aBGJha2UaBWJha2VkGgZiYWtpbmcaBXJvYXN0Gghyb2FzdGluZxoGcm9hc3RzGgd0b2FzdGVkGgxpdjtwO3JvYXN0ZWQysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWSnZpcUhJNEROVXBxVlBhZk93Y1dHZGtzOGYwSHJ0U0dwcERJa1FjYll0REliVWJIcWZ1czAzcnRCcHVpcTZVSVEzM0VhRXVrTmpIYzVGWTVwR3U2MVFlMEF6MWpEV2VNcDdHYVdKMEdQNG5hUk42LWQxWDNEVnNRbjZJMXBkM0hBLWdXSEVyblBMWmpKQXNMa0NvODlkMHA5QTo2VGFnOiA8Yj5kcnkgZnJ1aXRzPC9iPiBjb29raWVzIC0gQmF0dGVyIFVwIFdpdGggU3VqYXRhQpcBPGI-V2hvbGV3aGVhdCBmbG91ciwgb2F0cywgZHJ5IGZydWl0cyBhbmQgamFnZ2VyeTwvYj4gbWFrZXMgdGhlIGNvb2tpZXMgaGVhbHRoeSB0b28uIERhdGUgcGFsbSBqYWdnZXJ5IG9yIGtoYWp1ciBndXIgaXMgdGhlIG1vc3QgbnV0cmllbnQgcmljaCZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVkp2aXFISTRETlVwcVZQYWZPd2NXR2RrczhmMEhydFNHcHBESWtRY2JZdERJYlViSHFmdXMwM3J0QnB1aXE2VUlRMzNFYUV1a05qSGM1Rlk1cEd1NjFRZTBBejFqRFdlTXA3R2FXSjBHUDRuYVJONi1kMVgzRFZzUW42STFwZDNIQS1nV0hFcm5QTFpqSkFzTGtDbzg5ZDBwOUESBBoCCAAa_QYSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA2QYIABAAGAAgAConCgZkaXdhbGkVAAAAABoLZGl3YWxpc3dlZXQaC2l2O3A7ZGl3YWxpKjQKBXN3ZWV0FdohyT4aBGZvb2QaBnN3ZWV0cxoLZGl3YWxpc3dlZXQaC3N3ZWV0cmVjaXBlKkcKBnJlY2lwZRUcixlAGgdjb29raW5nGgRkaXNoGgZtYWtpbmcaB3JlY2lwZXMaC3N3ZWV0cmVjaXBlGgtpdjtwO3JlY2lwZSocCgdqYWdnZXJ5FURHrT8aDGl2O3A7amFnZ2VyeSoWCgRnaGVlFQAAAAAaCWl2O3A7Z2hlZSokCgV3aGVhdBUIsoY_Ggp3aGVhdGZsb3VyGgppdjtwO3doZWF0KiQKBWZsb3VyFfvUyT8aCndoZWF0ZmxvdXIaCml2O3A7ZmxvdXIqHQoDZHJ5FWyPW0AaBmRyeWluZxoJZHJ5ZnJ1aXRzKiwKBmZydWl0cxVi41JAGgVmcnVpdBoJZHJ5ZnJ1aXRzGgtpdjtwO2ZydWl0cypTCgdyb2FzdGVkFWnAsj0aBGJha2UaBWJha2VkGgZiYWtpbmcaBXJvYXN0Gghyb2FzdGluZxoGcm9hc3RzGgd0b2FzdGVkGgxpdjtwO3JvYXN0ZWQysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWSnZpcUhJNEROVXBxVlBhZk93Y1dHZGtzOGYwSHJ0U0dwcERJa1FjYll0REliVWJIcWZ1czAzcnRCcHVpcTZVSVEzM0VhRXVrTmpIYzVGWTVwR3U2MVFlMEF6MWpEV2VNcDdHYVdKMEdQNG5hUk42LWQxWDNEVnNRbjZJMXBkM0hBLWdXSEVyblBMWmpKQXNMa0NvODlkMHA5QTo2VGFnOiA8Yj5kcnkgZnJ1aXRzPC9iPiBjb29raWVzIC0gQmF0dGVyIFVwIFdpdGggU3VqYXRhQpcBPGI-V2hvbGV3aGVhdCBmbG91ciwgb2F0cywgZHJ5IGZydWl0cyBhbmQgamFnZ2VyeTwvYj4gbWFrZXMgdGhlIGNvb2tpZXMgaGVhbHRoeSB0b28uIERhdGUgcGFsbSBqYWdnZXJ5IG9yIGtoYWp1ciBndXIgaXMgdGhlIG1vc3QgbnV0cmllbnQgcmljaCZuYnNwOy4uLiICEAFIAFgAaAA",
+    "source": "WordPress.com"
+   },
+   {
+    "position": 7,
+    "title": "Healthy baked snacks & sweet combo for Diwali | quick & instant sweet and savoury recipes for Diwali",
+    "link": "https://www.youtube.com/watch?v=3C9Ia5tiYzY",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVIFI1WKXu8A389dpLNj1lU8PC3Qw0G6E3Tfas2jO4P6RD9Na1VKR5iYBKDpI0Cbz-97uolRGBm3Mv5haufAWfE7h5PmSA_oTeWCAHbwzx8yuqoGEW3EE2hAjaLsonyw&ved=2ahUKEwjthvqChZyXAxWUm4kEHctbOp8QtwJ6BAg8EAE&uoh=1",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTnTlbkW9rSya_7eB5wGC7nrrYrPegNzFMHScOqg9g_WCqmiRLqmHlZg&s",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "duration": "5:45",
+    "snippet": "It is usually made with all purpose flour / wheat flour by adding spices and deep frying. ... recipe made by deep frying grounded rice & Jaggery.",
+    "about_this_result": {
+     "source": {
+      "description": "It is usually made with all purpose flour / wheat flour by adding spices and deep frying. ... recipe made by deep frying grounded rice & Jaggery.",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVklGSTFXS1h1OEEzODlkcExOajFsVThQQzNRdzBHNkUzVGZhczJqTzRQNlJEOU5hMVZLUjVpWUJLRHBJMENiei05N3VvbFJHQm0zTXY1aGF1ZkFXZkU3aDVQbVNBX29UZVdDQUhid3p4OHl1cW9HRVczRUUyaEFqYUxzb255dxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVklGSTFXS1h1OEEzODlkcExOajFsVThQQzNRdzBHNkUzVGZhczJqTzRQNlJEOU5hMVZLUjVpWUJLRHBJMENiei05N3VvbFJHQm0zTXY1aGF1ZkFXZkU3aDVQbVNBX29UZVdDQUhid3p4OHl1cW9HRVczRUUyaEFqYUxzb255dxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQwnDsHgChErzJvV_MgJRA4wuJUSJuo7ulM0Q",
+    "source": "YouTube · Creative CAT Stories"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "query": "How to make dry fruits sweet",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&gl=in&hl=en&sxsrf=APpeQns9C1fHf9dwfX3H31Bks0EbRQAEdw:1790968351072&q=How+to+make+dry+fruits+sweet&sa=X&ved=2ahUKEwjthvqChZyXAxWUm4kEHctbOp8Q1QJ6BAg_EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=How+to+make+dry+fruits+sweet"
+   },
+   {
+    "block_position": 1,
+    "query": "Sugar free barfi recipe",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&gl=in&hl=en&sxsrf=APpeQns9C1fHf9dwfX3H31Bks0EbRQAEdw:1790968351072&q=Sugar+free+barfi+recipe&sa=X&ved=2ahUKEwjthvqChZyXAxWUm4kEHctbOp8Q1QJ6BAg-EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=Sugar+free+barfi+recipe"
+   },
+   {
+    "block_position": 1,
+    "query": "Nuts sweet recipes",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&gl=in&hl=en&sxsrf=APpeQns9C1fHf9dwfX3H31Bks0EbRQAEdw:1790968351072&q=Nuts+sweet+recipes&sa=X&ved=2ahUKEwjthvqChZyXAxWUm4kEHctbOp8Q1QJ6BAhAEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=Nuts+sweet+recipes"
+   },
+   {
+    "block_position": 1,
+    "query": "Khajoor ki mithai",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&gl=in&hl=en&sxsrf=APpeQns9C1fHf9dwfX3H31Bks0EbRQAEdw:1790968351072&q=Khajoor+ki+mithai&sa=X&ved=2ahUKEwjthvqChZyXAxWUm4kEHctbOp8Q1QJ6BAhCEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=Khajoor+ki+mithai"
+   }
+  ],
+  "pagination": {
+   "current": 1
+  },
+  "serpapi_pagination": {
+   "current": 1
+  }
+ }
+}

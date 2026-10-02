@@ -1,0 +1,1543 @@
+{
+ "engine": "youtube_video_transcript",
+ "params": {
+  "v": "_cUS0ziNtVE",
+  "language_code": "hi"
+ },
+ "recordedAt": "2026-10-02T19:06:32.497Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac000b2bd1c20ec0db58211",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/pe0v8F-FsEdAERG7V6QVVzE7ui0_CWRm75WY0DmFq4M/6ac000b2bd1c20ec0db58211.md",
+   "created_at": "2026-10-02 19:06:26 UTC",
+   "processed_at": "2026-10-02 19:06:26 UTC",
+   "youtube_video_transcript_url": "https://www.youtube.com/watch?v=_cUS0ziNtVE",
+   "total_time_taken": 5.59
+  },
+  "search_parameters": {
+   "engine": "youtube_video_transcript",
+   "v": "_cUS0ziNtVE",
+   "language_code": "hi"
+  },
+  "transcript": [
+   {
+    "start_ms": 501,
+    "end_ms": 3264,
+    "snippet": " Welcome, I am Ranveer Brar!",
+    "start_time_text": "0:00",
+    "start_time_label": "0:00"
+   },
+   {
+    "start_ms": 3744,
+    "end_ms": 6986,
+    "snippet": "Today, we're cooking my favourite recipe, ",
+    "start_time_text": "0:03",
+    "start_time_label": "0:03"
+   },
+   {
+    "start_ms": 7292,
+    "end_ms": 12452,
+    "snippet": "And it not only represents a state, but a whole culture!",
+    "start_time_text": "0:07",
+    "start_time_label": "0:07"
+   },
+   {
+    "start_ms": 12757,
+    "end_ms": 13754,
+    "snippet": "We're going to cook Anarsa!",
+    "start_time_text": "0:12",
+    "start_time_label": "0:12"
+   },
+   {
+    "start_ms": 14190,
+    "end_ms": 17868,
+    "snippet": "I'll break it down into simple steps for you!",
+    "start_time_text": "0:14",
+    "start_time_label": "0:14"
+   },
+   {
+    "start_ms": 31638,
+    "end_ms": 40046,
+    "snippet": "More importantly, maximum 5 ingredients will be needed. ",
+    "start_time_text": "0:31",
+    "start_time_label": "0:31"
+   },
+   {
+    "start_ms": 40341,
+    "end_ms": 41905,
+    "snippet": "You can skip one of the ingredients too!",
+    "start_time_text": "0:40",
+    "start_time_label": "0:40"
+   },
+   {
+    "start_ms": 42188,
+    "end_ms": 46346,
+    "snippet": "Let's peacefully make anarsa after the music, ",
+    "start_time_text": "0:42",
+    "start_time_label": "0:42"
+   },
+   {
+    "start_ms": 46629,
+    "end_ms": 49172,
+    "snippet": "Simultaneously, we will also talk about the stories related to Bihar,",
+    "start_time_text": "0:46",
+    "start_time_label": "0:46"
+   },
+   {
+    "start_ms": 49172,
+    "end_ms": 50152,
+    "snippet": "The city of Gaya,",
+    "start_time_text": "0:49",
+    "start_time_label": "0:49"
+   },
+   {
+    "start_ms": 50370,
+    "end_ms": 51633,
+    "snippet": "As well as Lord Shiva,",
+    "start_time_text": "0:50",
+    "start_time_label": "0:50"
+   },
+   {
+    "start_ms": 51981,
+    "end_ms": 54247,
+    "snippet": "And the dish will get cooked in no time!",
+    "start_time_text": "0:51",
+    "start_time_label": "0:51"
+   },
+   {
+    "start_ms": 54749,
+    "end_ms": 56749,
+    "snippet": "So meet me soon after the music. ",
+    "start_time_text": "0:54",
+    "start_time_label": "0:54"
+   },
+   {
+    "start_ms": 66477,
+    "end_ms": 75931,
+    "snippet": "I have realized that I am responsible for not promoting \nIndian sweets by not presenting them on my channel. ",
+    "start_time_text": "1:06",
+    "start_time_label": "1:06"
+   },
+   {
+    "start_ms": 76214,
+    "end_ms": 77713,
+    "snippet": "I upload multiple recipes,",
+    "start_time_text": "1:16",
+    "start_time_label": "1:16"
+   },
+   {
+    "start_ms": 77713,
+    "end_ms": 78732,
+    "snippet": "But I rarely upload sweet recipes. ",
+    "start_time_text": "1:17",
+    "start_time_label": "1:17"
+   },
+   {
+    "start_ms": 78732,
+    "end_ms": 80405,
+    "snippet": "Especially, Indian sweet recipes. ",
+    "start_time_text": "1:18",
+    "start_time_label": "1:18"
+   },
+   {
+    "start_ms": 80971,
+    "end_ms": 84845,
+    "snippet": "It's important to have conversations about Indian sweets as well, ",
+    "start_time_text": "1:20",
+    "start_time_label": "1:20"
+   },
+   {
+    "start_ms": 84845,
+    "end_ms": 87346,
+    "snippet": "That's why, I decided to cook anarsa today!",
+    "start_time_text": "1:24",
+    "start_time_label": "1:24"
+   },
+   {
+    "start_ms": 88034,
+    "end_ms": 91908,
+    "snippet": "It is believed that anarsa is Lord Shiva's favourite sweet,",
+    "start_time_text": "1:28",
+    "start_time_label": "1:28"
+   },
+   {
+    "start_ms": 92388,
+    "end_ms": 97832,
+    "snippet": "Goddess Parvati would cook Anarsa whenever she wanted to delight Lord Shiva.",
+    "start_time_text": "1:32",
+    "start_time_label": "1:32"
+   },
+   {
+    "start_ms": 98442,
+    "end_ms": 105280,
+    "snippet": "So I thought of cooking anarsa too on the auspicious occasion of Maha Shivaratri! ",
+    "start_time_text": "1:38",
+    "start_time_label": "1:38"
+   },
+   {
+    "start_ms": 105953,
+    "end_ms": 110226,
+    "snippet": "In fact, all festivals which are related to Shiva and Parvati like Hariyali Teej,",
+    "start_time_text": "1:45",
+    "start_time_label": "1:45"
+   },
+   {
+    "start_ms": 110945,
+    "end_ms": 113490,
+    "snippet": "Such festivals are incomplete without anarsa!",
+    "start_time_text": "1:50",
+    "start_time_label": "1:50"
+   },
+   {
+    "start_ms": 114186,
+    "end_ms": 116186,
+    "snippet": "Basically, here I have rice.",
+    "start_time_text": "1:54",
+    "start_time_label": "1:54"
+   },
+   {
+    "start_ms": 116186,
+    "end_ms": 118186,
+    "snippet": "Let's start the recipe else I'll just keep talking!",
+    "start_time_text": "1:56",
+    "start_time_label": "1:56"
+   },
+   {
+    "start_ms": 118883,
+    "end_ms": 122880,
+    "snippet": "Please do not use Basmati rice. ",
+    "start_time_text": "1:58",
+    "start_time_label": "1:58"
+   },
+   {
+    "start_ms": 123468,
+    "end_ms": 127648,
+    "snippet": "The process includes soaking, drying as well as fermentation. ",
+    "start_time_text": "2:03",
+    "start_time_label": "2:03"
+   },
+   {
+    "start_ms": 127974,
+    "end_ms": 131038,
+    "snippet": "And whenever soaking, drying and fermentation is done,",
+    "start_time_text": "2:07",
+    "start_time_label": "2:07"
+   },
+   {
+    "start_ms": 131038,
+    "end_ms": 136163,
+    "snippet": "It enhances the deep notes of the grain or the ingredient.",
+    "start_time_text": "2:11",
+    "start_time_label": "2:11"
+   },
+   {
+    "start_ms": 136621,
+    "end_ms": 138621,
+    "snippet": "That's why, those notes should be clean.",
+    "start_time_text": "2:16",
+    "start_time_label": "2:16"
+   },
+   {
+    "start_ms": 138621,
+    "end_ms": 142212,
+    "snippet": "Notes as in the taste, the aroma and the flavour. ",
+    "start_time_text": "2:18",
+    "start_time_label": "2:18"
+   },
+   {
+    "start_ms": 142910,
+    "end_ms": 144910,
+    "snippet": "Anything that you're fermenting, ",
+    "start_time_text": "2:22",
+    "start_time_label": "2:22"
+   },
+   {
+    "start_ms": 144910,
+    "end_ms": 146670,
+    "snippet": "You're fermenting because..",
+    "start_time_text": "2:24",
+    "start_time_label": "2:24"
+   },
+   {
+    "start_ms": 146910,
+    "end_ms": 148910,
+    "snippet": "We need pure flavours. ",
+    "start_time_text": "2:26",
+    "start_time_label": "2:26"
+   },
+   {
+    "start_ms": 149695,
+    "end_ms": 155640,
+    "snippet": "So it's important to remove the impurities to make the flavour pure. ",
+    "start_time_text": "2:29",
+    "start_time_label": "2:29"
+   },
+   {
+    "start_ms": 156425,
+    "end_ms": 163002,
+    "snippet": "A lot of recipes will show you an instant way to cook anarsa with regular rice flour. ",
+    "start_time_text": "2:36",
+    "start_time_label": "2:36"
+   },
+   {
+    "start_ms": 163482,
+    "end_ms": 168163,
+    "snippet": "You can do it but the whole concept of the dish will be altered. ",
+    "start_time_text": "2:43",
+    "start_time_label": "2:43"
+   },
+   {
+    "start_ms": 169710,
+    "end_ms": 175633,
+    "snippet": "I prefer drying the soaked rice grains and grinding the grains into a fine powder. ",
+    "start_time_text": "2:49",
+    "start_time_label": "2:49"
+   },
+   {
+    "start_ms": 176047,
+    "end_ms": 179202,
+    "snippet": "If you soak rice grains for 4 to 5 hours, ",
+    "start_time_text": "2:56",
+    "start_time_label": "2:56"
+   },
+   {
+    "start_ms": 180000,
+    "end_ms": 187689,
+    "snippet": "And grind the dried grains, then you will notice \nthe difference in texture and...",
+    "start_time_text": "3:00",
+    "start_time_label": "3:00"
+   },
+   {
+    "start_ms": 188779,
+    "end_ms": 189720,
+    "snippet": "In health!",
+    "start_time_text": "3:08",
+    "start_time_label": "3:08"
+   },
+   {
+    "start_ms": 192000,
+    "end_ms": 194000,
+    "snippet": "These impurities will float at the top after fermenting. ",
+    "start_time_text": "3:12",
+    "start_time_label": "3:12"
+   },
+   {
+    "start_ms": 197613,
+    "end_ms": 199613,
+    "snippet": "So it's better to get rid of these impurities now itself!",
+    "start_time_text": "3:17",
+    "start_time_label": "3:17"
+   },
+   {
+    "start_ms": 207874,
+    "end_ms": 209874,
+    "snippet": "Washing of rice is extremely important!",
+    "start_time_text": "3:27",
+    "start_time_label": "3:27"
+   },
+   {
+    "start_ms": 210441,
+    "end_ms": 216000,
+    "snippet": "Soak the rice for minimum 3 hours. ",
+    "start_time_text": "3:30",
+    "start_time_label": "3:30"
+   },
+   {
+    "start_ms": 219733,
+    "end_ms": 224065,
+    "snippet": "Here's the soaked rice, ",
+    "start_time_text": "3:39",
+    "start_time_label": "3:39"
+   },
+   {
+    "start_ms": 224828,
+    "end_ms": 228961,
+    "snippet": "Try to make rice flour with soaked rice. ",
+    "start_time_text": "3:44",
+    "start_time_label": "3:44"
+   },
+   {
+    "start_ms": 228961,
+    "end_ms": 230438,
+    "snippet": "I know, it's an extra step, ",
+    "start_time_text": "3:48",
+    "start_time_label": "3:48"
+   },
+   {
+    "start_ms": 230438,
+    "end_ms": 232438,
+    "snippet": "But time is soaking the rice, ",
+    "start_time_text": "3:50",
+    "start_time_label": "3:50"
+   },
+   {
+    "start_ms": 232438,
+    "end_ms": 234438,
+    "snippet": "Time is fermenting the grains as well, ",
+    "start_time_text": "3:52",
+    "start_time_label": "3:52"
+   },
+   {
+    "start_ms": 234438,
+    "end_ms": 235366,
+    "snippet": "All you need to do is grind it!",
+    "start_time_text": "3:54",
+    "start_time_label": "3:54"
+   },
+   {
+    "start_ms": 235366,
+    "end_ms": 236560,
+    "snippet": "So do make it. ",
+    "start_time_text": "3:55",
+    "start_time_label": "3:55"
+   },
+   {
+    "start_ms": 243280,
+    "end_ms": 245280,
+    "snippet": "This time, I did not ask you to grind it, ",
+    "start_time_text": "4:03",
+    "start_time_label": "4:03"
+   },
+   {
+    "start_ms": 245280,
+    "end_ms": 247280,
+    "snippet": "I did it instead. ",
+    "start_time_text": "4:05",
+    "start_time_label": "4:05"
+   },
+   {
+    "start_ms": 257333,
+    "end_ms": 261208,
+    "snippet": "My grandmother would soak rice only while cooking rice Pinni, ",
+    "start_time_text": "4:17",
+    "start_time_label": "4:17"
+   },
+   {
+    "start_ms": 261208,
+    "end_ms": 262422,
+    "snippet": "Then she would dry the soaked grains. ",
+    "start_time_text": "4:21",
+    "start_time_label": "4:21"
+   },
+   {
+    "start_ms": 262531,
+    "end_ms": 266144,
+    "snippet": "So whenever my grandmother would dry the soaked rice, ",
+    "start_time_text": "4:22",
+    "start_time_label": "4:22"
+   },
+   {
+    "start_ms": 266144,
+    "end_ms": 268144,
+    "snippet": "And rice isn't commonly used in Punjabi households,",
+    "start_time_text": "4:26",
+    "start_time_label": "4:26"
+   },
+   {
+    "start_ms": 268495,
+    "end_ms": 270495,
+    "snippet": "I used to know that she's making Pinni!",
+    "start_time_text": "4:28",
+    "start_time_label": "4:28"
+   },
+   {
+    "start_ms": 270975,
+    "end_ms": 273563,
+    "snippet": "It should be finer!",
+    "start_time_text": "4:30",
+    "start_time_label": "4:30"
+   },
+   {
+    "start_ms": 274000,
+    "end_ms": 277722,
+    "snippet": "Plus, you'll get to see more appetizing shots!",
+    "start_time_text": "4:34",
+    "start_time_label": "4:34"
+   },
+   {
+    "start_ms": 280119,
+    "end_ms": 283993,
+    "snippet": "Most confectioners use rice semolina to cook anarsa ",
+    "start_time_text": "4:40",
+    "start_time_label": "4:40"
+   },
+   {
+    "start_ms": 284734,
+    "end_ms": 293840,
+    "snippet": "Basically, short grain rice is mainly used to \ncook anarsa instead of expensive whole grain rice. ",
+    "start_time_text": "4:44",
+    "start_time_label": "4:44"
+   },
+   {
+    "start_ms": 294291,
+    "end_ms": 296291,
+    "snippet": "Clean it well because that's what matters. ",
+    "start_time_text": "4:54",
+    "start_time_label": "4:54"
+   },
+   {
+    "start_ms": 296879,
+    "end_ms": 298879,
+    "snippet": "And like I said, the shorter the grain, the better. ",
+    "start_time_text": "4:56",
+    "start_time_label": "4:56"
+   },
+   {
+    "start_ms": 299206,
+    "end_ms": 301206,
+    "snippet": "Short grain rice ferments well. ",
+    "start_time_text": "4:59",
+    "start_time_label": "4:59"
+   },
+   {
+    "start_ms": 302318,
+    "end_ms": 303163,
+    "snippet": "Beautiful!",
+    "start_time_text": "5:02",
+    "start_time_label": "5:02"
+   },
+   {
+    "start_ms": 303621,
+    "end_ms": 304901,
+    "snippet": "As a basic rule, ",
+    "start_time_text": "5:03",
+    "start_time_label": "5:03"
+   },
+   {
+    "start_ms": 305272,
+    "end_ms": 312000,
+    "snippet": "Add jaggery a little more than 1⁄4th of the rice flour. ",
+    "start_time_text": "5:05",
+    "start_time_label": "5:05"
+   },
+   {
+    "start_ms": 312377,
+    "end_ms": 318000,
+    "snippet": "If you're adding a cupful of prepared rice flour, ",
+    "start_time_text": "5:12",
+    "start_time_label": "5:12"
+   },
+   {
+    "start_ms": 318000,
+    "end_ms": 320000,
+    "snippet": "Then add a little more than 1⁄4th cup of jaggery.",
+    "start_time_text": "5:18",
+    "start_time_label": "5:18"
+   },
+   {
+    "start_ms": 320218,
+    "end_ms": 322022,
+    "snippet": "Ensure that there are no lumps in the jaggery.",
+    "start_time_text": "5:20",
+    "start_time_label": "5:20"
+   },
+   {
+    "start_ms": 322022,
+    "end_ms": 325440,
+    "snippet": "So you can either add grated jaggery or ground jaggery. ",
+    "start_time_text": "5:22",
+    "start_time_label": "5:22"
+   },
+   {
+    "start_ms": 325798,
+    "end_ms": 327798,
+    "snippet": "So there should be no lumps in the jaggery.",
+    "start_time_text": "5:25",
+    "start_time_label": "5:25"
+   },
+   {
+    "start_ms": 327798,
+    "end_ms": 330760,
+    "snippet": "Add jaggery 1/4th of the rice. ",
+    "start_time_text": "5:27",
+    "start_time_label": "5:27"
+   },
+   {
+    "start_ms": 331411,
+    "end_ms": 335503,
+    "snippet": "Mava anarsa is the most popular amongst all anarsa recipes. ",
+    "start_time_text": "5:31",
+    "start_time_label": "5:31"
+   },
+   {
+    "start_ms": 336000,
+    "end_ms": 339280,
+    "snippet": "In Bihar, especially in Gaya, ",
+    "start_time_text": "5:36",
+    "start_time_label": "5:36"
+   },
+   {
+    "start_ms": 339547,
+    "end_ms": 341547,
+    "snippet": "You'll notice that mava anarsa is sold everywhere!",
+    "start_time_text": "5:39",
+    "start_time_label": "5:39"
+   },
+   {
+    "start_ms": 342200,
+    "end_ms": 346249,
+    "snippet": "The speciality of mava anarsa is that it is stuffed with mava or khoya,",
+    "start_time_text": "5:42",
+    "start_time_label": "5:42"
+   },
+   {
+    "start_ms": 346445,
+    "end_ms": 347530,
+    "snippet": "And it's more rich. ",
+    "start_time_text": "5:46",
+    "start_time_label": "5:46"
+   },
+   {
+    "start_ms": 348642,
+    "end_ms": 350642,
+    "snippet": "Anarsa is derived from a Sanskrit word \"Anarsha\"",
+    "start_time_text": "5:48",
+    "start_time_label": "5:48"
+   },
+   {
+    "start_ms": 351928,
+    "end_ms": 353928,
+    "snippet": "Which means something that cannot go stale",
+    "start_time_text": "5:51",
+    "start_time_label": "5:51"
+   },
+   {
+    "start_ms": 354320,
+    "end_ms": 356211,
+    "snippet": "Or food that can be preserved for a long time. ",
+    "start_time_text": "5:54",
+    "start_time_label": "5:54"
+   },
+   {
+    "start_ms": 356516,
+    "end_ms": 358516,
+    "snippet": "Since mava can go stale quickly, ",
+    "start_time_text": "5:56",
+    "start_time_label": "5:56"
+   },
+   {
+    "start_ms": 358516,
+    "end_ms": 362478,
+    "snippet": "That's why, mava cannot be paired with the basic concept of anarsa. ",
+    "start_time_text": "5:58",
+    "start_time_label": "5:58"
+   },
+   {
+    "start_ms": 363153,
+    "end_ms": 365676,
+    "snippet": "If you want to infuse the richness of milk, ",
+    "start_time_text": "6:03",
+    "start_time_label": "6:03"
+   },
+   {
+    "start_ms": 366199,
+    "end_ms": 370199,
+    "snippet": "Then what most people do is that they gradually add milk into the dough.",
+    "start_time_text": "6:06",
+    "start_time_label": "6:06"
+   },
+   {
+    "start_ms": 370199,
+    "end_ms": 372199,
+    "snippet": "You can do that too ",
+    "start_time_text": "6:10",
+    "start_time_label": "6:10"
+   },
+   {
+    "start_ms": 372199,
+    "end_ms": 373785,
+    "snippet": "Or you can follow my steps. ",
+    "start_time_text": "6:12",
+    "start_time_label": "6:12"
+   },
+   {
+    "start_ms": 374112,
+    "end_ms": 377463,
+    "snippet": "I prefer adding some milk powder into the mixture. ",
+    "start_time_text": "6:14",
+    "start_time_label": "6:14"
+   },
+   {
+    "start_ms": 378379,
+    "end_ms": 381360,
+    "snippet": "Milk powder does not go stale quickly. ",
+    "start_time_text": "6:18",
+    "start_time_label": "6:18"
+   },
+   {
+    "start_ms": 381709,
+    "end_ms": 387640,
+    "snippet": "Also, it helps to infuse a rich texture. ",
+    "start_time_text": "6:21",
+    "start_time_label": "6:21"
+   },
+   {
+    "start_ms": 387903,
+    "end_ms": 389903,
+    "snippet": "If the jaggery is lumpy, ",
+    "start_time_text": "6:27",
+    "start_time_label": "6:27"
+   },
+   {
+    "start_ms": 390502,
+    "end_ms": 393000,
+    "snippet": "Then please break the lumps or add grated jaggery.",
+    "start_time_text": "6:30",
+    "start_time_label": "6:30"
+   },
+   {
+    "start_ms": 395151,
+    "end_ms": 396514,
+    "snippet": "Here, every ingredient plays an important role. ",
+    "start_time_text": "6:35",
+    "start_time_label": "6:35"
+   },
+   {
+    "start_ms": 396514,
+    "end_ms": 401587,
+    "snippet": "Jaggery will enhance the sweetness and ferment the mixture. ",
+    "start_time_text": "6:36",
+    "start_time_label": "6:36"
+   },
+   {
+    "start_ms": 401748,
+    "end_ms": 409546,
+    "snippet": "Rice will gradually soak up the flavours and enhance the taste.",
+    "start_time_text": "6:41",
+    "start_time_label": "6:41"
+   },
+   {
+    "start_ms": 410026,
+    "end_ms": 414000,
+    "snippet": "Milk or milk powder will enhance the richness. ",
+    "start_time_text": "6:50",
+    "start_time_label": "6:50"
+   },
+   {
+    "start_ms": 414750,
+    "end_ms": 416750,
+    "snippet": "As soon as you add some water, ",
+    "start_time_text": "6:54",
+    "start_time_label": "6:54"
+   },
+   {
+    "start_ms": 417154,
+    "end_ms": 418903,
+    "snippet": "Jaggery will start releasing water.",
+    "start_time_text": "6:57",
+    "start_time_label": "6:57"
+   },
+   {
+    "start_ms": 418903,
+    "end_ms": 419748,
+    "snippet": "It's a form of sugar, right?",
+    "start_time_text": "6:58",
+    "start_time_label": "6:58"
+   },
+   {
+    "start_ms": 420000,
+    "end_ms": 421281,
+    "snippet": "And what happens when you add water in sugar?",
+    "start_time_text": "7:00",
+    "start_time_label": "7:00"
+   },
+   {
+    "start_ms": 421639,
+    "end_ms": 423000,
+    "snippet": "It turns watery, right?",
+    "start_time_text": "7:01",
+    "start_time_label": "7:01"
+   },
+   {
+    "start_ms": 423240,
+    "end_ms": 426722,
+    "snippet": "This is the most tedious part of the recipe. ",
+    "start_time_text": "7:03",
+    "start_time_label": "7:03"
+   },
+   {
+    "start_ms": 427240,
+    "end_ms": 430243,
+    "snippet": "Keep kneading the dough gradually for a long time. ",
+    "start_time_text": "7:07",
+    "start_time_label": "7:07"
+   },
+   {
+    "start_ms": 431005,
+    "end_ms": 433005,
+    "snippet": "That's the monopoly of the dish!",
+    "start_time_text": "7:11",
+    "start_time_label": "7:11"
+   },
+   {
+    "start_ms": 435562,
+    "end_ms": 439066,
+    "snippet": "Blend jaggery well with the prepared rice flour. ",
+    "start_time_text": "7:15",
+    "start_time_label": "7:15"
+   },
+   {
+    "start_ms": 444319,
+    "end_ms": 449370,
+    "snippet": "Every ingredient will play a certain role in the mixture. ",
+    "start_time_text": "7:24",
+    "start_time_label": "7:24"
+   },
+   {
+    "start_ms": 449659,
+    "end_ms": 451659,
+    "snippet": "But for that, we need to give it some time. ",
+    "start_time_text": "7:29",
+    "start_time_label": "7:29"
+   },
+   {
+    "start_ms": 452749,
+    "end_ms": 456166,
+    "snippet": "Some may suggest adding sesame seeds at this stage. ",
+    "start_time_text": "7:32",
+    "start_time_label": "7:32"
+   },
+   {
+    "start_ms": 456166,
+    "end_ms": 458166,
+    "snippet": "Whereas, some may suggest adding sesame seeds later. ",
+    "start_time_text": "7:36",
+    "start_time_label": "7:36"
+   },
+   {
+    "start_ms": 458471,
+    "end_ms": 460013,
+    "snippet": "But it doesn't make a difference. ",
+    "start_time_text": "7:38",
+    "start_time_label": "7:38"
+   },
+   {
+    "start_ms": 460013,
+    "end_ms": 462013,
+    "snippet": "So it's completely up to you!",
+    "start_time_text": "7:40",
+    "start_time_label": "7:40"
+   },
+   {
+    "start_ms": 462209,
+    "end_ms": 463729,
+    "snippet": "You can either add it now or later. ",
+    "start_time_text": "7:42",
+    "start_time_label": "7:42"
+   },
+   {
+    "start_ms": 464557,
+    "end_ms": 468000,
+    "snippet": "Knead it into a dough and leave it aside. ",
+    "start_time_text": "7:44",
+    "start_time_label": "7:44"
+   },
+   {
+    "start_ms": 470639,
+    "end_ms": 473080,
+    "snippet": "It is believed that anarsa is connected with 2 things,",
+    "start_time_text": "7:50",
+    "start_time_label": "7:50"
+   },
+   {
+    "start_ms": 473401,
+    "end_ms": 475881,
+    "snippet": "With the city of Gaya",
+    "start_time_text": "7:53",
+    "start_time_label": "7:53"
+   },
+   {
+    "start_ms": 476535,
+    "end_ms": 478535,
+    "snippet": "And with monsoons. ",
+    "start_time_text": "7:56",
+    "start_time_label": "7:56"
+   },
+   {
+    "start_ms": 480688,
+    "end_ms": 484323,
+    "snippet": "It is connected with monsoons because anarsa tastes better during monsoons. ",
+    "start_time_text": "8:00",
+    "start_time_label": "8:00"
+   },
+   {
+    "start_ms": 484628,
+    "end_ms": 487516,
+    "snippet": "That is because the fermentation is enhanced during the monsoon season. ",
+    "start_time_text": "8:04",
+    "start_time_label": "8:04"
+   },
+   {
+    "start_ms": 487516,
+    "end_ms": 489516,
+    "snippet": "The temperature is perfect, ",
+    "start_time_text": "8:07",
+    "start_time_label": "8:07"
+   },
+   {
+    "start_ms": 489516,
+    "end_ms": 491516,
+    "snippet": "The climate is humid as well. ",
+    "start_time_text": "8:09",
+    "start_time_label": "8:09"
+   },
+   {
+    "start_ms": 492257,
+    "end_ms": 495543,
+    "snippet": "So the fermentation is enhanced. ",
+    "start_time_text": "8:12",
+    "start_time_label": "8:12"
+   },
+   {
+    "start_ms": 496088,
+    "end_ms": 500747,
+    "snippet": "Apart from monsoon, anarsa is also connected with Bodh Gaya,",
+    "start_time_text": "8:16",
+    "start_time_label": "8:16"
+   },
+   {
+    "start_ms": 500747,
+    "end_ms": 503290,
+    "snippet": "So let's discover the amazing connection of anarsa and Bodh Gaya",
+    "start_time_text": "8:20",
+    "start_time_label": "8:20"
+   },
+   {
+    "start_ms": 503682,
+    "end_ms": 505682,
+    "snippet": "Until then, the anarsa dough will be kept aside to rest.",
+    "start_time_text": "8:23",
+    "start_time_label": "8:23"
+   },
+   {
+    "start_ms": 505682,
+    "end_ms": 507682,
+    "snippet": "I have some rested anarsa dough too.",
+    "start_time_text": "8:25",
+    "start_time_label": "8:25"
+   },
+   {
+    "start_ms": 508594,
+    "end_ms": 509506,
+    "snippet": "Do listen to the story!",
+    "start_time_text": "8:28",
+    "start_time_label": "8:28"
+   },
+   {
+    "start_ms": 513654,
+    "end_ms": 517310,
+    "snippet": "Gaya is one of those magical cities that never gets its due!",
+    "start_time_text": "8:33",
+    "start_time_label": "8:33"
+   },
+   {
+    "start_ms": 517310,
+    "end_ms": 519310,
+    "snippet": "It's a very old city. ",
+    "start_time_text": "8:37",
+    "start_time_label": "8:37"
+   },
+   {
+    "start_ms": 519310,
+    "end_ms": 521310,
+    "snippet": "Just like Lord Shiva resides in Kashi, ",
+    "start_time_text": "8:39",
+    "start_time_label": "8:39"
+   },
+   {
+    "start_ms": 521310,
+    "end_ms": 523310,
+    "snippet": "Similarly, Lord Vishnu is said to reside in Gaya.",
+    "start_time_text": "8:41",
+    "start_time_label": "8:41"
+   },
+   {
+    "start_ms": 523441,
+    "end_ms": 527250,
+    "snippet": "It is believed that one can attain spiritual liberation in Gaya. ",
+    "start_time_text": "8:43",
+    "start_time_label": "8:43"
+   },
+   {
+    "start_ms": 527250,
+    "end_ms": 531778,
+    "snippet": "Gayasura was granted a boon by Lord Vishnu\n that whosoever comes here would attain Moksha. ",
+    "start_time_text": "8:47",
+    "start_time_label": "8:47"
+   },
+   {
+    "start_ms": 531778,
+    "end_ms": 534107,
+    "snippet": "That's why, most come here to offer prayers to their departed ancestors. ",
+    "start_time_text": "8:51",
+    "start_time_label": "8:51"
+   },
+   {
+    "start_ms": 534107,
+    "end_ms": 537044,
+    "snippet": "And while returning, they must carry food that won't go stale. ",
+    "start_time_text": "8:54",
+    "start_time_label": "8:54"
+   },
+   {
+    "start_ms": 537486,
+    "end_ms": 539486,
+    "snippet": "That's how the culture of anarsa started. ",
+    "start_time_text": "8:57",
+    "start_time_label": "8:57"
+   },
+   {
+    "start_ms": 539673,
+    "end_ms": 543635,
+    "snippet": "As I mentioned earlier, \"Anarsha\" means food that does not go stale. ",
+    "start_time_text": "8:59",
+    "start_time_label": "8:59"
+   },
+   {
+    "start_ms": 544127,
+    "end_ms": 546127,
+    "snippet": "It is offered to the pilgrims who come to Gaya. ",
+    "start_time_text": "9:04",
+    "start_time_label": "9:04"
+   },
+   {
+    "start_ms": 557834,
+    "end_ms": 562880,
+    "snippet": "And the fascinating truth is that the food offered to \nthe departed souls comes back to you through anarsa. ",
+    "start_time_text": "9:17",
+    "start_time_label": "9:17"
+   },
+   {
+    "start_ms": 563493,
+    "end_ms": 564599,
+    "snippet": "And it's not just that,",
+    "start_time_text": "9:23",
+    "start_time_label": "9:23"
+   },
+   {
+    "start_ms": 564860,
+    "end_ms": 567030,
+    "snippet": "Whenever I visit Gaya, I always visit Mahabodhi Mandir too, ",
+    "start_time_text": "9:24",
+    "start_time_label": "9:24"
+   },
+   {
+    "start_ms": 567030,
+    "end_ms": 570000,
+    "snippet": "It is believed that the Buddha attained enlightenment at the temple. ",
+    "start_time_text": "9:27",
+    "start_time_label": "9:27"
+   },
+   {
+    "start_ms": 570262,
+    "end_ms": 577502,
+    "snippet": "This temple highlights the authenticity of the city! ",
+    "start_time_text": "9:30",
+    "start_time_label": "9:30"
+   },
+   {
+    "start_ms": 578134,
+    "end_ms": 583953,
+    "snippet": "I always advice people to visit Gaya while visiting Kashi. ",
+    "start_time_text": "9:38",
+    "start_time_label": "9:38"
+   },
+   {
+    "start_ms": 583953,
+    "end_ms": 586020,
+    "snippet": "That city is magical!",
+    "start_time_text": "9:43",
+    "start_time_label": "9:43"
+   },
+   {
+    "start_ms": 595237,
+    "end_ms": 596736,
+    "snippet": "Once fermented,  ",
+    "start_time_text": "9:55",
+    "start_time_label": "9:55"
+   },
+   {
+    "start_ms": 596889,
+    "end_ms": 598889,
+    "snippet": "The texture will be enhanced. ",
+    "start_time_text": "9:56",
+    "start_time_label": "9:56"
+   },
+   {
+    "start_ms": 598889,
+    "end_ms": 600889,
+    "snippet": "This will happen only if you leave it aside for a while. ",
+    "start_time_text": "9:58",
+    "start_time_label": "9:58"
+   },
+   {
+    "start_ms": 601652,
+    "end_ms": 603369,
+    "snippet": "There are no shortcuts for this method. ",
+    "start_time_text": "10:01",
+    "start_time_label": "10:01"
+   },
+   {
+    "start_ms": 603674,
+    "end_ms": 607069,
+    "snippet": "Most often claim that they can cook this recipe in a short span of time, ",
+    "start_time_text": "10:03",
+    "start_time_label": "10:03"
+   },
+   {
+    "start_ms": 607374,
+    "end_ms": 608506,
+    "snippet": "But that's not possible. ",
+    "start_time_text": "10:07",
+    "start_time_label": "10:07"
+   },
+   {
+    "start_ms": 609007,
+    "end_ms": 610480,
+    "snippet": "It's important to leave it aside. ",
+    "start_time_text": "10:09",
+    "start_time_label": "10:09"
+   },
+   {
+    "start_ms": 610480,
+    "end_ms": 614529,
+    "snippet": "As you can see, the rice flour and jaggery have blended well. ",
+    "start_time_text": "10:10",
+    "start_time_label": "10:10"
+   },
+   {
+    "start_ms": 614791,
+    "end_ms": 616791,
+    "snippet": "The dough has fermented well. ",
+    "start_time_text": "10:14",
+    "start_time_label": "10:14"
+   },
+   {
+    "start_ms": 617227,
+    "end_ms": 619227,
+    "snippet": "That's how you need to prepare a loose dough. ",
+    "start_time_text": "10:17",
+    "start_time_label": "10:17"
+   },
+   {
+    "start_ms": 621516,
+    "end_ms": 623516,
+    "snippet": "You can cook anarsa in 2 ways. ",
+    "start_time_text": "10:21",
+    "start_time_label": "10:21"
+   },
+   {
+    "start_ms": 623516,
+    "end_ms": 625015,
+    "snippet": "You can prepare small anarsa balls too.",
+    "start_time_text": "10:23",
+    "start_time_label": "10:23"
+   },
+   {
+    "start_ms": 625015,
+    "end_ms": 627015,
+    "snippet": "Add some poppy seeds and sesame seeds, ",
+    "start_time_text": "10:25",
+    "start_time_label": "10:25"
+   },
+   {
+    "start_ms": 627168,
+    "end_ms": 631522,
+    "snippet": "Prepare small dough balls and coat them with seeds. ",
+    "start_time_text": "10:27",
+    "start_time_label": "10:27"
+   },
+   {
+    "start_ms": 632511,
+    "end_ms": 634010,
+    "snippet": "These are small anarsa balls. ",
+    "start_time_text": "10:32",
+    "start_time_label": "10:32"
+   },
+   {
+    "start_ms": 634010,
+    "end_ms": 637993,
+    "snippet": "Old confectioners would often cook these as they don't crack up. ",
+    "start_time_text": "10:34",
+    "start_time_label": "10:34"
+   },
+   {
+    "start_ms": 639149,
+    "end_ms": 644941,
+    "snippet": "And it's alright if it starts cracking a bit because no one's judging you here!",
+    "start_time_text": "10:39",
+    "start_time_label": "10:39"
+   },
+   {
+    "start_ms": 645312,
+    "end_ms": 647704,
+    "snippet": "Since the dough is well rested, it won't break apart. ",
+    "start_time_text": "10:45",
+    "start_time_label": "10:45"
+   },
+   {
+    "start_ms": 648315,
+    "end_ms": 651296,
+    "snippet": "If the balls are settled then it indicates that the dough is well rested. ",
+    "start_time_text": "10:48",
+    "start_time_label": "10:48"
+   },
+   {
+    "start_ms": 651960,
+    "end_ms": 655093,
+    "snippet": "It would be better if you leave the balls aside for 24 hours, ",
+    "start_time_text": "10:51",
+    "start_time_label": "10:51"
+   },
+   {
+    "start_ms": 655093,
+    "end_ms": 656806,
+    "snippet": "But it would be even more better if you leave them aside for 2 days. ",
+    "start_time_text": "10:55",
+    "start_time_label": "10:55"
+   },
+   {
+    "start_ms": 657442,
+    "end_ms": 661948,
+    "snippet": "This is the best recipe for breaking the Shivaratri fast! ",
+    "start_time_text": "10:57",
+    "start_time_label": "10:57"
+   },
+   {
+    "start_ms": 662341,
+    "end_ms": 666480,
+    "snippet": "If you prepare this dough 2 days prior, ",
+    "start_time_text": "11:02",
+    "start_time_label": "11:02"
+   },
+   {
+    "start_ms": 667109,
+    "end_ms": 669109,
+    "snippet": "Then I guarantee that you will love the taste!",
+    "start_time_text": "11:07",
+    "start_time_label": "11:07"
+   },
+   {
+    "start_ms": 671440,
+    "end_ms": 672459,
+    "snippet": "Here you go!",
+    "start_time_text": "11:11",
+    "start_time_label": "11:11"
+   },
+   {
+    "start_ms": 672459,
+    "end_ms": 675505,
+    "snippet": "First, try frying a small piece. ",
+    "start_time_text": "11:12",
+    "start_time_label": "11:12"
+   },
+   {
+    "start_ms": 680019,
+    "end_ms": 684090,
+    "snippet": "The dough balls must crack open a bit, ",
+    "start_time_text": "11:20",
+    "start_time_label": "11:20"
+   },
+   {
+    "start_ms": 684523,
+    "end_ms": 689814,
+    "snippet": "Else it would indicate that the dough did not ferment well. ",
+    "start_time_text": "11:24",
+    "start_time_label": "11:24"
+   },
+   {
+    "start_ms": 693205,
+    "end_ms": 698648,
+    "snippet": "It's such a simple dish, isn't it?",
+    "start_time_text": "11:33",
+    "start_time_label": "11:33"
+   },
+   {
+    "start_ms": 700588,
+    "end_ms": 703024,
+    "snippet": "Let it set for a while, ",
+    "start_time_text": "11:40",
+    "start_time_label": "11:40"
+   },
+   {
+    "start_ms": 703438,
+    "end_ms": 705438,
+    "snippet": "Else the dough balls will get scattered in oil. ",
+    "start_time_text": "11:43",
+    "start_time_label": "11:43"
+   },
+   {
+    "start_ms": 705983,
+    "end_ms": 707983,
+    "snippet": "The ingredients are very simple. ",
+    "start_time_text": "11:45",
+    "start_time_label": "11:45"
+   },
+   {
+    "start_ms": 708920,
+    "end_ms": 714407,
+    "snippet": "Usually, sweet recipes require a number of ingredients, ",
+    "start_time_text": "11:48",
+    "start_time_label": "11:48"
+   },
+   {
+    "start_ms": 714800,
+    "end_ms": 720374,
+    "snippet": "But this sweet can be cooked with just rice and jaggery!",
+    "start_time_text": "11:54",
+    "start_time_label": "11:54"
+   },
+   {
+    "start_ms": 723295,
+    "end_ms": 724215,
+    "snippet": "So is it really difficult?",
+    "start_time_text": "12:03",
+    "start_time_label": "12:03"
+   },
+   {
+    "start_ms": 734022,
+    "end_ms": 736371,
+    "snippet": "As you can see, the dough balls have opened a bit. ",
+    "start_time_text": "12:14",
+    "start_time_label": "12:14"
+   },
+   {
+    "start_ms": 736720,
+    "end_ms": 738720,
+    "snippet": "This indicates that we're on the right path!",
+    "start_time_text": "12:16",
+    "start_time_label": "12:16"
+   },
+   {
+    "start_ms": 744460,
+    "end_ms": 747092,
+    "snippet": "The aroma of fried jaggery is so appetizing!",
+    "start_time_text": "12:24",
+    "start_time_label": "12:24"
+   },
+   {
+    "start_ms": 747594,
+    "end_ms": 749594,
+    "snippet": "You can cook this recipe with sugar as well. ",
+    "start_time_text": "12:27",
+    "start_time_label": "12:27"
+   },
+   {
+    "start_ms": 750379,
+    "end_ms": 755430,
+    "snippet": "In that recipe, rice flour is kneaded with sugar syrup. ",
+    "start_time_text": "12:30",
+    "start_time_label": "12:30"
+   },
+   {
+    "start_ms": 756000,
+    "end_ms": 760354,
+    "snippet": "Or a mixture of rice flour and sugar is kneaded with some milk. ",
+    "start_time_text": "12:36",
+    "start_time_label": "12:36"
+   },
+   {
+    "start_ms": 760899,
+    "end_ms": 766125,
+    "snippet": "But the one cooked with jaggery tastes way better!",
+    "start_time_text": "12:40",
+    "start_time_label": "12:40"
+   },
+   {
+    "start_ms": 768000,
+    "end_ms": 770000,
+    "snippet": "It's important to rest the dough balls. ",
+    "start_time_text": "12:48",
+    "start_time_label": "12:48"
+   },
+   {
+    "start_ms": 773920,
+    "end_ms": 781391,
+    "snippet": "The dough balls may crack if you try to immediately eat, fry or pick them up. ",
+    "start_time_text": "12:53",
+    "start_time_label": "12:53"
+   },
+   {
+    "start_ms": 782123,
+    "end_ms": 784428,
+    "snippet": "The jaggery is still hot, so the dough may start cracking. ",
+    "start_time_text": "13:02",
+    "start_time_label": "13:02"
+   },
+   {
+    "start_ms": 784820,
+    "end_ms": 790743,
+    "snippet": "Nowadays, the dough balls are stuffed with mava, ",
+    "start_time_text": "13:04",
+    "start_time_label": "13:04"
+   },
+   {
+    "start_ms": 791584,
+    "end_ms": 793584,
+    "snippet": "Then the stuffed balls are flattened like a paratha.",
+    "start_time_text": "13:11",
+    "start_time_label": "13:11"
+   },
+   {
+    "start_ms": 794325,
+    "end_ms": 797785,
+    "snippet": "But these anarsa cannot be preserved for a long time. ",
+    "start_time_text": "13:14",
+    "start_time_label": "13:14"
+   },
+   {
+    "start_ms": 809453,
+    "end_ms": 814025,
+    "snippet": "Fry on a slow flame and carefully handle the anarsa. ",
+    "start_time_text": "13:29",
+    "start_time_label": "13:29"
+   },
+   {
+    "start_ms": 815885,
+    "end_ms": 817885,
+    "snippet": "Once the dough starts rising and turns darker, ",
+    "start_time_text": "13:35",
+    "start_time_label": "13:35"
+   },
+   {
+    "start_ms": 817885,
+    "end_ms": 819885,
+    "snippet": "Carefully flip the anarsa. ",
+    "start_time_text": "13:37",
+    "start_time_label": "13:37"
+   },
+   {
+    "start_ms": 820505,
+    "end_ms": 822505,
+    "snippet": "Don't touch them until the shade turns a bit darker. ",
+    "start_time_text": "13:40",
+    "start_time_label": "13:40"
+   },
+   {
+    "start_ms": 823006,
+    "end_ms": 826357,
+    "snippet": "Melted jaggery makes the anarsa more delicate. ",
+    "start_time_text": "13:43",
+    "start_time_label": "13:43"
+   },
+   {
+    "start_ms": 827200,
+    "end_ms": 829200,
+    "snippet": "Look at the difference!",
+    "start_time_text": "13:47",
+    "start_time_label": "13:47"
+   },
+   {
+    "start_ms": 829462,
+    "end_ms": 831462,
+    "snippet": "Unlike earlier, the anarsas are not breaking apart. ",
+    "start_time_text": "13:49",
+    "start_time_label": "13:49"
+   },
+   {
+    "start_ms": 838877,
+    "end_ms": 840000,
+    "snippet": "That's the monopoly!",
+    "start_time_text": "13:58",
+    "start_time_label": "13:58"
+   },
+   {
+    "start_ms": 842092,
+    "end_ms": 844092,
+    "snippet": "As I said earlier, wash the rice thoroughly. ",
+    "start_time_text": "14:02",
+    "start_time_label": "14:02"
+   },
+   {
+    "start_ms": 844092,
+    "end_ms": 850952,
+    "snippet": "Else the off-smell of rice will get infused with anarsa. ",
+    "start_time_text": "14:04",
+    "start_time_label": "14:04"
+   },
+   {
+    "start_ms": 851497,
+    "end_ms": 855175,
+    "snippet": "Fry until the anarsa turns reddish.",
+    "start_time_text": "14:11",
+    "start_time_label": "14:11"
+   },
+   {
+    "start_ms": 855542,
+    "end_ms": 856888,
+    "snippet": "That's the monopoly!",
+    "start_time_text": "14:15",
+    "start_time_label": "14:15"
+   },
+   {
+    "start_ms": 858539,
+    "end_ms": 862784,
+    "snippet": "I believe that good dishes are cooked thrice.",
+    "start_time_text": "14:18",
+    "start_time_label": "14:18"
+   },
+   {
+    "start_ms": 864000,
+    "end_ms": 872168,
+    "snippet": "First, when you cook it intently in your emotions!",
+    "start_time_text": "14:24",
+    "start_time_label": "14:24"
+   },
+   {
+    "start_ms": 873010,
+    "end_ms": 882000,
+    "snippet": "Second, when you cook it in your thoughts \nwhile fermenting and soaking the ingredients. ",
+    "start_time_text": "14:33",
+    "start_time_label": "14:33"
+   },
+   {
+    "start_ms": 882529,
+    "end_ms": 888103,
+    "snippet": "Third, when you actually cook and finish the dish!",
+    "start_time_text": "14:42",
+    "start_time_label": "14:42"
+   },
+   {
+    "start_ms": 889302,
+    "end_ms": 891302,
+    "snippet": "So when you consume such dishes, ",
+    "start_time_text": "14:49",
+    "start_time_label": "14:49"
+   },
+   {
+    "start_ms": 891302,
+    "end_ms": 893302,
+    "snippet": "You subconsciously cook it thrice!",
+    "start_time_text": "14:51",
+    "start_time_label": "14:51"
+   },
+   {
+    "start_ms": 894767,
+    "end_ms": 896527,
+    "snippet": "That experience is unbeatable!",
+    "start_time_text": "14:54",
+    "start_time_label": "14:54"
+   },
+   {
+    "start_ms": 897050,
+    "end_ms": 898353,
+    "snippet": "This is that kind of a dish!",
+    "start_time_text": "14:57",
+    "start_time_label": "14:57"
+   }
+  ],
+  "available_transcripts": [
+   {
+    "language_code": "en",
+    "selected": true,
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=_cUS0ziNtVE"
+   },
+   {
+    "language_code": "hi",
+    "type": "asr",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=hi&type=asr&v=_cUS0ziNtVE"
+   }
+  ]
+ }
+}

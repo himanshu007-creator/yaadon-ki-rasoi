@@ -1,0 +1,576 @@
+{
+ "engine": "youtube",
+ "params": {
+  "search_query": "Gujiya recipe traditional",
+  "gl": "in",
+  "hl": "en"
+ },
+ "recordedAt": "2026-10-02T19:12:01.416Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac001fee6425001f476aa99",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/HZz_8hLqJB0HR3K3KwuSsPDp49HN0GTh-tPkP1xcd1g/6ac001fee6425001f476aa99.md",
+   "created_at": "2026-10-02 19:11:58 UTC",
+   "processed_at": "2026-10-02 19:11:58 UTC",
+   "youtube_url": "https://www.youtube.com/results?search_query=Gujiya+recipe+traditional&gl=in&hl=en",
+   "total_time_taken": 2.26
+  },
+  "search_parameters": {
+   "engine": "youtube",
+   "search_query": "Gujiya recipe traditional",
+   "gl": "in",
+   "hl": "en"
+  },
+  "search_information": {
+   "total_results": 1230818,
+   "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+   {
+    "position_on_page": 1,
+    "title": "Gujiya Recipe | Gujiya Made with Mawa & Dry Fruit | Holi Special Recipes | Indian Sweet Recipes",
+    "link": "https://www.youtube.com/watch?v=QfOAJzcKjH8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=QfOAJzcKjH8",
+    "video_id": "QfOAJzcKjH8",
+    "channel": {
+     "name": "Rajshri Food",
+     "link": "https://www.youtube.com/@rajshrifood",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/5W6cU5e9t9zNGRhrZaK1m3fprIc0k_gq3VAo8M-n6dKIu3fATGH1k3fDzEXD9ohxmFxmALa7=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "4y ago",
+    "views": 274945,
+    "length": "6:31",
+    "description": "How To Make Mawa - https://youtu.be/dnJHSPNiZqM In this episode of Mother's Recipe, let's learn how to make Gujiya at home.",
+    "extensions": [
+     "CC"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/QfOAJzcKjH8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTsvB3c1scTGBbgtzrqIS3FsYGMA",
+     "rich": "https://i.ytimg.com/an_webp/QfOAJzcKjH8/mqdefault_6s.webp?du=3000&sqp=CM7L_9UG&rs=AOn4CLB-pURdjTmoIfMToS0XQqzzWewfeQ"
+    }
+   },
+   {
+    "position_on_page": 2,
+    "title": "Traditional Kajjikayalu Recipe | Crispy Rava Karanji - Gujiya | Easy Indian Festival Sweet Snack",
+    "link": "https://www.youtube.com/watch?v=XKjAfWmUDI0",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XKjAfWmUDI0",
+    "video_id": "XKjAfWmUDI0",
+    "channel": {
+     "name": "Hebbars Kitchen",
+     "link": "https://www.youtube.com/@hebbars.kitchen",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lKWTzqovGg-Z4PvvDvfd99hBPExhXYg1fAtrDQv81PVA=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "11mo ago",
+    "views": 82046,
+    "length": "3:35",
+    "description": "Full Recipe: https://hebbarskitchen.com/kajjikayalu-recipe-suji-karanji-recipe/ @hebbarskitchenhindi @hebbarskitchenoriginals ...",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/XKjAfWmUDI0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDS2WU_tBya7Fjqzl4jXPyidzh1Dg",
+     "rich": "https://i.ytimg.com/an_webp/XKjAfWmUDI0/mqdefault_6s.webp?du=3000&sqp=COvF_9UG&rs=AOn4CLAtqfxKnc6RRfB0r6s-3m_a3Krlvw"
+    }
+   },
+   {
+    "position_on_page": 3,
+    "title": "Make Mawa Gujiya with homemade Khoya | Mawa Gujiya Recipe | Khoya Karanji Recipe | Gujiya Kabitas...",
+    "link": "https://www.youtube.com/watch?v=bSspT2IbqhM",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bSspT2IbqhM",
+    "video_id": "bSspT2IbqhM",
+    "channel": {
+     "name": "Kabita's Kitchen",
+     "link": "https://www.youtube.com/@KabitasKitchen",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mfh1fY8vAgYIb8ULBRG4CKs1avR0lGfqxofBZueBrbA2U=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "1y ago",
+    "views": 1462333,
+    "length": "7:30",
+    "description": "Mawa Gujiya made from household waste | Mawa Gujiya Recipe | Khoa Karanji Recipe |Gujiya by Kabitaskitchen\n\n#kabitaskitchen ...",
+    "extensions": [
+     "1 product"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/bSspT2IbqhM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtU98x840AQYhQeuTOlYfQ_UMaAg",
+     "rich": "https://i.ytimg.com/an_webp/bSspT2IbqhM/mqdefault_6s.webp?du=3000&sqp=CLjr_9UG&rs=AOn4CLBSLRx5QLLKMv26vzom8W54wo9zyA"
+    }
+   },
+   {
+    "position_on_page": 5,
+    "title": "GUJIYA | Holi Speacial Suji Mawa Gujiya Recipe | Indian Sweet Recipe | Village Food",
+    "link": "https://www.youtube.com/watch?v=UUTZ9ocUNAk",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UUTZ9ocUNAk",
+    "video_id": "UUTZ9ocUNAk",
+    "channel": {
+     "name": "Veg Village Food",
+     "link": "https://www.youtube.com/@VegVillageFood",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mQGHr7yx6P7d62q62C_WqgXSlAU7S8Oe8oITaXdz9QGKI=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "3y ago",
+    "views": 1333264,
+    "length": "6:11",
+    "description": "How To Make Gujiya.",
+    "extensions": [
+     "4K"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/UUTZ9ocUNAk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWs2OQQDI7MVrYLv-ejSAAPUmkZg",
+     "rich": "https://i.ytimg.com/an_webp/UUTZ9ocUNAk/mqdefault_6s.webp?du=3000&sqp=CMzf_9UG&rs=AOn4CLBj5cJga3_dY7GbBDLmJvTUe9nZ-g"
+    }
+   },
+   {
+    "position_on_page": 6,
+    "title": "Gujiya Recipe | Holi Special Karanji | होली पर बनाइए मावा स्वादिष्ट गुजिया | Chef Sanjyot Keer",
+    "link": "https://www.youtube.com/watch?v=zgxCRY0bIHE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zgxCRY0bIHE",
+    "video_id": "zgxCRY0bIHE",
+    "channel": {
+     "name": "Your Food Lab",
+     "link": "https://www.youtube.com/@YourFoodLab",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k3m6LwAYH6CkG1iiYx8ioFPnBIbruGJRUJwmBxDoCzOPM=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "4y ago",
+    "views": 1598585,
+    "length": "15:30",
+    "description": "What if you could sit at home and order all your necessary food ingredients delivered in minutes to your doorstep? YES! Swiggy ...",
+    "extensions": [
+     "4K",
+     "CC"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/zgxCRY0bIHE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqWrxhp4oJuVKnpn4a_mA165-z5Q",
+     "rich": "https://i.ytimg.com/an_webp/zgxCRY0bIHE/mqdefault_6s.webp?du=3000&sqp=CJ3x_9UG&rs=AOn4CLAXJhbcSxiiqFOe8E9FxMlZZZCcUA"
+    }
+   },
+   {
+    "position_on_page": 7,
+    "title": "15-Minute Flaky Gujiya Like a Pro Without a Mold: Once You See My Method, You’ll Only Make It Thi...",
+    "link": "https://www.youtube.com/watch?v=X64_TDjVLW4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=X64_TDjVLW4",
+    "video_id": "X64_TDjVLW4",
+    "channel": {
+     "name": "Masala Kitchen",
+     "link": "https://www.youtube.com/@MasalaKitchenbyPoonam",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/ZizXldPDc-7MKcWSUY25A7msfSoou0w8YGyPHw_m7EU43X91Dg_OTlf_BDhMvNirUZAASw-CCQ=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "4y ago",
+    "views": 6572383,
+    "length": "8:52",
+    "description": "👉𝐑𝐞𝐜𝐞𝐧𝐭 𝐔𝐩𝐥𝐨𝐚𝐝: https://youtu.be/MPWACXUiw6w\n\n#GujiyaRecipe #HoliSpecialRecipe #MawaGujiyaByMasalaKitchen ...",
+    "extensions": [
+     "3 products",
+     "4K"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/X64_TDjVLW4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBE25iz2tKDFJJWQVeYPuTQUORM0g",
+     "rich": "https://i.ytimg.com/an_webp/X64_TDjVLW4/mqdefault_6s.webp?du=3000&sqp=COT1_9UG&rs=AOn4CLDVd6JhNfWXg03AQshPb05U02tFBw"
+    }
+   },
+   {
+    "position_on_page": 9,
+    "title": "Mawa Dry Fruit Gujiya Recipe By Food Fusion",
+    "link": "https://www.youtube.com/watch?v=rMc2RXXigqU",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rMc2RXXigqU",
+    "video_id": "rMc2RXXigqU",
+    "channel": {
+     "name": "Food Fusion",
+     "link": "https://www.youtube.com/@FoodfusionPk",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/mRGlF6KUyETceLV395I7MY55E-t74WTT-mBCJWNrXsFgZ0shU15Uwu44JhwvZESBFDheCJjw=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "3y ago",
+    "views": 258098,
+    "length": "3:35",
+    "description": "Here's our take on Gujiya; a sweet deep-fried flaky dumpling stuffed with khoya and mixed nuts made with the goodness of Olper's ...",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/rMc2RXXigqU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWubvxf24O5qQMz1EvnXV2ymU4hQ",
+     "rich": "https://i.ytimg.com/an_webp/rMc2RXXigqU/mqdefault_6s.webp?du=3000&sqp=CPvO_9UG&rs=AOn4CLB4V6eJ0sTzVh82holCwrr7HfD9bw"
+    }
+   },
+   {
+    "position_on_page": 10,
+    "title": "Holi Special Khasta Gujiya Recipe | Crispy Multi-Layered Gujiya Recipe | Crispy Multi-Layered Gujiya",
+    "link": "https://www.youtube.com/watch?v=dBignc4MBs4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=dBignc4MBs4",
+    "video_id": "dBignc4MBs4",
+    "channel": {
+     "name": "Sumi's Cooking Corner",
+     "link": "https://www.youtube.com/@SumisCookingCorner",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/heR9NyHPJjXmAcUzK6cY_AdgZuTgIhyAttmTlu5YGqTFQBw-0yR_-qCgHhUXZ4aHj3knB-UQaVI=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "7mo ago",
+    "views": 70921,
+    "length": "9:19",
+    "description": "Holi Special Khasta Gujiya Recipe | Crispy Multi-Layered Gujiya ✨   Holi is incomplete without traditional sweets, and today I'm ...",
+    "extensions": [
+     "10 products"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/dBignc4MBs4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAFDJXQO8TnhwfHhx4CUSoqcJU8g",
+     "rich": "https://i.ytimg.com/an_webp/dBignc4MBs4/mqdefault_6s.webp?du=3000&sqp=CIz4_9UG&rs=AOn4CLBb322BKK58QqzWoVJuxW2w34-8PA"
+    }
+   },
+   {
+    "position_on_page": 12,
+    "title": "इस बार दीपावली के लिये बिना साँचा मैनें बनाएं हलवाई से भी बेहतर खस्ता गुजिये इन सीक्रेट टिप्स केसाथ​",
+    "link": "https://www.youtube.com/watch?v=xuBbwMEtaas",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xuBbwMEtaas",
+    "video_id": "xuBbwMEtaas",
+    "channel": {
+     "name": "Papa Mummy Kitchen - Specials",
+     "link": "https://www.youtube.com/@PapaMummyKitchenSpecials",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/WUx6WffhSB4fZR6QI0DF2_jBemsBrl3BhGuqnMeloJLcsWPmYs5HoIHIENTE93NdNz4KYyv4=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "2y ago",
+    "views": 1064675,
+    "length": "13:03",
+    "description": "... ghujiya recipe, gujiya recipe, gujiya recipe with mawa, gujiya recipe with suji and coconut, gujiya recipe suji ki, gujiya recipe at ...",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/xuBbwMEtaas/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2BRyMKeZcxabinkFuiHXcH-xxmg",
+     "rich": "https://i.ytimg.com/an_webp/xuBbwMEtaas/mqdefault_6s.webp?du=3000&sqp=CNf7_9UG&rs=AOn4CLBhCsLKu4PRzJ6avJJutC1cd7hh4g"
+    }
+   },
+   {
+    "position_on_page": 13,
+    "title": "Gujia without mould |साल मे 2 बार बनाती हूं, फिर भी डर लगता है |😂",
+    "link": "https://www.youtube.com/watch?v=Bq4aLV7UbWw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Bq4aLV7UbWw",
+    "video_id": "Bq4aLV7UbWw",
+    "channel": {
+     "name": "Bristi Home Kitchen",
+     "link": "https://www.youtube.com/@BristiHomeKitchen",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m499MKMko7u9tye7Vdlv7iE15FeIr3QCJAEEO87cLPXCs=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "11mo ago",
+    "views": 1124608,
+    "length": "7:00",
+    "description": "... #mawagujiya #gujiya #foodie mawa gujiya recipe,traditional gujiya,homemade mawa gujiya,sweet gujiya filling,festival special ...",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/Bq4aLV7UbWw/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBzgWAAoAKigIMCAAQARhyIEcoMDAP&rs=AOn4CLAvib8PdKr-j-ziM6CG4jCYX57QHw",
+     "rich": "https://i.ytimg.com/an_webp/Bq4aLV7UbWw/mqdefault_6s.webp?du=3000&sqp=CKy-_9UG&rs=AOn4CLAQsAYfkDKuTw97FYPhoru7bHejqA"
+    }
+   },
+   {
+    "position_on_page": 14,
+    "title": "बिना मावा सूजी से 1दम हलवाई जैसी गुजिया बिना फालतू मेहनत 100%गारंटी से खस्ता बनेगे|Holi Sooji Gujiya",
+    "link": "https://www.youtube.com/watch?v=u9dJ9dT4eIA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=u9dJ9dT4eIA",
+    "video_id": "u9dJ9dT4eIA",
+    "channel": {
+     "name": "Shivani's kitchen",
+     "link": "https://www.youtube.com/@Shivaniskitchen",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/z1zBjkHgLpxtF0QX0gLJtHlr_NZ7nkBsabs7flQA0c6SxOWbaBhE57uqryFeNkFg53xP70ZtaQ=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "3y ago",
+    "views": 1520753,
+    "length": "14:19",
+    "description": "Mawa Gujiya Recipe Karangi Recipe is a easy holi recipe. Gujiya recipe Holi Special is with Gujiya Sooji filling recipe without ...",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/u9dJ9dT4eIA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0pNOOJbrlmfYvnLZHrxo8zKQ6sg",
+     "rich": "https://i.ytimg.com/an_webp/u9dJ9dT4eIA/mqdefault_6s.webp?du=3000&sqp=CMDg_9UG&rs=AOn4CLB_Y6rEsQ3YYTzmOi4u1XpTV7zqzA"
+    }
+   },
+   {
+    "position_on_page": 15,
+    "title": "Sooji Mawa Gujiya | बिना फालतू मेहनत हलवाई जैसी खस्ता गुजिया बनाने का आसान तरीका| Holi Gujiya Recipe",
+    "link": "https://www.youtube.com/watch?v=npkqWcrtoLE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=npkqWcrtoLE",
+    "video_id": "npkqWcrtoLE",
+    "channel": {
+     "name": "CookwithParul",
+     "link": "https://www.youtube.com/@cookwithparul",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/tnWGLBXfVly-jJczG-5zLZRJkPPY96blzEYmReSJee5-xI1y9HfIamw0ABTgx07EWtrVFPrcFA=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "1y ago",
+    "views": 2914491,
+    "length": "14:04",
+    "description": "GUJIYA Recipe #holirecipe #gujiya.",
+    "extensions": [
+     "8 products",
+     "4K"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/npkqWcrtoLE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9PkhM0QJgL7ewj7l4vTAqxXf7Uw",
+     "rich": "https://i.ytimg.com/an_webp/npkqWcrtoLE/mqdefault_6s.webp?du=3000&sqp=CMDZ_9UG&rs=AOn4CLCfip1OEjhHYv5xMCoLH5i2GZ8AUg"
+    }
+   },
+   {
+    "position_on_page": 16,
+    "title": "Sooji Mawa Gujiya | बिना फालतू मेहनत हलवाई जैसी खस्ता गुजिया बनाने का तरीका |Holi Special Gujiya",
+    "link": "https://www.youtube.com/watch?v=fIebwiemcV8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fIebwiemcV8",
+    "video_id": "fIebwiemcV8",
+    "channel": {
+     "name": "bharatzkitchen HINDI",
+     "link": "https://www.youtube.com/@bharatzkitchenHINDI",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lrBqG4123JHd3SNsUKy9sdpOjwTrChN_4JBVcTp1iU2fE=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "6y ago",
+    "views": 29128931,
+    "length": "10:35",
+    "description": "MawaGujiya #Holirecipes #bharatzkitchen ab hai asli mauka sabka dil khush karneka , toh banaiye ye khas gujiya ki recipe.",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/fIebwiemcV8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2GPypMG6awYNid_Yk96od3-txKA",
+     "rich": "https://i.ytimg.com/an_webp/fIebwiemcV8/mqdefault_6s.webp?du=3000&sqp=CLj0_9UG&rs=AOn4CLBiwH9yAPRt125-nf5GNMEDx48uYw"
+    }
+   }
+  ],
+  "shorts_results": [
+   {
+    "position_on_page": 4,
+    "shorts": [
+     {
+      "title": "Traditional Mawa Gujiya Recipe with Decorative Hand Pleating #ChhatSpecial",
+      "link": "https://www.youtube.com/shorts/fNCFVbhs1ws",
+      "thumbnail": "https://i.ytimg.com/vi/fNCFVbhs1ws/frame0.jpg",
+      "views_original": "1.4K views",
+      "views": 1400,
+      "video_id": "fNCFVbhs1ws"
+     },
+     {
+      "title": "Crispy & Delicious Homemade Gujiya | Festive Special #gujiya #festivalspecialrecipe #viralshorts",
+      "link": "https://www.youtube.com/shorts/R0315QUGRzU",
+      "thumbnail": "https://i.ytimg.com/vi/R0315QUGRzU/frame0.jpg",
+      "views_original": "226 views",
+      "views": 226,
+      "video_id": "R0315QUGRzU"
+     },
+     {
+      "title": "🇮🇳 India’s Most Special Gujiya Recipe | Traditional Homemade Gujiya ❤️",
+      "link": "https://www.youtube.com/shorts/267uQQGEIQ8",
+      "thumbnail": "https://i.ytimg.com/vi/267uQQGEIQ8/frame0.jpg",
+      "views_original": "4 views",
+      "views": 4,
+      "video_id": "267uQQGEIQ8"
+     },
+     {
+      "title": "Aisa Gujiya Kabhi Banaya Hai😋 #pirukiya #gujiya #recipe #yummy #youtubeshorts #fastival #streetfood",
+      "link": "https://www.youtube.com/shorts/Z6Icb-j5Lts",
+      "thumbnail": "https://i.ytimg.com/vi/Z6Icb-j5Lts/frame0.jpg",
+      "views_original": "1K views",
+      "views": 1000,
+      "video_id": "Z6Icb-j5Lts"
+     },
+     {
+      "title": "Crispy & Delicious Gujiya Making 🥟 ❤️| Traditional Indian Sweet Recipe 🔥✨| Perfect Festive Gujiya 🧡",
+      "link": "https://www.youtube.com/shorts/FZxA6MBI4bo",
+      "thumbnail": "https://i.ytimg.com/vi/FZxA6MBI4bo/frame0.jpg",
+      "views_original": "547 views",
+      "views": 547,
+      "video_id": "FZxA6MBI4bo"
+     }
+    ]
+   },
+   {
+    "position_on_page": 8,
+    "shorts": [
+     {
+      "title": "Mawa Gujiya Recipe 😍 | Crispy & Delicious Khoya Gujiya | Traditional Gujiya Recipe",
+      "link": "https://www.youtube.com/shorts/o1g4tPGFTiw",
+      "thumbnail": "https://i.ytimg.com/vi/o1g4tPGFTiw/frame0.jpg",
+      "views_original": "8K views",
+      "views": 8000,
+      "video_id": "o1g4tPGFTiw"
+     },
+     {
+      "title": "Crispy Coconut Gujiya Recipe 🥥 | Peaceful Village Cooking 🌿 #VillageLife #Cooking",
+      "link": "https://www.youtube.com/shorts/WvCoy6novGE",
+      "thumbnail": "https://i.ytimg.com/vi/WvCoy6novGE/frame0.jpg",
+      "views_original": "5.3K views",
+      "views": 5300,
+      "video_id": "WvCoy6novGE"
+     },
+     {
+      "title": "How to Make Gujiya at Home | Crispy & Sweet Gujiya Recipe #gujiya #holispecial #indiansweets",
+      "link": "https://www.youtube.com/shorts/yWfo07nVAVk",
+      "thumbnail": "https://i.ytimg.com/vi/yWfo07nVAVk/frame0.jpg",
+      "views_original": "2.8K views",
+      "views": 2800,
+      "video_id": "yWfo07nVAVk"
+     },
+     {
+      "title": "Easy Gujiya recipe for holi #holifood #indiandessert",
+      "link": "https://www.youtube.com/shorts/AoA-CwCAEWk",
+      "thumbnail": "https://i.ytimg.com/vi/AoA-CwCAEWk/frame0.jpg",
+      "views_original": "2.3M views",
+      "views": 2300000,
+      "video_id": "AoA-CwCAEWk"
+     },
+     {
+      "title": "Gujiya | Holi Special😍 #shorts",
+      "link": "https://www.youtube.com/shorts/Pvh2Z7A9zIQ",
+      "thumbnail": "https://i.ytimg.com/vi/Pvh2Z7A9zIQ/frame0.jpg",
+      "views_original": "7.1M views",
+      "views": 7100000,
+      "video_id": "Pvh2Z7A9zIQ"
+     },
+     {
+      "title": "Holi Special Gujiya Recipe 🥟 | Gujiya Sweet at Home😍 | Indian Sweet #shorts #gujiya #holispecial",
+      "link": "https://www.youtube.com/shorts/glEm64IYgq4",
+      "thumbnail": "https://i.ytimg.com/vi/glEm64IYgq4/frame0.jpg",
+      "views_original": "1.7K views",
+      "views": 1700,
+      "video_id": "glEm64IYgq4"
+     },
+     {
+      "title": "Gujiya recipe 😍#trending #gujiya #traditionalfood #viralshorts #shortsfeed #trendingshorts #foodie",
+      "link": "https://www.youtube.com/shorts/w_J3mDs6P0Q",
+      "thumbnail": "https://i.ytimg.com/vi/w_J3mDs6P0Q/frame0.jpg",
+      "views_original": "1.2K views",
+      "views": 1200,
+      "video_id": "w_J3mDs6P0Q"
+     },
+     {
+      "title": "Traditional Mawa Gujiya Recipe | Crispy & Delicious Gujiya",
+      "link": "https://www.youtube.com/shorts/74mD_HOfDcE",
+      "thumbnail": "https://i.ytimg.com/vi/74mD_HOfDcE/frame0.jpg",
+      "views_original": "1.8K views",
+      "views": 1800,
+      "video_id": "74mD_HOfDcE"
+     },
+     {
+      "title": "Crispy Gujiya Recipe 😋| Suji & Khoya Gujiya #recipe #foodshorts #gujiya #mawa #mawagujiya",
+      "link": "https://www.youtube.com/shorts/Jq4hkdI2t4A",
+      "thumbnail": "https://i.ytimg.com/vi/Jq4hkdI2t4A/frame0.jpg",
+      "views_original": "2.4K views",
+      "views": 2400,
+      "video_id": "Jq4hkdI2t4A"
+     },
+     {
+      "title": "My shoe wouldn't even touch a fancy dessert; I only want traditional Bihari jaggery gujiya #gujiy...",
+      "link": "https://www.youtube.com/shorts/NA6p9DbSxl0",
+      "thumbnail": "https://i.ytimg.com/vi/NA6p9DbSxl0/frame0.jpg",
+      "views_original": "7.2K views",
+      "views": 7200,
+      "video_id": "NA6p9DbSxl0"
+     },
+     {
+      "title": "Ganesh Chaturthi Special Desi Gujiya 🙏🥟✨ | Traditional Homemade Sweet Recipe #foodshorts #explore",
+      "link": "https://www.youtube.com/shorts/SLkykEdt8Yw",
+      "thumbnail": "https://i.ytimg.com/vi/SLkykEdt8Yw/frame0.jpg",
+      "views_original": "742 views",
+      "views": 742,
+      "video_id": "SLkykEdt8Yw"
+     },
+     {
+      "title": "Let's Make Gujiya Thekua 🤤💗✨| #gujiya #thekua #jitiya #shortsfeed #youtubeshorts #ytshorts #yt",
+      "link": "https://www.youtube.com/shorts/JMNUpR7Pnww",
+      "thumbnail": "https://i.ytimg.com/vi/JMNUpR7Pnww/frame0.jpg",
+      "views_original": "248 views",
+      "views": 248,
+      "video_id": "JMNUpR7Pnww"
+     },
+     {
+      "title": "😋 Crispy Gujiya Recipe | Ghar Par Banaye Delicious Gujiya 🥟✨ #ghiblirasoi #indianfood #gujiyarecipe",
+      "link": "https://www.youtube.com/shorts/-6Uy3HhX3sk",
+      "thumbnail": "https://i.ytimg.com/vi/-6Uy3HhX3sk/frame0.jpg",
+      "views_original": "417 views",
+      "views": 417,
+      "video_id": "-6Uy3HhX3sk"
+     },
+     {
+      "title": "gujiya kaise banate hain holi festival gujiya recipe #cooking #india #holi #gujiya #shorts #ytshorts",
+      "link": "https://www.youtube.com/shorts/cQmWE36XstM",
+      "thumbnail": "https://i.ytimg.com/vi/cQmWE36XstM/frame0.jpg",
+      "views_original": "43K views",
+      "views": 43000,
+      "video_id": "cQmWE36XstM"
+     },
+     {
+      "title": "Healthy Dry Fruit Gujiya Fried in Ghee 😍 | Crispy Homemade Gujiya Recipe | #Shorts #gujiya_recipe",
+      "link": "https://www.youtube.com/shorts/tW7Ra4v0ZSc",
+      "thumbnail": "https://i.ytimg.com/vi/tW7Ra4v0ZSc/frame0.jpg",
+      "views_original": "1.3K views",
+      "views": 1300,
+      "video_id": "tW7Ra4v0ZSc"
+     },
+     {
+      "title": "Crispy, Crunchy, Sweet: The Ultimate Homemade Gujiya Recipe! 🥟✨ #Holi2026\" #graciahomekitchen",
+      "link": "https://www.youtube.com/shorts/q5KJoQfoP2s",
+      "thumbnail": "https://i.ytimg.com/vi/q5KJoQfoP2s/frame0.jpg",
+      "views_original": "1.3M views",
+      "views": 1300000,
+      "video_id": "q5KJoQfoP2s"
+     },
+     {
+      "title": "Gujiya Recipe 💕😋 #gujiya #gujiya_recipe #karanji #diwalisnacks #diwalirecipe #diwalinamkeen",
+      "link": "https://www.youtube.com/shorts/Pk_HDWL3bak",
+      "thumbnail": "https://i.ytimg.com/vi/Pk_HDWL3bak/frame0.jpg",
+      "views_original": "2.5M views",
+      "views": 2500000,
+      "video_id": "Pk_HDWL3bak"
+     },
+     {
+      "title": "Ghar Par Banaye Perfect Gujiya 😍 | Crispy & Delicious #GujiyaGujiya #GujiyaRecipe #GujiyaMaking",
+      "link": "https://www.youtube.com/shorts/mH-Sls09Xb0",
+      "thumbnail": "https://i.ytimg.com/vi/mH-Sls09Xb0/frame0.jpg",
+      "views_original": "1.3K views",
+      "views": 1300,
+      "video_id": "mH-Sls09Xb0"
+     },
+     {
+      "title": "Traditional Gujiya Recipe #shortvideo #holi #anitajikakitchen",
+      "link": "https://www.youtube.com/shorts/mx1S6QqzL6w",
+      "thumbnail": "https://i.ytimg.com/vi/mx1S6QqzL6w/frame0.jpg",
+      "views_original": "613K views",
+      "views": 613000,
+      "video_id": "mx1S6QqzL6w"
+     },
+     {
+      "title": "Traditional Festival Gujiya Recipe",
+      "link": "https://www.youtube.com/shorts/pNmB1BmK1_E",
+      "thumbnail": "https://i.ytimg.com/vi/pNmB1BmK1_E/frame0.jpg",
+      "views_original": "747 views",
+      "views": 747,
+      "video_id": "pNmB1BmK1_E"
+     }
+    ]
+   }
+  ],
+  "playlist_results": [
+   {
+    "position_on_page": 11,
+    "title": "Gujiya Recipe",
+    "link": "https://www.youtube.com/playlist?list=PLXIwPvaZX1koPEuZSFtNxWcZt4gWYVt7q",
+    "channel": {
+     "name": "Masala Kitchen",
+     "link": "https://www.youtube.com/@MasalaKitchenbyPoonam"
+    },
+    "videos": [
+     {
+      "title": "1 बार ये बिना बेसन का ढोकला बनाया तो बेसन वाला भूल गए सब अब हफ़्ते मे 2 बार बनाती हूँ। Spongy Dhokla",
+      "length": "6:38",
+      "link": "https://www.youtube.com/watch?v=QGdHwBn94Cs&list=PLXIwPvaZX1koPEuZSFtNxWcZt4gWYVt7q"
+     },
+     {
+      "title": "बिना चीनी गुजिया बनाई डब्बा भर कर मिनटो मे खाली हो गया पता ही नही चला। Gujiya Recipe। No Sugar Sweet",
+      "length": "9:40",
+      "link": "https://www.youtube.com/watch?v=ekbwSwDJvIg&list=PLXIwPvaZX1koPEuZSFtNxWcZt4gWYVt7q"
+     }
+    ],
+    "video_count": 17,
+    "thumbnail": "https://i.ytimg.com/vi/QGdHwBn94Cs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAiQ5FqpowSgpg9LuoUUmG0i_o-ng"
+   }
+  ],
+  "pagination": {
+   "current": "https://www.youtube.com/results?search_query=Gujiya+recipe+traditional&gl=in&hl=en",
+   "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Gujiya%20recipe%20traditional&sp=SBSCAQtRZk9BSnpjS2pIOIIBC1hLakFmV21VREkwggELYlNzcFQySWJxaE2CAQtVVVRaOW9jVU5Ba4IBC3pneENSWTBiSUhFggELWDY0X1REalZMVzSCAQtyTWMyUlhYaWdxVYIBC2RCaWduYzRNQnM0ggEiUExYSXdQdmFaWDFrb1BFdVpTRnROeFdjWnQ0Z1dZVnQ3cYIBC3h1QmJ3TUV0YWFzggELQnE0YUxWN1ViV3eCAQt1OWRKOWRUNGVJQYIBC25wa3FXY3J0b0xFggELZkllYndpZW1jVjiyAQYKBAgQEALqAQQIAhAZ",
+   "next_page_token": "SBSCAQtRZk9BSnpjS2pIOIIBC1hLakFmV21VREkwggELYlNzcFQySWJxaE2CAQtVVVRaOW9jVU5Ba4IBC3pneENSWTBiSUhFggELWDY0X1REalZMVzSCAQtyTWMyUlhYaWdxVYIBC2RCaWduYzRNQnM0ggEiUExYSXdQdmFaWDFrb1BFdVpTRnROeFdjWnQ0Z1dZVnQ3cYIBC3h1QmJ3TUV0YWFzggELQnE0YUxWN1ViV3eCAQt1OWRKOWRUNGVJQYIBC25wa3FXY3J0b0xFggELZkllYndpZW1jVjiyAQYKBAgQEALqAQQIAhAZ"
+  },
+  "serpapi_pagination": {
+   "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Gujiya+recipe+traditional",
+   "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Gujiya+recipe+traditional&sp=SBSCAQtRZk9BSnpjS2pIOIIBC1hLakFmV21VREkwggELYlNzcFQySWJxaE2CAQtVVVRaOW9jVU5Ba4IBC3pneENSWTBiSUhFggELWDY0X1REalZMVzSCAQtyTWMyUlhYaWdxVYIBC2RCaWduYzRNQnM0ggEiUExYSXdQdmFaWDFrb1BFdVpTRnROeFdjWnQ0Z1dZVnQ3cYIBC3h1QmJ3TUV0YWFzggELQnE0YUxWN1ViV3eCAQt1OWRKOWRUNGVJQYIBC25wa3FXY3J0b0xFggELZkllYndpZW1jVjiyAQYKBAgQEALqAQQIAhAZ",
+   "next_page_token": "SBSCAQtRZk9BSnpjS2pIOIIBC1hLakFmV21VREkwggELYlNzcFQySWJxaE2CAQtVVVRaOW9jVU5Ba4IBC3pneENSWTBiSUhFggELWDY0X1REalZMVzSCAQtyTWMyUlhYaWdxVYIBC2RCaWduYzRNQnM0ggEiUExYSXdQdmFaWDFrb1BFdVpTRnROeFdjWnQ0Z1dZVnQ3cYIBC3h1QmJ3TUV0YWFzggELQnE0YUxWN1ViV3eCAQt1OWRKOWRUNGVJQYIBC25wa3FXY3J0b0xFggELZkllYndpZW1jVjiyAQYKBAgQEALqAQQIAhAZ"
+  }
+ }
+}

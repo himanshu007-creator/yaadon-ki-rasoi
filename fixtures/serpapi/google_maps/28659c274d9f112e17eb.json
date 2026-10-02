@@ -1,0 +1,911 @@
+{
+ "engine": "google_maps",
+ "params": {
+  "type": "search",
+  "q": "Gujiya sweets",
+  "ll": "@28.6139,77.2090,13z",
+  "hl": "en"
+ },
+ "recordedAt": "2026-10-02T19:12:01.195Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac001ffc83b3ffde3b1d2aa",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/KUTJZo_hZL9omp031fbN0QmihUHhHnvL2-uXtToE7-E/6ac001ffc83b3ffde3b1d2aa.md",
+   "created_at": "2026-10-02 19:11:59 UTC",
+   "processed_at": "2026-10-02 19:11:59 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/Gujiya+sweets/@28.6139,77.2090,13z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+   "total_time_taken": 1.98
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "Gujiya sweets",
+   "ll": "@28.6139,77.2090,13z",
+   "google_domain": "google.com",
+   "hl": "en"
+  },
+  "search_information": {
+   "local_results_state": "Results for exact spelling",
+   "query_displayed": "Gujiya sweets"
+  },
+  "local_results": [
+   {
+    "position": 1,
+    "title": "Gulab sweets",
+    "place_id": "ChIJTZoKOn8BDTkRlazAyXu6XPg",
+    "data_id": "0x390d017f3a0a9a4d:0xf85cba7bc9c0ac95",
+    "data_cid": "17896384060092099733",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x390d017f3a0a9a4d%3A0xf85cba7bc9c0ac95&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x390d017f3a0a9a4d%3A0xf85cba7bc9c0ac95&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 28.6999705,
+     "longitude": 77.1373595
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJTZoKOn8BDTkRlazAyXu6XPg",
+    "provider_id": "/g/1td6ql_m",
+    "rating": 4.1,
+    "reviews": 8025,
+    "type": "Candy store",
+    "types": [
+     "Candy store",
+     "Fast food restaurant",
+     "Indian restaurant",
+     "Restaurant",
+     "Vegetarian restaurant",
+     "Wedding souvenir shop",
+     "Wedding store"
+    ],
+    "address": "Metro Pillar No. 353, Madhuban Chowk, Shop No. 5, Vaishali Rd, near Kohat, New Delhi, Delhi 110034, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–11 PM",
+     "sunday": "8 AM–11 PM",
+     "monday": "8 AM–11 PM",
+     "tuesday": "8 AM–11 PM",
+     "wednesday": "8 AM–11 PM",
+     "thursday": "8 AM–11 PM",
+     "friday": "8 AM–11 PM"
+    },
+    "phone": "+91 93101 00002",
+    "website": "https://www.gulabrewri.com/",
+    "description": "Counter serve destination for sweets. Traditional Indian sweet shop with cafe tables and a buzzing vibe.",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible restroom",
+       "Wheelchair accessible seating"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qf1hAHX9XRguOgARXvAKTM0yulFXlm1QZj3mBFwVsPA3_ECqyR_iG56Rhdjc50XjFFaAuSQHxGJHRKlFu47Ds4BmkyTpCDZmb2VRSEtLJHfnmuJDgiSlK7UZtDR-FeKDBbIlas=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/WxbgyHicHcRLcoMgAADQEyFYkzjpTBcoIVb7E_Nh3GQSakALags08YQ5Q2_TmbzF-7sp50b7CKFWUSCHQerG2-ZHDL1reheIwUA5WiAssBC_7dtpWZ5DhTO-5Ez6d4kZ_8XF5hVNXlOuTVjWXWQSetnZDxwdVun3xA7ter5g6rMTc8Q7So_YV2V2XecZKzT1s5jYWWK-ps2YktqcHnasWrmXPDv3xudEtpUu4m3tCAO0KUhyetZH-3QJEUJA3Reg_wdC_URE"
+   },
+   {
+    "position": 2,
+    "title": "Hira Sweets",
+    "place_id": "ChIJfd4F-aj7DDkRebjQlFjNt0g",
+    "data_id": "0x390cfba8f905de7d:0x48b7cd5894d0b879",
+    "data_cid": "5239882471806384249",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfba8f905de7d%3A0x48b7cd5894d0b879&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x390cfba8f905de7d%3A0x48b7cd5894d0b879&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 28.633744,
+     "longitude": 77.28191699999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfd4F-aj7DDkRebjQlFjNt0g",
+    "provider_id": "/g/11bwpll9c7",
+    "rating": 4.1,
+    "reviews": 20274,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop",
+     "Candy store",
+     "Fast food restaurant",
+     "Restaurant",
+     "Vegetarian restaurant"
+    ],
+    "address": "E-60, Vikas Marg, Veer Savarkar Block, Block G, Laxmi Nagar, New Delhi, Delhi, 110092, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–11 PM",
+     "sunday": "8 AM–11 PM",
+     "monday": "8 AM–11 PM",
+     "tuesday": "8 AM–11 PM",
+     "wednesday": "8 AM–11 PM",
+     "thursday": "8 AM–11 PM",
+     "friday": "8 AM–11 PM"
+    },
+    "phone": "+91 91365 87254",
+    "website": "https://hirasweets.com/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible seating"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHk9Q1jM47mvPWqnhr_HfQ-MetSzGD0bIkrsa66nqdic07NSOQj83KOvhcGxX1nrWQQwBV3hILDbFzRkOil-AzTsvBiHZO6shvTul8ifWNR1b8V-TXEGv2LYaP3qLOoHbJJAcrOMXv3C3fZzqIhhQ3AUj1cAJvfbtlDpPoD_dg5MfRp0jblFXX3sQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/oBga3nicHcRLcoIwAADQEyGhsUg70wWWyqcgBqlQN44Jn_AxgQSjctNepavO9C3ezy-dpkG-6npP4aLmvO7LqywF4Wwq2bQg_KLXg9QGwe8P3Q6LpUO97gUZbbRcXdQuGxkVJ69CWlRO-9l1APY7Ic-mycaiIWC13ceoteBnrChx77nBRIbQbX2A1A8dvJmTLm56zZ5TqdaNd4xNSVV67a2myraJga2DluYfrnoKv887OIYx93AQ2ETEUa7gO6yO8-hTiqD91RrEDlSFp94Zdtw5FfVzVCUDaHG_yXMo0dvNAABo9H-isT-vtVax"
+   },
+   {
+    "position": 3,
+    "title": "Bangla Sweet House",
+    "place_id": "ChIJVQa9hk_9DDkR2s0bKRFT06I",
+    "data_id": "0x390cfd4f86bd0655:0xa2d35311291bcdda",
+    "data_cid": "11732812787399511514",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfd4f86bd0655%3A0xa2d35311291bcdda&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x390cfd4f86bd0655%3A0xa2d35311291bcdda&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 28.6336697,
+     "longitude": 77.2084939
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVQa9hk_9DDkR2s0bKRFT06I",
+    "provider_id": "/g/1tcwdc2z",
+    "rating": 4.2,
+    "reviews": 7169,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "No. 115, 117, Bangla Sahib Rd, Sector 3, DIZ Staff Quarters, Connaught Place, New Delhi, Delhi 110001, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–10 PM",
+     "sunday": "8 AM–10 PM",
+     "monday": "8 AM–10 PM",
+     "tuesday": "8 AM–10 PM",
+     "wednesday": "8 AM–10 PM",
+     "thursday": "8 AM–10 PM",
+     "friday": "8 AM–10 PM"
+    },
+    "phone": "+91 75328 16093",
+    "website": "https://www.instagram.com/banglasweethouse1957/?hl=en",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sh5MKcx5faN96vBHboRRu9-GGutlTCfxf_7-lCdKE92kGHDb2R8qoTrhRxI-C2zoKLLSn-PCm4pfH8i7emqQZWi-quZAGt3wtdt9o1AVjfUpFB2cHAtaozi1b34ZFLdD-FDkwU=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/86t7hnicHcRbboJAFADQFV15aXWa-IEg0EBNxVfCj5GBYajABeci6AZdQ3fTxPNx_l6SqFWfmlZJa1IgFlXeq_zGsaG8oQnHWitaBVyB0uzNqXywnZx9h3ycicuGfdxXQYpx3DPw_Z6qvSNGcZ5D5WThmplXP3BTM150uL_JePwCx3xiGEW7Bn6cetqKYFHO87rbJqcSuj6xfbIGyoihYR9_xaH1ViYPbLrgszRSa5p4UeaC516Hw3IwdF0H-Z5D8w8iXUPg"
+   },
+   {
+    "position": 4,
+    "title": "SHAGUN SWEETS | VASUNDHARA",
+    "place_id": "ChIJK99RrB37DDkRA4VhsyKQRaI",
+    "data_id": "0x390cfb1dac51df2b:0xa2459022b3618503",
+    "data_cid": "11692910486250161411",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfb1dac51df2b%3A0xa2459022b3618503&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x390cfb1dac51df2b%3A0xa2459022b3618503&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 28.6538616,
+     "longitude": 77.3555786
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJK99RrB37DDkRA4VhsyKQRaI",
+    "provider_id": "/g/11nj877j5s",
+    "rating": 4.8,
+    "reviews": 1123,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "Agrasen Chowk, 260/10, Pocket B, Sector 16, Vasundhara, Ghaziabad, Uttar Pradesh 201012, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8:30 AM",
+    "hours": "Closed · Opens 8:30 AM",
+    "operating_hours": {
+     "saturday": "8:30 AM–10 PM",
+     "sunday": "8:30 AM–10 PM",
+     "monday": "8:30 AM–10 PM",
+     "tuesday": "8:30 AM–10 PM",
+     "wednesday": "8:30 AM–10 PM",
+     "thursday": "8:30 AM–10 PM",
+     "friday": "8:30 AM–10 PM"
+    },
+    "phone": "+91 70423 14939",
+    "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/2kv-kgv09Y8?source=pa&opi=79508299&hl=en-US&gei=_wHAaovqMa2jhvcPubv96Aw&ahbb=1&sourceurl=https://www.google.com/search?tbm%3Dmap%26hl%3Den%26q%3DGujiya%2Bsweets%26pb%3D!4m8!1m3!1d78806.9051008874!2d77.209!3d28.6139!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1sSCGS6Ru4q7vC5LYSb4c9K9N69IN7C7w:2!2s1i:0,t:11886,p:SCGS6Ru4q7vC5LYSb4c9K9N69IN7C7w:2!7e81!12e5!17sSCGS6Ru4q7vC5LYSb4c9K9N69IN7C7w:73!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHRJiG9TndXFhyrgyHXosi75cQEjWPlPtq0_Vih9D1Q3H1MhmNS_nXd3QYWMNoklya4FDsC7mIl3ScSaiOvwahmIJS59UVbH0iQnw0qJtx4FAapeQAFnquNj_K9kKm9_jMDyFXAz1p45EZS0Hys4NFDKvWtGQ0g4DACJL_OGjIFIUUfLWFxfI7D=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/n_jncXicHcTbToMwAADQL2KUUEIw8YGsK3e2igz0hSAwCoOWSzeof-qf-GjieTg_v1SIaX1R1YHqh5bzdmgea7NUnImGiUPFR7WdVmVa-C5VO6whou6b3znWO6tzTOXSSjfna2caFTn12WW4iBkU145aSCO6q0V0jJOC5bVOPrIo5vdBlhCj9WiO3qAnVVJ25-dW0tHzE8NKr18u6AjbwOyLHWK7nBpiYzY_4r4IrHswWkUfIYlz-1uboHH6TIArVxhjFDwz4RDQQmQf_bA4O72HvTS9hRneb56JXjcNAKDQ_yuF_QEDLVUV"
+   },
+   {
+    "position": 5,
+    "title": "Hira sweets",
+    "place_id": "ChIJ4yzzNID7DDkRorImb3ztRms",
+    "data_id": "0x390cfb8034f32ce3:0x6b46ed7c6f26b2a2",
+    "data_cid": "7730126929124569762",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfb8034f32ce3%3A0x6b46ed7c6f26b2a2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x390cfb8034f32ce3%3A0x6b46ed7c6f26b2a2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 28.6776719,
+     "longitude": 77.2889359
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4yzzNID7DDkRorImb3ztRms",
+    "provider_id": "/g/124t5rwd0",
+    "rating": 4.2,
+    "reviews": 4339,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop",
+     "Candy store"
+    ],
+    "address": "1157, Babarpur Main Rd, East Rohtas Nagar, Kabool Nagar, Shahdara, New Delhi, Delhi, 110032, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8:30 AM",
+    "hours": "Closed · Opens 8:30 AM",
+    "operating_hours": {
+     "saturday": "8:30 AM–10:30 PM",
+     "sunday": "8:30 AM–10:30 PM",
+     "monday": "8:30 AM–10:30 PM",
+     "tuesday": "8:30 AM–10:30 PM",
+     "wednesday": "8:30 AM–10:30 PM",
+     "thursday": "8:30 AM–10:30 PM",
+     "friday": "8:30 AM–10:30 PM"
+    },
+    "phone": "+91 99997 48200",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ss6B5uXVvJaU8a9wn3beDXCjtGdR-sKTFW4gUWj0tKQoRKoP2INL2g8uo4wRmdhBaskOKsDYVMs0V4TB6VqUDukvIEpG03ettSlCL4ayoai25iGXqukDqv_EQCU1uPDJa0qjTw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/O8wpmXicHcRJDoIwFADQExUqg1ETF0KVII7I5MpUbMokBX8L8YSewduY-Bbv-ymk7GCh601halwI3jAF7JWLVrJWarl46rwDlAMCfXVIy_f8AlPHVlkybGk8o_OxNe-MZG4lvUeIIIg2qcXjtMIyOIswECfDP-wMPlPCGsPno3Ao1McAyDXZA06syJkmfUxUPfjrzsMmk_LSuDuLvgUtDbv0sl7VpB9u67MbT9SJbCnuq2hcjhOMMSr-56j9AV7WRNA"
+   },
+   {
+    "position": 6,
+    "title": "Gud Mewa Mishri",
+    "place_id": "ChIJWWRC3HIFDTkRsQWEe42kWpw",
+    "data_id": "0x390d0572dc426459:0x9c5aa48d7b8405b1",
+    "data_cid": "11266498345390310833",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x390d0572dc426459%3A0x9c5aa48d7b8405b1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x390d0572dc426459%3A0x9c5aa48d7b8405b1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 28.681895299999997,
+     "longitude": 77.0579427
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJWWRC3HIFDTkRsQWEe42kWpw",
+    "provider_id": "/g/11ykxx_lt8",
+    "rating": 4.1,
+    "reviews": 106,
+    "type": "Candy store",
+    "types": [
+     "Candy store",
+     "Restaurant"
+    ],
+    "address": "35/18 Rohtak road Opp Metro pillar No - 414, Nangloi New Delhi, Delhi, 110041, ph:, Delhi 110041, India",
+    "country": "India",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+     "saturday": "9 AM–11 PM",
+     "sunday": "9 AM–11 PM",
+     "monday": "9 AM–11 PM",
+     "tuesday": "9 AM–11 PM",
+     "wednesday": "9 AM–11 PM",
+     "thursday": "9 AM–11 PM",
+     "friday": "9 AM–11 PM"
+    },
+    "phone": "+91 99909 95379",
+    "website": "https://gudmewamishri.lovable.app/",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhE7mvxcNm6DcKCwY2u9oPwdNL3u27Za4jQXsFNlQ0krNBHaUvrqLVlaWhWNyVl8gtLtDMiZ_JzXPVRtSVysZLCaYXZeZLUone0-9RVR1SqB4rxgDSp0mAArK0o9DoNjdetTM7tZ3vvuP5MTlDccPZhP8OR1gswTqWuDwiY6JhUEt7KtG1nx2Rom=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/nwpkP3icHcTbToMwAADQL2IUmGOY-MDWqRkXGXf6Ykhp2s1CoZSbf-qf-GjieTg_v0ypfnzWdc6sHRWCcjKNRGLRKdKpHRatTvtR66VYN931mz1kF7udVxy2B4i981KZkyOipQl9azJtVO8ft3J8DfkNfMnw9F5nsxz8nNcFK8It50eqfAWDO_q8fpdRHqsk30bkn-uqRAT5megI0Jw4j41kOO3lSmHSg9Z1pQeEA0X4aIhKA1sha56n6ClIOcQ4Qiw6fsQGHZd0KCa43KvDlWUXZXvqzehWMxbty2IAADT2P9a6P3EbVwU"
+   },
+   {
+    "position": 7,
+    "title": "Sairam Sweets",
+    "place_id": "ChIJpYOhIHEEDTkRZw1IojnzrK0",
+    "data_id": "0x390d047120a183a5:0xadacf339a2480d67",
+    "data_cid": "12514644893417082215",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x390d047120a183a5%3A0xadacf339a2480d67&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x390d047120a183a5%3A0xadacf339a2480d67&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 28.659231899999998,
+     "longitude": 77.0916742
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpYOhIHEEDTkRZw1IojnzrK0",
+    "provider_id": "/g/1tdbp7vp",
+    "rating": 4.4,
+    "reviews": 1181,
+    "type": "Candy store",
+    "types": [
+     "Candy store",
+     "Indian sweets shop",
+     "Wedding store"
+    ],
+    "address": "B-371, Outer Ring Rd, Block B, Meera Bagh, Paschim Vihar, New Delhi, Delhi, 110063, India",
+    "country": "India",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+     "saturday": "9 AM–9:30 PM",
+     "sunday": "9 AM–9:30 PM",
+     "monday": "9 AM–9:30 PM",
+     "tuesday": "9 AM–9:30 PM",
+     "wednesday": "9 AM–9:30 PM",
+     "thursday": "9 AM–9:30 PM",
+     "friday": "9 AM–9:30 PM"
+    },
+    "phone": "+91 87448 08080",
+    "description": "Casual spot for classic sweets & snacks. Relaxed shop serving traditional Indian sweets & snacks in a narrow, modern space.",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEzuJ6VcPHflDC22_OOPg-AAM1sUH3iQ7tms7duv6jL5zEI2yDjVMPT_ZDjTGKkmz1o-enxRf-2YYfVvtIVqeohDZEtTNybCcd1Hc2GC01U1RJmh7-7fYRKVeSJ2PeVK8JfvaoX83Mrz-_v6VB10dIHt0I9l3kejklgyrxFJKTxBkAiHChnQkQV=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ibQYw3icHcRLUoMwAADQE6UkQaE644IClk-xgDQj3TAaAim_IAQK3NSbuHTGt3g_v1zKfnxWlIaru1KIsmHTyAYqOsk6uaOiVcp-BP0gllUxTvmDxe1t8jRCQ6doLBPj7HwOS2AYARovjnqLdNmOej7NWnV63GwXr1ZFgjDJrlaVHP263ZAArFviAuA0LcgsXfLNBLeutkze1i-T5sih-GhCdEGx13Id6EUa-4S9ezhkxN97xfwpPvZqMGwgmzVyQDB3HQndp0atWVU35Tosr56fLIfauDkm76I6Ii93BCEE_H8Kuj9F8lSX"
+   },
+   {
+    "position": 8,
+    "title": "Bhagatji Balushahi Wale | Mandoli Road, Delhi",
+    "place_id": "ChIJhT1Nopr7DDkRkx-4QDEczTQ",
+    "data_id": "0x390cfb9aa24d3d85:0x34cd1c3140b81f93",
+    "data_cid": "3804728258062720915",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfb9aa24d3d85%3A0x34cd1c3140b81f93&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x390cfb9aa24d3d85%3A0x34cd1c3140b81f93&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 28.68808,
+     "longitude": 77.2986813
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJhT1Nopr7DDkRkx-4QDEczTQ",
+    "provider_id": "/g/12llfp47d",
+    "rating": 4.1,
+    "reviews": 690,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop",
+     "Candy store",
+     "Sweets and dessert buffet"
+    ],
+    "address": "164, Mandoli Rd, Chanderlok, Shahdara, New Delhi, Delhi, 110032, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–10:30 PM",
+     "sunday": "8 AM–10:30 PM",
+     "monday": "8 AM–10:30 PM",
+     "tuesday": "8 AM–10:30 PM",
+     "wednesday": "8 AM–10:30 PM",
+     "thursday": "8 AM–10:30 PM",
+     "friday": "8 AM–10:30 PM"
+    },
+    "phone": "+91 97184 60182",
+    "website": "http://bhagatjisweets.in/",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QBLmEQ45Oy1ym82aGnp8X_N12PcKWBYtW_ZevPxT6n_5CeLQo9Ogboz9Ri1kC9fcYeKbLxplpNlRybI1y7szdU1Y361ghFyBAihPC9F6mwHAksFU8iDRlkL-WKfaseXHBvrTEtiA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/w2oXH3icHcRRboIwAADQE1WoTqRL9gEoukAQiATZD5Fa24bSNrZT6w13hN3GxPfx_v-Ytdp8ep5gixlVigrya8gVK2mJtDOsJo9qA7ABxouKljtUxfm0qT6WewfdFM5PW6nDY1_AeYmzNu5s2_-QW_k4BLJfJiSvFNrTQT1RzeGYoAvuSDbkDy10IWo3fEO3Ms9zA7tFAClLXRxxViYoDab7LhpN2oR8XYsxB212ORly3MW362FjefR1h77vA_YeA_kC2I9FWA"
+   },
+   {
+    "position": 9,
+    "title": "Kaleva",
+    "place_id": "ChIJd-3rnjD9DDkR6cbuhrkGYSE",
+    "data_id": "0x390cfd309eebed77:0x216106b986eec6e9",
+    "data_cid": "2405211069895067369",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfd309eebed77%3A0x216106b986eec6e9&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x390cfd309eebed77%3A0x216106b986eec6e9&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 28.633274099999998,
+     "longitude": 77.2084031
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJd-3rnjD9DDkR6cbuhrkGYSE",
+    "provider_id": "/g/1tgft_rc",
+    "rating": 4.2,
+    "reviews": 4369,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "109, Bangla Sahib Rd, Sector 4, Gole Market, New Delhi, Delhi 110001, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8:30 AM",
+    "hours": "Closed · Opens 8:30 AM",
+    "operating_hours": {
+     "saturday": "8:30 AM–11 PM",
+     "sunday": "8:30 AM–11 PM",
+     "monday": "8:30 AM–11 PM",
+     "tuesday": "8:30 AM–11 PM",
+     "wednesday": "8:30 AM–11 PM",
+     "thursday": "8:30 AM–11 PM",
+     "friday": "8:30 AM–11 PM"
+    },
+    "phone": "+91 79822 34844",
+    "website": "http://kalevasweets.com/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RlwrVMr3K23IQAKlSFb-Ftxyiizv8p5DVu6ucaLCvFZyX9rNBRtbCzKCZcxB4MD6MZyc2ejsLWobLkS_tkWyM4uhEFJWA9vP9rB0oVlh9N8l2t3bJuNJqPKsiNfIRoYN9zEDq6eg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/1GIyPnicHcRLjoIwAADQE1UQkNhJXPCRRD6NgwmMbIw0laKVYj9ouaFH8DYm8xbv86ZKjfLHshh1Fx3nHSNaEoH5oMigFpjfrW6UAEsgrQDVvYEle4qqEG7muLvfIGOHpAWJepm-n6f1uIor7Wt8zqMpacwfFCgsVRvNWdTgV-gVsV80BjvkKvOat_ntcFK32hSeptskrQM47aEIbV4xCtGaOcptU43Sxz6TPbrsSn5EcN7GD590m-fStm1A_8dg-AI6wEX8"
+   },
+   {
+    "position": 10,
+    "title": "Standard Burfee",
+    "place_id": "ChIJA93xhwsDDTkRdwZfBgHyy1Q",
+    "data_id": "0x390d030b87f1dd03:0x54cbf201065f0677",
+    "data_cid": "6110243405673989751",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x390d030b87f1dd03%3A0x54cbf201065f0677&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x390d030b87f1dd03%3A0x54cbf201065f0677&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 28.650930199999998,
+     "longitude": 77.1926223
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJA93xhwsDDTkRdwZfBgHyy1Q",
+    "provider_id": "/g/1td7g37q",
+    "rating": 4,
+    "reviews": 1443,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "2750, 21, Ajmal Khan Rd, Beadonpura, Karol Bagh, Delhi, 110005, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–9 PM",
+     "sunday": "8 AM–9 PM",
+     "monday": "8 AM–9 PM",
+     "tuesday": "8 AM–9 PM",
+     "wednesday": "8 AM–9 PM",
+     "thursday": "8 AM–9 PM",
+     "friday": "8 AM–9 PM"
+    },
+    "phone": "+91 98103 52741",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHiqqzZOnf2y34M6wHRbnGp5ngOH1a9tN3vws54DxjdgUFfT-wcRS0hjgtSzRfEWmYsfQdEovFD1PTFbVTfefoSFiigEqvWaPY9PEA27_NTUoRO03NVBVBeu5GVvEC5iRDHYJKouB3qKaaWJzaHgdGOZWxKnhAG4vPNNEf2ZnqNFh-p1Zjy1UzW=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/TpV75XicHcTJToNAAADQL6Lsmpp4ABkgRQdkDVwMhVkg7QyUYf3T_olHE9_hPX-pEMP0Jss3qp8I5-SG5gk9Gs4EYuLU8LtMhkkaHnzbZeuzNRzqd-N4VCHD2q4bXy-rH1-ZN5iMhL5anwXUl3UyDWfrW5K5OJXWJk4U2hORHDEGxb2c8HcL-OI6apS61zzFCPPE7ToCxqWoo_IcAUt7_YFpxuNQ0WFu5zaaTS9fwIfZxY5fXgI-2_oY1HVxOWqftF5YFVvAqOUZSwQhwFrFRuhSaVCrflezo3hfVUVRJPp_I7E_NulV_g"
+   },
+   {
+    "position": 11,
+    "title": "JaiTara Sweets",
+    "place_id": "ChIJ2SLpJXr9DDkRuLvzK-l3JQw",
+    "data_id": "0x390cfd7a25e922d9:0xc2577e92bf3bbb8",
+    "data_cid": "875237545941908408",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfd7a25e922d9%3A0xc2577e92bf3bbb8&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x390cfd7a25e922d9%3A0xc2577e92bf3bbb8&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 28.652551799999998,
+     "longitude": 77.2317954
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2SLpJXr9DDkRuLvzK-l3JQw",
+    "provider_id": "/g/11r4h77sck",
+    "rating": 4.3,
+    "reviews": 23,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop"
+    ],
+    "address": "2283, Dharampura, via, Kucha Seth Rd, Dariba Kalan, Chandni Chowk, New Delhi, Delhi 110006, India",
+    "country": "India",
+    "phone": "+91 98110 08716",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RvtzTwCXJQTwn7TlKOQwBEbkJkh5EhRpT9j3-2gdqKHU0Xsi-GVhFanNKKUj6woY5BsC33IBdv5qcq0ZRQquGJDQCWLq7GTx1oUJpw9ysgcUWXqGFkz1tY_dTBQMIMQsh9exy0=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/3AIrbXicHcTdboIwGADQJ6qUEWYw8UKYMmFqSsrA3SxbIS0_a6lfoeIL-gy-zRLPxXnchTEDrBynF96CK8X7eoT6wpQ0tTQLpv4cPgBigMDZHItmDrLJ3KiNyoRQK5e0T0_EhtvfLumEvxXZQIPWQy-80ul7jktoUPwpdj_ymKZ5-2rV2Q8h8rx9WE2-Zhp_ZUSPcfJGouJDL2N6dVWeDDaYgbO8KHW8626uOX9XNCSH_YGACOrrjNfWxRgj8Zwh-Q-JZUUT"
+   },
+   {
+    "position": 12,
+    "title": "Ghantewala",
+    "place_id": "ChIJD_3iiRr9DDkRhG7_Tr9QMkQ",
+    "data_id": "0x390cfd1a89e2fd0f:0x443250bf4eff6e84",
+    "data_cid": "4914078926008970884",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfd1a89e2fd0f%3A0x443250bf4eff6e84&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x390cfd1a89e2fd0f%3A0x443250bf4eff6e84&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 28.656181699999998,
+     "longitude": 77.2313782
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJD_3iiRr9DDkRhG7_Tr9QMkQ",
+    "provider_id": "/m/04gtt40",
+    "rating": 3.6,
+    "reviews": 209,
+    "unclaimed_listing": true,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop"
+    ],
+    "address": "M64J+FHC, Old Delhi, Maliwara Tiraha Bazar, Katra Shah N Shah, Chandni Chowk, New Delhi, Delhi, 110006, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8:30 AM",
+    "hours": "Closed · Opens 8:30 AM",
+    "operating_hours": {
+     "saturday": "8:30 AM–8:30 PM",
+     "sunday": "8:30 AM–8:30 PM",
+     "monday": "8:30 AM–8:30 PM",
+     "tuesday": "8:30 AM–8:30 PM",
+     "wednesday": "8:30 AM–8:30 PM",
+     "thursday": "8:30 AM–8:30 PM",
+     "friday": "8:30 AM–8:30 PM"
+    },
+    "phone": "+91 85272 79535",
+    "website": "https://www.ghantewala.in/",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEPsp-x4eEbQPyAspUP36qITWvbncNLR5gnO7PEzMTmfYaJNlx6O827JoKShf0bMEzKyOg2cqmC8pn6YT4AaKwc2NyZBZ6BaBmLwPhSCRYPfNSpbFh95nfSP81ZSazr5-cmo9xURs2XrooGz9qUt0YNPqMK8iBnBOaTer562p8rWdq32Br3XQBb=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/vnrSgHicHcRJboMwAADAFxGIWQKVesAprRo2h0UJ3MAxuBLYxqZl-Wl_kmOlzmF-n3SehXrR9YGah57zfiDfikjM2UzYfMB81HuhNCH5uul-9LDeaICU0FaLBO0Vbb4SJTKd6bO4_bQMJ1Fm9yw9oWCPi7GrmksyrE7qgtOFhzntjDYO9nBLe4Cn8ewK5lSF5TfhgkGy1bB2YAPHaEE0P2cV6pJctO_Us1mXI_dY580ubQ2P3FvLTIG75Pxj96ZyNqoETXHofkEG06Yg0naAcOXtMZkASvN-he3rcjQMQ6P_Y439Ac8jVTM"
+   },
+   {
+    "position": 13,
+    "title": "Sairam Sweets",
+    "place_id": "ChIJQ7BAfEDjDDkROzJojVNzUZI",
+    "data_id": "0x390ce3407c40b043:0x925173538d68323b",
+    "data_cid": "10543335005342937659",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x390ce3407c40b043%3A0x925173538d68323b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x390ce3407c40b043%3A0x925173538d68323b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 28.5711603,
+     "longitude": 77.2211763
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ7BAfEDjDDkROzJojVNzUZI",
+    "provider_id": "/g/11t58c7qwx",
+    "rating": 4.4,
+    "reviews": 91,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "H-30, South Extension, Block H, New Delhi, Delhi 110049, India",
+    "country": "India",
+    "open_state": "Closed · Opens 9:30 AM",
+    "hours": "Closed · Opens 9:30 AM",
+    "operating_hours": {
+     "saturday": "9:30 AM–9:30 PM",
+     "sunday": "9:30 AM–9:30 PM",
+     "monday": "9:30 AM–9:30 PM",
+     "tuesday": "9:30 AM–9:30 PM",
+     "wednesday": "9:30 AM–9:30 PM",
+     "thursday": "9:30 AM–9:30 PM",
+     "friday": "9:30 AM–9:30 PM"
+    },
+    "phone": "+91 78389 02000",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEzuJ6VcPHflDC22_OOPg-AAM1sUH3iQ7tms7duv6jL5zEI2yDjVMPT_ZDjTGKkmz1o-enxRf-2YYfVvtIVqeohDZEtTNybCcd1Hc2GC01U1RJmh7-7fYRKVeSJ2PeVK8JfvaoX83Mrz-_v6VB10dIHt0I9l3kejklgyrxFJKTxBkAiHChnQkQV=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ibQYw3icHcRLUoMwAADQE6UkQaE644IClk-xgDQj3TAaAim_IAQK3NSbuHTGt3g_v1zKfnxWlIaru1KIsmHTyAYqOsk6uaOiVcp-BP0gllUxTvmDxe1t8jRCQ6doLBPj7HwOS2AYARovjnqLdNmOej7NWnV63GwXr1ZFgjDJrlaVHP263ZAArFviAuA0LcgsXfLNBLeutkze1i-T5sih-GhCdEGx13Id6EUa-4S9ezhkxN97xfwpPvZqMGwgmzVyQDB3HQndp0atWVU35Tosr56fLIfauDkm76I6Ii93BCEE_H8Kuj9F8lSX"
+   },
+   {
+    "position": 14,
+    "title": "Sona Mithai Wala",
+    "place_id": "ChIJ5atnaXz7DDkR7rEnolPXYRA",
+    "data_id": "0x390cfb7c6967abe5:0x1061d753a227b1ee",
+    "data_cid": "1180461331550548462",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfb7c6967abe5%3A0x1061d753a227b1ee&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x390cfb7c6967abe5%3A0x1061d753a227b1ee&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 28.668681399999997,
+     "longitude": 77.2910256
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5atnaXz7DDkR7rEnolPXYRA",
+    "provider_id": "/g/11f40nw8ml",
+    "rating": 4,
+    "reviews": 1643,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "229, Bada Bazar Rd, Bara Thakur Dwara, Pathan Pura, Shahdara, New Delhi, Delhi, 110032, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–11 PM",
+     "sunday": "8 AM–11 PM",
+     "monday": "8 AM–11 PM",
+     "tuesday": "8 AM–11 PM",
+     "wednesday": "8 AM–11 PM",
+     "thursday": "8 AM–11 PM",
+     "friday": "8 AM–11 PM"
+    },
+    "phone": "+91 98999 04300",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R8D0rlfpMoqVGYN9qQqF_cxqX3QM-t_EHrfvtT1FWzEeugQIczzf0VIcRZygPK0PUpQOGmtRYann4QEPmchcvsewAChDXxiLtUK96VcfySNIn6QndLDU46dEsj08TG_j5IwCDr=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/V_0DUHicHcRLDoIwFADAE1VqVCImLox8JCpSFFA3xDxKq4EWaBXhgp7B25g4i_l-uNa1WhhGyScjJiUr6VPRFqTQVOgRyMpgtUKgkDJWQXrvrWhu47Ys6r1sEu8SWA1p3AzezXlC9khnzqYtXvo0dtPBoU9GfBiGAic-RNeehVscxjU5eJWOLjchpsQJK-DwUrRbrbl9ft93Ot5aZgJFfwx8YRKR7-x4auaOeuD5ycseM79b2-2yG2OMEf8PSPwA8F9F0A"
+   },
+   {
+    "position": 15,
+    "title": "Evergreen Sweets shop",
+    "place_id": "ChIJEQAALJPjDDkRTBNSiKPCtIU",
+    "data_id": "0x390ce3932c000011:0x85b4c2a38852134c",
+    "data_cid": "9634539510474871628",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x390ce3932c000011%3A0x85b4c2a38852134c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x390ce3932c000011%3A0x85b4c2a38852134c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 28.5608093,
+     "longitude": 77.2726249
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEQAALJPjDDkRTBNSiKPCtIU",
+    "provider_id": "/g/1tdq4cx5",
+    "rating": 3.7,
+    "reviews": 871,
+    "type": "Candy store",
+    "types": [
+     "Candy store",
+     "Restaurant",
+     "Vegetarian restaurant"
+    ],
+    "address": "156, near Escort Heart Institute, Sarai Jullena, New Friends Colony, New Delhi, Delhi 110025, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8:30 AM",
+    "hours": "Closed · Opens 8:30 AM",
+    "operating_hours": {
+     "saturday": "8:30 AM–9 PM",
+     "sunday": "8:30 AM–9 PM",
+     "monday": "8:30 AM–9 PM",
+     "tuesday": "8:30 AM–9 PM",
+     "wednesday": "8:30 AM–9 PM",
+     "thursday": "8:30 AM–9 PM",
+     "friday": "8:30 AM–9 PM"
+    },
+    "phone": "+91 85868 64480",
+    "description": "Long established traditional sweet shop. A typical range of sweets and dried fruit have been available at this simple shop for over 40 years.",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhE7IGpPI8CrZbCntGgRU3pv8QtUBrrkto9EL9pDZr9xfGUvzxaXyCpR1T2ABDLHHGyw-gkQl2W8vavSKzIJd6AEjdUDe9O5xOILBGWNi5MmwrOa5OyuDri1VMaSvblUJqu3SfojKV8A6cHsfvDQVSVGMdx1qDrd5hQq4J70liXRSIHMgL1Zk0fNtQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/5e0phXicHcTNkkMwAADgJ1JUtezMHhATlFos7bipn1AqEZHSN91X2dPO7Hf4fn5bxsj8IYpDq-wQxmiol7mmJR5ZPbJdiZ8iIrNAKF430fCrA2jtkwvJl6tZNL9bI4MoThXCtYilJqU9w7rt6wTkVF8bmPL3Wtw2i8Ty994wge84cHsJqI-G_VXjBU_Ob9erjob9qFJQ66G6hq5vwuulU4Pni4aFGm4LoJ2cBUXC70PqTYuSNPhxzjTjWDpzw0GUJRkMqlWeAK3UNpoO3kkaulucuE6AfDnvpebCos-XLEmS0P5fCuMfrr1WYw"
+   },
+   {
+    "position": 16,
+    "title": "Gulab Sweets Paschim Vihar",
+    "place_id": "ChIJp-nDkc8FDTkRwHxwk-u5fHI",
+    "data_id": "0x390d05cf91c3e9a7:0x727cb9eb93707cc0",
+    "data_cid": "8249673038877981888",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x390d05cf91c3e9a7%3A0x727cb9eb93707cc0&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x390d05cf91c3e9a7%3A0x727cb9eb93707cc0&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 28.6708358,
+     "longitude": 77.0928031
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJp-nDkc8FDTkRwHxwk-u5fHI",
+    "provider_id": "/g/11vbgpkq1y",
+    "rating": 3.9,
+    "reviews": 289,
+    "type": "Candy store",
+    "types": [
+     "Candy store",
+     "Restaurant"
+    ],
+    "address": "Shop - 21, near Sethi Stores, Bhera Enclave, Paschim Vihar, Delhi, 110087, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–11 PM",
+     "sunday": "8 AM–11 PM",
+     "monday": "8 AM–11 PM",
+     "tuesday": "8 AM–11 PM",
+     "wednesday": "8 AM–11 PM",
+     "thursday": "8 AM–11 PM",
+     "friday": "8 AM–11 PM"
+    },
+    "phone": "+91 79823 54526",
+    "website": "https://www.gulabrewri.com/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible restroom",
+       "Wheelchair accessible seating"
+      ]
+     }
+    ],
+    "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/z9Iq_5EoC5U?source=pa&opi=79508299&hl=en-US&gei=_wHAaovqMa2jhvcPubv96Aw&ahbb=1&sourceurl=https://www.google.com/search?tbm%3Dmap%26hl%3Den%26q%3DGujiya%2Bsweets%26pb%3D!4m8!1m3!1d78806.9051008874!2d77.209!3d28.6139!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1sSCGS6Ru4q7vC5LYSb4c9K9N69IN7C7w:2!2s1i:0,t:11886,p:SCGS6Ru4q7vC5LYSb4c9K9N69IN7C7w:2!7e81!12e5!17sSCGS6Ru4q7vC5LYSb4c9K9N69IN7C7w:73!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHZojz7MpngAecFMGqiZiLPMb1NGeJGEDGWm-d8QSGI2tTjwEFUMXttDLfgYNv5Ecbfvq6q5UmxgCKXUatCBnvKm406CZx-G_HEkrim7Vm_fc2uFyjlRyRmlILtB5wD82NFWJip1zvBUY936m1hRK32ij0XbxMbQe3-rOD0stGwZMkn5SpK9Cd67w=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/noDW1XicHcRJcoJAAADAFyGbgKYqB9lGhSERQ0QuVoBhk1mAkcWf-pWcUpU-9Ou34pwNb6LYVuqqpLRs0WNAfUYJR4SvMorFkg0C6-m8iDs_X9vVPqHN04CMlDuUuRB0dVL7nzCVA4COwLHBBQv55nQGB4V_NZPjRjDm3PaL8hqMmpOlxdjpnRbhubS8OPrhlklGD68l3UpmAdz2zr2vsfGNb0WmPNylacMlxO3B56Y22RslcC_HmsnP0YyuW1XHchV6qlI3UpzOMD0hVeg_bGngYErgnWhn5m2tXDem90mWJEmo_s8E8gekk1YH"
+   },
+   {
+    "position": 17,
+    "title": "Gogia Paneer Bhandar",
+    "place_id": "ChIJw6ukiKP8DDkRYwNwBtQU8N4",
+    "data_id": "0x390cfca388a4abc3:0xdef014d406700363",
+    "data_cid": "16064362771704185699",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfca388a4abc3%3A0xdef014d406700363&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x390cfca388a4abc3%3A0xdef014d406700363&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 28.647346799999998,
+     "longitude": 77.2786704
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJw6ukiKP8DDkRYwNwBtQU8N4",
+    "provider_id": "/g/124ydsk4s",
+    "rating": 4.3,
+    "reviews": 2324,
+    "type": "Dairy store",
+    "types": [
+     "Dairy store"
+    ],
+    "address": "Patparganj Rd, Khureji Khas, Geeta Colony, New Delhi, Delhi, 110031, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8:30 AM",
+    "hours": "Closed · Opens 8:30 AM",
+    "operating_hours": {
+     "saturday": "8:30 AM–11 PM",
+     "sunday": "8:30 AM–11 PM",
+     "monday": "8:30 AM–11 PM",
+     "tuesday": "8:30 AM–11 PM",
+     "wednesday": "8:30 AM–11 PM",
+     "thursday": "8:30 AM–11 PM",
+     "friday": "8:30 AM–11 PM"
+    },
+    "phone": "+91 98736 88839",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q5BTcRsXmLrI0iVWw5wrCNSYKJiqzHIN4xqf3n7jhzQbFdaX8xLaH8Kl6qDpXQfMlg_iac3jZQ9vxvX4DDLUNbm-uirmzjLDSzpvc4APAQ9V3yP1uGHzOXCm1ZXZ8mtWJSIRzA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/47u3tXicHcRJDoIwAADAF1UgoIKJB5QoKKIVlcrFYEUooWwtWz_oG_yNiXOY7yflvGILScpTdZKUZZLHLYsbXBY8LvgEl1RKKgYwA0wyvYCMBpyuLvjMEHUbRya3oJ_2zdrz7_sdqYXteNpQv9VinqUCPjevCOmDG9n6Pp_VVoXg-5AnDxJhNQuh0Q0d0izLvXpPClrSUJG5li-qDmvmyYTGTR1PSru1xRGtqRKiUKc82PnOWZjLXpFlGaT_MSh-x2RFkQ"
+   },
+   {
+    "position": 18,
+    "title": "Nathu's Sweets",
+    "place_id": "ChIJNSjuNiz9DDkR6Dhwfh-7DJE",
+    "data_id": "0x390cfd2c36ee2835:0x910cbb1f7e7038e8",
+    "data_cid": "10451934579159742696",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfd2c36ee2835%3A0x910cbb1f7e7038e8&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x390cfd2c36ee2835%3A0x910cbb1f7e7038e8&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 28.6297216,
+     "longitude": 77.23201449999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNSjuNiz9DDkR6Dhwfh-7DJE",
+    "provider_id": "/g/1td1n7vq",
+    "rating": 3.8,
+    "reviews": 7290,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop",
+     "Candy store",
+     "Store"
+    ],
+    "address": "Shop No : 23, 24, Bengali Market, Tansen Marg, New Delhi, Delhi 110001, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–11 PM",
+     "sunday": "8 AM–11 PM",
+     "monday": "8 AM–11 PM",
+     "tuesday": "8 AM–11 PM",
+     "wednesday": "8 AM–11 PM",
+     "thursday": "8 AM–11 PM",
+     "friday": "8 AM–11 PM"
+    },
+    "phone": "+91 11 4338 2000",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEwyjPXobZAZHHLhMQsNgvhdQFd1UNScCUtwGoVoW80yRWunGQnLCqq_bDeXSDW2eOoLJta5eccoW3NV4Mzs9DzpDCGijMYWeDhUhiHbtFG1BwH7A3Yn1QS1JC0dHJISl9O2uDWhaG9f9w3ljmJWct0mnt0I5e1KZpwcuRO_6SB8EX9y8cS376tJQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/r5kf9HicHcRLcoIwAADQEymJ-IHOdIFEQcqnmMEgG0dCSmQgQQmNeNNepavO9C3ezy9Xqh_eDKPl5ryWsm7ZOLAHlUIxoeZUdkbdD7P-IZ-T4YTVEvGdnprPXJaFU_h-yKN0iOtvXqX7CmYxpm6mtCdPklhgOpJReKkI3fv9UiKWY0QWLJFhoK4rRqkkZnxaRq_BRq8eud6tic6EIZ7xm1-qvQe32t845lnAFMPABZUfHHBrJ4sREX717C9bm23TBYQq0AkFDisGP4pe0_GYXNZ4a-1ye7IoNjdrFaTvGgIAZvx_OhN_2RxVwQ"
+   },
+   {
+    "position": 19,
+    "title": "Aggarwal Sweets",
+    "place_id": "ChIJAQAAQDsDDTkRC4H0ZEWFe4c",
+    "data_id": "0x390d033b40000001:0x877b854564f4810b",
+    "data_cid": "9762543150348665099",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x390d033b40000001%3A0x877b854564f4810b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x390d033b40000001%3A0x877b854564f4810b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 28.632208499999997,
+     "longitude": 77.13863769999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAQAAQDsDDTkRC4H0ZEWFe4c",
+    "provider_id": "/g/11stvw44pr",
+    "rating": 3.7,
+    "reviews": 374,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop"
+    ],
+    "address": "B1, Industrial Area Phase I, C-Block Community Center, Naraina Industrial Area Phase 1, Naraina, New Delhi, Delhi 110028, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–10 PM",
+     "sunday": "8 AM–10 PM",
+     "monday": "8 AM–10 PM",
+     "tuesday": "8 AM–10 PM",
+     "wednesday": "8 AM–10 PM",
+     "thursday": "8 AM–10 PM",
+     "friday": "8 AM–10 PM"
+    },
+    "phone": "+91 92134 80759",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhG6K-MU3rSssGc769D1X4NZS_o4WsN__tSGHI4EjeoPFC9QaBjpbhizURYL6zEMM5_VXYFznRLO1eMc02iJaokSV4N7qGndA9kdu_m8Ul2s0qN-x0XA13HfMbSwO9ndglIafv8cL4thaFvCt10YMpjx41FxC1sYp3ebrYxteoJtN5KWW7a-PziXqA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/4wn_dnicHcRLcoIwAADQEyGJRJDOdEFR8EPQyiDQDQMhEhATJFEpN-1VuupM3-L9_DKlevmm6x0zZrUQdUcfkg5EcEW5mhFx0-teav0gxm_dCSq0Yr6513BsDJGUPrFMewVTFH5FuUCJDPNcRf5mi9YtFUfPtT-Lj7YvWTPFpywwpzXGi_ycZt7ET8EBUkzAvNkV4hqdUWjdfV459rV65Ldl3M0luIfaCFIHGpsLLqPXweZV3W2Ly3NJAqRY4T1dBUGG-3ZE0BtdKLPeoOWQjYqKnQoX-ySxCu04NendeX9BAIDG_ica_wPD-lVg"
+   },
+   {
+    "position": 20,
+    "title": "Shyam sweets",
+    "place_id": "ChIJOd0erhf9DDkRL0sAtLVxVlU",
+    "data_id": "0x390cfd17ae1edd39:0x555671b5b4004b2f",
+    "data_cid": "6149227366443928367",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfd17ae1edd39%3A0x555671b5b4004b2f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x390cfd17ae1edd39%3A0x555671b5b4004b2f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 28.6503958,
+     "longitude": 77.2302914
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJOd0erhf9DDkRL0sAtLVxVlU",
+    "provider_id": "/g/1v9l94jw",
+    "rating": 4.1,
+    "reviews": 3641,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop",
+     "Candy store"
+    ],
+    "address": "112, Chawri Bazar Rd, Old Delhi, Manohar Market, Hauz Qazi, Chandni Chowk, Delhi, 110006, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–9:30 PM",
+     "sunday": "8 AM–6:30 PM",
+     "monday": "8 AM–9:30 PM",
+     "tuesday": "8 AM–9:30 PM",
+     "wednesday": "8 AM–9:30 PM",
+     "thursday": "8 AM–9:30 PM",
+     "friday": "8 AM–9:30 PM"
+    },
+    "phone": "+91 97110 08900",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RqMyLuNf28ZGJmHJTdlTyePJbaNq4WyF5nwq3XNnBzjX20B5BZAUB7zLKPpBefBBLsi3oNtcf-DJYGHQCEgmS2wcAB7okPCNTHCga0LWDZJx1YJFPtA01IPPX0EM5JR6On2fS1=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Dxvz6HicHcRbsoIgAADQFZGo2Wvmfog9jIyobDT_ihArBQ0ar22wNbSbZjof5_MujKn1xLLKwu0JpUTJn5o_mJKGS9NjqrJErQHTQFs-Sa7deNesu-hJcmeULXAV4vhSxh2n-HwiTT_p5p5sGzclEr1uqQORhzL_gIavaEVrxHOEIn11FTEsB1N8XITbYCaqvdMyHw3VnQYkDgNxglEyzfC_fcRzanxoLylN4Wzt4d1gI518b_-1NoQQFL8ZkF8V8UKB"
+   }
+  ],
+  "serpapi_pagination": {
+   "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4028.6139%2C77.2090%2C13z&q=Gujiya+sweets&start=20&type=search"
+  }
+ }
+}

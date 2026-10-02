@@ -1,0 +1,637 @@
+{
+ "engine": "youtube",
+ "params": {
+  "search_query": "anarsa recipe traditional",
+  "gl": "in",
+  "hl": "en"
+ },
+ "recordedAt": "2026-10-02T19:06:26.542Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac000afbb85f39292b97024",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/eHeW1OikufZxAFVmGDQGu6X6BYa0WxmNN3yHZGZfbWc/6ac000afbb85f39292b97024.md",
+   "created_at": "2026-10-02 19:06:23 UTC",
+   "processed_at": "2026-10-02 19:06:23 UTC",
+   "youtube_url": "https://www.youtube.com/results?search_query=anarsa+recipe+traditional&gl=in&hl=en",
+   "total_time_taken": 2.45
+  },
+  "search_parameters": {
+   "engine": "youtube",
+   "search_query": "anarsa recipe traditional",
+   "gl": "in",
+   "hl": "en"
+  },
+  "search_information": {
+   "total_results": 143640,
+   "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+   {
+    "position_on_page": 1,
+    "title": "Anarsa Easy Recipe | अनरसे की परफेक्ट रेसिपी | perfect Anarasa at home | Chef Ranveer Brar",
+    "link": "https://www.youtube.com/watch?v=_cUS0ziNtVE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_cUS0ziNtVE",
+    "video_id": "_cUS0ziNtVE",
+    "channel": {
+     "name": "Chef Ranveer Brar",
+     "link": "https://www.youtube.com/@RanveerBrar",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/ccCYUcBC69tdqspzHL_sUAyrbVKx_Y5pb6IeA7F_WpamxVYjd7OH0iUgxSAeKGY_7r8HMZUu=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "2y ago",
+    "views": 1285135,
+    "length": "15:11",
+    "description": "ANARSA RECIPE - A traditional dish popular during most festivals, especially Diwali, Anarsa is pretty easy to make.",
+    "extensions": [
+     "4K",
+     "CC"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/_cUS0ziNtVE/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDuTbq5VQetaFuGVn8mmfq5M0N4kw",
+     "rich": "https://i.ytimg.com/an_webp/_cUS0ziNtVE/mqdefault_6s.webp?du=3000&sqp=CJXd_9UG&rs=AOn4CLC7QqjrjFVlYYc29o4oM9KOFCivwg"
+    }
+   },
+   {
+    "position_on_page": 2,
+    "title": "Step by Step Traditional Anarsa Recipe 100% जालीदार परफेक्ट अनरसा रेसिपी",
+    "link": "https://www.youtube.com/watch?v=9LG7gvQ0Wbo",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9LG7gvQ0Wbo",
+    "video_id": "9LG7gvQ0Wbo",
+    "channel": {
+     "name": "Yogita Pawar",
+     "link": "https://www.youtube.com/@allinonecreation8353",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kkLZq5KVmMlSg-fDWctANp4Ob4JcWWTRaN9N1ZnppCFgI=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "4y ago",
+    "views": 723,
+    "length": "4:40",
+    "description": "Step by step traditional anarsa recipe 100% जालीदार अनरसा रेसिपी #anarsa #anarsarecipe #anarse ...",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/9LG7gvQ0Wbo/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAl2qWlSGin3FVDfM-N3AYZ5w09HQ",
+     "rich": "https://i.ytimg.com/an_webp/9LG7gvQ0Wbo/mqdefault_6s.webp?du=3000&sqp=CNyAgNYG&rs=AOn4CLDatwe-Wn0jgHw2YOk4xfBW0cYpWw"
+    }
+   },
+   {
+    "position_on_page": 3,
+    "title": "A Staple Maharashtrian Sweet - Anarsa | Anarsa Recipe by Masala Kitchen | Holi Special Recipe",
+    "link": "https://www.youtube.com/watch?v=YaRQUc63IOc",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YaRQUc63IOc",
+    "video_id": "YaRQUc63IOc",
+    "channel": {
+     "name": "Masala Kitchen",
+     "link": "https://www.youtube.com/@MasalaKitchenbyPoonam",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/ZizXldPDc-7MKcWSUY25A7msfSoou0w8YGyPHw_m7EU43X91Dg_OTlf_BDhMvNirUZAASw-CCQ=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "3y ago",
+    "views": 1833871,
+    "length": "8:46",
+    "description": "👉Buy MYKK Hair Oils Now 👉 https://mykkstore.com/ \n✅All your hair problems will be over with my made MYKK Hair Oils!✅ \n\nToday ...",
+    "extensions": [
+     "3 products",
+     "4K"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/YaRQUc63IOc/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCocb3eyq9ZvAQGZ6Nx4R02eXP3bA",
+     "rich": "https://i.ytimg.com/an_webp/YaRQUc63IOc/mqdefault_6s.webp?du=3000&sqp=CNrm_9UG&rs=AOn4CLC_DY0pxn0zTvTGxQ04TK0Oc2-Jfw"
+    }
+   },
+   {
+    "position_on_page": 5,
+    "title": "Traditional Recipe Anarsa | Perfect recipe of Anarsa | Anarsa Recipe with tips",
+    "link": "https://www.youtube.com/watch?v=LH5AqFkqY3g",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LH5AqFkqY3g",
+    "video_id": "LH5AqFkqY3g",
+    "channel": {
+     "name": "Vee Kitchen",
+     "link": "https://www.youtube.com/@VeeKitchen",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lJOIdmFVW4RFGtvef9wKUjsrL73-GB15UHAeXZ_55y9A=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "7mo ago",
+    "views": 1214,
+    "length": "8:02",
+    "description": "traditional anarsa recipe no fail perfect recipe must try!\n\n#anarsa #anarsarecipe #anarsha #anarsaeasyrecipe ...",
+    "extensions": [
+     "8 products"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/LH5AqFkqY3g/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAX8Z7iNiYMjV52R3SIKBzSCdEJhQ",
+     "rich": "https://i.ytimg.com/an_webp/LH5AqFkqY3g/mqdefault_6s.webp?du=3000&sqp=CLjB_9UG&rs=AOn4CLDQLrVisvFis2U1HOWZSqAXzWYClw"
+    }
+   },
+   {
+    "position_on_page": 6,
+    "title": "Andrasay Recipe | Anarsa Recipe | Traditional recipe of Anarsa | by @kitchenwithhuma9",
+    "link": "https://www.youtube.com/watch?v=lgDkczKj1tQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lgDkczKj1tQ",
+    "video_id": "lgDkczKj1tQ",
+    "channel": {
+     "name": "kitchen with huma",
+     "link": "https://www.youtube.com/@kitchenwithhuma9",
+     "thumbnail": "https://yt3.ggpht.com/XZzMCl1vZ1ScK8RRhw7ZYsK1j7nb1oLuJ0qdY4UjjEn9BqynmbrquJGUoONaNl2U1pw4fUNDKg=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "6y ago",
+    "views": 81254,
+    "length": "4:09",
+    "description": "Andrasay Recipe | Anarsa Recipe | Traditional recipe of Anarsa | by @kitchenwithhuma9 Andrasay recipe, Anarsa recipe, this ...",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/lgDkczKj1tQ/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAooGaPLiHG6bfX0dprbEODQnrKOg",
+     "rich": "https://i.ytimg.com/an_webp/lgDkczKj1tQ/mqdefault_6s.webp?du=3000&sqp=CMzV_9UG&rs=AOn4CLCC9_XXIsgVHyFZE7Q7Xn29goH3Aw"
+    }
+   },
+   {
+    "position_on_page": 7,
+    "title": "पारंपरिक अनरसा रेसीपी |Traditional Anarsa Recipe|Diwali special recipes|Anarsa banane ki vidhi",
+    "link": "https://www.youtube.com/watch?v=lzKJVoEZ09k",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lzKJVoEZ09k",
+    "video_id": "lzKJVoEZ09k",
+    "channel": {
+     "name": "Protien Vibes",
+     "link": "https://www.youtube.com/@geetusgoodvibes7202",
+     "thumbnail": "https://yt3.ggpht.com/ElP2fAzOiLjCaT6zvRaCdZh0YGL24dgPRMV4MUaXLmD9JmrttzZQh6RuSehMGHqxQO-8RMoWBw=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "5y ago",
+    "views": 163574,
+    "length": "6:06",
+    "description": "Anarse is the most popular and traditional recipe of Maharashtra ,Bihar and North India, which made with the help of rice and ...",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/lzKJVoEZ09k/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC74QEDnNN30o_IRcZ_pEP3gBm4wQ",
+     "rich": "https://i.ytimg.com/an_webp/lzKJVoEZ09k/mqdefault_6s.webp?du=3000&sqp=CMj4_9UG&rs=AOn4CLCUUDco16g1O0zu4yKjbjxcuARGpg"
+    }
+   },
+   {
+    "position_on_page": 9,
+    "title": "परफेक्ट अनरसा रेसिपी टिप्स के साथ| How to make anarsa recipe | चावल के अनरसे| by Ekta Gupta Goyal",
+    "link": "https://www.youtube.com/watch?v=9gVHkbwxBJk",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9gVHkbwxBJk",
+    "video_id": "9gVHkbwxBJk",
+    "channel": {
+     "name": "Ekta Gupta Goyal | CRM & Power Platform",
+     "link": "https://www.youtube.com/@EktaGupta",
+     "thumbnail": "https://yt3.ggpht.com/SRIZ5Q8jf6WIXN9YtzpVx4jug5gvS8ohTJ4GzuWjGiumC86_ZY1be4y0gHH-ecWIlBP8-h7cLmg=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "5y ago",
+    "views": 3862,
+    "length": "11:28",
+    "description": "For more videos please Subscribe my channel: http://www.youtube.com/c/EktaGupta Thanks for Watching Ekta Gupta Goyal ...",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/9gVHkbwxBJk/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAMCJzqvF6rN7NL_mUbJ_BNcgml_A",
+     "rich": "https://i.ytimg.com/an_webp/9gVHkbwxBJk/mqdefault_6s.webp?du=3000&sqp=CLjr_9UG&rs=AOn4CLCu4047YcQxWhJGIOD9yNuVvA5Jqg"
+    }
+   },
+   {
+    "position_on_page": 10,
+    "title": "Mawa Stuffed Anarsa - A traditional Indian sweet for special festivals.",
+    "link": "https://www.youtube.com/watch?v=i5xWtKLkcgg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=i5xWtKLkcgg",
+    "video_id": "i5xWtKLkcgg",
+    "channel": {
+     "name": "NishaMadhulika",
+     "link": "https://www.youtube.com/@nishamadhulika",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/Oym_qRh41EpoCDEQanF5rOauZVzdYutexIsZYqppdS_vXJQGk5S0RUx7UwpO9Zi4gXoMiapg=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "2y ago",
+    "views": 497766,
+    "length": "9:07",
+    "description": "Make Mawa-Stuffed Anarsa the traditional way, step-by-step tutorial. Celebrate Festivals with Mawa-Stuffed Anarsa. Perfect ...",
+    "extensions": [
+     "4K"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/i5xWtKLkcgg/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDakEyhqw1SKZYY42_sSuvKJej4pQ",
+     "rich": "https://i.ytimg.com/an_webp/i5xWtKLkcgg/mqdefault_6s.webp?du=3000&sqp=CIj2_9UG&rs=AOn4CLD5DrEGHziSWlDWG3pWqp3qfaqr1w"
+    }
+   },
+   {
+    "position_on_page": 11,
+    "title": "Traditional Bihari Anarsa Recipe | Made with Mawa & Rice Flour | Diwali Mithai | Anarsa Recipe",
+    "link": "https://www.youtube.com/watch?v=x-r1VPIQB-0",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=x-r1VPIQB-0",
+    "video_id": "x-r1VPIQB-0",
+    "channel": {
+     "name": "Madhavi's Kitchen",
+     "link": "https://www.youtube.com/@MadhavisKitchen",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mp4aP60FpwnH1ZHjHSagOFblnfnvSWKc2wcsftkMS5mNI=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "11mo ago",
+    "views": 32934,
+    "length": "11:04",
+    "description": "Bihar Special Mawa Anarsa Recipe | Diwali Special Anarsa Recipe INGREDIENTS (For 15 Anarsa ) For Anarsa Dough Arwa ...",
+    "extensions": [
+     "7 products"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/x-r1VPIQB-0/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCbgRcLooAb0G3OVFivgfBt0ROjrw",
+     "rich": "https://i.ytimg.com/an_webp/x-r1VPIQB-0/mqdefault_6s.webp?du=3000&sqp=CN7k_9UG&rs=AOn4CLBdTYJtI09fHraiAt3zkVyGa4Wmvw"
+    }
+   },
+   {
+    "position_on_page": 12,
+    "title": "Rice se bane tasty crispy Anarse | Traditional Indian Sweet - Crispy Rice Anarsa Recipe अनरसा रेसिपी",
+    "link": "https://www.youtube.com/watch?v=r8lu6o31MsM",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=r8lu6o31MsM",
+    "video_id": "r8lu6o31MsM",
+    "channel": {
+     "name": "Foods and Flavors",
+     "link": "https://www.youtube.com/@FoodsAndFlavors",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kyqXC282ARu8f3OKfCWBh4dPP7mPJnv__Fu6FanVlwF-g=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "3w ago",
+    "views": 12252,
+    "length": "4:22",
+    "description": "Traditional Indian Sweet - Crispy Rice Anarsa Recipe अनरसा रेसिपी Try this authentic Rice Anarsa Recipe, a classic ...",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/r8lu6o31MsM/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCU6tP1JSaQAAqF5L9-7-UvYASHrA",
+     "rich": "https://i.ytimg.com/an_webp/r8lu6o31MsM/mqdefault_6s.webp?du=3000&sqp=CI_X_9UG&rs=AOn4CLD0CEzy7fm5Tv3AVv0vnmIfpAfgGw"
+    }
+   },
+   {
+    "position_on_page": 13,
+    "title": "Anarsa Recipe | चावल के अनरसे  । Adhirasam Recipe । Jaggery Anarse",
+    "link": "https://www.youtube.com/watch?v=nMpQ_QDW5pU",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nMpQ_QDW5pU",
+    "video_id": "nMpQ_QDW5pU",
+    "channel": {
+     "name": "NishaMadhulika",
+     "link": "https://www.youtube.com/@nishamadhulika",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/Oym_qRh41EpoCDEQanF5rOauZVzdYutexIsZYqppdS_vXJQGk5S0RUx7UwpO9Zi4gXoMiapg=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "11y ago",
+    "views": 2466391,
+    "length": "11:02",
+    "description": "Anarsa Recipe, Anarase, Arsa Recipe, How to make Anarsa, Adhirasam recipe, Arisallu recipe Athirasam Recipe in Hindi ...",
+    "extensions": [
+     "CC"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/nMpQ_QDW5pU/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBbDG5jbOsCDu0osy3RLxGQ4_6w8g",
+     "rich": "https://i.ytimg.com/an_webp/nMpQ_QDW5pU/mqdefault_6s.webp?du=3000&sqp=CPDY_9UG&rs=AOn4CLCu52JWfZzm7viudJNm26yTPjTqaw"
+    }
+   },
+   {
+    "position_on_page": 14,
+    "title": "अनरसा गोली - त्यौहार की खास पारंपरिक रेसीपी । Traditional Recipe of Anarsa",
+    "link": "https://www.youtube.com/watch?v=tRHPYzWOFr0",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tRHPYzWOFr0",
+    "video_id": "tRHPYzWOFr0",
+    "channel": {
+     "name": "NishaMadhulika",
+     "link": "https://www.youtube.com/@nishamadhulika",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/Oym_qRh41EpoCDEQanF5rOauZVzdYutexIsZYqppdS_vXJQGk5S0RUx7UwpO9Zi4gXoMiapg=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "6y ago",
+    "views": 3223491,
+    "length": "6:22",
+    "description": "anarsa recipe, anarsa banane ki vidhi, anarsa goli recipe, crispy anarsa recipe #FestivalRecipe #Anarsa #AnarsaRecipe ...",
+    "extensions": [
+     "CC"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/tRHPYzWOFr0/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB-IbRptiYiNI_aMVKOzstBJHpXAA",
+     "rich": "https://i.ytimg.com/an_webp/tRHPYzWOFr0/mqdefault_6s.webp?du=3000&sqp=CN3r_9UG&rs=AOn4CLBuNaPhFpYRDSF2sXLHx96_43P7Lg"
+    }
+   },
+   {
+    "position_on_page": 15,
+    "title": "Anarsa Recipe |  How to make perfect Anarsa | Diwali Special",
+    "link": "https://www.youtube.com/watch?v=gmF1SLOiRPw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=gmF1SLOiRPw",
+    "video_id": "gmF1SLOiRPw",
+    "channel": {
+     "name": "Taste & Aroma",
+     "link": "https://www.youtube.com/@tastearoma8880",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kiproNi6Kv6J0iiXo2yRkRumy79Hc13X-vOBf0Mo2R2Q=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "6y ago",
+    "views": 42356,
+    "length": "6:06",
+    "description": "Anarsa Recipe. This is popular sweet dish (Dessert) in India and Nepal. Generally made in the occasion of Dipawali/Tihar.",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/gmF1SLOiRPw/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAUvYYCjova3HmpcYzE0eGpK0pCXA",
+     "rich": "https://i.ytimg.com/an_webp/gmF1SLOiRPw/mqdefault_6s.webp?du=3000&sqp=CNTy_9UG&rs=AOn4CLDM0bFyDwo86UrAzdOiD11oaN21jg"
+    }
+   },
+   {
+    "position_on_page": 16,
+    "title": "लक्ष्मी पूजन साठी जाळीदार आणि खुसखुशीत अनारसे | Anarse Recipe Madhura | Diwali Faral",
+    "link": "https://www.youtube.com/watch?v=r2eih2IVsd8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=r2eih2IVsd8",
+    "video_id": "r2eih2IVsd8",
+    "channel": {
+     "name": "MadhurasRecipe Marathi",
+     "link": "https://www.youtube.com/@MadhurasRecipeMarathi",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/c21uc2AlAR6DjgX5dxEfVPbapx4shgS5-sRrYGwWffPBdhuiDNRfhVqE2kHuVLojZzOvnvx5=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "11mo ago",
+    "views": 1209516,
+    "length": "13:37",
+    "description": "नमस्कार मंडळी, मधुराज रेसिपीचं पुढचं प्रॉडक्ट आपणापर्यंत ...",
+    "extensions": [
+     "1 product"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/r2eih2IVsd8/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtSiHtQSfAkPktUiaw-Gf3nD-UEg",
+     "rich": "https://i.ytimg.com/an_webp/r2eih2IVsd8/mqdefault_6s.webp?du=3000&sqp=CJX7_9UG&rs=AOn4CLDXa4PILrhh5_ZxfiTPbcsfJA0fkA"
+    }
+   },
+   {
+    "position_on_page": 17,
+    "title": "Bihar famous Mawa Anarsa Recipe | Pineapple recipe| Bihari Food | sangeeta's corner",
+    "link": "https://www.youtube.com/watch?v=ZxY_iwyghhI",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ZxY_iwyghhI",
+    "video_id": "ZxY_iwyghhI",
+    "channel": {
+     "name": "Sangeeta's Corner",
+     "link": "https://www.youtube.com/@Sangeetascorner",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mnoEemx5BhQ3-aBDaJn9oXP3N5jGopQtoVeilf0IH9n2k=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "3y ago",
+    "views": 2079624,
+    "length": "9:59",
+    "description": "Bihar famous Mawa Anarsa Recipe | Pineapple recipe| Bihari Food | sangeeta's corner",
+    "extensions": [
+     "5 products",
+     "4K"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/ZxY_iwyghhI/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCJgMAXU62OqEBwtakBAEGmAUH2Nw",
+     "rich": "https://i.ytimg.com/an_webp/ZxY_iwyghhI/mqdefault_6s.webp?du=3000&sqp=COLr_9UG&rs=AOn4CLDutmZ_tpeDPaztu5-Sv8DWmI3VHw"
+    }
+   },
+   {
+    "position_on_page": 18,
+    "title": "Anarse ! खास ट्रेडीशनल मिठाई अनरसे बनाएं आसान विधि-टिप्स के साथ जालीदार और कुरकुरे | Madhura Recipe",
+    "link": "https://www.youtube.com/watch?v=YBDaNGRcfLI",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YBDaNGRcfLI",
+    "video_id": "YBDaNGRcfLI",
+    "channel": {
+     "name": "Masala Kitchen",
+     "link": "https://www.youtube.com/@MasalaKitchenbyPoonam",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/ZizXldPDc-7MKcWSUY25A7msfSoou0w8YGyPHw_m7EU43X91Dg_OTlf_BDhMvNirUZAASw-CCQ=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "11mo ago",
+    "views": 648258,
+    "length": "20:11",
+    "description": "👉𝐂𝐡𝐞𝐜𝐤 𝐎𝐮𝐭 𝐎𝐮𝐫 𝐕𝐢𝐝𝐞𝐨: https://youtu.be/Z2_zM56L9_I\n\n#AnarsaRecipe #DiwaliSweets #MasalaKitchen #LakshmiPujan #JaliDarAnarsa ...",
+    "extensions": [
+     "6 products"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/YBDaNGRcfLI/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDuIPPzdlxGakyejSKg7CBRxTq3Yw",
+     "rich": "https://i.ytimg.com/an_webp/YBDaNGRcfLI/mqdefault_6s.webp?du=3000&sqp=CN7K_9UG&rs=AOn4CLDe_CA8lLlNYhXfzlGoSTIpC8jzDw"
+    }
+   },
+   {
+    "position_on_page": 19,
+    "title": "तेलात नाही तर जिभेवर विरघळणारा जाळीदार खुसखुशीत अनारसा बनविण्याची आजीची सुटसुटीत पद्धत | Anarase",
+    "link": "https://www.youtube.com/watch?v=q4p8NaipOeg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=q4p8NaipOeg",
+    "video_id": "q4p8NaipOeg",
+    "channel": {
+     "name": "आपली आजी",
+     "link": "https://www.youtube.com/@AapliAajiOfficial",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mmsgjzXEYeVOt-UposIffR2wbE_Xd9yaIOaSyy2UZyDIM=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "4y ago",
+    "views": 1455288,
+    "length": "14:01",
+    "description": "YtFamFest #Withme #Diwalirecipes #आपली_आजी #अनारसेरेसिपीमराठी ...",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/q4p8NaipOeg/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCB8--uyijyWItKhGW2KxL-DT_hTw",
+     "rich": "https://i.ytimg.com/an_webp/q4p8NaipOeg/mqdefault_6s.webp?du=3000&sqp=CKDi_9UG&rs=AOn4CLBKhlEKK1MJn4ZjHNO2Sd7kcIS2OA"
+    }
+   }
+  ],
+  "shorts_results": [
+   {
+    "position_on_page": 4,
+    "shorts": [
+     {
+      "title": "Anarsa Recipe 😍🔥#shorts #youtubeshorts #viral #trending #shortsfeed #cooking #food #recipe #anarsa",
+      "link": "https://www.youtube.com/shorts/3M8t0GuS96w",
+      "thumbnail": "https://i.ytimg.com/vi/3M8t0GuS96w/frame0.jpg",
+      "views_original": "429 views",
+      "views": 429,
+      "video_id": "3M8t0GuS96w"
+     },
+     {
+      "title": "Bina Maida Halwai Jaisa Perfect Crispy Anarsa 😍 | Traditional Sweet #shorts",
+      "link": "https://www.youtube.com/shorts/aHg8SNdN-hk",
+      "thumbnail": "https://i.ytimg.com/vi/aHg8SNdN-hk/frame0.jpg",
+      "views_original": "1.3K views",
+      "views": 1300,
+      "video_id": "aHg8SNdN-hk"
+     },
+     {
+      "title": "😋 Crispy Bihari Anarsa Recipe | Traditional Anarsa ❤️ #shorts",
+      "link": "https://www.youtube.com/shorts/zWE4MBiJFLs",
+      "thumbnail": "https://i.ytimg.com/vi/zWE4MBiJFLs/frame0.jpg",
+      "views_original": "265 views",
+      "views": 265,
+      "video_id": "zWE4MBiJFLs"
+     },
+     {
+      "title": "Our Traditional Recipe Anarsha #BihariAnarsha #shorts #bristihomekitchen",
+      "link": "https://www.youtube.com/shorts/zGgvaoVtCv0",
+      "thumbnail": "https://i.ytimg.com/vi/zGgvaoVtCv0/frame0.jpg",
+      "views_original": "9.4M views",
+      "views": 9400000,
+      "video_id": "zGgvaoVtCv0"
+     },
+     {
+      "title": "Traditional anarsa recipe #food #traditional #anarsa",
+      "link": "https://www.youtube.com/shorts/GPaPkb_a32o",
+      "thumbnail": "https://i.ytimg.com/vi/GPaPkb_a32o/frame0.jpg",
+      "views_original": "2.5K views",
+      "views": 2500,
+      "video_id": "GPaPkb_a32o"
+     }
+    ]
+   },
+   {
+    "position_on_page": 8,
+    "shorts": [
+     {
+      "title": "Anarasa recipe #food #viral #recipe #cooking #traditionalfood",
+      "link": "https://www.youtube.com/shorts/cVV8sJ_oK_E",
+      "thumbnail": "https://i.ytimg.com/vi/cVV8sJ_oK_E/frame0.jpg",
+      "views_original": "133 views",
+      "views": 133,
+      "video_id": "cVV8sJ_oK_E"
+     },
+     {
+      "title": "anarsa recipe #anarsa #recipe #food #cooking #diwalispecial #faral #diwali #anarse #anarsarecipe",
+      "link": "https://www.youtube.com/shorts/-sZ0iw46HtE",
+      "thumbnail": "https://i.ytimg.com/vi/-sZ0iw46HtE/frame0.jpg",
+      "views_original": "311K views",
+      "views": 311000,
+      "video_id": "-sZ0iw46HtE"
+     },
+     {
+      "title": "Jitiya Special Anarsa 😍 | बाजार में महंगा मिलने वाला अनरसा घर पर बनाएं.",
+      "link": "https://www.youtube.com/shorts/Cbe6ylfM224",
+      "thumbnail": "https://i.ytimg.com/vi/Cbe6ylfM224/frame0.jpg",
+      "views_original": "913 views",
+      "views": 913,
+      "video_id": "Cbe6ylfM224"
+     },
+     {
+      "title": "Bihar Ka Traditional Anarsa Recipe ❤️#shorts #viral",
+      "link": "https://www.youtube.com/shorts/N5cPseXRdiY",
+      "thumbnail": "https://i.ytimg.com/vi/N5cPseXRdiY/frame0.jpg",
+      "views_original": "2M views",
+      "views": 2000000,
+      "video_id": "N5cPseXRdiY"
+     },
+     {
+      "title": "Our Traditional Recipe Anarsa #viralvideo (Bihar ki Famous Recipe) #sortvideo #cooking",
+      "link": "https://www.youtube.com/shorts/zcgWc-pjGtE",
+      "thumbnail": "https://i.ytimg.com/vi/zcgWc-pjGtE/frame0.jpg",
+      "views_original": "7.8K views",
+      "views": 7800,
+      "video_id": "zcgWc-pjGtE"
+     },
+     {
+      "title": "Diwali Special Anarsa Recipe #shorts #maharashtrianrecipes #happydiwali",
+      "link": "https://www.youtube.com/shorts/x1wQoTzWOpU",
+      "thumbnail": "https://i.ytimg.com/vi/x1wQoTzWOpU/frame0.jpg",
+      "views_original": "449K views",
+      "views": 449000,
+      "video_id": "x1wQoTzWOpU"
+     },
+     {
+      "title": "Homemade Anarsa recipe #food #sweet please subscribe to my youtube channel!",
+      "link": "https://www.youtube.com/shorts/XYp0MgIBKrw",
+      "thumbnail": "https://i.ytimg.com/vi/XYp0MgIBKrw/frame0.jpg",
+      "views_original": "705 views",
+      "views": 705,
+      "video_id": "XYp0MgIBKrw"
+     },
+     {
+      "title": "Bihari Anarsa recipe |Our Traditional Recipe Anarsa #recipe",
+      "link": "https://www.youtube.com/shorts/z74mSeRc0lw",
+      "thumbnail": "https://i.ytimg.com/vi/z74mSeRc0lw/frame0.jpg",
+      "views_original": "532 views",
+      "views": 532,
+      "video_id": "z74mSeRc0lw"
+     },
+     {
+      "title": "Bihar’s Timeless Traditional Sweet Anarsa❤️|Anarsa recipe #shorts #viral #bihar",
+      "link": "https://www.youtube.com/shorts/uWhSHn0VBnU",
+      "thumbnail": "https://i.ytimg.com/vi/uWhSHn0VBnU/frame0.jpg",
+      "views_original": "1.4K views",
+      "views": 1400,
+      "video_id": "uWhSHn0VBnU"
+     },
+     {
+      "title": "Crispy Anarsa Recipe 😍 | Traditional Festive Sweet for Teej, Nag Panchami & Diwali #shorts #viral",
+      "link": "https://www.youtube.com/shorts/gij8zDtJJvM",
+      "thumbnail": "https://i.ytimg.com/vi/gij8zDtJJvM/frame0.jpg",
+      "views_original": "14K views",
+      "views": 14000,
+      "video_id": "gij8zDtJJvM"
+     },
+     {
+      "title": "ANARSA (ADHIRASAM) | Traditional Indian Snack | Cozy Ghibli Style #shorts",
+      "link": "https://www.youtube.com/shorts/IaiLHEQ-pHU",
+      "thumbnail": "https://i.ytimg.com/vi/IaiLHEQ-pHU/frame0.jpg",
+      "views_original": "49K views",
+      "views": 49000,
+      "video_id": "IaiLHEQ-pHU"
+     },
+     {
+      "title": "Traditional Anarsa Recipe | Famous Maharashtrian Sweet for Diwali #shorts#viral#anarsa",
+      "link": "https://www.youtube.com/shorts/ACDOZj4Fkg4",
+      "thumbnail": "https://i.ytimg.com/vi/ACDOZj4Fkg4/frame0.jpg",
+      "views_original": "1.6M views",
+      "views": 1600000,
+      "video_id": "ACDOZj4Fkg4"
+     },
+     {
+      "title": "Anarsa Recipe | ingredients in description |# shorts",
+      "link": "https://www.youtube.com/shorts/08y_17TD6ig",
+      "thumbnail": "https://i.ytimg.com/vi/08y_17TD6ig/frame0.jpg",
+      "views_original": "2.4K views",
+      "views": 2400,
+      "video_id": "08y_17TD6ig"
+     },
+     {
+      "title": "Anarsa recipe itni aasaani se kase ban sakta hai #anarsa #sweet #viralshorts",
+      "link": "https://www.youtube.com/shorts/uz4a7RndM7I",
+      "thumbnail": "https://i.ytimg.com/vi/uz4a7RndM7I/frame0.jpg",
+      "views_original": "109 views",
+      "views": 109,
+      "video_id": "uz4a7RndM7I"
+     },
+     {
+      "title": "Bihar's Traditional Sweets Anarsa recipe 😋#shorts #viral #trending #youtubeshorts # #biharifood",
+      "link": "https://www.youtube.com/shorts/mbnQUgcEFKM",
+      "thumbnail": "https://i.ytimg.com/vi/mbnQUgcEFKM/frame0.jpg",
+      "views_original": "492 views",
+      "views": 492,
+      "video_id": "mbnQUgcEFKM"
+     },
+     {
+      "title": "Crispy Anarsa recipe ll Mava anarsa ll Anarsa ll #shorts #trending #viralvideo #anarsa #recipe",
+      "link": "https://www.youtube.com/shorts/6LzU9P0BltY",
+      "thumbnail": "https://i.ytimg.com/vi/6LzU9P0BltY/frame0.jpg",
+      "views_original": "383 views",
+      "views": 383,
+      "video_id": "6LzU9P0BltY"
+     },
+     {
+      "title": "Easy recipe to make perfect crispy Anarsa | Tasty rice se bane crispy Anarse | Rice Sweet Recipe",
+      "link": "https://www.youtube.com/shorts/IsGERDWpIpw",
+      "thumbnail": "https://i.ytimg.com/vi/IsGERDWpIpw/frame0.jpg",
+      "views_original": "768K views",
+      "views": 768000,
+      "video_id": "IsGERDWpIpw"
+     },
+     {
+      "title": "Instant Anarsa Recipe | 15min Easy Anarsa Recipe |#Anarsa #youtubeshorts #shorts #Indiehomekitchen",
+      "link": "https://www.youtube.com/shorts/1cQvP5pbGyg",
+      "thumbnail": "https://i.ytimg.com/vi/1cQvP5pbGyg/frame0.jpg",
+      "views_original": "493K views",
+      "views": 493000,
+      "video_id": "1cQvP5pbGyg"
+     },
+     {
+      "title": "instant anarsa recipe",
+      "link": "https://www.youtube.com/shorts/6yZzakZ6wXA",
+      "thumbnail": "https://i.ytimg.com/vi/6yZzakZ6wXA/frame0.jpg",
+      "views_original": "16K views",
+      "views": 16000,
+      "video_id": "6yZzakZ6wXA"
+     },
+     {
+      "title": "Anarsa Recipe | How to make perfect Anarsa 🏵️ | Tihar Special 🏵️ #nepalifood  #foodrecipe  #nepal",
+      "link": "https://www.youtube.com/shorts/nqM382NWgVU",
+      "thumbnail": "https://i.ytimg.com/vi/nqM382NWgVU/frame0.jpg",
+      "views_original": "35K views",
+      "views": 35000,
+      "video_id": "nqM382NWgVU"
+     }
+    ]
+   }
+  ],
+  "pagination": {
+   "current": "https://www.youtube.com/results?search_query=anarsa+recipe+traditional&gl=in&hl=en",
+   "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=anarsa%20recipe%20traditional&sp=SBSCAQtfY1VTMHppTnRWRYIBCzlMRzdndlEwV2JvggELWWFSUVVjNjNJT2OCAQtMSDVBcUZrcVkzZ4IBC2xnRGtjektqMXRRggELbHpLSlZvRVowOWuCAQs5Z1ZIa2J3eEJKa4IBC2k1eFd0S0xrY2dnggELeC1yMVZQSVFCLTCCAQtyOGx1Nm8zMU1zTYIBC25NcFFfUURXNXBVggELdFJIUFl6V09GcjCCAQtnbUYxU0xPaVJQd4IBC3IyZWloMklWc2Q4ggELWnhZX2l3eWdoaEmCAQtZQkRhTkdSY2ZMSYIBC3E0cDhOYWlwT2VnsgEGCgQIExAC6gEECAIQGQ%253D%253D",
+   "next_page_token": "SBSCAQtfY1VTMHppTnRWRYIBCzlMRzdndlEwV2JvggELWWFSUVVjNjNJT2OCAQtMSDVBcUZrcVkzZ4IBC2xnRGtjektqMXRRggELbHpLSlZvRVowOWuCAQs5Z1ZIa2J3eEJKa4IBC2k1eFd0S0xrY2dnggELeC1yMVZQSVFCLTCCAQtyOGx1Nm8zMU1zTYIBC25NcFFfUURXNXBVggELdFJIUFl6V09GcjCCAQtnbUYxU0xPaVJQd4IBC3IyZWloMklWc2Q4ggELWnhZX2l3eWdoaEmCAQtZQkRhTkdSY2ZMSYIBC3E0cDhOYWlwT2VnsgEGCgQIExAC6gEECAIQGQ%3D%3D"
+  },
+  "serpapi_pagination": {
+   "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=anarsa+recipe+traditional",
+   "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=anarsa+recipe+traditional&sp=SBSCAQtfY1VTMHppTnRWRYIBCzlMRzdndlEwV2JvggELWWFSUVVjNjNJT2OCAQtMSDVBcUZrcVkzZ4IBC2xnRGtjektqMXRRggELbHpLSlZvRVowOWuCAQs5Z1ZIa2J3eEJKa4IBC2k1eFd0S0xrY2dnggELeC1yMVZQSVFCLTCCAQtyOGx1Nm8zMU1zTYIBC25NcFFfUURXNXBVggELdFJIUFl6V09GcjCCAQtnbUYxU0xPaVJQd4IBC3IyZWloMklWc2Q4ggELWnhZX2l3eWdoaEmCAQtZQkRhTkdSY2ZMSYIBC3E0cDhOYWlwT2VnsgEGCgQIExAC6gEECAIQGQ%253D%253D",
+   "next_page_token": "SBSCAQtfY1VTMHppTnRWRYIBCzlMRzdndlEwV2JvggELWWFSUVVjNjNJT2OCAQtMSDVBcUZrcVkzZ4IBC2xnRGtjektqMXRRggELbHpLSlZvRVowOWuCAQs5Z1ZIa2J3eEJKa4IBC2k1eFd0S0xrY2dnggELeC1yMVZQSVFCLTCCAQtyOGx1Nm8zMU1zTYIBC25NcFFfUURXNXBVggELdFJIUFl6V09GcjCCAQtnbUYxU0xPaVJQd4IBC3IyZWloMklWc2Q4ggELWnhZX2l3eWdoaEmCAQtZQkRhTkdSY2ZMSYIBC3E0cDhOYWlwT2VnsgEGCgQIExAC6gEECAIQGQ%3D%3D"
+  }
+ }
+}

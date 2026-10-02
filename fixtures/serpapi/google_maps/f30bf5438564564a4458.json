@@ -1,0 +1,902 @@
+{
+ "engine": "google_maps",
+ "params": {
+  "type": "search",
+  "q": "Pinni sweets",
+  "ll": "@30.9010,75.8573,13z",
+  "hl": "en"
+ },
+ "recordedAt": "2026-10-02T19:12:42.357Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac002235c4bf4b6279eed4b",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/vfq9ALQzEOIsxDgAdSaBDfHd2lrnyBzmp6UmJiJBHUQ/6ac002235c4bf4b6279eed4b.md",
+   "created_at": "2026-10-02 19:12:35 UTC",
+   "processed_at": "2026-10-02 19:12:35 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/Pinni+sweets/@30.9010,75.8573,13z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+   "total_time_taken": 6.23
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "Pinni sweets",
+   "ll": "@30.9010,75.8573,13z",
+   "google_domain": "google.com",
+   "hl": "en"
+  },
+  "search_information": {
+   "local_results_state": "Results for exact spelling",
+   "query_displayed": "Pinni sweets"
+  },
+  "local_results": [
+   {
+    "position": 1,
+    "title": "Nathu Mal & Ghudoo Mal | Best Rewdi, Gajak, Til Bhuga, Pinni & Premium Sweets",
+    "place_id": "ChIJtR8ku1WDGjkRe94u3gGsWRw",
+    "data_id": "0x391a8355bb241fb5:0x1c59ac01de2ede7b",
+    "data_cid": "2042853030011788923",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x391a8355bb241fb5%3A0x1c59ac01de2ede7b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x391a8355bb241fb5%3A0x1c59ac01de2ede7b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 30.866239999999998,
+     "longitude": 75.841882
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtR8ku1WDGjkRe94u3gGsWRw",
+    "provider_id": "/g/11fj45wzgp",
+    "rating": 4.7,
+    "reviews": 319,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop",
+     "Candy store"
+    ],
+    "address": "4419, Dugri Rd, Phase 2, Duggri, Urban Estate Dugri, Ludhiana, Punjab 141001, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–10 PM",
+     "sunday": "8 AM–10 PM",
+     "monday": "8 AM–10 PM",
+     "tuesday": "8 AM–10 PM",
+     "wednesday": "8 AM–10 PM",
+     "thursday": "8 AM–10 PM",
+     "friday": "8 AM–10 PM"
+    },
+    "phone": "+91 73031 00009",
+    "website": "http://www.nathuandghudoo.com/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGAinj99obox6ks1tHc2p8vOYjYxpwiLq6obfoivmvbysDOeh3Rq2cDLtT0u8LKYXf6anhRIrU1PBA9uE4ID05LcRy1ew39cuAx0iu4Hk_kipfnvzemSG2-sX-ZLivNtn99YBHiisApR3Y9ywjFS2vL8Ybnkr52KnN8vKKdxSs93e5UbkvTmms=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/QjrlD3icHcTNboIwAADgJ0LKb-iSHTCoGBpdQBO7yzJqoQVpKy0F9qZ7kl1N9h2-3z9mjNJvrvtgwaaVsn3QSdORSGGoMBsiB7dV2lGjXFY3RfcwY4eUiw5CWcsl7rVncuKrxJ5xhxc1c_SMZd1Ibgdbrzo7UxaUT59kyFzAlKAC35r4W7DyOF69j20Kp114zECESLl6dA4gmdIF8CnM-6-eq0bYHzpUB9_RN-cTcXsyAkK8zTnXqSoDDNe521e-RQmuRT9GfiFOiS2K-1JpGNDoWvf2Mgz6ffYAAA77nzjiBWAmVwI"
+   },
+   {
+    "position": 2,
+    "title": "THE GHANSHYAM AMRITSAR MITHAIWALE-LUDHIANA",
+    "place_id": "ChIJa7CNsGWDGjkREdKORjHEsw4",
+    "data_id": "0x391a8365b08db06b:0xeb3c431468ed211",
+    "data_cid": "1059406053278405137",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x391a8365b08db06b%3A0xeb3c431468ed211&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x391a8365b08db06b%3A0xeb3c431468ed211&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 30.913558599999998,
+     "longitude": 75.83831289999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJa7CNsGWDGjkREdKORjHEsw4",
+    "provider_id": "/g/11wbdgqp_p",
+    "rating": 4.3,
+    "reviews": 81,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop",
+     "Candy store"
+    ],
+    "address": "B-19-546-2, Atam Marg, Cemetery Rd, opp. Petrol Pump, Civil Lines, Ludhiana, Punjab 141001, India",
+    "country": "India",
+    "open_state": "Closed · Opens 7 AM",
+    "hours": "Closed · Opens 7 AM",
+    "operating_hours": {
+     "saturday": "7 AM–11 PM",
+     "sunday": "7 AM–11 PM",
+     "monday": "7 AM–11 PM",
+     "tuesday": "7 AM–11 PM",
+     "wednesday": "7 AM–11 PM",
+     "thursday": "7 AM–11 PM",
+     "friday": "7 AM–11 PM"
+    },
+    "phone": "+91 80000 80113",
+    "website": "http://theghanshyam.in/",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFmUOo6kqcXBjo97QJc8LGQjqoJFkWdDuObxVhJk_uPZIr4LiLKTs5uP6r8B_gDWCjG1sZlKgzAKgBsXnljW3oHy9YSagvYZUl5XQjWr2SpBd8zB3J4fZ4sMauE-7x26P3GcXAwjFuaGMh5vMBqkCwOHpdQ6Rk7BcH7fDxjo9UZkfUqvRhpB4BPMw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ZsDUMnicHc7NckNAAADgJxISv-lMDzaK-hkkVeKS0cVul9hlCcmb5lV6aqeX7_w9f_A0Mf4iih2WN4hS1NUzr0dI-6nupw2kVxExLrCRrnfRDCrFwvY1jajWDjAHhO71xING4CRkoJ7dZpU1R1_rJ_bayxwX76MSfAf-B1fnWBsNcEFWdiDOlhedjx6mjwDP-45kMnXv-_OpRLdzkXZqnpBs3J0YqIwHkD2lKRQelvOboK87LZYdmJsLsefSCbF6C8HQHpbIZVWiHVsdQFdvrPVvlhZtkw63I2ZAAXG4vC5bSZIE_C8U-l_jbFbi"
+   },
+   {
+    "position": 3,
+    "title": "Sekhon Dairy Sweets and Restaurant",
+    "place_id": "ChIJ1Xhmn4qBGjkRmv0RKfWxJ8M",
+    "data_id": "0x391a818a9f6678d5:0xc327b1f52911fd9a",
+    "data_cid": "14062404028001811866",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x391a818a9f6678d5%3A0xc327b1f52911fd9a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x391a818a9f6678d5%3A0xc327b1f52911fd9a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 30.8647171,
+     "longitude": 75.80659039999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1Xhmn4qBGjkRmv0RKfWxJ8M",
+    "provider_id": "/g/1tlc6g4f",
+    "rating": 3.9,
+    "reviews": 260,
+    "type": "Candy store",
+    "types": [
+     "Candy store",
+     "Fast food restaurant",
+     "Dairy",
+     "Indian grocery store"
+    ],
+    "address": "Phullanwal, Ludhiana, Dad, Punjab 141013, India",
+    "country": "India",
+    "open_state": "Closed · Opens 7 AM",
+    "hours": "Closed · Opens 7 AM",
+    "operating_hours": {
+     "saturday": "7 AM–10 PM",
+     "sunday": "7 AM–10 PM",
+     "monday": "7 AM–10 PM",
+     "tuesday": "7 AM–10 PM",
+     "wednesday": "7 AM–10 PM",
+     "thursday": "7 AM–10 PM",
+     "friday": "7 AM–10 PM"
+    },
+    "phone": "+91 99148 00044",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance"
+      ]
+     }
+    ],
+    "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiUKI-ICIDIeEhciFdLX29IPDwoLL2cvMXRsYzZnNGYYAToDCPAN&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=KQLAaqrDCMau1sQPo7Sm-Ag&ei=KQLAaqrDCMau1sQPo7Sm-Ag&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFEozGST1xhw9Tn9srRyFZ2wiFz70oP8Wvcl-ncH1i0ftU_4m55M-oL1o4QFwsgOJjPs0JjEUrQqun8e1Hkrrlv1lSUxnu5CcguqKoF_r7jiBIIJmxI6MdKfUTTYWIuToSajvn_VXe1mWaTljjPT4h2yodiHzhB9z5ndHFCUoPGDdr5zOJ71E530g=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/aW4GJnicHcRNcoIwGADQEyGJQpHOdFGVCKgjllDabhgnICEN-TCA_Ny0V-mqM32L9_PLu65pn01T8tWiBChl0beFZqC6QnULBrVZNq3RaBgn8_WYWztOPJj3McUjH1yq3Fa_TeRrOVRkdhBE6_TBpKGYjyt065LMqm37ZMARg3UhQ1ueQxG1KBReoi_3Xq0L7H9rLR9YxsmoenvLyv5-AJJpR1SbIAjrMXg65YdbQulnGvQU4qt4qOz9o8B1eqVSiIhafDlBXvkz37izrXKfbBOI9rtc2_M5dLBnr1D5MmCEkMH_Z4b6AyeCV2Y"
+   },
+   {
+    "position": 4,
+    "title": "Pindi Sweets Shop",
+    "place_id": "ChIJ23VG9QyDGjkRM3AyKGD1F9k",
+    "data_id": "0x391a830cf54675db:0xd917f56028327033",
+    "data_cid": "15643241624034766899",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x391a830cf54675db%3A0xd917f56028327033&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x391a830cf54675db%3A0xd917f56028327033&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 30.911475999999997,
+     "longitude": 75.8606281
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ23VG9QyDGjkRM3AyKGD1F9k",
+    "provider_id": "/g/11btwqhbvg",
+    "rating": 4,
+    "reviews": 58,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "Khud Mohalla, Naulakha Garden Colony, Ludhiana, Punjab 141008, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8:30 AM",
+    "hours": "Closed · Opens 8:30 AM",
+    "operating_hours": {
+     "saturday": "8:30 AM–10 PM",
+     "sunday": "8:30 AM–10 PM",
+     "monday": "8:30 AM–10 PM",
+     "tuesday": "8:30 AM–10 PM",
+     "wednesday": "8:30 AM–10 PM",
+     "thursday": "8:30 AM–10 PM",
+     "friday": "8:30 AM–10 PM"
+    },
+    "phone": "+91 98142 78843",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TZWxyr-pXznNPaWMY6sqVOvsfpk75RbU8CTzlxAid_E2PHCE-Ua842rXgbKb8hVPYRFzlcsXgpjWwXpomMwZwmywjtuHX0aI0oC2iW28R-bKiYUYDNTDP7LTJU7G3bRWMgb4hSNg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Q7gWDnicHcRLjoIwAADQE1UqfkCTWRj8OyBBsMWNoRVbHKCV1qlwQ4_gbUx8i_d-ca2lmlpWyQc9JgQr84fKGypqnde6R0VlMakAVUBZswAV7SQ-oWfbAIm7Oggz5KdjdT_u_9VV_jmjiCSuF3flc1Zczgs7XHsLkGTu0G4wIzvi8mOYRsuupAozeUMGS1H55mSq1tz0Y41htoHCswtkuxEguyJN0nkQz0PnN94mzmpAIuQzMuSHgP2YPoQQ8O8U1B-C6UYX"
+   },
+   {
+    "position": 5,
+    "title": "Naresh Sweets Private Limited",
+    "place_id": "ChIJrel-_RqDGjkRVdC0aWnDwDk",
+    "data_id": "0x391a831afd7ee9ad:0x39c0c36969b4d055",
+    "data_cid": "4161540913202778197",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x391a831afd7ee9ad%3A0x39c0c36969b4d055&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x391a831afd7ee9ad%3A0x39c0c36969b4d055&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 30.9011708,
+     "longitude": 75.8663352
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrel-_RqDGjkRVdC0aWnDwDk",
+    "provider_id": "/g/1tvry369",
+    "rating": 4.1,
+    "reviews": 496,
+    "type": "Candy store",
+    "types": [
+     "Candy store",
+     "Restaurant"
+    ],
+    "address": "WV29+568, 31A, Chowk Bagh Suffian, Janakpuri Rd, Janakpuri, Industrial Area- A, Ludhiana, Punjab 141008, India",
+    "country": "India",
+    "open_state": "Closed · Opens 7 AM",
+    "hours": "Closed · Opens 7 AM",
+    "operating_hours": {
+     "saturday": "7 AM–10 PM",
+     "sunday": "7 AM–10 PM",
+     "monday": "7 AM–10 PM",
+     "tuesday": "7 AM–10 PM",
+     "wednesday": "7 AM–10 PM",
+     "thursday": "7 AM–10 PM",
+     "friday": "7 AM–10 PM"
+    },
+    "phone": "+91 161 260 0922",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RGfix213K0Mx7mTzVXg9LmL4WSEH3qetyZmq_KHgxwgB49HjLwnGAhpCqtsBpbg6kVctv3OgeNQMiGwrhuLyvl0a9HBeM4O0XDeieOTSKbIJOkachEDIPl4pN6PkvBRF5J=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/ho8zZnicHcRJDoIwAADAFyHFIgYTDyIIyKoYNV6MNLVFtkLL5vd8hb8xcQ7z_VAhGF_JckHhjNQ1KXDHcYvqSuBKzFBdyoRxCXGJy5vwkk360X5m41yBHgjGZXl6n69E90tfvSSWAxssplvZ3D2HjAMxVN15-UNlbyjbNoIbLCVafkaihxHB4SHI7KGlnT_1BXjojoEDNQJXE2c4OiVe6u6j_IGoZbpxobJQi_PeOO4W-_WgAAAk-h9J1Q-PH0PN"
+   },
+   {
+    "position": 6,
+    "title": "Bengali Sweets",
+    "place_id": "ChIJq2-IYHeBGjkRExohla8FTfs",
+    "data_id": "0x391a817760886fab:0xfb4d05af95211a13",
+    "data_cid": "18108135928406022675",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x391a817760886fab%3A0xfb4d05af95211a13&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x391a817760886fab%3A0xfb4d05af95211a13&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 30.888695199999997,
+     "longitude": 75.7954791
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq2-IYHeBGjkRExohla8FTfs",
+    "provider_id": "/g/11fx8h2txh",
+    "rating": 4.3,
+    "reviews": 681,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "Ferozepur Rd, Aggar Nagar - B Block, Aggar Nagar, Ludhiana, Punjab 141012, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–10 PM",
+     "sunday": "8 AM–10 PM",
+     "monday": "8 AM–10 PM",
+     "tuesday": "8 AM–10 PM",
+     "wednesday": "8 AM–10 PM",
+     "thursday": "8 AM–10 PM",
+     "friday": "8 AM–10 PM"
+    },
+    "phone": "+91 81980 69500",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhG_sL0IHaPPPJAbjy_v55xdhrLbwqsXPjkrsV9T5d2fUcavFvV3m6u1IyN4jj0uvYTZ1kCxOU7w5fuflJj_AxSeHthR7DmjvI455IVcEiCI3VGET523tYVjrvL0A-6J9Km30bmnt5i0UeOnizwKvWyAeyyeFJVYyADw5-dVkORU6TvPlMGo1ty53w=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/mxTmWnicHcTNToMwAADgJ2KUQVlm4qEZG4OhkAlVvJABhVJ-hdJS39RX8WTid_h-finn0_Kk6x01d_U41h1ZFzIX48DJwHfF2Ov1tGjTPG5KR0FpOdTNlgB410cURT7KmcoEhFtJ5yCXX8tHxNp5wccYlvsqKR7iIrDZ26vhqVeLMbCKNP402tMWJgcJq7XqfJah7Y1cOb0fnJ4Jz4LQw8W5OXkmds8x3Js8xWwWAUCa7R9vvQnyfuCwAQkJh-Zb3sS7QkQpcvFxqpAjoVbiNrwndiyi7sUdDa6gKZ-lAQDQ6P-FNvwB8IVW2Q"
+   },
+   {
+    "position": 7,
+    "title": "Lyallpur Sweets (Kitchlu Nagar)",
+    "place_id": "ChIJHwClOQCDGjkRCfEq0ujxcF8",
+    "data_id": "0x391a830039a5001f:0x5f70f1e8d22af109",
+    "data_cid": "6877262613255483657",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x391a830039a5001f%3A0x5f70f1e8d22af109&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x391a830039a5001f%3A0x5f70f1e8d22af109&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 30.913754599999997,
+     "longitude": 75.819289
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHwClOQCDGjkRCfEq0ujxcF8",
+    "provider_id": "/g/11vm7ly3df",
+    "rating": 4.3,
+    "reviews": 268,
+    "type": "Candy store",
+    "types": [
+     "Candy store",
+     "Bakery",
+     "Snack bar"
+    ],
+    "address": "68-b, near mittal hospital & trauma centre, Kitchlu Nagar, Ludhiana, Punjab 141001, India",
+    "country": "India",
+    "open_state": "Closed · Opens 7:30 AM",
+    "hours": "Closed · Opens 7:30 AM",
+    "operating_hours": {
+     "saturday": "7:30 AM–10 PM",
+     "sunday": "7:30 AM–10 PM",
+     "monday": "7:30 AM–10 PM",
+     "tuesday": "7:30 AM–10 PM",
+     "wednesday": "7:30 AM–10 PM",
+     "thursday": "7:30 AM–10 PM",
+     "friday": "7:30 AM–10 PM"
+    },
+    "phone": "+91 94174 00205",
+    "website": "http://www.lyallpursweets.in/",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGJlowObcA0lPD1mcQmE-LUvu7bHc_jbhou8lov999KEdtbphP9IqAK40ehkU4v271YBI8-n_sLIPrlykocgVWIWyt-ZdBYLoQHXu26qopMEPPOO7zS5pztr-Pm99BmHKVU3zHmiX1K9rmSWIBaMToLSkCfa1z2p9vYYHiC1dpnJGUbgEfEphX1=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Vdbjm3icHcTBboIwGADgJ6pQZMMu2QGUCIKhhiGwi5GC1EH5KxQcvOneZMcl-w7fzy9XSg5vmtby9aoGqNtqHKqeQaeqTq0YCK2WA5I9fM-aHZbmju8PLTyjgtl6S3dYsJNwUZhMo1V47PJVcBg3LUyEkMAtVSE5Jf7DDky94k1iToaFc8ffoO4yhD7t27kBVp9TP50V-iydPISTl43G6wPk0aU0iqwlfpGL6hEVhDjCC87JevHEPcMB6UWc-s71-AFh3GxvV7wYkkx57t23uJTdYZ8UtXtzJc_w-xPruo74_wx1f_OcVbg"
+   },
+   {
+    "position": 8,
+    "title": "Sharman Jain Sweets (Dugri Phase-1)",
+    "place_id": "ChIJ5ez2OCmDGjkRnoLKQd5Omg4",
+    "data_id": "0x391a832938f6ece5:0xe9a4ede41ca829e",
+    "data_cid": "1052240179437929118",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x391a832938f6ece5%3A0xe9a4ede41ca829e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x391a832938f6ece5%3A0xe9a4ede41ca829e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 30.8750352,
+     "longitude": 75.8400872
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5ez2OCmDGjkRnoLKQd5Omg4",
+    "provider_id": "/g/11t7p6_zcb",
+    "rating": 4.3,
+    "reviews": 629,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop"
+    ],
+    "address": "SCO-88, Phase 1, Urban Estate Dugri, Ludhiana, Punjab 141001, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8:30 AM",
+    "hours": "Closed · Opens 8:30 AM",
+    "operating_hours": {
+     "saturday": "8:30 AM–10:30 PM",
+     "sunday": "8:30 AM–10:30 PM",
+     "monday": "8:30 AM–10:30 PM",
+     "tuesday": "8:30 AM–10:30 PM",
+     "wednesday": "8:30 AM–10:30 PM",
+     "thursday": "8:30 AM–10:30 PM",
+     "friday": "8:30 AM–10:30 PM"
+    },
+    "phone": "+91 78090 60007",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFvJicQ78Bf6XciK7Jhe26uCRj5dRXTE_xjerF0PsnyjJ2yTe-fF8MaVLopkEcHlQ343xHPpOPFuT5rEvc8tTKAfyfnLA395aEUGpbNMifx24HCaetn7lkugbn0G0-e0coTmGzPpGxYqvEbCJjUD1YJVSoL52sZsdjIEjhOnV65qqUXtE9YTls=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/B2PvgHicHcRLUoMwAADQE1FS_nXGBdIAUmppBQbcOBDCrzQJJCB4U0_i1hnf4v38tkIw_iTLQ6vuGkqbAc8cT4gSgYnYIfqQG8YlNtF1k-2w0o6tuwQduprWS21kqDuZQYsVY3ZuvV7dshh-rj2eXBBxsvWBssVYql3rXKQhZXeI_OGqaurqR-wSuXOsT3BBlohPdr3VJLTVg17AxGPl27mrV0XznQILYg73uSkJ8ICEAaLxw_uOmLfm4wJLJ-iT4z4P0nca6gr_4FX_Cvv2QlJDH8ckE_CQxwN__toDAKT2fySRP2MRVW4"
+   },
+   {
+    "position": 9,
+    "title": "Lyallpur baker",
+    "place_id": "ChIJG6TP5J-DGjkRfLsi5adhd1Y",
+    "data_id": "0x391a839fe4cfa41b:0x567761a7e522bb7c",
+    "data_cid": "6230555983222061948",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x391a839fe4cfa41b%3A0x567761a7e522bb7c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x391a839fe4cfa41b%3A0x567761a7e522bb7c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 30.914074999999997,
+     "longitude": 75.8562216
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG6TP5J-DGjkRfLsi5adhd1Y",
+    "provider_id": "/g/124ygv1g_",
+    "rating": 4.3,
+    "reviews": 1228,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "Gokul Road, Mochpura Bazar, Guru Arjan Dev Nagar, Ludhiana, Punjab 141008, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–9:15 PM",
+     "sunday": "8 AM–9:15 PM",
+     "monday": "8 AM–9:15 PM",
+     "tuesday": "8 AM–9:15 PM",
+     "wednesday": "8 AM–9:15 PM",
+     "thursday": "8 AM–9:15 PM",
+     "friday": "8 AM–9:15 PM"
+    },
+    "website": "https://lyallpursweets.in/",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFgas6pzRJGpFAzVKKdG8RrogNjrX6mj9x9rwsdWc2dX3w5ig_S4zKdZ1-9gf5uHrFEG1Uc04KAkz_O42s1-8zXNaNcyNGpW8AO84CYWruxyJqI0Pvo9smh5m5KsuWEZhhbXvXloj3_ndyW5uSgOXgsEfujUYnEdZCI3CSq8y5S_3y92ZbZyak=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/y5fuPXicHcTNboMgAADgJ7L-0uiSHYxT17roUtNJvRgLFmZVKEgV33RPsuuSfYfv55fOM5cvpjlQd0cYI0OnZCcQm-ZumneIjSbh0uCCrdoMP7D3RhPSyj3fTseUJ-H2lWU49U-CkbwXcD_2wRqIReIKORi6C_gmTeltGa5tIyA3oN5FEqf2GVleFt63pvAcaRv-BvM2RzpPeeWHhe9Fl0qoVR8fB-vzyQI5UjCCTKoqrim9wiccWO82E9YVUCUpIJHxTfXnyxTjOjq4UfnwNSgbVwdOfa11e39dbMuyDPo_MqY_zplWPg"
+   },
+   {
+    "position": 10,
+    "title": "Haldiram's - Ludhiana Model Town",
+    "place_id": "ChIJd0apIgCDGjkRujWYnvFz5hs",
+    "data_id": "0x391a830022a94677:0x1be673f19e9835ba",
+    "data_cid": "2010421765252593082",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x391a830022a94677%3A0x1be673f19e9835ba&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x391a830022a94677%3A0x1be673f19e9835ba&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 30.886497799999997,
+     "longitude": 75.847154
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJd0apIgCDGjkRujWYnvFz5hs",
+    "provider_id": "/g/11yh6fjsh4",
+    "rating": 4.7,
+    "reviews": 1376,
+    "type": "Candy store",
+    "types": [
+     "Candy store",
+     "Breakfast restaurant",
+     "Family restaurant",
+     "Dessert shop",
+     "Fast food restaurant",
+     "Indian sweets shop",
+     "North Indian restaurant",
+     "Vegetarian restaurant"
+    ],
+    "address": "No 220L 221L & 221R, Pritm Nagar, Model Town, Ludhiana, Punjab 141002, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8:30 AM",
+    "hours": "Closed · Opens 8:30 AM",
+    "operating_hours": {
+     "saturday": "8:30 AM–11 PM",
+     "sunday": "8:30 AM–11 PM",
+     "monday": "8:30 AM–11 PM",
+     "tuesday": "8:30 AM–11 PM",
+     "wednesday": "8:30 AM–11 PM",
+     "thursday": "8:30 AM–11 PM",
+     "friday": "8:30 AM–11 PM"
+    },
+    "phone": "+91 80 3783 8608",
+    "website": "https://hrstores.haldiram.com/haldiram-s-ludhiana-modal-town-restaurants-modal-town-ludhiana-459186/Home?utm_source=locator&utm_medium=googleplaces",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible restroom"
+      ]
+     }
+    ],
+    "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF5aDZmanNoNBgBOgMI8A0%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=KQLAaqrDCMau1sQPo7Sm-Ag&ei=KQLAaqrDCMau1sQPo7Sm-Ag&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHWmZ6OGeNZE24bRaPO4dcc06mxORXQ1LPRd--WsJ3ZmHXwwdKypx-ARsPiy0BYDZ-D0k4wwTz7OsyplEM6M_Ui_mRTNkN1Ce8T-_HR7atahrRB8teSuraIHAmAyeaP1RIUHSj28ssDo-xhfrsO2JpEg_BWAwWe_b9XzdgbPSOuBXDrWxyrduNU=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/nEnp0XicHcTBToMwAADQL-oojDA08QBCZHOj2EFALgRopXMUSFtSuj_1Tzya-A7v55cptchnyxrZfjfM8zDSVVLRz5Oik9r1M7eGRYJFzJuxgjNxI5aUvPbQG03r2HE73GbIJX0PPb4hXH3Y5wwTAEp52tc8qbQm72bZQIBldjMw_IxqEMG7q3X-OCBpljG-eJemuDUc5-k9tV-pn4MmwYdWtUzg0Ff0uor2mAQ8MLTNbHwskuu340sZzWBjX0Ii57TEQxOWgS5p0z1VDzJ02RWtYRWJcjOCrGnxom0IIWD_92D6A4JJVgw"
+   },
+   {
+    "position": 11,
+    "title": "Sharman Jain Sweets (Ghumar mandi)",
+    "place_id": "ChIJSS2Hmr6DGjkRUd7W9lHAscY",
+    "data_id": "0x391a83be9a872d49:0xc6b1c051f6d6de51",
+    "data_cid": "14317436148653678161",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x391a83be9a872d49%3A0xc6b1c051f6d6de51&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x391a83be9a872d49%3A0xc6b1c051f6d6de51&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 30.907797799999997,
+     "longitude": 75.83544239999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS2Hmr6DGjkRUd7W9lHAscY",
+    "provider_id": "/g/11b6chdwg5",
+    "rating": 4.4,
+    "reviews": 3553,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "B-19-187, Rani Jhansi Rd, Rani Jhansi Enclave, Civil Lines, Ludhiana, Punjab 141001, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8:30 AM",
+    "hours": "Closed · Opens 8:30 AM",
+    "operating_hours": {
+     "saturday": "8:30 AM–10:30 PM",
+     "sunday": "8:30 AM–10:30 PM",
+     "monday": "8:30 AM–10:30 PM",
+     "tuesday": "8:30 AM–10:30 PM",
+     "wednesday": "8:30 AM–10:30 PM",
+     "thursday": "8:30 AM–10:30 PM",
+     "friday": "8:30 AM–10:30 PM"
+    },
+    "phone": "+91 72777 77936",
+    "website": "http://www.sharmanjainsweets.com/",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RNEy21DpwxW2rusWQdKWxiREDIvvmZhYuxPE0CVqUAZ8d0djsI3eZxMdxSHFCBHy9xt6Kc69XQyUTpdkFsMrvpYafUxJXf4Acba3iCwTDZQMXv5b_jHU4eQSZ6z_g_EHLfwH0z-A=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/s9RoGXicHcRJDoIwAADAF1WqKBETDwiYumBEQbAXom1ZXKDSAsUf-gR_Y-Ic5vvJpeRipmmPXB9kVZU9WCNYTapSslIOSPXUMi4AEUBo1i4qevOwc_vR0OGdikZ1IyKfbiJVHFxn1bZPnJ8btXehfXqFFp5SSG9ipTOsPKqOaGkvUG8qaWyIYcZ-Hwac3pfCq1t-vqShWsfp2CLXi17YXeBg34vbyTW5oXDM_CM23kmWuGibdgi-gTXvhhBCkP8noPwBbsBGVg"
+   },
+   {
+    "position": 12,
+    "title": "Nathu Mal Ghudoo Mal's",
+    "place_id": "ChIJLV0QlpaDGjkR9a2Y3BIcog4",
+    "data_id": "0x391a839696105d2d:0xea21c12dc98adf5",
+    "data_cid": "1054436130094099957",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x391a839696105d2d%3A0xea21c12dc98adf5&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x391a839696105d2d%3A0xea21c12dc98adf5&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 30.9156448,
+     "longitude": 75.8370035
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLV0QlpaDGjkR9a2Y3BIcog4",
+    "provider_id": "/g/1tpb9cft",
+    "rating": 4.4,
+    "reviews": 413,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "Nathu Mal Ghudoo Mal’s, Dhandi Swami Rd, Green Park, Civil Lines, Ludhiana, Punjab 141001, India",
+    "country": "India",
+    "open_state": "Closed · Opens 7:30 AM",
+    "hours": "Closed · Opens 7:30 AM",
+    "operating_hours": {
+     "saturday": "7:30 AM–9:30 PM",
+     "sunday": "7:30 AM–9:30 PM",
+     "monday": "7:30 AM–9:30 PM",
+     "tuesday": "7:30 AM–9:30 PM",
+     "wednesday": "7:30 AM–9:30 PM",
+     "thursday": "7:30 AM–9:30 PM",
+     "friday": "7:30 AM–9:30 PM"
+    },
+    "phone": "+91 98768 48000",
+    "website": "http://nathumalghudoomal.com/",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhH_B62pnTm7a-VFjE9B469XvAdmrHyrkWFwvIfCxz5waxg4zG1o4tMyNDv3zFNnU_YPgrW9J4IuS_-L_HjFB6LK5-wtLYyMTLI_nQkQmcAp5F0UUDorI0P2_3oG7JUEKKlUBAfeQ-dJAbqNTyctDDOroSfDxf8W6_RwyTU_QoD2miYNUDsXWOMv=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/81j-AnicHcRLcoIwAADQE0WQn6UzXUAj8leUFFllLN8qJDREINy0N-myM32L9_Pbcj6Mr5LUteqmobTpqudYsYISXhG-KWgvNcMIBkYXIVlhqcHWxbahDCTtdzfw4dz3pq0Z5nWyyp65gj0yZ568-n1Z9fm2NNp62FKNRyKGk7o6MUE4PzUsM33Ne14wCLF7d2wjDHQw8zAXURp6mCSPpC-sQXdkhCBlnnxSsEoPOx_tg6BDtlVXCSh96_M7TkXBITwyeqnhUr9kBj7PIkU4oVDpv_IYwfGaHaPpbd7Ksgza_wtA_gCTwFU1"
+   },
+   {
+    "position": 13,
+    "title": "Dainty Sweets Mundian : Best Sweet Shop and Bakery in Ludhiana",
+    "place_id": "ChIJH1MkDUadGjkRlLlEAYvQ5eY",
+    "data_id": "0x391a9d460d24531f:0xe6e5d08b0144b994",
+    "data_cid": "16637933693830478228",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x391a9d460d24531f%3A0xe6e5d08b0144b994&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x391a9d460d24531f%3A0xe6e5d08b0144b994&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 30.900599399999997,
+     "longitude": 75.9288224
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJH1MkDUadGjkRlLlEAYvQ5eY",
+    "provider_id": "/g/11jsv299d1",
+    "rating": 4.1,
+    "reviews": 145,
+    "type": "Candy store",
+    "types": [
+     "Candy store",
+     "Bakery",
+     "Restaurant"
+    ],
+    "address": "33, Foota Road, near Petrol Pump, Mundian Kalan, Ludhiana, Punjab 141003, India",
+    "country": "India",
+    "open_state": "Closed · Opens 6 AM",
+    "hours": "Closed · Opens 6 AM",
+    "operating_hours": {
+     "saturday": "6 AM–10:30 PM",
+     "sunday": "6 AM–10:30 PM",
+     "monday": "6 AM–10:30 PM",
+     "tuesday": "6 AM–10:30 PM",
+     "wednesday": "6 AM–10:30 PM",
+     "thursday": "6 AM–10:30 PM",
+     "friday": "6 AM–10:30 PM"
+    },
+    "phone": "+91 81960 00812",
+    "website": "https://finndit.com/punjab/ludhiana/wedding/sweet-shops/dainty-sweets/jamalpur/BD/MjM0ODc=",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhH9CMklp3NeEShZaSkSjnSo3Frh5EU3sskQ9ocUEdQDH75uQ23aHRumUOB_zyZhVd3CwQ9S01-EFmI3I_nbMntRLPEJbyjLps5AzKi1uWanUd16y5d8nq0cEK2XeUX3F5TiGTUSpOby_opiVYNMHune2M8D25_Xmm8D48PwzEQND2sOoI8wdGY=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/4uNhLnicHcRLcoIwAADQEyGfmBY604WVIFQ-IsaiGwYIQxBIUgKDcNOepNvO9C3ezy8dRyHfVLWjYFNzXnfVJKuh5Gys2Lgpea_WQipi4M9F3flka1PX2gdtJ0BYoYTe86RNHizhwBkoRBhI2cYWLzEise2-wik2QO6epx5HH9m63OmVgP0cW4mmK8jpPeBlrAjYePZP6LNYHr6QcLceG336yhkm-ssCicm-tRIdjbTCKXDgpTlccCKiYsm4aK63MHAnVhmBaRswS_vetLfmaV5RHNqGjLhnzuRwe591TdMU-n-psD8rDVRE"
+   },
+   {
+    "position": 14,
+    "title": "Bikaner Mishtan Bhandar",
+    "place_id": "ChIJK4-bz0SCGjkRnDmlsfbNO6U",
+    "data_id": "0x391a8244cf9b8f2b:0xa53bcdf6b1a5399c",
+    "data_cid": "11906336499310082460",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x391a8244cf9b8f2b%3A0xa53bcdf6b1a5399c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x391a8244cf9b8f2b%3A0xa53bcdf6b1a5399c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 30.8747656,
+     "longitude": 75.841082
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJK4-bz0SCGjkRnDmlsfbNO6U",
+    "provider_id": "/g/11g__w486",
+    "rating": 3.9,
+    "reviews": 246,
+    "type": "Candy store",
+    "types": [
+     "Candy store",
+     "Bakery",
+     "Chocolate shop",
+     "Condiments supplier",
+     "Indian sweets shop"
+    ],
+    "address": "Booth No. 63, VRFR+WF7, Phase 1 Rd, Phase 1, Urban Estate Dugri, Ludhiana, Punjab 141001, India",
+    "country": "India",
+    "open_state": "Closed · Opens 6 AM",
+    "hours": "Closed · Opens 6 AM",
+    "operating_hours": {
+     "saturday": "6 AM–10 PM",
+     "sunday": "6 AM–10 PM",
+     "monday": "6 AM–10 PM",
+     "tuesday": "6 AM–10 PM",
+     "wednesday": "6 AM–10 PM",
+     "thursday": "6 AM–10 PM",
+     "friday": "6 AM–10 PM"
+    },
+    "phone": "+91 98724 96121",
+    "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiYKJOICITIfEhgiFtLX29IPEAoML2cvMTFnX193NDg2GAE6AwjwDQ%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=KQLAaqrDCMau1sQPo7Sm-Ag&ei=KQLAaqrDCMau1sQPo7Sm-Ag&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHxlNCfgifhkfPJPYWXEFToEXso1rgGJxmNTpi7I4f3IT2rEfZmwHo1mVWhS2SG7gEoi6-HCvitpbYFZEdmIXEtvSVjH35kkg3W7ZVi3xpf7uqS_X0lmForI5U4x49jqKRQOsNL7LUM_bQuNUzInVnVqcejYbq7BD0DSw2rfw2iUjGnZpU4eE4D=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/yX5vcHicHcTJUoMwAADQL6JsqYzOeNASlorYys6lM1CyACEhpAX9U__EozO-w_v5JUqJ5UnXR2LvMOd47G5LJ1s-qW5Su5YzHYtFE5JvX_pLdAUuCbYxPiBMERnQ6XiqihJ6KYflwk2J_ePG4lRQJwTIDlNLQlSzNeAmywuSWInvYMjpgxYc7lSJpvJqeGVhCdU9yfvA3g8Dtgunzqm9CeTc5uRSGiPzuAz3GdjAYz-_fZ4_ljhyouz90pxvcfYdTvmUz23XV83svLqGm6yWRKtFs96fapGBDgL3eTUNw9DI_602_QFX6FZ5"
+   },
+   {
+    "position": 15,
+    "title": "Shudh Misthan Bhandar",
+    "place_id": "ChIJM5i5EKSDGjkRTFtGepNaTF8",
+    "data_id": "0x391a83a410b99833:0x5f4c5a937a465b4c",
+    "data_cid": "6866963121291287372",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x391a83a410b99833%3A0x5f4c5a937a465b4c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x391a83a410b99833%3A0x5f4c5a937a465b4c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 30.916024699999998,
+     "longitude": 75.8325801
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJM5i5EKSDGjkRTFtGepNaTF8",
+    "provider_id": "/g/1tkp3cgg",
+    "rating": 4.5,
+    "reviews": 800,
+    "unclaimed_listing": true,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "WR8M+C24, Dhandi Swami Rd, Patel Nagar, Civil Lines, Ludhiana, Punjab 141001, India",
+    "country": "India",
+    "open_state": "Closed · Opens 7 AM",
+    "hours": "Closed · Opens 7 AM",
+    "operating_hours": {
+     "saturday": "7 AM–7 PM",
+     "sunday": "7 AM–7 PM",
+     "monday": "7 AM–7 PM",
+     "tuesday": "7 AM–7 PM",
+     "wednesday": "7 AM–7 PM",
+     "thursday": "7 AM–7 PM",
+     "friday": "7 AM–7 PM"
+    },
+    "phone": "+91 161 244 9439",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ta0a_TFdXrLh0u-7iBrKEizi6lTVqe3CMqC33S92EtoW4fRNNDVKTkIrC3_ohoW40Uq-2L5i5bV2weFzAWSwUNIwJF64hnqW-aUBg2yPiP6RsO2_35EJ1iaCjbWuyt6R7Qz0ZU=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/GTHROnicHchJDoIwAADAF1VqyxJNPCBCoigqW40XglhpFanQEgIf9A3-RuNlDvN5M6Vecq5pFcOTUoiyop2kbSFqRWs1KcRTK18SFBJIzQ4IH2ZxDvMs9q6ndstgByy-bH2Xj9ys4rSh2Nk1DsbRDLlKEP0WBsEq9ePHunVwJtivYNIAtDW4cUlRT73RJlGfBOt-45k6qxsC8mRZouHAD2Yo9yjDhruZ8ty5X0g3KDO0jiM8J4t-CiEE7G8B6i_mckMI"
+   },
+   {
+    "position": 16,
+    "title": "Pinni Wala",
+    "place_id": "ChIJ4Wc4Z3n1GjkRiOL_l4RjpDE",
+    "data_id": "0x391af579673867e1:0x31a4638497ffe288",
+    "data_cid": "3577093425175978632",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x391af579673867e1%3A0x31a4638497ffe288&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x391af579673867e1%3A0x31a4638497ffe288&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 31.1995319,
+     "longitude": 75.7798668
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4Wc4Z3n1GjkRiOL_l4RjpDE",
+    "provider_id": "/g/11sc27dcjy",
+    "rating": 4.2,
+    "reviews": 5,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop",
+     "Dessert shop"
+    ],
+    "address": "house no 335, Urban Estate Rd, Namdhari Colony, Urban Estate, Phagwara, Dhak Chachoki, Punjab 144401, India",
+    "country": "India",
+    "open_state": "Open · Closes 12 AM",
+    "hours": "Open · Closes 12 AM",
+    "operating_hours": {
+     "saturday": "Open 24 hours",
+     "sunday": "Closed",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours",
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours"
+    },
+    "website": "https://www.instagram.com/pinni.wala/",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TwazrlWY3ZwrfSz3I-L5aVxqLer-OrvlxY-S-Yqz_0xvSA3FMeCeBsvMNtiSMTlx65z_YAen7S4BB4-w9jx8RnB7QTQlNpqG2l5wltI8Lcp8If6Vt-AyW3Ze_gctde03cmVBoASQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/rk3OBXicHcRRboIwGADgE_1SrSia7KFdsoUEWLAEgi_EdBU0tYW2o5UbeoTdZsm-h-_3NTg32mMUyQGveq17KX6sMFwrJ5Rbcf2I-tECt2AjUjS356Hyl8XIpsVnb65swSlk8aUOUyYMfJlZhhYYtNPSoTAzgj9y8S6onfPC3VheybCLl64lQu3ZltIt-MM9JCdF92VVymKcPjcy9tKlScbHJL3uagfk2eCz6HruvgXC_FFTTVj55tcIIRj-56D-AFtiRdk"
+   },
+   {
+    "position": 17,
+    "title": "Bikaner Mishthan Bhandar",
+    "place_id": "ChIJYzMf7kyCGjkR9gn2KQQc-J4",
+    "data_id": "0x391a824cee1f3363:0x9ef81c0429f609f6",
+    "data_cid": "11454936456426293750",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x391a824cee1f3363%3A0x9ef81c0429f609f6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x391a824cee1f3363%3A0x9ef81c0429f609f6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 30.890239299999998,
+     "longitude": 75.83888189999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYzMf7kyCGjkR9gn2KQQc-J4",
+    "provider_id": "/g/1vc6bsgb",
+    "rating": 4.1,
+    "reviews": 691,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "194-L, Mint Gumri Rd, chowk, Model Town, Ludhiana, Punjab 141002, India",
+    "country": "India",
+    "open_state": "Closed · Opens 7 AM",
+    "hours": "Closed · Opens 7 AM",
+    "operating_hours": {
+     "saturday": "7 AM–10 PM",
+     "sunday": "7 AM–10 PM",
+     "monday": "7 AM–10 PM",
+     "tuesday": "7 AM–10 PM",
+     "wednesday": "7 AM–10 PM",
+     "thursday": "7 AM–10 PM",
+     "friday": "7 AM–10 PM"
+    },
+    "phone": "+91 89689 76346",
+    "website": "http://www.bikanersmt.com/",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhE2WVsr5aN8ocOE2WTI8KZdc1QWBB7PMeRJz9yLv96smpQEYvy-qztBUPPdzRdysWjgPYtHjLPByPK4XAhnj0vtAPmJDb-2Ajm42zQ7roACdXJrGllMzdfBObody8jxaGtPbWDzKJGdlQ7Lh26S-JhXyy-ECd-9dc2xXo5PRFRGoygBRiWML7U=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/t05W_XicHcdLUoMwAADQE6VQpAWccZEURPnYgFaou5JgIgMESUSSm_YkbnXcvJl3_eFKTfLWsnp-s2FCsL79ku1MxKjaUW2IGCw2STDNYtUWzKgb8sipXuW8uzz5ghz_8vLop2-UbIsKIQ_nbZmYQGdLsJfDVETnRYNPo9AJY2pKqmXVMXxWD12GkcapW0M-dvaiIB6SsAEO7AbXMYU3C3igdTLHfZ8b-o6OjaDa79ZLrHBThSZNYtoXXsad_TNIeK01iA4UBJQ4ay12uLwvY6EZKj-qPPNOd99b27YB_5eA8ReL_lVP"
+   },
+   {
+    "position": 18,
+    "title": "Rajguru Bikaner Sweets",
+    "place_id": "ChIJwQLJnp6BGjkREtCL1oSerAM",
+    "data_id": "0x391a819e9ec902c1:0x3ac9e84d68bd012",
+    "data_cid": "264760771480375314",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x391a819e9ec902c1%3A0x3ac9e84d68bd012&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x391a819e9ec902c1%3A0x3ac9e84d68bd012&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 30.879844,
+     "longitude": 75.789142
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwQLJnp6BGjkREtCL1oSerAM",
+    "provider_id": "/g/11b6f0k_rt",
+    "rating": 4,
+    "reviews": 434,
+    "unclaimed_listing": true,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "281/ 100 Ishmeet Singh Music Institute Rd J Block, Bhai Randhir Singh Nagar, Ludhiana, Punjab 141012, India",
+    "country": "India",
+    "open_state": "Closed · Opens 7 AM",
+    "hours": "Closed · Opens 7 AM",
+    "operating_hours": {
+     "saturday": "7 AM–10 PM",
+     "sunday": "7 AM–10 PM",
+     "monday": "7 AM–10 PM",
+     "tuesday": "7 AM–10 PM",
+     "wednesday": "7 AM–10 PM",
+     "thursday": "7 AM–10 PM",
+     "friday": "7 AM–10 PM"
+    },
+    "phone": "+91 94171 90977",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHtRy7gpRyum00g3AYAF5f0hBifJTzBQBTRgeANfTB9vwKqOR1lVMG3nyw7cKyulU9qe9HwVSQSF_fqSSAn--czBJ_W5l1tGW4-DZ63ZhB1F9ZbUPEdVMyQtfpCNVjqAO32FHtsiqThbIhT3ZD6mXIhdygWwE42bFBHMzAK2luCks7ejWbuKtME=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/lQ5xiHicHcTNboIwAADgJ6oUihKW7NAKiDJ0AsLGxQQora78SRmWN92b7Lhk3-H7-eVS9uOLpgmOVqzrmKDTSB9l10raylXZNRrrR9A_uqfS8FtlOtyXkbJYH6mpgZAh_Im9dQ05udWHZCFnkkSM4mOdEPt7DoZTpIs03KFWzVYZqElc7IHa_pzG59i71kMc4xaAciGHa7YWutxlJnDyDco50T07Ly7vbpWG6izrfntM7wM-IcPz5XgbEl7seYJyZ9N87HmlWDa7plF4xA8XHBhi2n6NFr1nxRTI0H2ddQgh4P-XoP0Dk7JVDg"
+   },
+   {
+    "position": 19,
+    "title": "Khushiram's",
+    "place_id": "ChIJM5i5EKSDGjkR-aw5AgqW7oE",
+    "data_id": "0x391a83a410b99833:0x81ee960a0239acf9",
+    "data_cid": "9362585645081013497",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x391a83a410b99833%3A0x81ee960a0239acf9&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x391a83a410b99833%3A0x81ee960a0239acf9&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 30.913131,
+     "longitude": 75.83912169999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJM5i5EKSDGjkR-aw5AgqW7oE",
+    "provider_id": "/g/1td79jz2",
+    "rating": 4,
+    "reviews": 1615,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop"
+    ],
+    "address": "Rani Jhansi Rd, opp. Jain Jewellers, Fountain Chowk, Koh - E - Fiza, Ludhiana, Punjab 141001, India",
+    "country": "India",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+     "saturday": "9 AM–10 PM",
+     "sunday": "8 AM–10 PM",
+     "monday": "8 AM–10 PM",
+     "tuesday": "8 AM–10 PM",
+     "wednesday": "8 AM–10 PM",
+     "thursday": "9 AM–11:30 PM",
+     "friday": "8 AM–10:30 PM"
+    },
+    "phone": "+91 98789 85345",
+    "website": "https://zomato.onelink.me/xqzv/l2on8cu9",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGEa8TypqRX0Ameay5WiWIFps8VrPxr68zPWEQ4GPPqa_OVIa0LgqcV1MAbWzyvyV3zdWmiyxk9vicz7ypth-3KiJi6qYfV-nSlcq2DlqU1IWDGhlfd4WeyqokhWK7BulcKDT46YbKrINWTGYFvld-Rz2QU_3BFeORxE9xhgKr7mRAj86FE-RAsZA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/lvo9DXicHcRLcoIwAADQE0VAKGBnuojDZyi2IiIp3TgYIqEG8gEt4aa9Sled6Vu8n186TWJ8NgxG7VXLecvIfSQK82Eiw7TCvDdaMQKh-KwNuGucgMZh7RdayPzDhD2p9RPqUBKJ0S9VNivXXzIUHpw4y2R93pdJbe5aiUvrDV7Qoh-6tJcG9Z2eb5tHhxdPi4kCO-1eO1dW1xIMR4blOmDyZCUoiCm7Ng4iWvIbRam3vTOcBoXjVpdUJe-oiKvowRqQL-vD6WxvI7LP53Az0zZVXp_DL9-NQpDD8RO-fFumaQL6PwbDH1HYV0Q"
+   },
+   {
+    "position": 20,
+    "title": "Gopal Ji Foods",
+    "place_id": "ChIJQRPWGz6DGjkR4uGK7FTDx-4",
+    "data_id": "0x391a833e1bd61341:0xeec7c354ec8ae1e2",
+    "data_cid": "17205935670905463266",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x391a833e1bd61341%3A0xeec7c354ec8ae1e2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x391a833e1bd61341%3A0xeec7c354ec8ae1e2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 30.9115114,
+     "longitude": 75.8771513
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQRPWGz6DGjkR4uGK7FTDx-4",
+    "provider_id": "/g/11b66h287k",
+    "rating": 3.8,
+    "reviews": 527,
+    "type": "Candy store",
+    "types": [
+     "Candy store",
+     "Bakery",
+     "Breakfast restaurant",
+     "Caterer",
+     "Restaurant",
+     "Wholesale bakery"
+    ],
+    "address": "Shop No. B-23, 4472 Samrala Road, Shingar Cinema Road, 3935, Street No. 11, near Samrala Chowk, Shivajinagar, Ludhiana, Punjab 141008, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–11 PM",
+     "sunday": "8 AM–11 PM",
+     "monday": "8 AM–11 PM",
+     "tuesday": "8 AM–11 PM",
+     "wednesday": "8 AM–11 PM",
+     "thursday": "8 AM–11 PM",
+     "friday": "8 AM–11 PM"
+    },
+    "phone": "+91 80000 08353",
+    "description": "Big Indian sweet cafe & coffee roastery. Traditional Indian sweets are prepared on-site at this bakery/restaurant roasting its own coffee.",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhERIlGlyWKmGV9mMd9qrIsxEmwZ_ouPsH0k4CMhU60ZAWh07Mc8GbQ8Pxyy9r7mGjHrgKD4miDxmNCFIunJLUygtxpe5PGbStg4hWSvhpVrGXlSWDB8X-0ar5hZ5iriRMc80xzQ9JzwJH5WM_JdR8gMsA_Q7ZuC1Ykk6CFHGPYtW1LKdEs57-Y=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/_xhJGHicHczNToMwAADgJ2KUCANMPCCw8mtgZOvgQhyQFqGAbZGyN_VJvGq8fMfv-4cIsfBnVR3J0wHPMx67lXesmSfRTeLQzFTFC1cWNstddZJW94h_Dkc47iim8GrTtLU_WcilT7eqnteMB2DQ3ZRcjqByEAFm2ljwnluZ3HebmRR-BAzHnk57T9I39xSuU5Rcdizk0hkZvBcC6wQVX2S5MngbC-S9WjcFvDODVEbP-vPfB-Qjt6PHFgUGSuuoPVs45U6dm9XqauUwHN1TALNSIC2JW58bplK-bBoAQCH_Nsr0C9OUVRc"
+   }
+  ],
+  "serpapi_pagination": {
+   "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4030.9010%2C75.8573%2C13z&q=Pinni+sweets&start=20&type=search"
+  }
+ }
+}

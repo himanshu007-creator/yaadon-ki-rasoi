@@ -1,0 +1,31 @@
+{
+ "engine": "google_maps_reviews",
+ "params": {
+  "data_id": "0x390cfb1dac51df2b:0xa2459022b3618503",
+  "hl": "en",
+  "sort_by": "qualityScore",
+  "query": "gujiya"
+ },
+ "recordedAt": "2026-10-02T19:12:03.490Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac00201e7a2a90ac6859507",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/gYy5X3tfaF-RDy7Buf67OIcWaoX2kYbeh6r7jURpojg/6ac00201e7a2a90ac6859507.md",
+   "created_at": "2026-10-02 19:12:01 UTC",
+   "processed_at": "2026-10-02 19:12:01 UTC",
+   "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x390cfb1dac51df2b:0xa2459022b3618503!5m2!4m1!1i2!9m1!1b1?hl=en",
+   "total_time_taken": 1.97
+  },
+  "search_parameters": {
+   "engine": "google_maps_reviews",
+   "data_id": "0x390cfb1dac51df2b:0xa2459022b3618503",
+   "hl": "en",
+   "sort_by": "qualityScore",
+   "query": "gujiya"
+  },
+  "search_information": {
+   "reviews_results_state": "No reviews"
+  }
+ }
+}

@@ -1,0 +1,609 @@
+{
+ "engine": "google_trends",
+ "params": {
+  "q": "anarsa,adhirasam,ariselu",
+  "data_type": "GEO_MAP",
+  "geo": "IN",
+  "region": "REGION",
+  "date": "today 5-y",
+  "tz": -330,
+  "include_low_search_volume": true
+ },
+ "recordedAt": "2026-10-02T19:06:21.755Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac000aceb6ec546418cecd3",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/devxElzNLRhIWL8CCc0nLpMvtiSXbrT5Amxb29magAg/6ac000aceb6ec546418cecd3.md",
+   "created_at": "2026-10-02 19:06:20 UTC",
+   "processed_at": "2026-10-02 19:06:20 UTC",
+   "google_trends_url": "https://trends.google.com/trends/embed/explore/GEO_MAP?hl=en&tz=-330&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22anarsa%22%2C%22geo%22%3A%22IN%22%2C%22time%22%3A%22today+5-y%22%7D%2C%7B%22keyword%22%3A%22adhirasam%22%2C%22geo%22%3A%22IN%22%2C%22time%22%3A%22today+5-y%22%7D%2C%7B%22keyword%22%3A%22ariselu%22%2C%22geo%22%3A%22IN%22%2C%22time%22%3A%22today+5-y%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+   "total_time_taken": 1.07
+  },
+  "search_parameters": {
+   "engine": "google_trends",
+   "q": "anarsa,adhirasam,ariselu",
+   "hl": "en",
+   "geo": "IN",
+   "date": "today 5-y",
+   "tz": "-330",
+   "data_type": "GEO_MAP",
+   "region": "REGION",
+   "include_low_search_volume": "true"
+  },
+  "compared_breakdown_by_region": [
+   {
+    "geo": "IN-TN",
+    "location": "Tamil Nadu",
+    "max_value_index": 1,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "2%",
+      "extracted_value": 2
+     },
+     {
+      "query": "adhirasam",
+      "value": "94%",
+      "extracted_value": 94
+     },
+     {
+      "query": "ariselu",
+      "value": "4%",
+      "extracted_value": 4
+     }
+    ]
+   },
+   {
+    "geo": "IN-PY",
+    "location": "Puducherry",
+    "max_value_index": 1,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "",
+      "extracted_value": 0
+     },
+     {
+      "query": "adhirasam",
+      "value": "100%",
+      "extracted_value": 100
+     },
+     {
+      "query": "ariselu",
+      "value": "",
+      "extracted_value": 0
+     }
+    ]
+   },
+   {
+    "geo": "IN-BR",
+    "location": "Bihar",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "100%",
+      "extracted_value": 100
+     },
+     {
+      "query": "adhirasam",
+      "value": "",
+      "extracted_value": 0
+     },
+     {
+      "query": "ariselu",
+      "value": "",
+      "extracted_value": 0
+     }
+    ]
+   },
+   {
+    "geo": "IN-JH",
+    "location": "Jharkhand",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "98%",
+      "extracted_value": 98
+     },
+     {
+      "query": "adhirasam",
+      "value": "",
+      "extracted_value": 0
+     },
+     {
+      "query": "ariselu",
+      "value": "2%",
+      "extracted_value": 2
+     }
+    ]
+   },
+   {
+    "geo": "IN-AP",
+    "location": "Andhra Pradesh",
+    "max_value_index": 2,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "3%",
+      "extracted_value": 3
+     },
+     {
+      "query": "adhirasam",
+      "value": "11%",
+      "extracted_value": 11
+     },
+     {
+      "query": "ariselu",
+      "value": "86%",
+      "extracted_value": 86
+     }
+    ]
+   },
+   {
+    "geo": "IN-TG",
+    "location": "Telangana",
+    "max_value_index": 2,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "10%",
+      "extracted_value": 10
+     },
+     {
+      "query": "adhirasam",
+      "value": "8%",
+      "extracted_value": 8
+     },
+     {
+      "query": "ariselu",
+      "value": "82%",
+      "extracted_value": 82
+     }
+    ]
+   },
+   {
+    "geo": "IN-CT",
+    "location": "Chhattisgarh",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "96%",
+      "extracted_value": 96
+     },
+     {
+      "query": "adhirasam",
+      "value": "",
+      "extracted_value": 0
+     },
+     {
+      "query": "ariselu",
+      "value": "4%",
+      "extracted_value": 4
+     }
+    ]
+   },
+   {
+    "geo": "IN-MH",
+    "location": "Maharashtra",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "79%",
+      "extracted_value": 79
+     },
+     {
+      "query": "adhirasam",
+      "value": "12%",
+      "extracted_value": 12
+     },
+     {
+      "query": "ariselu",
+      "value": "9%",
+      "extracted_value": 9
+     }
+    ]
+   },
+   {
+    "geo": "IN-KA",
+    "location": "Karnataka",
+    "max_value_index": 1,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "20%",
+      "extracted_value": 20
+     },
+     {
+      "query": "adhirasam",
+      "value": "50%",
+      "extracted_value": 50
+     },
+     {
+      "query": "ariselu",
+      "value": "30%",
+      "extracted_value": 30
+     }
+    ]
+   },
+   {
+    "geo": "IN-DL",
+    "location": "Delhi",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "84%",
+      "extracted_value": 84
+     },
+     {
+      "query": "adhirasam",
+      "value": "10%",
+      "extracted_value": 10
+     },
+     {
+      "query": "ariselu",
+      "value": "6%",
+      "extracted_value": 6
+     }
+    ]
+   },
+   {
+    "geo": "IN-UP",
+    "location": "Uttar Pradesh",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "93%",
+      "extracted_value": 93
+     },
+     {
+      "query": "adhirasam",
+      "value": "4%",
+      "extracted_value": 4
+     },
+     {
+      "query": "ariselu",
+      "value": "3%",
+      "extracted_value": 3
+     }
+    ]
+   },
+   {
+    "geo": "IN-MP",
+    "location": "Madhya Pradesh",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "93%",
+      "extracted_value": 93
+     },
+     {
+      "query": "adhirasam",
+      "value": "5%",
+      "extracted_value": 5
+     },
+     {
+      "query": "ariselu",
+      "value": "2%",
+      "extracted_value": 2
+     }
+    ]
+   },
+   {
+    "geo": "IN-HR",
+    "location": "Haryana",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "83%",
+      "extracted_value": 83
+     },
+     {
+      "query": "adhirasam",
+      "value": "8%",
+      "extracted_value": 8
+     },
+     {
+      "query": "ariselu",
+      "value": "9%",
+      "extracted_value": 9
+     }
+    ]
+   },
+   {
+    "geo": "IN-UT",
+    "location": "Uttarakhand",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "100%",
+      "extracted_value": 100
+     },
+     {
+      "query": "adhirasam",
+      "value": "",
+      "extracted_value": 0
+     },
+     {
+      "query": "ariselu",
+      "value": "",
+      "extracted_value": 0
+     }
+    ]
+   },
+   {
+    "geo": "IN-GA",
+    "location": "Goa",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "64%",
+      "extracted_value": 64
+     },
+     {
+      "query": "adhirasam",
+      "value": "36%",
+      "extracted_value": 36
+     },
+     {
+      "query": "ariselu",
+      "value": "",
+      "extracted_value": 0
+     }
+    ]
+   },
+   {
+    "geo": "IN-WB",
+    "location": "West Bengal",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "86%",
+      "extracted_value": 86
+     },
+     {
+      "query": "adhirasam",
+      "value": "6%",
+      "extracted_value": 6
+     },
+     {
+      "query": "ariselu",
+      "value": "8%",
+      "extracted_value": 8
+     }
+    ]
+   },
+   {
+    "geo": "IN-CH",
+    "location": "Chandigarh",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "100%",
+      "extracted_value": 100
+     },
+     {
+      "query": "adhirasam",
+      "value": "",
+      "extracted_value": 0
+     },
+     {
+      "query": "ariselu",
+      "value": "",
+      "extracted_value": 0
+     }
+    ]
+   },
+   {
+    "geo": "IN-GJ",
+    "location": "Gujarat",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "81%",
+      "extracted_value": 81
+     },
+     {
+      "query": "adhirasam",
+      "value": "7%",
+      "extracted_value": 7
+     },
+     {
+      "query": "ariselu",
+      "value": "12%",
+      "extracted_value": 12
+     }
+    ]
+   },
+   {
+    "geo": "IN-MN",
+    "location": "Manipur",
+    "max_value_index": 2,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "",
+      "extracted_value": 0
+     },
+     {
+      "query": "adhirasam",
+      "value": "",
+      "extracted_value": 0
+     },
+     {
+      "query": "ariselu",
+      "value": "100%",
+      "extracted_value": 100
+     }
+    ]
+   },
+   {
+    "geo": "IN-KL",
+    "location": "Kerala",
+    "max_value_index": 1,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "12%",
+      "extracted_value": 12
+     },
+     {
+      "query": "adhirasam",
+      "value": "77%",
+      "extracted_value": 77
+     },
+     {
+      "query": "ariselu",
+      "value": "11%",
+      "extracted_value": 11
+     }
+    ]
+   },
+   {
+    "geo": "IN-OR",
+    "location": "Odisha",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "64%",
+      "extracted_value": 64
+     },
+     {
+      "query": "adhirasam",
+      "value": "11%",
+      "extracted_value": 11
+     },
+     {
+      "query": "ariselu",
+      "value": "25%",
+      "extracted_value": 25
+     }
+    ]
+   },
+   {
+    "geo": "IN-PB",
+    "location": "Punjab",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "88%",
+      "extracted_value": 88
+     },
+     {
+      "query": "adhirasam",
+      "value": "",
+      "extracted_value": 0
+     },
+     {
+      "query": "ariselu",
+      "value": "12%",
+      "extracted_value": 12
+     }
+    ]
+   },
+   {
+    "geo": "IN-HP",
+    "location": "Himachal Pradesh",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "100%",
+      "extracted_value": 100
+     },
+     {
+      "query": "adhirasam",
+      "value": "",
+      "extracted_value": 0
+     },
+     {
+      "query": "ariselu",
+      "value": "",
+      "extracted_value": 0
+     }
+    ]
+   },
+   {
+    "geo": "IN-RJ",
+    "location": "Rajasthan",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "79%",
+      "extracted_value": 79
+     },
+     {
+      "query": "adhirasam",
+      "value": "12%",
+      "extracted_value": 12
+     },
+     {
+      "query": "ariselu",
+      "value": "9%",
+      "extracted_value": 9
+     }
+    ]
+   },
+   {
+    "geo": "IN-AS",
+    "location": "Assam",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "78%",
+      "extracted_value": 78
+     },
+     {
+      "query": "adhirasam",
+      "value": "",
+      "extracted_value": 0
+     },
+     {
+      "query": "ariselu",
+      "value": "22%",
+      "extracted_value": 22
+     }
+    ]
+   },
+   {
+    "geo": "IN-JK",
+    "location": "Jammu and Kashmir",
+    "max_value_index": 0,
+    "values": [
+     {
+      "query": "anarsa",
+      "value": "100%",
+      "extracted_value": 100
+     },
+     {
+      "query": "adhirasam",
+      "value": "",
+      "extracted_value": 0
+     },
+     {
+      "query": "ariselu",
+      "value": "",
+      "extracted_value": 0
+     }
+    ]
+   }
+  ]
+ }
+}

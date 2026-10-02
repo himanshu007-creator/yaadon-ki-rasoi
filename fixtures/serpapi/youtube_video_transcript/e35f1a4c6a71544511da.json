@@ -1,0 +1,689 @@
+{
+ "engine": "youtube_video_transcript",
+ "params": {
+  "v": "3owmEgQPWSM",
+  "language_code": "hi"
+ },
+ "recordedAt": "2026-10-02T19:12:45.343Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac002262c2bb4f2f302353a",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/uS8krd0xlXQixz95a3i-81SIWdNFocASLRpLYr_k_3M/6ac002262c2bb4f2f302353a.md",
+   "created_at": "2026-10-02 19:12:38 UTC",
+   "processed_at": "2026-10-02 19:12:38 UTC",
+   "youtube_video_transcript_url": "https://www.youtube.com/watch?v=3owmEgQPWSM",
+   "total_time_taken": 7
+  },
+  "search_parameters": {
+   "engine": "youtube_video_transcript",
+   "v": "3owmEgQPWSM",
+   "language_code": "hi"
+  },
+  "transcript": [
+   {
+    "start_ms": 4313,
+    "end_ms": 5359,
+    "snippet": "Namaskar",
+    "start_time_text": "0:04",
+    "start_time_label": "0:04"
+   },
+   {
+    "start_ms": 5578,
+    "end_ms": 8554,
+    "snippet": "Welcome to nishamadhulika.com",
+    "start_time_text": "0:05",
+    "start_time_label": "0:05"
+   },
+   {
+    "start_ms": 8945,
+    "end_ms": 10992,
+    "snippet": "Today, we will make the Punjabi Pinni",
+    "start_time_text": "0:08",
+    "start_time_label": "0:08"
+   },
+   {
+    "start_ms": 11148,
+    "end_ms": 14679,
+    "snippet": "It is tastier, energy provider.",
+    "start_time_text": "0:11",
+    "start_time_label": "0:11"
+   },
+   {
+    "start_ms": 14945,
+    "end_ms": 19033,
+    "snippet": "You should make this during the winters to consume every day.",
+    "start_time_text": "0:14",
+    "start_time_label": "0:14"
+   },
+   {
+    "start_ms": 19033,
+    "end_ms": 21117,
+    "snippet": "Come, let us start the cooking",
+    "start_time_text": "0:19",
+    "start_time_label": "0:19"
+   },
+   {
+    "start_ms": 21289,
+    "end_ms": 24718,
+    "snippet": "For preparing the Pinni, we will fry edible gum.",
+    "start_time_text": "0:21",
+    "start_time_label": "0:21"
+   },
+   {
+    "start_ms": 24789,
+    "end_ms": 27132,
+    "snippet": "Add 1/2 cup of clarified butter in the wok",
+    "start_time_text": "0:24",
+    "start_time_label": "0:24"
+   },
+   {
+    "start_ms": 28844,
+    "end_ms": 30531,
+    "snippet": "Heat it",
+    "start_time_text": "0:28",
+    "start_time_label": "0:28"
+   },
+   {
+    "start_ms": 31234,
+    "end_ms": 32687,
+    "snippet": "Clarified butter has heated",
+    "start_time_text": "0:31",
+    "start_time_label": "0:31"
+   },
+   {
+    "start_ms": 32803,
+    "end_ms": 35968,
+    "snippet": "Moderately heated clarified butter is required to fry the edible gum.",
+    "start_time_text": "0:32",
+    "start_time_label": "0:32"
+   },
+   {
+    "start_ms": 35975,
+    "end_ms": 38546,
+    "snippet": "The flame should be low- medium",
+    "start_time_text": "0:35",
+    "start_time_label": "0:35"
+   },
+   {
+    "start_ms": 39547,
+    "end_ms": 42742,
+    "snippet": "We took 1/4 cup of edible gum",
+    "start_time_text": "0:39",
+    "start_time_label": "0:39"
+   },
+   {
+    "start_ms": 48710,
+    "end_ms": 57450,
+    "snippet": "We won't fry edible gum on the high flame otherwise they\nwill roast from the upper side and stay raw from the inside.",
+    "start_time_text": "0:48",
+    "start_time_label": "0:48"
+   },
+   {
+    "start_ms": 57994,
+    "end_ms": 61728,
+    "snippet": "It has expanded, appears light brown too.",
+    "start_time_text": "0:57",
+    "start_time_label": "0:57"
+   },
+   {
+    "start_ms": 61807,
+    "end_ms": 63392,
+    "snippet": "Drain them out",
+    "start_time_text": "1:01",
+    "start_time_label": "1:01"
+   },
+   {
+    "start_ms": 69924,
+    "end_ms": 72665,
+    "snippet": "We took 3 minutes to fry the edible gums.",
+    "start_time_text": "1:09",
+    "start_time_label": "1:09"
+   },
+   {
+    "start_ms": 73260,
+    "end_ms": 75353,
+    "snippet": "Add 1/2 cup of Almonds",
+    "start_time_text": "1:13",
+    "start_time_label": "1:13"
+   },
+   {
+    "start_ms": 75783,
+    "end_ms": 81901,
+    "snippet": "We will roast them on the medium flame until they expand and colour changes.",
+    "start_time_text": "1:15",
+    "start_time_label": "1:15"
+   },
+   {
+    "start_ms": 85837,
+    "end_ms": 88410,
+    "snippet": "They have expanded and are bursting",
+    "start_time_text": "1:25",
+    "start_time_label": "1:25"
+   },
+   {
+    "start_ms": 88661,
+    "end_ms": 91566,
+    "snippet": "They have roasted",
+    "start_time_text": "1:28",
+    "start_time_label": "1:28"
+   },
+   {
+    "start_ms": 93230,
+    "end_ms": 95879,
+    "snippet": "We took 2 minutes to fry almonds",
+    "start_time_text": "1:33",
+    "start_time_label": "1:33"
+   },
+   {
+    "start_ms": 95997,
+    "end_ms": 99715,
+    "snippet": "We are taking 1/2 cup of Cashews which are broken Cashews.",
+    "start_time_text": "1:35",
+    "start_time_label": "1:35"
+   },
+   {
+    "start_ms": 100512,
+    "end_ms": 104246,
+    "snippet": "Roast them on the medium flame until light brown",
+    "start_time_text": "1:40",
+    "start_time_label": "1:40"
+   },
+   {
+    "start_ms": 105372,
+    "end_ms": 108020,
+    "snippet": "Their colour has slightly changed",
+    "start_time_text": "1:45",
+    "start_time_label": "1:45"
+   },
+   {
+    "start_ms": 116660,
+    "end_ms": 120227,
+    "snippet": "Dry Roast 1/2 cup of Muskmelon Seeds",
+    "start_time_text": "1:56",
+    "start_time_label": "1:56"
+   },
+   {
+    "start_ms": 121879,
+    "end_ms": 126285,
+    "snippet": "Roast them until they expand and colour changes.",
+    "start_time_text": "2:01",
+    "start_time_label": "2:01"
+   },
+   {
+    "start_ms": 126724,
+    "end_ms": 128778,
+    "snippet": "Keep the flame on Medium-High",
+    "start_time_text": "2:06",
+    "start_time_label": "2:06"
+   },
+   {
+    "start_ms": 129762,
+    "end_ms": 132754,
+    "snippet": "Seeds are expanding along with the popping sound.",
+    "start_time_text": "2:09",
+    "start_time_label": "2:09"
+   },
+   {
+    "start_ms": 132794,
+    "end_ms": 136579,
+    "snippet": "Its colour has slightly changed, they have roasted.",
+    "start_time_text": "2:12",
+    "start_time_label": "2:12"
+   },
+   {
+    "start_ms": 137169,
+    "end_ms": 139075,
+    "snippet": "They took 2 minutes to roast",
+    "start_time_text": "2:17",
+    "start_time_label": "2:17"
+   },
+   {
+    "start_ms": 144700,
+    "end_ms": 147075,
+    "snippet": "This is 1/2 cup of grated dry coconut",
+    "start_time_text": "2:24",
+    "start_time_label": "2:24"
+   },
+   {
+    "start_ms": 147216,
+    "end_ms": 150692,
+    "snippet": "We will roast it while continuously stirring for 1 minute.",
+    "start_time_text": "2:27",
+    "start_time_label": "2:27"
+   },
+   {
+    "start_ms": 151074,
+    "end_ms": 154847,
+    "snippet": "Its colour has changed, there is soothing Fragrance",
+    "start_time_text": "2:31",
+    "start_time_label": "2:31"
+   },
+   {
+    "start_ms": 157623,
+    "end_ms": 161864,
+    "snippet": "We roasted dry fruits in the wok so we will utilise the\nclarified butter after filtering it using a strainer.",
+    "start_time_text": "2:37",
+    "start_time_label": "2:37"
+   },
+   {
+    "start_ms": 163552,
+    "end_ms": 166731,
+    "snippet": "Add 1/2 cup of more Clarified Butter",
+    "start_time_text": "2:43",
+    "start_time_label": "2:43"
+   },
+   {
+    "start_ms": 172098,
+    "end_ms": 174894,
+    "snippet": "We took 2 cups of Wheat flour",
+    "start_time_text": "2:52",
+    "start_time_label": "2:52"
+   },
+   {
+    "start_ms": 176903,
+    "end_ms": 182691,
+    "snippet": "Roast the flour on the medium flame while\ncontinuously stirring it until Golden Brown.",
+    "start_time_text": "2:56",
+    "start_time_label": "2:56"
+   },
+   {
+    "start_ms": 192074,
+    "end_ms": 195930,
+    "snippet": "Clarified Butter seems to be littles less in\nthe quantity so we will add some more in it.",
+    "start_time_text": "3:12",
+    "start_time_label": "3:12"
+   },
+   {
+    "start_ms": 206349,
+    "end_ms": 208543,
+    "snippet": "The colour of flour appears dark",
+    "start_time_text": "3:26",
+    "start_time_label": "3:26"
+   },
+   {
+    "start_ms": 208715,
+    "end_ms": 211465,
+    "snippet": "There is a soothing fragrance which means it has roasted",
+    "start_time_text": "3:28",
+    "start_time_label": "3:28"
+   },
+   {
+    "start_ms": 211684,
+    "end_ms": 215589,
+    "snippet": "Switch off the flame and stir it for a while in the wok.",
+    "start_time_text": "3:31",
+    "start_time_label": "3:31"
+   },
+   {
+    "start_ms": 215848,
+    "end_ms": 217652,
+    "snippet": "The wok is hot from the bottom.",
+    "start_time_text": "3:35",
+    "start_time_label": "3:35"
+   },
+   {
+    "start_ms": 217695,
+    "end_ms": 221269,
+    "snippet": "If we will stop stirring it then, flour might burn from the bottom.",
+    "start_time_text": "3:37",
+    "start_time_label": "3:37"
+   },
+   {
+    "start_ms": 221497,
+    "end_ms": 225082,
+    "snippet": "We took 15 minutes to roast the flour",
+    "start_time_text": "3:41",
+    "start_time_label": "3:41"
+   },
+   {
+    "start_ms": 225199,
+    "end_ms": 227730,
+    "snippet": "Coarsely grind the roasted Edible gum for it.",
+    "start_time_text": "3:45",
+    "start_time_label": "3:45"
+   },
+   {
+    "start_ms": 227947,
+    "end_ms": 233418,
+    "snippet": "We can use a rolling pin or a mortar to crush it.",
+    "start_time_text": "3:47",
+    "start_time_label": "3:47"
+   },
+   {
+    "start_ms": 237643,
+    "end_ms": 239309,
+    "snippet": "We will keep it granular",
+    "start_time_text": "3:57",
+    "start_time_label": "3:57"
+   },
+   {
+    "start_ms": 240466,
+    "end_ms": 249323,
+    "snippet": "Edible gum has roasted properly. To check, you can break\nthe edible gum to notice that they are crispy from the inside.",
+    "start_time_text": "4:00",
+    "start_time_label": "4:00"
+   },
+   {
+    "start_ms": 262201,
+    "end_ms": 265388,
+    "snippet": "In the same way, we will crush the roasted Cashews",
+    "start_time_text": "4:22",
+    "start_time_label": "4:22"
+   },
+   {
+    "start_ms": 269941,
+    "end_ms": 272909,
+    "snippet": "Add them in one bowl because we have to mix them",
+    "start_time_text": "4:29",
+    "start_time_label": "4:29"
+   },
+   {
+    "start_ms": 273024,
+    "end_ms": 276542,
+    "snippet": "We will save some Cashews for the garnishing.",
+    "start_time_text": "4:33",
+    "start_time_label": "4:33"
+   },
+   {
+    "start_ms": 284255,
+    "end_ms": 286948,
+    "snippet": "In the same way, we will crush the roasted Almonds",
+    "start_time_text": "4:44",
+    "start_time_label": "4:44"
+   },
+   {
+    "start_ms": 298205,
+    "end_ms": 300064,
+    "snippet": "We have crushed them.",
+    "start_time_text": "4:58",
+    "start_time_label": "4:58"
+   },
+   {
+    "start_ms": 300138,
+    "end_ms": 303130,
+    "snippet": "You can crush them in the mixer also.",
+    "start_time_text": "5:00",
+    "start_time_label": "5:00"
+   },
+   {
+    "start_ms": 303249,
+    "end_ms": 305470,
+    "snippet": "Add the crushed coconut in it",
+    "start_time_text": "5:03",
+    "start_time_label": "5:03"
+   },
+   {
+    "start_ms": 306915,
+    "end_ms": 309493,
+    "snippet": "Muskmelon Seeds",
+    "start_time_text": "5:06",
+    "start_time_label": "5:06"
+   },
+   {
+    "start_ms": 311714,
+    "end_ms": 315296,
+    "snippet": "You can increase or decrease its quantity according to your taste",
+    "start_time_text": "5:11",
+    "start_time_label": "5:11"
+   },
+   {
+    "start_ms": 315519,
+    "end_ms": 318086,
+    "snippet": "Now, we will add the roasted flour",
+    "start_time_text": "5:15",
+    "start_time_label": "5:15"
+   },
+   {
+    "start_ms": 319995,
+    "end_ms": 323222,
+    "snippet": "We have to mix all the Ingredients when they are hot",
+    "start_time_text": "5:19",
+    "start_time_label": "5:19"
+   },
+   {
+    "start_ms": 325720,
+    "end_ms": 327953,
+    "snippet": "Now, we will add Boora in it",
+    "start_time_text": "5:25",
+    "start_time_label": "5:25"
+   },
+   {
+    "start_ms": 328019,
+    "end_ms": 329872,
+    "snippet": "We took 2 cups of Tagar",
+    "start_time_text": "5:28",
+    "start_time_label": "5:28"
+   },
+   {
+    "start_ms": 329928,
+    "end_ms": 332567,
+    "snippet": "You can increase or decrease its quantity according to your taste",
+    "start_time_text": "5:29",
+    "start_time_label": "5:29"
+   },
+   {
+    "start_ms": 332662,
+    "end_ms": 335252,
+    "snippet": "We can make Boora in our homes too",
+    "start_time_text": "5:32",
+    "start_time_label": "5:32"
+   },
+   {
+    "start_ms": 335319,
+    "end_ms": 338622,
+    "snippet": "Its recipes available on my website and channel",
+    "start_time_text": "5:35",
+    "start_time_label": "5:35"
+   },
+   {
+    "start_ms": 338633,
+    "end_ms": 342238,
+    "snippet": "You can buy it from the market also",
+    "start_time_text": "5:38",
+    "start_time_label": "5:38"
+   },
+   {
+    "start_ms": 347797,
+    "end_ms": 352507,
+    "snippet": "We mixed all the Ingredients but, the mixture still appears dry",
+    "start_time_text": "5:47",
+    "start_time_label": "5:47"
+   },
+   {
+    "start_ms": 352507,
+    "end_ms": 355673,
+    "snippet": "We will add saved Clarified butter",
+    "start_time_text": "5:52",
+    "start_time_label": "5:52"
+   },
+   {
+    "start_ms": 355900,
+    "end_ms": 359959,
+    "snippet": "It will mix in it easily because the mixture is still heated",
+    "start_time_text": "5:55",
+    "start_time_label": "5:55"
+   },
+   {
+    "start_ms": 367284,
+    "end_ms": 370139,
+    "snippet": "Add 1 tsp of Cardamoms powder",
+    "start_time_text": "6:07",
+    "start_time_label": "6:07"
+   },
+   {
+    "start_ms": 370398,
+    "end_ms": 373167,
+    "snippet": "Mix all the Ingredients properly",
+    "start_time_text": "6:10",
+    "start_time_label": "6:10"
+   },
+   {
+    "start_ms": 377463,
+    "end_ms": 380861,
+    "snippet": "The mixture is ready so let's start making the Pinni",
+    "start_time_text": "6:17",
+    "start_time_label": "6:17"
+   },
+   {
+    "start_ms": 380861,
+    "end_ms": 385520,
+    "snippet": "Lift some mixture and bind it into the round shaped ball.",
+    "start_time_text": "6:20",
+    "start_time_label": "6:20"
+   },
+   {
+    "start_ms": 385588,
+    "end_ms": 389318,
+    "snippet": "You can decide its size according to your taste",
+    "start_time_text": "6:25",
+    "start_time_label": "6:25"
+   },
+   {
+    "start_ms": 389472,
+    "end_ms": 395364,
+    "snippet": "Place a piece of cashew over it like this",
+    "start_time_text": "6:29",
+    "start_time_label": "6:29"
+   },
+   {
+    "start_ms": 395364,
+    "end_ms": 397085,
+    "snippet": "Bind it",
+    "start_time_text": "6:35",
+    "start_time_label": "6:35"
+   },
+   {
+    "start_ms": 400353,
+    "end_ms": 403868,
+    "snippet": "We will make all Pinnis in the same way",
+    "start_time_text": "6:40",
+    "start_time_label": "6:40"
+   },
+   {
+    "start_ms": 420632,
+    "end_ms": 425592,
+    "snippet": "We have prepared all the Pinnis which are 25 out of prepared dough.",
+    "start_time_text": "7:00",
+    "start_time_label": "7:00"
+   },
+   {
+    "start_ms": 425666,
+    "end_ms": 428222,
+    "snippet": "Wheat Flour Pinni is ready to be served",
+    "start_time_text": "7:05",
+    "start_time_label": "7:05"
+   },
+   {
+    "start_ms": 428222,
+    "end_ms": 429832,
+    "snippet": "Be careful that,",
+    "start_time_text": "7:08",
+    "start_time_label": "7:08"
+   },
+   {
+    "start_ms": 429963,
+    "end_ms": 435735,
+    "snippet": "Roast the dry fruits slightly, do not make them dark.",
+    "start_time_text": "7:09",
+    "start_time_label": "7:09"
+   },
+   {
+    "start_ms": 436090,
+    "end_ms": 439070,
+    "snippet": "Roast flour while continuously stirring it",
+    "start_time_text": "7:16",
+    "start_time_label": "7:16"
+   },
+   {
+    "start_ms": 439070,
+    "end_ms": 444398,
+    "snippet": "If the mixture appears dry then, mix the melted clarified butter in it",
+    "start_time_text": "7:19",
+    "start_time_label": "7:19"
+   },
+   {
+    "start_ms": 444398,
+    "end_ms": 449282,
+    "snippet": "If it appears wet then, leave it in the open air for a while.",
+    "start_time_text": "7:24",
+    "start_time_label": "7:24"
+   },
+   {
+    "start_ms": 449282,
+    "end_ms": 451474,
+    "snippet": "Prepare the pinni once it cools down",
+    "start_time_text": "7:29",
+    "start_time_label": "7:29"
+   },
+   {
+    "start_ms": 451474,
+    "end_ms": 454194,
+    "snippet": "You will prepare amazing Pinni",
+    "start_time_text": "7:31",
+    "start_time_label": "7:31"
+   },
+   {
+    "start_ms": 454194,
+    "end_ms": 460775,
+    "snippet": "Store them in a container and consume for the 2-3 months",
+    "start_time_text": "7:34",
+    "start_time_label": "7:34"
+   },
+   {
+    "start_ms": 460806,
+    "end_ms": 463049,
+    "snippet": "so you make them and eat them",
+    "start_time_text": "7:40",
+    "start_time_label": "7:40"
+   },
+   {
+    "start_ms": 463049,
+    "end_ms": 465882,
+    "snippet": "Share your experience with me",
+    "start_time_text": "7:43",
+    "start_time_label": "7:43"
+   },
+   {
+    "start_ms": 465882,
+    "end_ms": 469456,
+    "snippet": "I really enjoy replying your comments",
+    "start_time_text": "7:45",
+    "start_time_label": "7:45"
+   },
+   {
+    "start_ms": 469489,
+    "end_ms": 473316,
+    "snippet": "Do subscribe to my channel",
+    "start_time_text": "7:49",
+    "start_time_label": "7:49"
+   },
+   {
+    "start_ms": 477948,
+    "end_ms": 484100,
+    "snippet": "If you haven't subscribed to my channel yet then, subscribe it now.",
+    "start_time_text": "7:57",
+    "start_time_label": "7:57"
+   },
+   {
+    "start_ms": 484100,
+    "end_ms": 490049,
+    "snippet": "Click the bell icon to stay updated regarding my new videos",
+    "start_time_text": "8:04",
+    "start_time_label": "8:04"
+   }
+  ],
+  "available_transcripts": [
+   {
+    "language_code": "en-US",
+    "selected": true,
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en-US&v=3owmEgQPWSM"
+   },
+   {
+    "language_code": "hi",
+    "type": "asr",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=hi&type=asr&v=3owmEgQPWSM"
+   }
+  ]
+ }
+}

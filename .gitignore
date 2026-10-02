@@ -1,0 +1,28 @@
+# dependencies & build output
+node_modules
+.next
+out
+*.tsbuildinfo
+next-env.d.ts
+
+# local runtime data (caches, budgets, family pages)
+.data
+
+# secrets: only the template is committed
+.env*
+!.env.example
+
+# deploy / tooling / OS noise
+.vercel
+.claude
+.DS_Store
+*.log
+coverage
+
+# private planning notes
+plan.md
+plan_v2.md
+
+# Committed on purpose (static assets the app needs at runtime):
+#   public/voices/*.mp3   grandmother clips
+#   fixtures/**           recorded SerpApi investigations + voice manifest

@@ -1,0 +1,53 @@
+{
+ "engine": "google_maps_reviews",
+ "params": {
+  "data_id": "0x3bae1689eb8eb737:0xd99a0528e30c233b",
+  "hl": "en",
+  "sort_by": "qualityScore",
+  "query": "adhirasam"
+ },
+ "recordedAt": "2026-10-02T19:11:40.788Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac001eca28971e245d03c0b",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/w2zYproolxgf8Z7ZWY36USiGlmWJQhFpmJYK_NF4R34/6ac001eca28971e245d03c0b.md",
+   "created_at": "2026-10-02 19:11:40 UTC",
+   "processed_at": "2026-10-02 19:11:40 UTC",
+   "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae1689eb8eb737:0xd99a0528e30c233b!5m2!4m1!1i2!9m1!1b1?hl=en",
+   "total_time_taken": 0.47
+  },
+  "search_parameters": {
+   "engine": "google_maps_reviews",
+   "data_id": "0x3bae1689eb8eb737:0xd99a0528e30c233b",
+   "hl": "en",
+   "sort_by": "qualityScore",
+   "query": "adhirasam"
+  },
+  "reviews": [
+   {
+    "position": 1,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNtOHRPV2xnRRAB!2m1!1s0x0:0xd99a0528e30c233b!3m1!1s2@1:CIHM0ogKEICAgICm8tOWlgE%7C%7C?hl=en",
+    "rating": 5,
+    "date": "4 years ago",
+    "iso_date": "2021-12-24T02:07:39Z",
+    "iso_date_of_last_edit": "2021-12-24T02:07:54Z",
+    "source": "Google",
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtOHRPV2xnRRAB",
+    "user": {
+     "name": "Nikila Vani",
+     "link": "https://www.google.com/maps/contrib/112904769052735859590?hl=en",
+     "contributor_id": "112904769052735859590",
+     "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKMz-DUAm6nIfrAZVLOZgtPe14krhYXQL35En8W3riYbbdKfw=s120-c-rp-mo-ba12-br100",
+     "reviews": 162,
+     "photos": 232
+    },
+    "snippet": "This has been a favourite joint to get sweets for years now. Especially during festivities. A must buy will be their rava laddu, adhirasam, and milk sweets. They also serve chaats in the evening, it's equally good as well.",
+    "extracted_snippet": {
+     "original": "This has been a favourite joint to get sweets for years now. Especially during festivities. A must buy will be their rava laddu, adhirasam, and milk sweets. They also serve chaats in the evening, it's equally good as well."
+    },
+    "likes": 0
+   }
+  ]
+ }
+}

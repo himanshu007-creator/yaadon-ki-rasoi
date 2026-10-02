@@ -1,0 +1,481 @@
+@import "tailwindcss";
+
+/* "Diwali night, one diya, Nani's kitchen" — dark-first, warm, never techy. */
+:root {
+  --night: #120a06;
+  --night-2: #1e0f08;
+  --surface: #241309;
+  --surface-2: #2e1a0e;
+  --line: rgb(255 214 150 / 0.14);
+  --text: #fff4de;
+  --text-dim: #e9d3ad;
+  --text-mute: #bfa27a;
+  --paper: #fff4de;
+  --paper-2: #f8e7c6;
+  --ink: #2b1a10;
+  --ink-dim: #6b4b33;
+  --marigold: #ff9f1c;
+  --saffron: #f77f00;
+  --turmeric: #ffc83d;
+  --kumkum: #c62a33;
+  --mehendi: #4f7a38;
+  --glow: rgb(255 170 60 / 0.42);
+  --focus: #ffd166;
+  --radius: 20px;
+  --ease: cubic-bezier(0.2, 0.8, 0.2, 1);
+  color-scheme: dark;
+}
+
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --night: #fbf3e4;
+    --night-2: #f6e6c9;
+    --surface: #fffaf0;
+    --surface-2: #f8ecd5;
+    --line: rgb(110 70 30 / 0.16);
+    --text: #2b1a10;
+    --text-dim: #4d3423;
+    --text-mute: #7a5a40;
+    --glow: rgb(247 127 0 / 0.22);
+    --focus: #b35900;
+    --marigold: #c25e00;
+    --saffron: #b04d00;
+    color-scheme: light;
+  }
+}
+
+@theme inline {
+  --font-display: var(--font-yatra), "Hind", serif;
+  --font-body: var(--font-hind), system-ui, sans-serif;
+  --font-hand: var(--font-kalam), cursive;
+  --color-night: var(--night);
+  --color-surface: var(--surface);
+  --color-paper: var(--paper);
+  --color-ink: var(--ink);
+  --color-marigold: var(--marigold);
+  --color-saffron: var(--saffron);
+  --color-turmeric: var(--turmeric);
+  --color-kumkum: var(--kumkum);
+  --color-dim: var(--text-dim);
+  --color-mute: var(--text-mute);
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  min-height: 100dvh;
+  background: radial-gradient(120% 60% at 50% -10%, var(--night-2), var(--night) 60%) fixed, var(--night);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-size: 17px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+}
+:lang(hi) {
+  line-height: 1.75;
+}
+h1,
+h2,
+h3 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  line-height: 1.2;
+  margin: 0;
+  letter-spacing: 0.005em;
+  text-wrap: balance;
+}
+p {
+  text-wrap: pretty;
+}
+a {
+  color: inherit;
+}
+:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 3px;
+  border-radius: 10px;
+}
+::selection {
+  background: var(--marigold);
+  color: var(--night);
+}
+
+.skip-link {
+  position: absolute;
+  left: 12px;
+  top: -60px;
+  z-index: 100;
+  background: var(--paper);
+  color: var(--ink);
+  padding: 10px 16px;
+  border-radius: 12px;
+}
+.skip-link:focus {
+  top: 12px;
+}
+
+/* Inline padding only: unlayered CSS beats Tailwind utilities, so a `padding` shorthand here would zero every pt-/py- class. */
+.wrap {
+  width: 100%;
+  max-width: 1100px;
+  margin-inline: auto;
+  padding-inline: 16px;
+  box-sizing: border-box;
+}
+.narrow {
+  max-width: 640px;
+}
+
+/* Buttons: 48px minimum, primary sits low on the screen. */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  min-height: 52px;
+  padding: 0 24px;
+  border-radius: 999px;
+  border: 0;
+  font: 600 17px/1 var(--font-body);
+  cursor: pointer;
+  text-decoration: none;
+  transition: transform 180ms var(--ease), box-shadow 180ms var(--ease), background 180ms var(--ease);
+  -webkit-tap-highlight-color: transparent;
+}
+.btn:active {
+  transform: scale(0.97);
+}
+.btn[disabled] {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+.btn-primary {
+  background: linear-gradient(180deg, #ffb43c, var(--saffron));
+  color: #2b1205;
+  box-shadow: 0 8px 28px -8px var(--glow), inset 0 1px 0 rgb(255 255 255 / 0.4);
+}
+.btn-primary:hover:not([disabled]) {
+  box-shadow: 0 10px 34px -6px var(--glow), inset 0 1px 0 rgb(255 255 255 / 0.4);
+}
+.btn-ghost {
+  background: transparent;
+  color: var(--text);
+  border: 1.5px solid var(--line);
+}
+.btn-ghost:hover {
+  border-color: var(--marigold);
+}
+.btn-block {
+  width: 100%;
+}
+.btn-sm {
+  min-height: 44px;
+  padding: 0 16px;
+  font-size: 15px;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 44px;
+  padding: 0 16px;
+  border-radius: 999px;
+  border: 1.5px solid var(--line);
+  background: var(--surface);
+  color: var(--text-dim);
+  font: 500 16px/1 var(--font-body);
+  cursor: pointer;
+  transition: all 160ms var(--ease);
+}
+.chip:hover {
+  border-color: var(--marigold);
+}
+.chip[aria-pressed="true"],
+.chip[aria-checked="true"] {
+  background: var(--marigold);
+  border-color: var(--marigold);
+  color: #2b1205;
+}
+.tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 10px;
+  border-radius: 999px;
+  font-size: 13px;
+  line-height: 1.5;
+  background: rgb(255 159 28 / 0.12);
+  color: var(--marigold);
+  text-decoration: none;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+}
+
+/* Ruled notebook paper — where memories get written. */
+.paper {
+  background-color: var(--paper);
+  background-image: repeating-linear-gradient(180deg, transparent 0 33px, rgb(150 100 60 / 0.16) 33px 34px);
+  background-position: 0 14px;
+  color: var(--ink);
+  border-radius: var(--radius);
+  box-shadow: 0 20px 50px -24px rgb(0 0 0 / 0.6);
+}
+.hand {
+  font-family: var(--font-hand);
+}
+.paper:focus-within {
+  box-shadow: 0 0 0 3px var(--marigold), 0 20px 50px -24px rgb(0 0 0 / 0.6);
+}
+.paper textarea:focus-visible {
+  outline: none;
+}
+
+.field-label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 10px;
+  color: var(--text);
+}
+.input,
+.select,
+.textarea {
+  width: 100%;
+  box-sizing: border-box;
+  min-height: 52px;
+  padding: 12px 16px;
+  font: 400 17px/1.5 var(--font-body);
+  color: var(--text);
+  background: var(--surface);
+  border: 1.5px solid var(--line);
+  border-radius: 14px;
+}
+.input:focus,
+.select:focus,
+.textarea:focus {
+  border-color: var(--marigold);
+  outline: none;
+  box-shadow: 0 0 0 3px rgb(255 159 28 / 0.25);
+}
+.select {
+  appearance: none;
+  background-image: linear-gradient(45deg, transparent 50%, var(--text-mute) 50%), linear-gradient(135deg, var(--text-mute) 50%, transparent 50%);
+  background-position: calc(100% - 22px) 50%, calc(100% - 16px) 50%;
+  background-size: 6px 6px;
+  background-repeat: no-repeat;
+  padding-right: 40px;
+}
+
+.eyebrow {
+  font-size: 13px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--marigold);
+  font-weight: 600;
+}
+.muted {
+  color: var(--text-mute);
+}
+.dim {
+  color: var(--text-dim);
+}
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* The flame. Flicker stays well under 3 Hz; static under reduced motion. */
+@keyframes flicker {
+  0%, 100% { transform: scale(1, 1) rotate(-1deg); opacity: 1; }
+  30% { transform: scale(0.96, 1.05) rotate(1.5deg); opacity: 0.94; }
+  60% { transform: scale(1.03, 0.97) rotate(-0.5deg); opacity: 0.98; }
+}
+@keyframes glow {
+  0%, 100% { opacity: 0.85; }
+  50% { opacity: 1; }
+}
+@keyframes rise {
+  from { opacity: 0; transform: translateY(14px); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes pop {
+  0% { transform: scale(0.6); opacity: 0; }
+  70% { transform: scale(1.08); opacity: 1; }
+  100% { transform: scale(1); }
+}
+@keyframes ticker {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+@keyframes pulse-ring {
+  from { box-shadow: 0 0 0 0 rgb(255 159 28 / 0.55); }
+  to { box-shadow: 0 0 0 26px rgb(255 159 28 / 0); }
+}
+.flame {
+  transform-origin: 50% 90%;
+  animation: flicker 1.7s ease-in-out infinite;
+}
+.halo {
+  animation: glow 2.4s ease-in-out infinite;
+}
+.rise {
+  animation: rise 520ms var(--ease) both;
+}
+/* Animated sections are stacking contexts; lift the one being typed in so its dropdown sits on top. */
+.rise:focus-within {
+  position: relative;
+  z-index: 40;
+}
+.pop {
+  animation: pop 520ms var(--ease) both;
+}
+
+@media (prefers-reduced-motion: reduce), (update: slow) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+html.lite .flame,
+html.lite .halo {
+  animation: none;
+}
+
+/* India map */
+.india-svg {
+  background: radial-gradient(80% 70% at 50% 45%, #1f1009, #0d0805 75%);
+  border: 1px solid var(--line);
+  overflow: visible;
+}
+.india-svg .state {
+  fill: #2a170c;
+  stroke: rgb(255 200 120 / 0.28);
+  stroke-linejoin: round;
+  transition: stroke 160ms;
+}
+.india-svg .state.lit {
+  cursor: pointer;
+  fill: color-mix(in srgb, var(--c) 72%, #2a170c);
+  animation: light-up 900ms var(--ease) backwards;
+}
+.india-svg .state.lit:hover {
+  stroke: #fff6d6;
+}
+@keyframes light-up {
+  from { fill: #2a170c; }
+}
+.no-anim,
+.no-anim * {
+  animation: none !important;
+}
+.state-diya {
+  animation: pop 520ms var(--ease) both;
+  transform-box: fill-box;
+  transform-origin: center;
+}
+.india-svg .flame {
+  transform-box: fill-box;
+  transform-origin: 50% 90%;
+}
+.speaking {
+  animation: speak 1.2s ease-in-out infinite;
+  transform-box: fill-box;
+  transform-origin: center;
+}
+@keyframes speak {
+  0%, 100% { transform: scale(0.7); opacity: 0.5; }
+  50% { transform: scale(1.15); opacity: 0.15; }
+}
+.doori-arc {
+  stroke: #ffc83d;
+  stroke-width: 2.4;
+  stroke-linecap: round;
+  stroke-dasharray: 1 7;
+  animation: dash 1.4s linear infinite;
+  filter: drop-shadow(0 0 4px rgb(255 200 61 / 0.7));
+}
+@keyframes dash {
+  to { stroke-dashoffset: -16; }
+}
+.you-pulse {
+  fill: rgb(124 196 255 / 0.25);
+  animation: speak 1.8s ease-in-out infinite;
+  transform-box: fill-box;
+  transform-origin: center;
+}
+.spot-label {
+  font: 600 15px var(--font-body);
+  paint-order: stroke;
+  stroke: #0d0805;
+  stroke-width: 4px;
+  stroke-linejoin: round;
+}
+.spot-label.you {
+  fill: #bfe3ff;
+}
+.spot-label.home {
+  font: 400 19px var(--font-hand);
+  fill: var(--turmeric);
+}
+
+/* Share card (exported at 2× → 1080×1350) and the PDF recipe sheet */
+.share-card {
+  position: relative;
+  width: 540px;
+  height: 675px;
+  padding: 26px 28px;
+  box-sizing: border-box;
+  color: var(--text);
+  font-family: var(--font-body);
+  background:
+    radial-gradient(60% 40% at 50% 0%, rgb(255 159 28 / 0.22), transparent 70%),
+    radial-gradient(circle at 0 0, rgb(198 42 51 / 0.25) 0 2px, transparent 3px) 0 0 / 22px 22px,
+    #120a06;
+  border: 2px solid rgb(255 200 120 / 0.25);
+  border-radius: 18px;
+  overflow: hidden;
+}
+.recipe-sheet {
+  width: 794px;
+  padding: 48px 56px;
+  box-sizing: border-box;
+  border-radius: 0;
+}
+.share-chip {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  min-height: 64px;
+  border-radius: 16px;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  color: var(--text-dim);
+  font: 500 12px var(--font-body);
+  cursor: pointer;
+  transition: transform 160ms var(--ease), border-color 160ms;
+}
+.share-chip:hover {
+  border-color: var(--marigold);
+  transform: translateY(-2px);
+}
+.share-chip:disabled {
+  opacity: 0.5;
+}

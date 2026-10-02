@@ -1,0 +1,31 @@
+{
+ "engine": "google_maps_reviews",
+ "params": {
+  "data_id": "0x391a83be9a872d49:0xc6b1c051f6d6de51",
+  "hl": "en",
+  "sort_by": "qualityScore",
+  "query": "pinni"
+ },
+ "recordedAt": "2026-10-02T19:12:43.465Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac0022a9d99f448026944a1",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/35NVdf1IoLLdU4rc2noa4LQN2ckh-maDA4A6-zizGX4/6ac0022a9d99f448026944a1.md",
+   "created_at": "2026-10-02 19:12:42 UTC",
+   "processed_at": "2026-10-02 19:12:42 UTC",
+   "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x391a83be9a872d49:0xc6b1c051f6d6de51!5m2!4m1!1i2!9m1!1b1?hl=en",
+   "total_time_taken": 0.77
+  },
+  "search_parameters": {
+   "engine": "google_maps_reviews",
+   "data_id": "0x391a83be9a872d49:0xc6b1c051f6d6de51",
+   "hl": "en",
+   "sort_by": "qualityScore",
+   "query": "pinni"
+  },
+  "search_information": {
+   "reviews_results_state": "No reviews"
+  }
+ }
+}

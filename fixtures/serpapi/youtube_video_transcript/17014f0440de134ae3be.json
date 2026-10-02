@@ -1,0 +1,454 @@
+{
+ "engine": "youtube_video_transcript",
+ "params": {
+  "v": "w385Avu1Dsw",
+  "language_code": "hi"
+ },
+ "recordedAt": "2026-10-02T19:11:47.512Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac001ed412f439de8b3188f",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/MtqU4P5TSYsDf-PE4r7FT8OkILdDBfO-HO6809G_oeI/6ac001ed412f439de8b3188f.md",
+   "created_at": "2026-10-02 19:11:41 UTC",
+   "processed_at": "2026-10-02 19:11:41 UTC",
+   "youtube_video_transcript_url": "https://www.youtube.com/watch?v=w385Avu1Dsw",
+   "total_time_taken": 5.95
+  },
+  "search_parameters": {
+   "engine": "youtube_video_transcript",
+   "v": "w385Avu1Dsw",
+   "language_code": "hi"
+  },
+  "transcript": [
+   {
+    "start_ms": 160,
+    "end_ms": 3370,
+    "snippet": "हेलो हाय फ्रेंड्स वेलकम टू आवर कुकिंग",
+    "start_time_text": "0:00",
+    "start_time_label": "0:00"
+   },
+   {
+    "start_ms": 3370,
+    "end_ms": 6879,
+    "snippet": "टाइम चैनल इन आंवलों अ तमिल एपिसोड नंबर",
+    "start_time_text": "0:03",
+    "start_time_label": "0:03"
+   },
+   {
+    "start_ms": 6879,
+    "end_ms": 11410,
+    "snippet": "यह जो है चंद्र दर्शन व पूजन इंद्र नंबर",
+    "start_time_text": "0:06",
+    "start_time_label": "0:06"
+   },
+   {
+    "start_ms": 11410,
+    "end_ms": 13660,
+    "snippet": "पारंपरिक मोर पड़ी रूम पर यह क्रीम है यह",
+    "start_time_text": "0:11",
+    "start_time_label": "0:11"
+   },
+   {
+    "start_ms": 13660,
+    "end_ms": 17109,
+    "snippet": "प्लीज फोन उठा लूंगा है इधर संबंधित",
+    "start_time_text": "0:13",
+    "start_time_label": "0:13"
+   },
+   {
+    "start_ms": 17109,
+    "end_ms": 20619,
+    "snippet": "किन-किन और क्लॉक पर शेयर करें हैं हिंदी",
+    "start_time_text": "0:17",
+    "start_time_label": "0:17"
+   },
+   {
+    "start_ms": 20619,
+    "end_ms": 23529,
+    "snippet": "पर्चेस है टाइम नहीं होती और आर्म ओर से",
+    "start_time_text": "0:20",
+    "start_time_label": "0:20"
+   },
+   {
+    "start_ms": 23529,
+    "end_ms": 27250,
+    "snippet": "अधिक प्रमाण लक्ष्मण इधर और उस वक्त अन्य",
+    "start_time_text": "0:23",
+    "start_time_label": "0:23"
+   },
+   {
+    "start_ms": 27250,
+    "end_ms": 29679,
+    "snippet": "इलाकों के दामाद वित्त वर्ष से अधिक",
+    "start_time_text": "0:27",
+    "start_time_label": "0:27"
+   },
+   {
+    "start_ms": 29679,
+    "end_ms": 32619,
+    "snippet": "पुराने हैं यह है न भी लडको के मिक्सी जार",
+    "start_time_text": "0:29",
+    "start_time_label": "0:29"
+   },
+   {
+    "start_ms": 32619,
+    "end_ms": 37090,
+    "snippet": "रिपोर्ट आरक्षण नंबर ढूंढना माउस क्रश लहर",
+    "start_time_text": "0:32",
+    "start_time_label": "0:32"
+   },
+   {
+    "start_ms": 37090,
+    "end_ms": 39460,
+    "snippet": "कुंभ मेला अंदर मौजूद सेलिब्रेशन",
+    "start_time_text": "0:37",
+    "start_time_label": "0:37"
+   },
+   {
+    "start_ms": 39460,
+    "end_ms": 42610,
+    "snippet": "राधे-राधे वॉटर बट और पॉइंट झांसी रेलवे",
+    "start_time_text": "0:39",
+    "start_time_label": "0:39"
+   },
+   {
+    "start_ms": 42610,
+    "end_ms": 47230,
+    "snippet": "और टो लर्न इन द माधुरी अंदर शर्मा व सचिव",
+    "start_time_text": "0:42",
+    "start_time_label": "0:42"
+   },
+   {
+    "start_ms": 47230,
+    "end_ms": 50620,
+    "snippet": "दिख रहा है पर हमारे मुल्क रदर है मन",
+    "start_time_text": "0:47",
+    "start_time_label": "0:47"
+   },
+   {
+    "start_ms": 50620,
+    "end_ms": 53680,
+    "snippet": "डेवलपर फर्स्ट नाम तरह निकला है यह मस्सा",
+    "start_time_text": "0:50",
+    "start_time_label": "0:50"
+   },
+   {
+    "start_ms": 53680,
+    "end_ms": 57039,
+    "snippet": "वहां मंडल अनुमंडल आप आखिरकार * रूपांतरण",
+    "start_time_text": "0:53",
+    "start_time_label": "0:53"
+   },
+   {
+    "start_ms": 57039,
+    "end_ms": 60170,
+    "snippet": "है अ चलाने हर एक औपचारिक कार्यक्रम",
+    "start_time_text": "0:57",
+    "start_time_label": "0:57"
+   },
+   {
+    "start_ms": 60170,
+    "end_ms": 63949,
+    "snippet": "अड़ गए हैं इन द मंडल तटीय आंध्र प्रदेश",
+    "start_time_text": "1:00",
+    "start_time_label": "1:00"
+   },
+   {
+    "start_ms": 63949,
+    "end_ms": 68750,
+    "snippet": "विकलांग अंदर तक इंपोर्टेंट रोल कॉल अट",
+    "start_time_text": "1:03",
+    "start_time_label": "1:03"
+   },
+   {
+    "start_ms": 68750,
+    "end_ms": 72259,
+    "snippet": "अमृतसर ने वह विकलांग आदि पुरुष मृगा ने",
+    "start_time_text": "1:08",
+    "start_time_label": "1:08"
+   },
+   {
+    "start_ms": 72259,
+    "end_ms": 84310,
+    "snippet": "भीम को शीघ्र अंदर लाकर उनकी पूजा टीस्पून",
+    "start_time_text": "1:12",
+    "start_time_label": "1:12"
+   },
+   {
+    "start_ms": 84310,
+    "end_ms": 92200,
+    "snippet": "सब्सक्राइब वासनिक और टीस्पून यह पुरी",
+    "start_time_text": "1:24",
+    "start_time_label": "1:24"
+   },
+   {
+    "start_ms": 92200,
+    "end_ms": 120180,
+    "snippet": "नल्ला नल्ला नल्ला के नाम से तेज कर दो",
+    "start_time_text": "1:32",
+    "start_time_label": "1:32"
+   },
+   {
+    "start_ms": 120180,
+    "end_ms": 124200,
+    "snippet": "क्वाइट ए नंबर प्रत्यार्पण अनुमंडल उन",
+    "start_time_text": "2:00",
+    "start_time_label": "2:00"
+   },
+   {
+    "start_ms": 124200,
+    "end_ms": 155450,
+    "snippet": "जगहों पर आप मेरे चैनल को लाइक शेयर और",
+    "start_time_text": "2:04",
+    "start_time_label": "2:04"
+   },
+   {
+    "start_ms": 156530,
+    "end_ms": 176690,
+    "snippet": "सब्सक्राइब जरूर करें और मेरे चैनल को",
+    "start_time_text": "2:36",
+    "start_time_label": "2:36"
+   },
+   {
+    "start_ms": 177560,
+    "end_ms": 180160,
+    "snippet": "सबस्क्राइब नाउ",
+    "start_time_text": "2:57",
+    "start_time_label": "2:57"
+   },
+   {
+    "start_ms": 180160,
+    "end_ms": 182360,
+    "snippet": "तुम्हारी मिनिस्टर",
+    "start_time_text": "3:00",
+    "start_time_label": "3:00"
+   },
+   {
+    "start_ms": 182360,
+    "end_ms": 185630,
+    "snippet": "कि पूर्व मोड फोटो मोड चला हैं यह पर हम",
+    "start_time_text": "3:02",
+    "start_time_label": "3:02"
+   },
+   {
+    "start_ms": 185630,
+    "end_ms": 189590,
+    "snippet": "ऑप्शन मणिपाल है पार्टी हवन अल्लापुर",
+    "start_time_text": "3:05",
+    "start_time_label": "3:05"
+   },
+   {
+    "start_ms": 189590,
+    "end_ms": 193370,
+    "snippet": "अच्छे अगर कब्ज मेरी बहना महाविद्यालय की",
+    "start_time_text": "3:09",
+    "start_time_label": "3:09"
+   },
+   {
+    "start_ms": 193370,
+    "end_ms": 212740,
+    "snippet": "टीम ने आंध्र और नल्ला नल्ला नल्ला नल्ला",
+    "start_time_text": "3:13",
+    "start_time_label": "3:13"
+   },
+   {
+    "start_ms": 213459,
+    "end_ms": 238080,
+    "snippet": "नाल ला ला ला ला ला ला ला ला",
+    "start_time_text": "3:33",
+    "start_time_label": "3:33"
+   },
+   {
+    "start_ms": 238080,
+    "end_ms": 240720,
+    "snippet": "के अंदर डिजाइनर पॉलिथीन पेपर में बच्चे",
+    "start_time_text": "3:58",
+    "start_time_label": "3:58"
+   },
+   {
+    "start_ms": 240720,
+    "end_ms": 243090,
+    "snippet": "इन हमारी आंखों के में गिरावट से पूर्व",
+    "start_time_text": "4:00",
+    "start_time_label": "4:00"
+   },
+   {
+    "start_ms": 243090,
+    "end_ms": 245700,
+    "snippet": "आग्नेय ना रूलर नमक डाला बच्चे और चिन्ह",
+    "start_time_text": "4:03",
+    "start_time_label": "4:03"
+   },
+   {
+    "start_ms": 245700,
+    "end_ms": 248970,
+    "snippet": "वॉटर पोर्टल है नमक चाहिए लाइटर तनवीर",
+    "start_time_text": "4:05",
+    "start_time_label": "4:05"
+   },
+   {
+    "start_ms": 248970,
+    "end_ms": 253640,
+    "snippet": "नाचते और आप रहता है लव इन द मैरिड थे",
+    "start_time_text": "4:08",
+    "start_time_label": "4:08"
+   },
+   {
+    "start_ms": 253640,
+    "end_ms": 256670,
+    "snippet": "वरना यह रिपोर्ट अलार्म है",
+    "start_time_text": "4:13",
+    "start_time_label": "4:13"
+   },
+   {
+    "start_ms": 256670,
+    "end_ms": 261410,
+    "snippet": "से कंधा मिलाकर संपन्न वह रणबीर व समुद्री",
+    "start_time_text": "4:16",
+    "start_time_label": "4:16"
+   },
+   {
+    "start_ms": 261410,
+    "end_ms": 262900,
+    "snippet": "मार्ग ने",
+    "start_time_text": "4:21",
+    "start_time_label": "4:21"
+   },
+   {
+    "start_ms": 262900,
+    "end_ms": 265300,
+    "snippet": "थे पीपल यू नो प्रॉब्लम है यह फोन नहीं",
+    "start_time_text": "4:22",
+    "start_time_label": "4:22"
+   },
+   {
+    "start_ms": 265300,
+    "end_ms": 269650,
+    "snippet": "पड़ता है फटी हमारी उन रिपोटरें हैं कि",
+    "start_time_text": "4:25",
+    "start_time_label": "4:25"
+   },
+   {
+    "start_ms": 269650,
+    "end_ms": 273370,
+    "snippet": "हमारे अगर संबोधित नामवर यह मृत पॉलिथीन",
+    "start_time_text": "4:29",
+    "start_time_label": "4:29"
+   },
+   {
+    "start_ms": 273370,
+    "end_ms": 277419,
+    "snippet": "पर लिटर पाण्यामध्ए नमक यौवन अपॉइंटेड",
+    "start_time_text": "4:33",
+    "start_time_label": "4:33"
+   },
+   {
+    "start_ms": 277419,
+    "end_ms": 279580,
+    "snippet": "तलाश है",
+    "start_time_text": "4:37",
+    "start_time_label": "4:37"
+   },
+   {
+    "start_ms": 279580,
+    "end_ms": 281650,
+    "snippet": "कि यह पर नंबर को गुड़िया अलार्म",
+    "start_time_text": "4:39",
+    "start_time_label": "4:39"
+   },
+   {
+    "start_ms": 281650,
+    "end_ms": 284650,
+    "snippet": "बाहुबलियों व समय इन हमारी फोटो कोटिड तक",
+    "start_time_text": "4:41",
+    "start_time_label": "4:41"
+   },
+   {
+    "start_ms": 284650,
+    "end_ms": 286700,
+    "snippet": "लाना है",
+    "start_time_text": "4:44",
+    "start_time_label": "4:44"
+   },
+   {
+    "start_ms": 286700,
+    "end_ms": 289480,
+    "snippet": "कर दो",
+    "start_time_text": "4:46",
+    "start_time_label": "4:46"
+   },
+   {
+    "start_ms": 289480,
+    "end_ms": 295150,
+    "snippet": "कि होगी फ्रेंड्स बेनिफिट डायल आदर्श",
+    "start_time_text": "4:49",
+    "start_time_label": "4:49"
+   },
+   {
+    "start_ms": 295150,
+    "end_ms": 298710,
+    "snippet": "कुमार त्यौहार है",
+    "start_time_text": "4:55",
+    "start_time_label": "4:55"
+   },
+   {
+    "start_ms": 299650,
+    "end_ms": 302470,
+    "snippet": "कि यह तरह इधर-उधर और उस पर आज सुबह आना",
+    "start_time_text": "4:59",
+    "start_time_label": "4:59"
+   },
+   {
+    "start_ms": 302470,
+    "end_ms": 305889,
+    "snippet": "पारंपरिक मिक्स कर व हरियाणा आधार स्तंभ",
+    "start_time_text": "5:02",
+    "start_time_label": "5:02"
+   },
+   {
+    "start_ms": 305889,
+    "end_ms": 309789,
+    "snippet": "लिए सिंपल आता है पंडाल है फ्रेंड्स हिंदी",
+    "start_time_text": "5:05",
+    "start_time_label": "5:05"
+   },
+   {
+    "start_ms": 309789,
+    "end_ms": 313680,
+    "snippet": "वीडियो न्यू पासवर्ड ट्वीट प्राणी प्राणी",
+    "start_time_text": "5:09",
+    "start_time_label": "5:09"
+   },
+   {
+    "start_ms": 313680,
+    "end_ms": 318669,
+    "snippet": "राधे-राधे फैंस ने कमाल 16 हिंदी वीडियो",
+    "start_time_text": "5:13",
+    "start_time_label": "5:13"
+   },
+   {
+    "start_ms": 318669,
+    "end_ms": 324120,
+    "snippet": "पुजवा छिनार और लाइक फ्रेंड को शेयर करें",
+    "start_time_text": "5:18",
+    "start_time_label": "5:18"
+   },
+   {
+    "start_ms": 324120,
+    "end_ms": 335220,
+    "snippet": "चैनल सब्सक्राइब करें वीडियो को",
+    "start_time_text": "5:24",
+    "start_time_label": "5:24"
+   }
+  ],
+  "available_transcripts": [
+   {
+    "language_code": "hi",
+    "type": "asr",
+    "selected": true,
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=hi&type=asr&v=w385Avu1Dsw"
+   }
+  ]
+ }
+}

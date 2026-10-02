@@ -1,0 +1,31 @@
+{
+ "engine": "google_maps_reviews",
+ "params": {
+  "data_id": "0x3bc2c202c3b387ad:0xf7e85da34324b872",
+  "hl": "en",
+  "sort_by": "qualityScore",
+  "query": "anarsa"
+ },
+ "recordedAt": "2026-10-02T19:06:34.297Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac000b93ee5df44923ddbe0",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/2XTuwVv5p-4o6x_KQXaWYCiVXwzzsuKy2xHvO5bnMFg/6ac000b93ee5df44923ddbe0.md",
+   "created_at": "2026-10-02 19:06:33 UTC",
+   "processed_at": "2026-10-02 19:06:33 UTC",
+   "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bc2c202c3b387ad:0xf7e85da34324b872!5m2!4m1!1i2!9m1!1b1?hl=en",
+   "total_time_taken": 0.42
+  },
+  "search_parameters": {
+   "engine": "google_maps_reviews",
+   "data_id": "0x3bc2c202c3b387ad:0xf7e85da34324b872",
+   "hl": "en",
+   "sort_by": "qualityScore",
+   "query": "anarsa"
+  },
+  "search_information": {
+   "reviews_results_state": "No reviews"
+  }
+ }
+}

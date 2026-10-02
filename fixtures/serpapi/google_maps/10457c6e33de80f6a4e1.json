@@ -1,0 +1,942 @@
+{
+ "engine": "google_maps",
+ "params": {
+  "type": "search",
+  "q": "anarsa sweets",
+  "ll": "@18.5204,73.8567,13z",
+  "hl": "en"
+ },
+ "recordedAt": "2026-10-02T19:06:33.569Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac000b8f479a3e68fdd4785",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/WIvlV9B3KlQc-x_Ra1UGisqIZjDnCz8rvjJ1HPTVf1U/6ac000b8f479a3e68fdd4785.md",
+   "created_at": "2026-10-02 19:06:32 UTC",
+   "processed_at": "2026-10-02 19:06:32 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/anarsa+sweets/@18.5204,73.8567,13z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+   "total_time_taken": 0.72
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "anarsa sweets",
+   "ll": "@18.5204,73.8567,13z",
+   "google_domain": "google.com",
+   "hl": "en"
+  },
+  "search_information": {
+   "local_results_state": "Results for exact spelling",
+   "query_displayed": "anarsa sweets"
+  },
+  "local_results": [
+   {
+    "position": 1,
+    "title": "Agrawal Sweets",
+    "place_id": "ChIJrYezwwLCwjsRcrgkQ6Nd6Pc",
+    "data_id": "0x3bc2c202c3b387ad:0xf7e85da34324b872",
+    "data_cid": "17863630877752604786",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c202c3b387ad%3A0xf7e85da34324b872&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c202c3b387ad%3A0xf7e85da34324b872&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 18.501193699999998,
+     "longitude": 73.93793459999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrYezwwLCwjsRcrgkQ6Nd6Pc",
+    "provider_id": "/g/124spwsv5",
+    "rating": 4.1,
+    "reviews": 1399,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop",
+     "Candy store",
+     "Dessert shop"
+    ],
+    "address": "Sr No.263, Pune - Solapur Rd, Gadital, Hadapsar, Pune, Maharashtra 411028, India",
+    "country": "India",
+    "open_state": "Closed · Opens 7:30 AM",
+    "hours": "Closed · Opens 7:30 AM",
+    "operating_hours": {
+     "saturday": "7:30 AM–10 PM",
+     "sunday": "7:30 AM–10 PM",
+     "monday": "7:30 AM–10 PM",
+     "tuesday": "7:30 AM–10 PM",
+     "wednesday": "7:30 AM–10 PM",
+     "thursday": "7:30 AM–10 PM",
+     "friday": "7:30 AM–10 PM"
+    },
+    "phone": "+91 20 2699 6040",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW3JMFZFGqU3tl3z4KPXX1LBKjtDfBySxcgHd-Xk9Fl62VlkPu-ymU4J4Ow2_K0q7xkCTG_-RNG4vBHZu_TaTicCkHkmLhO1sgzMCAXWledgWZUGJ5AqKi053bzwPVGGIdBIGew89NZrkisPNFQYimufYXrSDqEJcmRAtS3SrAphgtEgoWs_4Bhk=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/DEOgI3icHcTbckNAAADQLxJkpWk60wck1iVEgxAvJl2ydLHYVZc_7a_0qTM9D-fnt-S8Y2-iWJdggynFdTGyYkC05UXLN4g2Ih4ejAndQOdFVC13j2Ngu0ZqwD4CvAar4vhJIp8154sfn9oSzAibuZCQg1G_bG818UdhaSLFVi7TNnOkfj8TPYSZcPWg8q2Z6ZiFj7BCOjFJcy4vMsOrq6tJXBc5jtMI2ju1dyppBz7Xyb9BaOWaBYvp9eClA6mY7xkf96oZn_dkCI79yUbNVeUBCAa1KzE_YRqzTNFK8j7JkiQJ5f9IaP8AOUFWcQ"
+   },
+   {
+    "position": 2,
+    "title": "Parijat Sweets",
+    "place_id": "ChIJXaUPbIfHwjsR_AeCFROR_c8",
+    "data_id": "0x3bc2c7876c0fa55d:0xcffd9113158207fc",
+    "data_cid": "14987294646110128124",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c7876c0fa55d%3A0xcffd9113158207fc&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c7876c0fa55d%3A0xcffd9113158207fc&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 18.5968445,
+     "longitude": 73.89703039999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXaUPbIfHwjsR_AeCFROR_c8",
+    "provider_id": "/g/11ghr9x7wp",
+    "rating": 4.1,
+    "reviews": 1373,
+    "unclaimed_listing": true,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "HVWW+PRJ, Siddartha Nagar, Dhanori, Pune, Maharashtra 411015, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–10 PM",
+     "sunday": "8 AM–10 PM",
+     "monday": "8 AM–10 PM",
+     "tuesday": "8 AM–10 PM",
+     "wednesday": "8 AM–10 PM",
+     "thursday": "8 AM–10 PM",
+     "friday": "8 AM–10 PM"
+    },
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW1L5zEqmdbG9sgl8mKgbOMlPhISjd3RsIQBI2szsXVNkOmVuHBDwcURs07GGqlbFat1H64kGqKVMgiPvbw6MJhRQ8UZi1VNpSVzlIe0ihqWds5APUa_oIjqa2JSenue9WEEBVMGVGTfRCWivVbMn9ZTzp4MojTxXSnEno1WajGcbPmi0T78Kidl=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/MBS5J3icHcRLcoIwAADQEyHgD-hMF9LSGGkU-QTHTYdfk2BIgIAoN-1VuupM3-L9_NJhaNWLrnO6WhApCa9GVfWFFEMlhkUhG530mVJa28vHU99BZJHU_NzMXteUOXAU4Xbjk_yEeEBhVJerUMGzC5dqVhd8vJ0aPO7d96lIQmVYAHQ8_8gGc79d30DnY0RYcM-nLTrQ8GwnV2biYxvhmcPKYLRLS7XZBUn2JWHdZctDVImxclLPczECGMTf4VvK7jhHwrnGc7tGso4fl0h4QpppVoMiDxpmxJbts5K_TqZhGBr9v9DEHxaCV5Q"
+   },
+   {
+    "position": 3,
+    "title": "Purohit Sweets",
+    "place_id": "ChIJHfwh3XvBwjsRLyMqo_vDAQQ",
+    "data_id": "0x3bc2c17bdd21fc1d:0x401c3fba32a232f",
+    "data_cid": "288727336670077743",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c17bdd21fc1d%3A0x401c3fba32a232f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c17bdd21fc1d%3A0x401c3fba32a232f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 18.5131904,
+     "longitude": 73.8602689
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHfwh3XvBwjsRLyMqo_vDAQQ",
+    "provider_id": "/g/11kkw_dd1y",
+    "rating": 4.3,
+    "reviews": 831,
+    "unclaimed_listing": true,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "GV76+74C, Kapad Ganj, Rameshwar Chouk, Shukrawar Peth, Pune, Maharashtra 411002, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–9 PM",
+     "sunday": "8 AM–9 PM",
+     "monday": "8 AM–9 PM",
+     "tuesday": "8 AM–9 PM",
+     "wednesday": "8 AM–9 PM",
+     "thursday": "8 AM–9 PM",
+     "friday": "8 AM–9 PM"
+    },
+    "phone": "+91 20 2447 2398",
+    "website": "http://www.purohitsweetspune.com/",
+    "description": "Time-tested shop with snacks & desserts. Traditional desserts are offered along with sweet & savoury snacks at this long-running shop.",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW153AafuYBrxIQqFOqzYukUhsXRyC0lYiFbBaqse_0SU_yAJ2zuPItKB_R7U2x9ykfI82w5JUEO4cV31122vteLyCmGACjHlkiAXy5oq5DenQUh3iE0fcK2bDHPifq4kI9kiRIH8oG4OA0DdAFatKdA1XqOZkvKtgSI6iMABkn2cGZ5XfZXvwyA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/AyfxQ3icHcTNboIwAADgJ0JKgalLdiggUJlBMWzAhWDlb0UqtID1TX2VnZbsO3yv30aIO39X1a7RVzVjdVdOvBwJ60XZixVhN7UeC86V-8geUkX4sK6_NVNHRTWl1vjAp8ENh2c60bjhSSRt0KWte7GKgZc5OMe5RHv4nI5YBFYerWP42Epa4Q1czH28Cw3ypWsahLMoP6V985D943e0RYk02WA6ZX-KG73dgYoE8OL4x7YaDIq3tI2wv2GeESLgXJFbiOCKtGQIMzoHoj7jt_aALNpD4mVmUmXJvEj0sWgAAKX5nyj9H5E3Vdo"
+   },
+   {
+    "position": 4,
+    "title": "Ful Pari Sweet Mall",
+    "place_id": "ChIJmybVHl2VwjsRcphpHbPZ4l4",
+    "data_id": "0x3bc2955d1ed5269b:0x5ee2d9b31d699872",
+    "data_cid": "6837266547617667186",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2955d1ed5269b%3A0x5ee2d9b31d699872&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2955d1ed5269b%3A0x5ee2d9b31d699872&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 18.4707252,
+     "longitude": 73.8208468
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmybVHl2VwjsRcphpHbPZ4l4",
+    "provider_id": "/g/11d_2773vs",
+    "rating": 4,
+    "reviews": 981,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "391, Narveer Tanaji Malusare Rd, Uma Housing Society, Niranjan Park, Anand Nagar, Pune, Maharashtra 411051, India",
+    "country": "India",
+    "open_state": "Closed · Opens 7:30 AM",
+    "hours": "Closed · Opens 7:30 AM",
+    "operating_hours": {
+     "saturday": "7:30 AM–10 PM",
+     "sunday": "7:30 AM–10 PM",
+     "monday": "7:30 AM–10 PM",
+     "tuesday": "7:30 AM–10 PM",
+     "wednesday": "7:30 AM–10 PM",
+     "thursday": "7:30 AM–10 PM",
+     "friday": "7:30 AM–10 PM"
+    },
+    "thumbnail": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW0QP0cpwH5x4iDAqDXuibbXGrJgqrIT26JjHrbH8sM4upQ13mtfKQv6pxwRGbRPvUTrzjl4mrlQeUSa4j7HBFarg7PWFB-5wJlR32smODoLwNmrKer9zEpPm_hQSzUpfdKycKChs4VCaHvqXAGG6Ej8rTuzZXRhmS4ZQUYoxww2Yncf5T5fMJdjfg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/4sWuc3icHcRLcoIwAADQEyHI13amCxQFobSET0U3HYgQZAgJCRDkpr1LF53pW7yf32YcKX-V5a7RNogQ1FUTrxgk_Vj14wYSLCNWcC5RRpanbJ9DC10UECmQCs9Y9IdjD04-Pcoyd5mPBnZOVdNvPVZ6Ox7qEwVbDY91AGaTLiJ2yzias5Stbadj1oEqSwq9tbz9qWDIii6nvWQIv4s1leNPh7yLD8yCir2sRxrh7wYka0bre_CEwaHh-teh8OYht13XPLY7lk7rLY8bnOg3kF3JIoR67WFtpEYd-ve2Rm9iqyiK1PwPpf4P_BdZEA"
+   },
+   {
+    "position": 5,
+    "title": "Parijat Mithai",
+    "place_id": "ChIJ1Ur9PUfBwjsR27B6fXDFryw",
+    "data_id": "0x3bc2c1473dfd4ad5:0x2cafc5707d7ab0db",
+    "data_cid": "3220009345525395675",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c1473dfd4ad5%3A0x2cafc5707d7ab0db&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c1473dfd4ad5%3A0x2cafc5707d7ab0db&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 18.5651074,
+     "longitude": 73.9143235
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1Ur9PUfBwjsR27B6fXDFryw",
+    "provider_id": "/g/124yjnvlv",
+    "rating": 4.1,
+    "reviews": 648,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop",
+     "Candy store"
+    ],
+    "address": "Clover Park, Viman Nagar, Pune, Maharashtra 411014, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–10 PM",
+     "sunday": "8 AM–10 PM",
+     "monday": "8 AM–10 PM",
+     "tuesday": "8 AM–10 PM",
+     "wednesday": "8 AM–10 PM",
+     "thursday": "8 AM–10 PM",
+     "friday": "8 AM–10 PM"
+    },
+    "phone": "+91 84216 81962",
+    "website": "https://www.parijatmithai.com/",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPLiUdOv9AH5lE7pfnZGpWTHc0umncPDqeXRVD7MPNqzAloQerXA1bJVcIdl2Hil8omVvGzD-2uf8ZoT4PJMwMDYPfv_CSJiDC6LhH5Y2eu1CigSbryIcPOqkccnf35iixwYkHB=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/EWAFWnicHcRJDoIwFADQEzEqTokLpMZKROuE4sbot0BjaYEyKBf0DN7GxLd4309aVbmaGAZPe3oiZcJprWgJUlRUVDrIzEjKm1IaKMP1mpxnZMWOj00zdrHD58M8FpdFfjpgMOtMAEEFPe9CNAzIuuhcLre0PLvW3Q9h-eA2Znwks7BZdEiz63h0kYc-8YM2QBGJm6u39xnyBqsUO5FNa8tjyf5evpdANsUTQMQ9h7FXGz3xbNpapmlq6X_QxA_UTEW4"
+   },
+   {
+    "position": 6,
+    "title": "Anarse Samosewale",
+    "place_id": "ChIJJW_2mnbAwjsRZDDC3HlWKBU",
+    "data_id": "0x3bc2c0769af66f25:0x15285679dcc23064",
+    "data_cid": "1524563555259658340",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c0769af66f25%3A0x15285679dcc23064&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c0769af66f25%3A0x15285679dcc23064&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 18.512423899999998,
+     "longitude": 73.85122849999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJW_2mnbAwjsRZDDC3HlWKBU",
+    "provider_id": "/g/1tfw1h3z",
+    "rating": 3.8,
+    "reviews": 2082,
+    "type": "Fast food restaurant",
+    "types": [
+     "Fast food restaurant"
+    ],
+    "address": "Kalyani Heights, opp. Jain Mandir, Nagnath Par, Sadashiv Peth, Pune, Maharashtra 411030, India",
+    "country": "India",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+     "saturday": "9 AM–8:30 PM",
+     "sunday": "9 AM–8:30 PM",
+     "monday": "9 AM–8:30 PM",
+     "tuesday": "9 AM–8:30 PM",
+     "wednesday": "9 AM–8:30 PM",
+     "thursday": "9 AM–8:30 PM",
+     "friday": "9 AM–8:30 PM"
+    },
+    "phone": "+91 93094 55059",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot",
+       "Wheelchair accessible restroom",
+       "Wheelchair accessible seating"
+      ]
+     }
+    ],
+    "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiUKI-ICIDIeEhciFdLX29IPDwoLL2cvMXRmdzFoM3oYAToDCPAN&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=uADAat_6LaO20PEP8cWPkA0&ei=uADAat_6LaO20PEP8cWPkA0&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPgFyZoFJQBKqCiQdeLEiVNiHffjD86v231Dk4EigMGD-EPXAh1Sz0Jx7ctFT4_hhiEOTgsHXkadHyBloy3BZmCkpobM50ZWTruYc5CkG9HMlSQ4LG6WXFQeRrOs66mu_-92Z2Zfg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/KzGUV3icHcRLjoIwAADQE1XKR2Y0cSH_OKKiRLEbo7W0HQpFWlS8oUfwNpPMW7zPm2ndqqlhCGaPqJRUkF6RDstGk0aPsKwN2p2VAlgZc__einpDowHJaJF5PzefZ1eyDPl-xZOy_A2-3btlm0HlhJymcQDCTTFn5u4FF88vrKPcOTHGw3VOVVJU52syeEIOtodqv2rlJR1DdMi7_ojHfhVPklTsMmcZu4ciysi2WyvXrfsTmFjIQiWdPUwIIWD_Y9D8AfYwRLs"
+   },
+   {
+    "position": 7,
+    "title": "Mithas Sweets - Aundh",
+    "place_id": "ChIJLzBkfju_wjsRzYxuyvxig5Y",
+    "data_id": "0x3bc2bf3b7e64302f:0x968362fcca6e8ccd",
+    "data_cid": "10845621165505809613",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2bf3b7e64302f%3A0x968362fcca6e8ccd&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2bf3b7e64302f%3A0x968362fcca6e8ccd&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 18.554641699999998,
+     "longitude": 73.8092267
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLzBkfju_wjsRzYxuyvxig5Y",
+    "provider_id": "/g/1tdkq7ds",
+    "rating": 4.3,
+    "reviews": 3126,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop",
+     "Candy store",
+     "Chocolate shop",
+     "Dairy store",
+     "Dessert shop",
+     "Dry fruit store",
+     "Fast food restaurant"
+    ],
+    "address": "Shop No. 5, Shree, ITI Rd, Sanewadi, Aundh, Pune, Maharashtra 411067, India",
+    "country": "India",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+     "saturday": "9 AM–9:30 PM",
+     "sunday": "9 AM–9:30 PM",
+     "monday": "9 AM–9:30 PM",
+     "tuesday": "9 AM–9:30 PM",
+     "wednesday": "9 AM–9:30 PM",
+     "thursday": "9 AM–9:30 PM",
+     "friday": "9 AM–9:30 PM"
+    },
+    "phone": "+91 20 2588 8456",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW0QYa_y6gPC5pum1JWBqr5hvwIS2k4naoBUXlJW9HtYBLE_ooqs1wC3rVRFYnJO_KIVf2EQunL6NRBwYeIQk8fHibYiisuI07o0iBbJBgw3Yy6JLKQu3bMLLQPdoPkeb1t66bIeQdiJN-zVlCmOto0WziMLgTa01X-nTYvyblYsnR2KjcONPnkH=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/boEjTXicHcTNToMwAADgJ2IUcExNPAiZoVB-uk1YT4SyriDQMlqG7E19FU8mfofv57fRelSvptk3zoZLyXs2KzbVUmgm9KaWg8mnSiljnOT3ar7DeMcLgElVri7P_O04D1ZYeLdp29wXeLS7J1FJ7_Pch8VLoImH9qWUN2UtvjPlhw8iwrSMYH6193gWyE0O3kIYxN3zNWgpaVs1Q7CToPVo6PHFIasbogjPDo0RwtlFZh2jlnZdChm-tGFiPPLeH1ItQfFoY8RPFbDOhjiR-0p7osTBjr7qNMlEF7wtFgDAaP6vDfEHxNpW8A"
+   },
+   {
+    "position": 8,
+    "title": "Rucirum Diwali Faral sweets and modak",
+    "place_id": "ChIJEeiPFlCVwjsRXQYSMTbkAZs",
+    "data_id": "0x3bc29550168fe811:0x9b01e4363112065d",
+    "data_cid": "11169459472258172509",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc29550168fe811%3A0x9b01e4363112065d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bc29550168fe811%3A0x9b01e4363112065d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 18.4687332,
+     "longitude": 73.8283768
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEeiPFlCVwjsRXQYSMTbkAZs",
+    "provider_id": "/g/11ynwtn53m",
+    "rating": 5,
+    "reviews": 23,
+    "type": "Food manufacturer",
+    "types": [
+     "Food manufacturer"
+    ],
+    "address": "Lane no. 1, Parnakuti 41/B, Sinhgad Rd, Jadhav Nagar, Vadgaon Budruk, Pune, Maharashtra 411041, India",
+    "country": "India",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+     "saturday": "9 AM–11 PM",
+     "sunday": "9 AM–11 PM",
+     "monday": "9 AM–11 PM",
+     "tuesday": "9 AM–11 PM",
+     "wednesday": "9 AM–11 PM",
+     "thursday": "9 AM–11 PM",
+     "friday": "9 AM–11 PM"
+    },
+    "phone": "+91 87677 57092",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMOdH-rivFSJviWy0ZavThFz5I0JE-j1Qw2Kgk2P32Q5Az_7gwH4x4p01ZAY4o0RQHhlMjjw131hgzJhhn4KTSj6GFRaDiYgs5SRSFGWSlbegmIiefKt2BJKz7I81vTuszGckNK4BSVlvg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/DoM8qnicHcTNboMgAADgJ6KC4tos2cFu8490m2LWtJfFMQpaFCMUNx5y975Nk36H7_ovrZ3MYxAoGa2E1kLxi-Ez06Plo10xPQRibo0BzATJs5vUsHv_ycHcuZSWrtv_wWPrGpn6uIDlK-hRtYREnMOPKKzixH-txZLjXzxBdEwOWMO6yqXa9f2CIiSFL6UcMWlo_5CldfvSHYSJaU3TbE_VNxdD0fETseG2JH5dbJBrLsZn7PxG8JZ-KieeFgQhBPI-A-MNPshGqw"
+   },
+   {
+    "position": 9,
+    "title": "Kaka Halwai Sweets and Namkeen",
+    "place_id": "ChIJJReJ_i-_wjsR0RfGF10uuq0",
+    "data_id": "0x3bc2bf2ffe891725:0xadba2e5d17c617d1",
+    "data_cid": "12518369091595409361",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2bf2ffe891725%3A0xadba2e5d17c617d1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2bf2ffe891725%3A0xadba2e5d17c617d1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 18.560277799999998,
+     "longitude": 73.8063889
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJReJ_i-_wjsR0RfGF10uuq0",
+    "provider_id": "/g/11r91glqc",
+    "rating": 4.1,
+    "reviews": 3302,
+    "type": "Candy store",
+    "types": [
+     "Candy store",
+     "Sweets and dessert buffet"
+    ],
+    "address": "Shop No A, Abja Pavillion, Raagdari Society, Aundh, Pune, Maharashtra 411067, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8:30 AM",
+    "hours": "Closed · Opens 8:30 AM",
+    "operating_hours": {
+     "saturday": "8:30 AM–9 PM",
+     "sunday": "8:30 AM–9 PM",
+     "monday": "8:30 AM–9 PM",
+     "tuesday": "8:30 AM–9 PM",
+     "wednesday": "8:30 AM–9 PM",
+     "thursday": "8:30 AM–9 PM",
+     "friday": "8:30 AM–9 PM"
+    },
+    "phone": "+91 20 4009 8393",
+    "website": "http://www.kakahalwai.co.in/",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW1bx6XWPcsTK-wH_x4Of6Uf31uFLhsGwLo83qnRRmcT_mip5gvO9-o86QqNSYZlo64brRelokV3n0ENZaAKnxRAw-3NgrNGQUQb7w5DnoFNq3Sdgc71L1FYwm1B9dSfFsXYCNzqK4FC-G5-6iHeqSj33jZtVgXj8mQhHk6X3eUTuM1ziwSuNvEQSg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/5GXgj3icHcRLcoIwAADQE0XIhJ-d6YJagQ4Yy0-BjSMIAYQECBj0pr1LF53pW7yf33qeB_4mSV2NNoQx0pULL6eC0bmk86ZgvUSmK-dgmNj6lMyvg07OMF-15Pxd8MgFwrmsyrHS4grBxfJqbguPGWikQdAX0aVvBpU8jlvADM0fcZhmHdOUfArKjt1PiMp7nF1Nl66BKQDCZMK2H_u5LtRPyiw8ovBGCh160EpFDz-2t7CyeJLu8Gt0FWsHbBVojVOOYYtQm80nkrRG79fOXUtQGUfLAb4aES74sfdD8i6gLMug_r8A9A8bElZ5"
+   },
+   {
+    "position": 10,
+    "title": "Parijat Mithai",
+    "place_id": "ChIJpXJN1tPHwjsRBz5U4Flcf2Q",
+    "data_id": "0x3bc2c7d3d64d72a5:0x647f5c59e0543e07",
+    "data_cid": "7241608266920508935",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c7d3d64d72a5%3A0x647f5c59e0543e07&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c7d3d64d72a5%3A0x647f5c59e0543e07&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 18.5969166,
+     "longitude": 73.8990633
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpXJN1tPHwjsRBz5U4Flcf2Q",
+    "provider_id": "/g/11yxgcwk78",
+    "rating": 3,
+    "reviews": 6,
+    "type": "Candy store",
+    "types": [
+     "Candy store",
+     "Dessert shop"
+    ],
+    "address": "Shop No 1, City Center, Triaa Vasantam, Lohegaon Rd, near Croma store, Siddartha Nagar, Dhanori, Pune, Maharashtra 411015, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8:30 AM",
+    "hours": "Closed · Opens 8:30 AM",
+    "operating_hours": {
+     "saturday": "8:30 AM–10:30 PM",
+     "sunday": "8:30 AM–10:30 PM",
+     "monday": "8:30 AM–10:30 PM",
+     "tuesday": "8:30 AM–10:30 PM",
+     "wednesday": "8:30 AM–10:30 PM",
+     "thursday": "8:30 AM–10:30 PM",
+     "friday": "8:30 AM–10:30 PM"
+    },
+    "phone": "+91 82619 24377",
+    "website": "https://www.parijatmithai.com/",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW0JIyeJcLFERb9ZXEUqVPNw_ImS45kPBP8CZfQBnI8oLlT1GVGFBKo84LhSTxiiz1ULzc05P-qXpewINmDrCdv4t3dzlQW7xT0TSx8CqE79arVwXhGGad4rD_YicdA6ILjUOrCd82WPhSLKGym6q7lwHLPGhS3I6eo3ChaEGnqOwltLDIpcyOs4=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/c3nzGnicHctLUoMwAADQE1FAKFBnXJRPY9pYqHztpoMhEjQQPtEAN_UqrnTcvN37_qFC9NO9qjJqbGrOa0Y-JzJi3gnSiQ3mrVqP5TQp_cjnRd3DJ7vOtSNcyBGjQ_D8ursWQTpk0VneYBub24_IjRzv-nZxO-hwxBIdZODgnrhjIhonc9OseopWrG0jZSh6IuG59Uev-jKFUa3skttzoiXx7HhDYO_KMZMFBaCszNG_vTS42lsQvafh33Du8ojG6ASW1hpsJh9RBGhsQItww6NlALohlEwgH_Z4CSfzQeqapin0X6x0vxiaVbY"
+   },
+   {
+    "position": 11,
+    "title": "Mithai World",
+    "place_id": "ChIJcVd5QpLBwjsRO54jOsavnw8",
+    "data_id": "0x3bc2c19242795771:0xf9fafc63a239e3b",
+    "data_cid": "1125811697779711547",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c19242795771%3A0xf9fafc63a239e3b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c19242795771%3A0xf9fafc63a239e3b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 18.5676421,
+     "longitude": 73.91422659999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcVd5QpLBwjsRO54jOsavnw8",
+    "provider_id": "/g/11h1z2yd28",
+    "rating": 4.1,
+    "reviews": 195,
+    "type": "Sweets and dessert buffet",
+    "types": [
+     "Sweets and dessert buffet"
+    ],
+    "address": "Shop no. 04, Roshma Residency, Central Line, near HDFC Bank, Konark Nagar, Clover Park, Viman Nagar, Pune, Maharashtra 411014, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8:30 AM",
+    "hours": "Closed · Opens 8:30 AM",
+    "operating_hours": {
+     "saturday": "8:30 AM–10:30 PM",
+     "sunday": "8:30 AM–10:30 PM",
+     "monday": "8:30 AM–10:30 PM",
+     "tuesday": "8:30 AM–10:30 PM",
+     "wednesday": "8:30 AM–10:30 PM",
+     "thursday": "8:30 AM–10:30 PM",
+     "friday": "8:30 AM–10:30 PM"
+    },
+    "phone": "+91 98581 06106",
+    "website": "https://www.mithaipune.com/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFoMXoyeWQyOBgBOgMI8A0%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=uADAat_6LaO20PEP8cWPkA0&ei=uADAat_6LaO20PEP8cWPkA0&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW1L8wZ7oq413GK0TX7GfrYviWvgmdtrxAoEG5yPS3o04U0-XiED_RmgOu8zBokTvIAdVqNti8HBZWoOWGPp-JFcOdKpUf1N3RzFhNER4-2t9hgCJ_dNy1MheAhLHx5BUC3mQda0H-54I8Tvs_JVXO9g7X8kFuU-aSRxfSsDe1PkUfJ7EiKMDSnl_w=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/uN8RrXicHcRJboMwAADAFzmYAoJU6gHCTljKEmguCLHYiMUEDIH8NH_poVLnMO9fTOm0fDJMj7kTIgT19brUc0lGWo_0VJKBQXOxLGCayX4wsuWKKGWv0vMukgfPcoYD40w0mvlna9MNDRWdd5lohnAEEUcgn0CQtZqahwPyV-mlkC7eLLm6PTzaSqZyT4mfGsEEbL30K2dKGtbjwpeOPS3kwQc9Y3Sx88o7WBfXMr6au6AkF274rgpoAoG3pHhbcvuW-WckZlKnrwkoonBvokWt2aBLGlvUWsdVo7HPn19PFkII8P8lGP8Ap-NVag"
+   },
+   {
+    "position": 12,
+    "title": "Kaka Halwai sweets",
+    "place_id": "ChIJpxm05DjBwjsRqtgvFox8rK8",
+    "data_id": "0x3bc2c138e4b419a7:0xafac7c8c162fd8aa",
+    "data_cid": "12658629593741121706",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c138e4b419a7%3A0xafac7c8c162fd8aa&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c138e4b419a7%3A0xafac7c8c162fd8aa&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 18.519404599999998,
+     "longitude": 73.8657542
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpxm05DjBwjsRqtgvFox8rK8",
+    "provider_id": "/g/11hzsv6fcj",
+    "rating": 4.1,
+    "reviews": 737,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "Mudaliar Rd, Rasta Peth, Pune, Maharashtra 411002, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–10 PM",
+     "sunday": "8 AM–10 PM",
+     "monday": "8 AM–10 PM",
+     "tuesday": "8 AM–10 PM",
+     "wednesday": "8 AM–10 PM",
+     "thursday": "8 AM–10 PM",
+     "friday": "8 AM–10 PM"
+    },
+    "phone": "+91 20 2606 1860",
+    "website": "https://www.kakahalwaisweets.com/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible parking lot",
+       "Wheelchair accessible seating"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible restroom"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW3QHhwVwPsOoXTcbk0OIadNG3xKXjnK8XISyVGEwP11JX5xb96kwof3C3MTMi7SMXa0_mzgta8nMkoXirSfTzHul5A3tihw2_7rXpRFYe4Cgqt3tQy80n2B_9WjS9n3pPecDyOIpeJMhESVQXQiEC-iijHCS-7WJbNovcfu2UxLsglqX0oVjAls=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/mg6NO3icHcTddkMwAADgJ1Ih67BzdmFmRaeqjOzKwSLx00Qlhr7pXmVXO2ffxffzS6UcxZOqDhTuCOdkwLPAU82ZxEzuan5VyVQKoYwTXzfV9kOD5DD26JItZxFxlNZVDyK__Dod4HpEHTuayE-27OAuZ00L0H6trMd-4Q10YJiGrZGEqATF9U5kabKw56idkia9e_Owt6Fs6aIXxoTGy9snfnDITUIZbyZg-kth5V1iMTiecf26Rf6Ig5C6SRajuHUdpW07z0kUIw-qE_-um1n_WN8FGW4I8KyzB_G8aAAAhf5fK-wP5UlXSw"
+   },
+   {
+    "position": 13,
+    "title": "Abhiruchi Sweets",
+    "place_id": "ChIJbZbpcMGxwjsRuzp5HIKCcLk",
+    "data_id": "0x3bc2b1c170e9966d:0xb97082821c793abb",
+    "data_cid": "13362323589743327931",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2b1c170e9966d%3A0xb97082821c793abb&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2b1c170e9966d%3A0xb97082821c793abb&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 18.4497574,
+     "longitude": 73.8110473
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbZbpcMGxwjsRuzp5HIKCcLk",
+    "provider_id": "/g/11trrhwpzg",
+    "rating": 4.2,
+    "reviews": 100,
+    "type": "Dessert shop",
+    "types": [
+     "Dessert shop",
+     "Spice store"
+    ],
+    "address": "Lane no 29, Ganesh Nagar, Sterling Nisarga II, Dhayari Phata, Pune, Maharashtra 411041, India",
+    "country": "India",
+    "open_state": "Closed · Opens 7 AM",
+    "hours": "Closed · Opens 7 AM",
+    "operating_hours": {
+     "saturday": "7 AM–10:30 PM",
+     "sunday": "7 AM–10:30 PM",
+     "monday": "7 AM–10:30 PM",
+     "tuesday": "7 AM–10:30 PM",
+     "wednesday": "7 AM–10:30 PM",
+     "thursday": "7 AM–10:30 PM",
+     "friday": "7 AM–10:30 PM"
+    },
+    "phone": "+91 95793 99394",
+    "website": "https://abhiruchisweets.shop/",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Assistive hearing loop",
+       "Wheelchair accessible parking lot",
+       "Wheelchair accessible restroom",
+       "Wheelchair accessible seating"
+      ]
+     }
+    ],
+    "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF0cnJod3B6ZxgAOgMI8A0%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=uADAat_6LaO20PEP8cWPkA0&ei=uADAat_6LaO20PEP8cWPkA0&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW3qREvDZs2hjWSOzHlXbYMlYDWrFR4P_bUSZx0XazrxGvFyiad29NaU5zS4iY3f-rN3cow838XUScYsf0FdNiLBcSkREXCGJPnCCPmJjJK0816PDrGnmrvSYTrxJzQ5UcYHutKTSbnAvTFQZRbCQZrI_ghnCN5CnvxIe3x5EtHe53B9r6pQ8bBbQQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/WKUbVHicHcRLcoIwAADQEyHRiMXOdCHhb6VAYCBsHIgIWAg0QURu6l266Ezf4r1-63EcxLsstzVcVX1fteVdlJz2bCzZuKJ9J1c8F0IaeD8_5YNzeqsS-BMak56JTX1L8Ndit2lBTi3RE26GW_9cxDibQZovfLYm89nkl83ey2NlwduGwKvEPUj7hwrVNMaUiCswL17zqVH8HRopslyfIeR37s09AnW983VusY5PmER8dpdAiSmx7-MxwgU7TJEZZGGBgow756pmyFMQm2anhLNijHapQG3Pd0OgFloRBB-PNQBAqv-nEvsDiAlXFQ"
+   },
+   {
+    "position": 14,
+    "title": "PRADEEP SWEETS PVT. LTD.",
+    "place_id": "ChIJ3x-WuB65wjsRaxAKboWo10g",
+    "data_id": "0x3bc2b91eb8961fdf:0x48d7a8856e0a106b",
+    "data_cid": "5248849181753872491",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2b91eb8961fdf%3A0x48d7a8856e0a106b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2b91eb8961fdf%3A0x48d7a8856e0a106b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 18.5953296,
+     "longitude": 73.78771449999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3x-WuB65wjsRaxAKboWo10g",
+    "provider_id": "/g/1pp2x94x5",
+    "rating": 4,
+    "reviews": 1169,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop"
+    ],
+    "address": "Royal Avenue, Chowk, Neax to Hotel Shivar, Shivar Garden Rd, Rahatani, Pune, Maharashtra 411017, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–10 PM",
+     "sunday": "8 AM–10 PM",
+     "monday": "8 AM–10 PM",
+     "tuesday": "8 AM–10 PM",
+     "wednesday": "8 AM–10 PM",
+     "thursday": "8 AM–10 PM",
+     "friday": "8 AM–10 PM"
+    },
+    "phone": "+91 96654 15749",
+    "website": "https://pradeepsweets.com/",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW2oTNqNCovhPQZPs5vyryRCESg-i3RRoKYh8kOkOus7ak9sgS8Rl6mqfjIg_mOPpU4vAwG7JRdOtcwjVx_EXCz7AXZ1NxV8gIPtMOslxJUbWd_rhWVFJxPITHjbsOxY771q3SVE25DcOjzf7XaemqK-vzoY_9L2oF7HSpooYKl0S8P6xbjtxMx4Lw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/vk4waXicHcRLcoIwAADQEyE_NdiZLhiLFRBCQfm4YQAxKb8AiRC4ae_SRWf6Fu_nFzPW0zdRbLC6QYSgpnzRcixIx8qObQrSimjMKBX6kfBF1E0HoEghV3dwj2TC3tfdo7tpGRf_aARI-FZ9n9gJ1mpYwxcFWX2gKND8Zt8Oz8pEaQu9_rad9PkTWP4DsmKuQp4a8XEFenyXXR5qyPSYA2nDrVsePdIRR-HJ4p55PVc5hTwBQB7UIDSU3UcBq_UJ4qxsB1uYVpKkh4tCTuAc9IQkdiMFmrfnecW4w7eX-X2WJUkS8P-F0P0BPFtY4A"
+   },
+   {
+    "position": 15,
+    "title": "Kaka Halwai Sweets",
+    "place_id": "ChIJGwNdhBvBwjsRlTkPpnGKvOo",
+    "data_id": "0x3bc2c11b845d031b:0xeabc8a71a60f3995",
+    "data_cid": "16914546521218693525",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c11b845d031b%3A0xeabc8a71a60f3995&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c11b845d031b%3A0xeabc8a71a60f3995&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 18.4922771,
+     "longitude": 73.857508
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGwNdhBvBwjsRlTkPpnGKvOo",
+    "provider_id": "/g/11smmdw2lj",
+    "rating": 4,
+    "reviews": 580,
+    "type": "Indian sweets shop",
+    "types": [
+     "Indian sweets shop"
+    ],
+    "address": "Shop no 21, Lotus Court, 22, Satara Rd, opposite Panchami Hotel, Navmaharshtra Society, Parvati Industrial Estate, Parvati Paytha, Pune, Maharashtra 411009, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–10 PM",
+     "sunday": "8 AM–10 PM",
+     "monday": "8 AM–10 PM",
+     "tuesday": "8 AM–10 PM",
+     "wednesday": "8 AM–10 PM",
+     "thursday": "8 AM–10 PM",
+     "friday": "8 AM–10 PM"
+    },
+    "website": "https://www.kakahalwaisweets.com/",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW3QHhwVwPsOoXTcbk0OIadNG3xKXjnK8XISyVGEwP11JX5xb96kwof3C3MTMi7SMXa0_mzgta8nMkoXirSfTzHul5A3tihw2_7rXpRFYe4Cgqt3tQy80n2B_9WjS9n3pPecDyOIpeJMhESVQXQiEC-iijHCS-7WJbNovcfu2UxLsglqX0oVjAls=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/mg6NO3icHcTddkMwAADgJ1Ih67BzdmFmRaeqjOzKwSLx00Qlhr7pXmVXO2ffxffzS6UcxZOqDhTuCOdkwLPAU82ZxEzuan5VyVQKoYwTXzfV9kOD5DD26JItZxFxlNZVDyK__Dod4HpEHTuayE-27OAuZ00L0H6trMd-4Q10YJiGrZGEqATF9U5kabKw56idkia9e_Owt6Fs6aIXxoTGy9snfnDITUIZbyZg-kth5V1iMTiecf26Rf6Ig5C6SRajuHUdpW07z0kUIw-qE_-um1n_WN8FGW4I8KyzB_G8aAAAhf5fK-wP5UlXSw"
+   },
+   {
+    "position": 16,
+    "title": "Bhavnagari Fancy Sweet Mart",
+    "place_id": "ChIJsRx2sUjAwjsRfpxughCA7J8",
+    "data_id": "0x3bc2c048b1761cb1:0x9fec8010826e9c7e",
+    "data_cid": "11523726354930375806",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c048b1761cb1%3A0x9fec8010826e9c7e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c048b1761cb1%3A0x9fec8010826e9c7e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 18.5140369,
+     "longitude": 73.8781028
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsRx2sUjAwjsRfpxughCA7J8",
+    "provider_id": "/g/1th1shp3",
+    "rating": 3.8,
+    "reviews": 129,
+    "type": "Candy store",
+    "types": [
+     "Candy store",
+     "Dessert shop",
+     "Dry fruit store"
+    ],
+    "address": "651, Sachapir St, Opp Hanuman Mandir, Camp, Pune, Maharashtra 411001, India",
+    "country": "India",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+     "saturday": "9 AM–9 PM",
+     "sunday": "9 AM–1 PM",
+     "monday": "9 AM–9 PM",
+     "tuesday": "9 AM–9 PM",
+     "wednesday": "9 AM–9 PM",
+     "thursday": "9 AM–9 PM",
+     "friday": "9 AM–9 PM"
+    },
+    "phone": "+91 20 2613 3232",
+    "website": "http://www.bhavnagrisweets.com/",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW1C-iR3cL--8GoDjs5hPu-aWhLhYKcAGMTf4C-lNE5xp8TvMNLc28zkm75mgNVwQOlbyJLFKIkErksqzUPjasHfE1l16Qip9o3XutoKBiFX-3HT2kxMWCc-8yfHd2Tm5tM4ER8wzQQPG_oSV0cdxVtaqhEn6tkQtZMbr48fdc76gNrLMwl0HWQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/33iW3nicHcTJUoMwAADQL0rZF53xUJFChSBUhOrFoQESyhKahLL8qZ_izRnf4f38EiFG_ihJHdF2mFLcVROvGKKDqAaxQ7SXMCs4ByOjyyrtj9DCueKA5qShEADboy9XbpB4AkVOQvIZoL0H01p3QBe5xjLa6R1GIVLtre0to8dRNidv3WV9DQ_BsXVZy2_bR3wtuF-7SqeYSTM-UO08CRo8N4cz0PxUbReYOwjYa-2XatobAuruyZ63JIm9b_qeyahcMlHciDuYok3EF7ww3a5LZJk4YiGcO9nPk6dZkWUZkP8RGP4ArHNVag"
+   },
+   {
+    "position": 17,
+    "title": "Kaka Halwai Sweets",
+    "place_id": "ChIJ-byIX0SVwjsRQjWbbgb0g64",
+    "data_id": "0x3bc295445f88bcf9:0xae83f4066e9b3542",
+    "data_cid": "12575162893011203394",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc295445f88bcf9%3A0xae83f4066e9b3542&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bc295445f88bcf9%3A0xae83f4066e9b3542&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 18.4682297,
+     "longitude": 73.81972499999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-byIX0SVwjsRQjWbbgb0g64",
+    "provider_id": "/g/1pp2vc9lm",
+    "rating": 4.2,
+    "reviews": 1958,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "1st Floor, Fun Time Multiplex, Narveer Tanaji Malusare Rd, Niranjan Park, Vadgaon Budruk, Pune, Maharashtra 411051, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–9:30 PM",
+     "sunday": "8 AM–9:30 PM",
+     "monday": "8 AM–9:30 PM",
+     "tuesday": "8 AM–9:30 PM",
+     "wednesday": "8 AM–9:30 PM",
+     "thursday": "8 AM–9:30 PM",
+     "friday": "8 AM–9:30 PM"
+    },
+    "phone": "+91 89561 76768",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW3QHhwVwPsOoXTcbk0OIadNG3xKXjnK8XISyVGEwP11JX5xb96kwof3C3MTMi7SMXa0_mzgta8nMkoXirSfTzHul5A3tihw2_7rXpRFYe4Cgqt3tQy80n2B_9WjS9n3pPecDyOIpeJMhESVQXQiEC-iijHCS-7WJbNovcfu2UxLsglqX0oVjAls=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/mg6NO3icHcTddkMwAADgJ1Ih67BzdmFmRaeqjOzKwSLx00Qlhr7pXmVXO2ffxffzS6UcxZOqDhTuCOdkwLPAU82ZxEzuan5VyVQKoYwTXzfV9kOD5DD26JItZxFxlNZVDyK__Dod4HpEHTuayE-27OAuZ00L0H6trMd-4Q10YJiGrZGEqATF9U5kabKw56idkia9e_Owt6Fs6aIXxoTGy9snfnDITUIZbyZg-kth5V1iMTiecf26Rf6Ig5C6SRajuHUdpW07z0kUIw-qE_-um1n_WN8FGW4I8KyzB_G8aAAAhf5fK-wP5UlXSw"
+   },
+   {
+    "position": 18,
+    "title": "Pradeep Sweets",
+    "place_id": "ChIJ7x3ulGy5wjsRZSASsndI43M",
+    "data_id": "0x3bc2b96c94ee1def:0x73e34877b2122065",
+    "data_cid": "8350597813000872037",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2b96c94ee1def%3A0x73e34877b2122065&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2b96c94ee1def%3A0x73e34877b2122065&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 18.59829,
+     "longitude": 73.76949189999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7x3ulGy5wjsRZSASsndI43M",
+    "provider_id": "/g/11ggrp2b04",
+    "rating": 4.1,
+    "reviews": 1761,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "Shop number 2, Mont Vert Vivant, Shankar Kalat Nagar, Wakad, Pune, Pimpri-Chinchwad, Maharashtra 411057, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8 AM",
+    "hours": "Closed · Opens 8 AM",
+    "operating_hours": {
+     "saturday": "8 AM–10 PM",
+     "sunday": "8 AM–10 PM",
+     "monday": "8 AM–10 PM",
+     "tuesday": "8 AM–10 PM",
+     "wednesday": "8 AM–10 PM",
+     "thursday": "8 AM–10 PM",
+     "friday": "8 AM–10 PM"
+    },
+    "phone": "+91 72628 17783",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW2gHKMWT2an8iJhEOFE7VeRhg68OcASOLiU2uLd1gKEGtgczEtECZO6pTnzK25N4sI0VjHC6ySqMK8E8Ew8ZDHH4q_WBQ3l2Qr1xAr-bhAQyNzDrYR3H3tsfCMnYYu9wJ1rmyuYe4s1q4Ow2QaCZWQhoCtm3OGKAfHDdrt6layZSOKoBfvSM_aw3g=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/DzEnvHicHcTNboIwAADgJ0J-ypAt2QGhs1qxQZwELoYhtC7QQluG8Ka-yw5L9h2-5y_TuldvptkysKJC0LYeVS0rwXXN9aoSnUllqZTRS_GYzWAXr2nmUITj7OyU3L_vGSQfcH2pT4x6PqmClBzun854uNkUw62m1QI1DAvi9We-YOfl6KqddflGoTenQ4x96MPJLyKE3OGabRLQOom0H4E0vliQzMclkvkJIKBVE8Y8z8fXaW_Lbh7z2lX24JLJScqwyBImQt0BssVBg6Kb1F5bzkVKsNg0P2l8LSdA3yfbsiyD_V8Z_A9xGFYP"
+   },
+   {
+    "position": 19,
+    "title": "Mulchand Sweets",
+    "place_id": "ChIJY5tIhUjAwjsR8h9lAcLC4yI",
+    "data_id": "0x3bc2c04885489b63:0x22e3c2c201651ff2",
+    "data_cid": "2514067155505717234",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c04885489b63%3A0x22e3c2c201651ff2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c04885489b63%3A0x22e3c2c201651ff2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 18.5121677,
+     "longitude": 73.877822
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJY5tIhUjAwjsR8h9lAcLC4yI",
+    "provider_id": "/g/1td3k0_s",
+    "rating": 4.2,
+    "reviews": 1518,
+    "type": "Candy store",
+    "types": [
+     "Candy store"
+    ],
+    "address": "525, Centre St, Camp, Pune, Maharashtra 411001, India",
+    "country": "India",
+    "open_state": "Closed · Opens 8:30 AM",
+    "hours": "Closed · Opens 8:30 AM",
+    "operating_hours": {
+     "saturday": "8:30 AM–9:30 PM",
+     "sunday": "8:30 AM–9:30 PM",
+     "monday": "8:30 AM–9:30 PM",
+     "tuesday": "8:30 AM–9:30 PM",
+     "wednesday": "8:30 AM–9:30 PM",
+     "thursday": "8:30 AM–9:30 PM",
+     "friday": "8:30 AM–9:30 PM"
+    },
+    "phone": "+91 20 2633 7979",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOlWks7qEABOo_Teb40PpSYQ8lF79tpv4pk2RGhqwFJujkZdIEBZDwR0DKoer6mHbmTVMt8fFfvWuPzuCDtJL9BNv3UyCqLsD1NOMNrarMBWMO7b94tOEGBN5EYyjNrwUdZSP69sQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/oJgkZHicHcRJDoIwAADAFyFVUcTEA2VxpcUFiVyMYIVIoaUtEP2hT_A3Js5hvp9CKS7nuk6L8SBnLKeklURkrFakVoOMVXoublJqmdRtp-O0wjQupdl4NsTseiKpAUJ-vOxn1DctxTuDl6PDsmh6f9M-y-S-9mDi9gfgbhkR02qVVqdzoGYP_9HFbfhuHVdtdhZE3Th6Oc1OukOEAyRuIoBxgM3UMhT2lhBNvMvriUQf3ZNjOLXkftEPAQBa8T_T6h9d30XP"
+   },
+   {
+    "position": 20,
+    "title": "Karachi Sweet Mart",
+    "place_id": "ChIJuXn_FwbBwjsRcSEMRwFUV_M",
+    "data_id": "0x3bc2c10617ff79b9:0xf3575401470c2171",
+    "data_cid": "17534576038653993329",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c10617ff79b9%3A0xf3575401470c2171&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c10617ff79b9%3A0xf3575401470c2171&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 18.537886999999998,
+     "longitude": 73.89995619999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuXn_FwbBwjsRcSEMRwFUV_M",
+    "provider_id": "/g/11bvt6csn0",
+    "rating": 3.9,
+    "reviews": 391,
+    "type": "Candy store",
+    "types": [
+     "Candy store",
+     "Dry fruit store"
+    ],
+    "address": "Lane No. 7, Meera Nagar Garden Society, Meera Nagar, Koregaon Park, Pune, Maharashtra 411001, India",
+    "country": "India",
+    "open_state": "Closed · Opens 9 AM",
+    "hours": "Closed · Opens 9 AM",
+    "operating_hours": {
+     "saturday": "9 AM–9 PM",
+     "sunday": "9 AM–9 PM",
+     "monday": "9 AM–9 PM",
+     "tuesday": "9 AM–9 PM",
+     "wednesday": "9 AM–9 PM",
+     "thursday": "9 AM–9 PM",
+     "friday": "9 AM–9 PM"
+    },
+    "phone": "+91 20 2615 8586",
+    "website": "http://www.karachisweets.com/",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMfi7XNPPDEXky4fJVRKUIdbi2Og1hfLAOu0LSPJ9ps_rJP9SUJBfWWTvGTiITru1OLoDZaJgcW9B1DbNB4CL3GcflvgLe_htLPw7d2gOQODXREcFX_KtS7NRibTzbPI_vtILlj=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/zn6E2nicHcRRCoIwAADQE5lagRj0kWnhXG6ppfQjOd1mLSduGnXBztBtgt7H-3641r1amabgixmTkolmVM1AZKebTs-IfJhsuCplEGVutlMvHgfaOkWMsR8U99eSgnMSncK6aueI2ZzCDRotmGLg9qocAHbTE_BonmfTPmvDbBhtBKV_uQJGctez_Sr2llu42BMqJgabkmuIn049Z-iI_CIJyK4oI506cdJW2bvCYTnpEIrb-mlblmXw_8TofmudRLg"
+   }
+  ],
+  "serpapi_pagination": {
+   "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4018.5204%2C73.8567%2C13z&q=anarsa+sweets&start=20&type=search"
+  }
+ }
+}

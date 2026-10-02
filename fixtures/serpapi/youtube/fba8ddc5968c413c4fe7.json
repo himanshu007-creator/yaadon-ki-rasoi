@@ -1,0 +1,666 @@
+{
+ "engine": "youtube",
+ "params": {
+  "search_query": "Pinni recipe traditional",
+  "gl": "in",
+  "hl": "en"
+ },
+ "recordedAt": "2026-10-02T19:12:38.000Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac00223e6cb304f338d9fbf",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/QX6MNs2LyxYB4V_hc7o25Qh_UYtJ0L8ALqseHtbAjes/6ac00223e6cb304f338d9fbf.md",
+   "created_at": "2026-10-02 19:12:35 UTC",
+   "processed_at": "2026-10-02 19:12:35 UTC",
+   "youtube_url": "https://www.youtube.com/results?search_query=Pinni+recipe+traditional&gl=in&hl=en",
+   "total_time_taken": 1.99
+  },
+  "search_parameters": {
+   "engine": "youtube",
+   "search_query": "Pinni recipe traditional",
+   "gl": "in",
+   "hl": "en"
+  },
+  "search_information": {
+   "total_results": 449563,
+   "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+   {
+    "position_on_page": 1,
+    "title": "Punjabi Style Pinni Recipe |  Chef Sanjyot Keer",
+    "link": "https://www.youtube.com/watch?v=DDH9yvjl0uw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=DDH9yvjl0uw",
+    "video_id": "DDH9yvjl0uw",
+    "channel": {
+     "name": "Your Food Lab",
+     "link": "https://www.youtube.com/@YourFoodLab",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k3m6LwAYH6CkG1iiYx8ioFPnBIbruGJRUJwmBxDoCzOPM=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "7y ago",
+    "views": 553334,
+    "length": "3:04",
+    "description": "Written recipe for Punjabi style pinni Prep time: 10 mins Cooking time: 30 mins Serves: 1 kg Ingredients: • Gond 200 gm • Cashew ...",
+    "extensions": [
+     "4K"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/DDH9yvjl0uw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBIYiwFl4zQ_seJTOFqfseUpV21Q",
+     "rich": "https://i.ytimg.com/an_webp/DDH9yvjl0uw/mqdefault_6s.webp?du=3000&sqp=CNjo_9UG&rs=AOn4CLBn9YGDo13kG2VwKrJ8G7Ihc55HhA"
+    }
+   },
+   {
+    "position_on_page": 3,
+    "title": "Panjeeri Desi Superfood | दादी की spl पंजीरी & पिन्नी | Sugarcane Shikanji bonus | Chef Ranveer Brar",
+    "link": "https://www.youtube.com/watch?v=tobPj2ZKWRo",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tobPj2ZKWRo",
+    "video_id": "tobPj2ZKWRo",
+    "channel": {
+     "name": "Chef Ranveer Brar",
+     "link": "https://www.youtube.com/@RanveerBrar",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/ccCYUcBC69tdqspzHL_sUAyrbVKx_Y5pb6IeA7F_WpamxVYjd7OH0iUgxSAeKGY_7r8HMZUu=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "1y ago",
+    "views": 1087870,
+    "length": "13:38",
+    "description": "PANJIRI, PINNI AND SUGARCANE SHIKANJI - ये video dekhkar गाँव ki yaad na aaye to paise वापस Stay healthy ...",
+    "extensions": [
+     "9 products",
+     "Earns commission"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/tobPj2ZKWRo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAF8vqnwVLLcSMXkUTwBOShfMQRfA",
+     "rich": "https://i.ytimg.com/an_webp/tobPj2ZKWRo/mqdefault_6s.webp?du=3000&sqp=CIaEgNYG&rs=AOn4CLCJxQxJ4PZSfR3eeUWt-ziTCCJW8A"
+    }
+   },
+   {
+    "position_on_page": 4,
+    "title": "aate ki pinni recipe | punjabi atta pinni recipe | पंजाबी आटे की पिन्नी | aate ke ladoo",
+    "link": "https://www.youtube.com/watch?v=H9VWmfhFI7g",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=H9VWmfhFI7g",
+    "video_id": "H9VWmfhFI7g",
+    "channel": {
+     "name": "Hebbars Kitchen",
+     "link": "https://www.youtube.com/@hebbars.kitchen",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lKWTzqovGg-Z4PvvDvfd99hBPExhXYg1fAtrDQv81PVA=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "7y ago",
+    "views": 218058,
+    "length": "3:21",
+    "description": "full recipe: https://hebbarskitchen.com/aate-ki-pinni-recipe-atta-pinni-recipe/ Music: http://www.hooksounds.com/ aate ki pinni ...",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/H9VWmfhFI7g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCO5bkKd_yjjryPSDXqL3IGmW4b6g",
+     "rich": "https://i.ytimg.com/an_webp/H9VWmfhFI7g/mqdefault_6s.webp?du=3000&sqp=CKDi_9UG&rs=AOn4CLAHaCQwsLcugBIv59QSCnpsY3gp0Q"
+    }
+   },
+   {
+    "position_on_page": 5,
+    "title": "सर्दियों के लिये पंजाबी पिन्नी लड्डू | Atta Dry Fruits Laddu |  Winter Special Punjabi Pinni",
+    "link": "https://www.youtube.com/watch?v=3owmEgQPWSM",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3owmEgQPWSM",
+    "video_id": "3owmEgQPWSM",
+    "channel": {
+     "name": "NishaMadhulika",
+     "link": "https://www.youtube.com/@nishamadhulika",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/Oym_qRh41EpoCDEQanF5rOauZVzdYutexIsZYqppdS_vXJQGk5S0RUx7UwpO9Zi4gXoMiapg=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "7y ago",
+    "views": 5551952,
+    "length": "8:17",
+    "description": "atta ladoo with dry fruits, wheat flour ladoo, Panjiri, Authentic Punjabi Pinni Recipe #pinni #laddu #winterspecial #sweets ...",
+    "extensions": [
+     "CC"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/3owmEgQPWSM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvL0Ba4iJdhMGwqS2lN89EF5HWRQ",
+     "rich": "https://i.ytimg.com/an_webp/3owmEgQPWSM/mqdefault_6s.webp?du=3000&sqp=CJLX_9UG&rs=AOn4CLC31E3IBT3hmH0QvoBSRAKlEBJJpQ"
+    }
+   },
+   {
+    "position_on_page": 7,
+    "title": "Dal Pinni | उड़द दाल की पिन्नी | Punjabi Pinni | #DiwaliWithProV | Sanjeev Kapoor Khazana",
+    "link": "https://www.youtube.com/watch?v=icht5VfmhH8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=icht5VfmhH8",
+    "video_id": "icht5VfmhH8",
+    "channel": {
+     "name": "Sanjeev Kapoor Khazana ",
+     "link": "https://www.youtube.com/@sanjeevkapoorkhazana",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/rhslYfIZ9tly862bYj2E0teKaLx99isb-bY8QxRsAO35DMqfNHacgwMD0YYRc6ax_XH4WuAIVw=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "2y ago",
+    "views": 16079,
+    "length": "2:45",
+    "description": "With Diwali around the corner, let's indulge in something extra special. Introducing 'Dal Pinni,' a traditional Punjabi sweet ...",
+    "extensions": [
+     "4K"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/icht5VfmhH8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvRF4B5tToxL6AzeGOSQKEw-PfuA",
+     "rich": "https://i.ytimg.com/an_webp/icht5VfmhH8/mqdefault_6s.webp?du=3000&sqp=CMT0_9UG&rs=AOn4CLCzlpKGXBZfLbImUX2yr6GzTLQxCQ"
+    }
+   },
+   {
+    "position_on_page": 8,
+    "title": "Punjabi Atte Ki Pinni | Meri Maa Ki Special Pinni Ki Recipe | आटे की पिन्नी | Chef Sanjyot Keer",
+    "link": "https://www.youtube.com/watch?v=p7g_e-SnK54",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=p7g_e-SnK54",
+    "video_id": "p7g_e-SnK54",
+    "channel": {
+     "name": "Your Food Lab",
+     "link": "https://www.youtube.com/@YourFoodLab",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k3m6LwAYH6CkG1iiYx8ioFPnBIbruGJRUJwmBxDoCzOPM=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "1y ago",
+    "views": 190952,
+    "length": "11:00",
+    "description": "Full written recipe - Atte ki Pinni Prep time: 5-10 minutes Cooking time: 1 hour 15 minutes Serves: 2 kg (40 medium size pieces) ...",
+    "extensions": [
+     "4K"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/p7g_e-SnK54/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQ3k4cRTlkZCIzSrV_z-_3DYU2WA",
+     "rich": "https://i.ytimg.com/an_webp/p7g_e-SnK54/mqdefault_6s.webp?du=3000&sqp=CJb7_9UG&rs=AOn4CLAcen6BTwdw8rXaLR-vGe3QIiFg-A"
+    }
+   },
+   {
+    "position_on_page": 9,
+    "title": "Pinni Recipe | Haldi Wali Pinni | हल्दी और गौंध वाली पिन्नी | Authentic Punjabi Pinni | Singh & Kaur",
+    "link": "https://www.youtube.com/watch?v=HdmKonCj6sE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HdmKonCj6sE",
+    "video_id": "HdmKonCj6sE",
+    "channel": {
+     "name": "Singh & Kaur - Recipes",
+     "link": "https://www.youtube.com/@SinghKaur-DesiFoodies",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lEytU9sMqOylcI_w1YmTT9IfX5S3B3xcXsEoIqVvHY0BA=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "7y ago",
+    "views": 13178,
+    "length": "3:49",
+    "description": "Haldi Aur Gondh Wali Pinni Authentic Punjabi Pinni Recipe Hello Foodies.. This Winters we bring to you our Healthy & Nutritious ...",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/HdmKonCj6sE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAD-AMAz3XaPBKlSK07Mm2lbZ050g",
+     "rich": "https://i.ytimg.com/an_webp/HdmKonCj6sE/mqdefault_6s.webp?du=3000&sqp=CKHm_9UG&rs=AOn4CLBwyEyR9BUQjHINTZy-plNUyZADMA"
+    }
+   },
+   {
+    "position_on_page": 10,
+    "title": "ATTA LADDU | Punjabi Pinni Recipe | Healthy Dry Fruit Laddu | Diwali Sweets | Veg Village Food",
+    "link": "https://www.youtube.com/watch?v=l0lRFkhQENU",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=l0lRFkhQENU",
+    "video_id": "l0lRFkhQENU",
+    "channel": {
+     "name": "Veg Village Food",
+     "link": "https://www.youtube.com/@VegVillageFood",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mQGHr7yx6P7d62q62C_WqgXSlAU7S8Oe8oITaXdz9QGKI=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "11mo ago",
+    "views": 759792,
+    "length": "5:38",
+    "description": "ATTA LADDU | Punjabi Pinni Recipe | Healthy Dry Fruit Laddu | Diwali Sweets | Veg Village Food.",
+    "extensions": [
+     "4K"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/l0lRFkhQENU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYL2nK5d01R7ox202uOQsDHliOmw",
+     "rich": "https://i.ytimg.com/an_webp/l0lRFkhQENU/mqdefault_6s.webp?du=3000&sqp=CMOCgNYG&rs=AOn4CLDCtyVyJCtDo8EEuhskcVAYfi14IQ"
+    }
+   },
+   {
+    "position_on_page": 11,
+    "title": "Punjabi Pinni Recipe | Maa ki Dal ki Pinni | How To Make Urad Dal Pinni Recipe |",
+    "link": "https://www.youtube.com/watch?v=JeephgHrIO0",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JeephgHrIO0",
+    "video_id": "JeephgHrIO0",
+    "channel": {
+     "name": "Cook With Bir",
+     "link": "https://www.youtube.com/@CookWithBir",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nffc25vvZr-1Ld8dQrAsw-ttDckpFRjIMpkgqE0rEwrA=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "4y ago",
+    "views": 25589,
+    "length": "3:46",
+    "description": "Punjabi Pinni Recipe | Maa ki Dal ki Pinni | How To Make Urad Dal Pinni Recipe | #punjabipinni #uraddalpinni #pinni #sweets ...",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/JeephgHrIO0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9PhhtlO8868u3GG7unDiky_SMTQ",
+     "rich": "https://i.ytimg.com/an_webp/JeephgHrIO0/mqdefault_6s.webp?du=3000&sqp=CJrQ_9UG&rs=AOn4CLDDp3f3vPrdI7BD41HEOxL_iNckjQ"
+    }
+   },
+   {
+    "position_on_page": 12,
+    "title": "Stay Warm in Winter with Atta Pinni | Winter Punjabi Atta Pinni | Dry Fruit Gond Ladoo Chef Kunal",
+    "link": "https://www.youtube.com/watch?v=c9UeuXD6Jcs",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=c9UeuXD6Jcs",
+    "video_id": "c9UeuXD6Jcs",
+    "channel": {
+     "name": "Kunal Kapur",
+     "link": "https://www.youtube.com/@KunalKapur",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/xfOV44BN7MJwh6K78E78fN3xtEl0ZHj6DNFVoUajYeKqinxkxZBh4QceCfze63nyqw0JYE6BDA=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "5y ago",
+    "views": 2737670,
+    "length": "9:06",
+    "description": "In this video, we will be making the delicious winter #Punjabiattapinni. This recipe is a classic Punjabi sweet recipe that ...",
+    "extensions": [
+     "CC"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/c9UeuXD6Jcs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPbF4R21P1-fXN7Q5YmgiHgCJGwQ",
+     "rich": "https://i.ytimg.com/an_webp/c9UeuXD6Jcs/mqdefault_6s.webp?du=3000&sqp=CJT6_9UG&rs=AOn4CLBpTbT-adKpI4OVfLMtfA5oJ9fuAA"
+    }
+   },
+   {
+    "position_on_page": 13,
+    "title": "  pinni recipe | winter Atta pinni recipe| Atta pinni recipe |  Traditional pinni recipe",
+    "link": "https://www.youtube.com/watch?v=yluvO-zvsPs",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=yluvO-zvsPs",
+    "video_id": "yluvO-zvsPs",
+    "channel": {
+     "name": "Mini Majithia ",
+     "link": "https://www.youtube.com/@minimajithia",
+     "thumbnail": "https://yt3.ggpht.com/1FQ5VEUwwZrbTZmxNBwHa3AWD4_YWpNSTKxFKubJsDfoY6oF2a3CoNuPCnSaEjVqkqJNxJLVM8I=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "5y ago",
+    "views": 169,
+    "length": "17:33",
+    "description": "in this video you will find how tu make special winter Punjabi Peenya cooked with miniMajithia which are very healthy in winters ...",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/yluvO-zvsPs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQYIkf2ebXgsccOVvOC8k0J4hK6A",
+     "rich": "https://i.ytimg.com/an_webp/yluvO-zvsPs/mqdefault_6s.webp?du=3000&sqp=CJH7_9UG&rs=AOn4CLDWUYXTScKY27xZ0_DzL47Dylgozg"
+    }
+   },
+   {
+    "position_on_page": 14,
+    "title": "DESI PANJIRI | Healthy Winter Speacial Panjiri Recipe By Our Granny | Easy Punjabi Recipe",
+    "link": "https://www.youtube.com/watch?v=HC8HM3FEDwc",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HC8HM3FEDwc",
+    "video_id": "HC8HM3FEDwc",
+    "channel": {
+     "name": "Veg Village Food",
+     "link": "https://www.youtube.com/@VegVillageFood",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mQGHr7yx6P7d62q62C_WqgXSlAU7S8Oe8oITaXdz9QGKI=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "3y ago",
+    "views": 1776427,
+    "length": "5:54",
+    "description": "Panjiri is a traditional Punjabi sweet made with whole wheat flour, powdered sugar,Alonds,Cashew Nuts,Raisins,Melon Seeds ...",
+    "extensions": [
+     "4K"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/HC8HM3FEDwc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCD5D1ECFheWOQheTm7XSqbVoTZqw",
+     "rich": "https://i.ytimg.com/an_webp/HC8HM3FEDwc/mqdefault_6s.webp?du=3000&sqp=CNrZ_9UG&rs=AOn4CLAU17E_pppdRfcqo9xjIviAuef-5g"
+    }
+   },
+   {
+    "position_on_page": 15,
+    "title": "Try It for 4 Days: Banish Chronic Pain and Weakness, Make Your Bones Iron-Strong | Gud Panjiri",
+    "link": "https://www.youtube.com/watch?v=D5EhZ_riqVU",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=D5EhZ_riqVU",
+    "video_id": "D5EhZ_riqVU",
+    "channel": {
+     "name": "Masala Kitchen",
+     "link": "https://www.youtube.com/@MasalaKitchenbyPoonam",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/ZizXldPDc-7MKcWSUY25A7msfSoou0w8YGyPHw_m7EU43X91Dg_OTlf_BDhMvNirUZAASw-CCQ=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "2y ago",
+    "views": 2358268,
+    "length": "10:01",
+    "description": "👉𝐂𝐡𝐞𝐜𝐤 𝐎𝐮𝐭 𝐎𝐮𝐫 𝐕𝐢𝐝𝐞𝐨: https://youtu.be/9CQg3_l-a-s\n\n#panjiri #Gondrecipe #masalakitchen \n-----------------------------\nPlease ...",
+    "extensions": [
+     "6 products",
+     "4K"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/D5EhZ_riqVU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTACFhJdjDscoSuRTLI9MSDxDJGA",
+     "rich": "https://i.ytimg.com/an_webp/D5EhZ_riqVU/mqdefault_6s.webp?du=3000&sqp=CKL2_9UG&rs=AOn4CLBicvpn7XsIU14di-0ohfddaWAOlQ"
+    }
+   },
+   {
+    "position_on_page": 16,
+    "title": "Meri Beti Ke Ghar Le Ja Rahi Hoon Mein Khas Panjiri Recipe in Urdu Hindi - RKK",
+    "link": "https://www.youtube.com/watch?v=UNmBp1CY-wI",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UNmBp1CY-wI",
+    "video_id": "UNmBp1CY-wI",
+    "channel": {
+     "name": "Ruby Ka Kitchen",
+     "link": "https://www.youtube.com/@RubyKaKitchen",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nShqg_oG9PrDIguUgpeCxRjbREDEmDomXo14Ok6i5tY2I=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "1y ago",
+    "views": 674967,
+    "length": "17:25",
+    "description": "Don't forget to subscribe to our other channels! Love you all! R&S Family VLOGS https://www.youtube.com/@rnsfamilyvlogs ...",
+    "extensions": [
+     "4K"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/UNmBp1CY-wI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIjypcSxG6gxReOEAzHISvzmSVqQ",
+     "rich": "https://i.ytimg.com/an_webp/UNmBp1CY-wI/mqdefault_6s.webp?du=3000&sqp=CMCBgNYG&rs=AOn4CLDRyAneFFIZcXT7Br2GgtjCgQ_WAQ"
+    }
+   },
+   {
+    "position_on_page": 17,
+    "title": "Remedy for New Mom,  Back Pain, Joint pain, Migraine, An Immunity  Booster Panjiri  | Panjiri",
+    "link": "https://www.youtube.com/watch?v=qqvcn40Eh4A",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qqvcn40Eh4A",
+    "video_id": "qqvcn40Eh4A",
+    "channel": {
+     "name": "Cook with Lubna",
+     "link": "https://www.youtube.com/@CookwithLubna",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/h0QMra9hBKByiPfM23SHETZKrPA7On1FTaqE2T_RYRc5u7EyyY0ON8DHP7YJO1gLCQrQGDnGk8c=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "2y ago",
+    "views": 6232846,
+    "length": "9:58",
+    "description": "panjiri #panjirirecipe #panjiriprasad #dryfruits #dryfruitsandnuts #dryfruitladdoo #gondkipanjiri #gondkeladoo #gondkeladdu ...",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/qqvcn40Eh4A/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMAgRaph5cf1QlaNJfak71sO_sfQ",
+     "rich": "https://i.ytimg.com/an_webp/qqvcn40Eh4A/mqdefault_6s.webp?du=3000&sqp=CMD9_9UG&rs=AOn4CLCtzFY8vzYXvWeZ_oLByYvdzPibWQ"
+    }
+   },
+   {
+    "position_on_page": 18,
+    "title": "Gond Ke Laddu | Thakan,Kamzori, Haddiyon Ka Dard Dur kare | Gond Laddu Recipe | Gond Ke Laddoo",
+    "link": "https://www.youtube.com/watch?v=qUzRpRILNJ8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qUzRpRILNJ8",
+    "video_id": "qUzRpRILNJ8",
+    "channel": {
+     "name": "Street Food Zaika",
+     "link": "https://www.youtube.com/@StreetFoodZaika",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kVTPfxjuWAFxS8yp6QfBPpEhUAwuZJ4AzfTBOAw2QA2g=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "5y ago",
+    "views": 4166876,
+    "length": "20:50",
+    "description": "Follow us on instagram https://instagram.com/streetfoodzaika?utm_medium=copy_link.",
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/qUzRpRILNJ8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwCM_QORoIOistZnMiFXyViHdu8w",
+     "rich": "https://i.ytimg.com/an_webp/qUzRpRILNJ8/mqdefault_6s.webp?du=3000&sqp=CLP4_9UG&rs=AOn4CLDpzvLYFkcuJ55_H1gzKvMC2ld00Q"
+    }
+   },
+   {
+    "position_on_page": 19,
+    "title": "5 चीज़ो से बनाऐ सर्दियो में खायें जाने वाले ताकतवर अलसी के लड्डू - तेज दिमाग​ और बिमारी कोसो दूर",
+    "link": "https://www.youtube.com/watch?v=_J_ktxQ8FzE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_J_ktxQ8FzE",
+    "video_id": "_J_ktxQ8FzE",
+    "channel": {
+     "name": "Papa Mummy Kitchen - Specials",
+     "link": "https://www.youtube.com/@PapaMummyKitchenSpecials",
+     "verified": true,
+     "thumbnail": "https://yt3.ggpht.com/WUx6WffhSB4fZR6QI0DF2_jBemsBrl3BhGuqnMeloJLcsWPmYs5HoIHIENTE93NdNz4KYyv4=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "1y ago",
+    "views": 9172078,
+    "length": "13:27",
+    "description": "... loss recipe, gym recipe, punjabi alsi ke ladoo, punjabi alsi pinni, flax seed ladoo with jaggery, alsi ki pinni recipe, pinni recipe, ...",
+    "extensions": [
+     "4K"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/_J_ktxQ8FzE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCG1T_xCYYQHG0U2a1x5aLaEfXqbQ",
+     "rich": "https://i.ytimg.com/an_webp/_J_ktxQ8FzE/mqdefault_6s.webp?du=3000&sqp=CMXk_9UG&rs=AOn4CLCMk3Q43Wm1B5BPwh-To5JAoPK64w"
+    }
+   },
+   {
+    "position_on_page": 20,
+    "title": "Panjiri Banane ka Tarika | Punjabi Panjiri Recipe | Panjiri Recipe after Delivery",
+    "link": "https://www.youtube.com/watch?v=IsW4NyYybTk",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=IsW4NyYybTk",
+    "video_id": "IsW4NyYybTk",
+    "channel": {
+     "name": "Homemade & Co.",
+     "link": "https://www.youtube.com/@homemadeco",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mcot7Gzs6SjeUGGLh_vJcgm0vyXD00sUlksHwgZTocmA=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "published_date": "2y ago",
+    "views": 195264,
+    "length": "3:47",
+    "description": "This video features Panjiri Banane ka Tarika | Punjabi Panjiri Recipe | Panjiri Recipe after Delivery This Punjabi panjiri recipe is ...",
+    "extensions": [
+     "4K"
+    ],
+    "thumbnail": {
+     "static": "https://i.ytimg.com/vi/IsW4NyYybTk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYQK0GqXn_1SqG69CwLXRqqL4B5g",
+     "rich": "https://i.ytimg.com/an_webp/IsW4NyYybTk/mqdefault_6s.webp?du=3000&sqp=CLjk_9UG&rs=AOn4CLD36XT5JTI5ER0KrgS3tD5jQ3RcTg"
+    }
+   }
+  ],
+  "shorts_results": [
+   {
+    "position_on_page": 2,
+    "shorts": [
+     {
+      "title": "𝐏𝐢𝐧𝐧𝐢 | 𝐖𝐢𝐧𝐭𝐞𝐫 𝐄𝐧𝐞𝐫𝐠𝐲 𝐒𝐰𝐞𝐞𝐭 | 𝐓𝐫𝐚𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐑𝐞𝐜𝐢𝐩𝐞 | 𝐆𝐡𝐢𝐛𝐥𝐢 𝐂𝐨𝐨𝐤𝐢𝐧𝐠",
+      "link": "https://www.youtube.com/shorts/oV1DtgJhStk",
+      "thumbnail": "https://i.ytimg.com/vi/oV1DtgJhStk/frame0.jpg",
+      "views_original": "286 views",
+      "views": 286,
+      "video_id": "oV1DtgJhStk"
+     },
+     {
+      "title": "Traditional Atta Pinni Recipe | Perfect Sweet for Lohri & Winters",
+      "link": "https://www.youtube.com/shorts/d0LF86lC4IA",
+      "thumbnail": "https://i.ytimg.com/vi/d0LF86lC4IA/frame0.jpg",
+      "views_original": "1.7K views",
+      "views": 1700,
+      "video_id": "d0LF86lC4IA"
+     },
+     {
+      "title": "🍯 Aata Pinni Recipe | Traditional Winter Sweet | Healthy Homemade Ladoo 🍯",
+      "link": "https://www.youtube.com/shorts/z5MKxmLtbq8",
+      "thumbnail": "https://i.ytimg.com/vi/z5MKxmLtbq8/frame0.jpg",
+      "views_original": "4.9K views",
+      "views": 4900,
+      "video_id": "z5MKxmLtbq8"
+     },
+     {
+      "title": "Atta Pinni For Winter ❄️ #pinnirecipe #attaladdu #punjabifood #winterspecial #trending #shorts",
+      "link": "https://www.youtube.com/shorts/0MfU8gv5Z04",
+      "thumbnail": "https://i.ytimg.com/vi/0MfU8gv5Z04/frame0.jpg",
+      "views_original": "1.1M views",
+      "views": 1100000,
+      "video_id": "0MfU8gv5Z04"
+     },
+     {
+      "title": "Learn to make Punjabi Pinni at home |  Healthy Indian Dessert Recipes | Lohri Special",
+      "link": "https://www.youtube.com/shorts/-Dv6NbVPYeo",
+      "thumbnail": "https://i.ytimg.com/vi/-Dv6NbVPYeo/frame0.jpg",
+      "views_original": "10K views",
+      "views": 10000,
+      "video_id": "-Dv6NbVPYeo"
+     }
+    ]
+   },
+   {
+    "position_on_page": 6,
+    "shorts": [
+     {
+      "title": "Homemade Pinni Recipe ❤️#winter #pinnirecipe #laddu #desi #viral #food #punjabisong  #shorts",
+      "link": "https://www.youtube.com/shorts/YyrnYKhcsz8",
+      "thumbnail": "https://i.ytimg.com/vi/YyrnYKhcsz8/frame0.jpg",
+      "views_original": "1.5K views",
+      "views": 1500,
+      "video_id": "YyrnYKhcsz8"
+     },
+     {
+      "title": "Atta Pinni | Atta Ladoo | How to Make Punjabi Atta Pinni",
+      "link": "https://www.youtube.com/shorts/OZ_tRGjtp2E",
+      "thumbnail": "https://i.ytimg.com/vi/OZ_tRGjtp2E/frame0.jpg",
+      "views_original": "213K views",
+      "views": 213000,
+      "video_id": "OZ_tRGjtp2E"
+     },
+     {
+      "title": "How to Make Traditional Pinni – A Delicious Winter Treat! ❄️🍪 #PinniRecipe #DesiFood #WinterSpecial",
+      "link": "https://www.youtube.com/shorts/OOUrPFHN3R4",
+      "thumbnail": "https://i.ytimg.com/vi/OOUrPFHN3R4/frame0.jpg",
+      "views_original": "570 views",
+      "views": 570,
+      "video_id": "OOUrPFHN3R4"
+     },
+     {
+      "title": "Dryfruit Atta Pinni recipe | Dryfruit, Wheat Flour & Jaggery Laddu | #shorts #food @Gharkaswad20",
+      "link": "https://www.youtube.com/shorts/SIz_A7LLKaQ",
+      "thumbnail": "https://i.ytimg.com/vi/SIz_A7LLKaQ/frame0.jpg",
+      "views_original": "185 views",
+      "views": 185,
+      "video_id": "SIz_A7LLKaQ"
+     },
+     {
+      "title": "🥜 Punjabi Desi Pinni Recipe | Dry Fruits & Desi Ghee Special | Homemade Punjabi Pinni Vlog ❤️",
+      "link": "https://www.youtube.com/shorts/AbenkOMnJPc",
+      "thumbnail": "https://i.ytimg.com/vi/AbenkOMnJPc/frame0.jpg",
+      "views_original": "194 views",
+      "views": 194,
+      "video_id": "AbenkOMnJPc"
+     },
+     {
+      "title": "Gud Wali Pinni Recipe | Traditional Winter Sweet Recipe For Lohri | #shorts",
+      "link": "https://www.youtube.com/shorts/CfDlk6h4TCQ",
+      "thumbnail": "https://i.ytimg.com/vi/CfDlk6h4TCQ/frame0.jpg",
+      "views_original": "859 views",
+      "views": 859,
+      "video_id": "CfDlk6h4TCQ"
+     },
+     {
+      "title": "Chawal ke Ladoo Recipe & Pinni Recipe By Traditional Tarka 😋🤤#shortvideo #food #trend#ladoo",
+      "link": "https://www.youtube.com/shorts/lgMPbdahIDY",
+      "thumbnail": "https://i.ytimg.com/vi/lgMPbdahIDY/frame0.jpg",
+      "views_original": "462 views",
+      "views": 462,
+      "video_id": "lgMPbdahIDY"
+     },
+     {
+      "title": "Mung Dal Pinni Recipe 😍 #Shorts #food #recipe #cooking #foodie #homemadefood",
+      "link": "https://www.youtube.com/shorts/VU8lrmdJb7o",
+      "thumbnail": "https://i.ytimg.com/vi/VU8lrmdJb7o/frame0.jpg",
+      "views_original": "617 views",
+      "views": 617,
+      "video_id": "VU8lrmdJb7o"
+     },
+     {
+      "title": "Rich & Traditional Khoya Pinni Recipe | Perfect Winter Sweet 🍯#KhoyaPinni #WinterSpecial #shorts",
+      "link": "https://www.youtube.com/shorts/Wn8KSe7bjdY",
+      "thumbnail": "https://i.ytimg.com/vi/Wn8KSe7bjdY/frame0.jpg",
+      "views_original": "111 views",
+      "views": 111,
+      "video_id": "Wn8KSe7bjdY"
+     },
+     {
+      "title": "Pinni #recipe",
+      "link": "https://www.youtube.com/shorts/2NC00n4870g",
+      "thumbnail": "https://i.ytimg.com/vi/2NC00n4870g/frame0.jpg",
+      "views_original": "835 views",
+      "views": 835,
+      "video_id": "2NC00n4870g"
+     },
+     {
+      "title": "Not your regular ladoo ✨Authentic Urad Dal Pinni made the traditional way 🤎 #Shorts #Pinni",
+      "link": "https://www.youtube.com/shorts/yxMu02vMh0Y",
+      "thumbnail": "https://i.ytimg.com/vi/yxMu02vMh0Y/frame0.jpg",
+      "views_original": "467 views",
+      "views": 467,
+      "video_id": "yxMu02vMh0Y"
+     },
+     {
+      "title": "“Amritsar Famous Desi Pinni 😍 Ghar Par Banayi Halwai Style Punjabi Pinni | Desi Ghee Mithai Recipe”",
+      "link": "https://www.youtube.com/shorts/q8XN0Wn2QmM",
+      "thumbnail": "https://i.ytimg.com/vi/q8XN0Wn2QmM/frame0.jpg",
+      "views_original": "4.2K views",
+      "views": 4200,
+      "video_id": "q8XN0Wn2QmM"
+     },
+     {
+      "title": "Traditional Alsi Pinni Recipe in Village Style | Winter Special Energy Sweet #food #villagelife",
+      "link": "https://www.youtube.com/shorts/eOTkqzTSPeg",
+      "thumbnail": "https://i.ytimg.com/vi/eOTkqzTSPeg/frame0.jpg",
+      "views_original": "273K views",
+      "views": 273000,
+      "video_id": "eOTkqzTSPeg"
+     },
+     {
+      "title": "Desi ghee pinni♥️ #shorts #youtubeshorts #viral #trending #food #recipe #home #desi #pinni",
+      "link": "https://www.youtube.com/shorts/VeonToDExbk",
+      "thumbnail": "https://i.ytimg.com/vi/VeonToDExbk/frame0.jpg",
+      "views_original": "3.6K views",
+      "views": 3600,
+      "video_id": "VeonToDExbk"
+     },
+     {
+      "title": "Traditional Punjabi shahi Urad Dal Pinni | Gond & Dry Fruits Recipe 🏡",
+      "link": "https://www.youtube.com/shorts/miDDmacE52U",
+      "thumbnail": "https://i.ytimg.com/vi/miDDmacE52U/frame0.jpg",
+      "views_original": "3.2K views",
+      "views": 3200,
+      "video_id": "miDDmacE52U"
+     },
+     {
+      "title": "Punjabi Pinni/panjiri Pinni Recipe😍🤤 #food #trending #viral #recipe #recipe #punjabi #love #cook #",
+      "link": "https://www.youtube.com/shorts/04uI4zo9DMk",
+      "thumbnail": "https://i.ytimg.com/vi/04uI4zo9DMk/frame0.jpg",
+      "views_original": "239K views",
+      "views": 239000,
+      "video_id": "04uI4zo9DMk"
+     },
+     {
+      "title": "Traditional Winter Special Flaxseed Pinni #food #cooking #pinni #recipe",
+      "link": "https://www.youtube.com/shorts/d55-mqg-ETE",
+      "thumbnail": "https://i.ytimg.com/vi/d55-mqg-ETE/frame0.jpg",
+      "views_original": "1.9K views",
+      "views": 1900,
+      "video_id": "d55-mqg-ETE"
+     },
+     {
+      "title": "Homemade Pinni! | Pinni Recipe ਪਿੰਨੀ #punjabi #shorts #trending #indianfood #desifood #pakistani",
+      "link": "https://www.youtube.com/shorts/w0qRff4PONA",
+      "thumbnail": "https://i.ytimg.com/vi/w0qRff4PONA/frame0.jpg",
+      "views_original": "1.1K views",
+      "views": 1100,
+      "video_id": "w0qRff4PONA"
+     },
+     {
+      "title": "Punjabi Style Pinni Making | Desi Ghee Pinni Recipe | Traditional Punjabi Sweet #shorts",
+      "link": "https://www.youtube.com/shorts/2VavFUO9mdM",
+      "thumbnail": "https://i.ytimg.com/vi/2VavFUO9mdM/frame0.jpg",
+      "views_original": "1.1K views",
+      "views": 1100,
+      "video_id": "2VavFUO9mdM"
+     },
+     {
+      "title": "Gur aate ki pinni recipe in hindi | Indian pinni recipe | #cooking #recipes #youtubeshorts #sweet",
+      "link": "https://www.youtube.com/shorts/NQLgpJz6wS4",
+      "thumbnail": "https://i.ytimg.com/vi/NQLgpJz6wS4/frame0.jpg",
+      "views_original": "83K views",
+      "views": 83000,
+      "video_id": "NQLgpJz6wS4"
+     }
+    ]
+   }
+  ],
+  "pagination": {
+   "current": "https://www.youtube.com/results?search_query=Pinni+recipe+traditional&gl=in&hl=en",
+   "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Pinni%20recipe%20traditional&sp=SBSCAQtEREg5eXZqbDB1d4IBC3RvYlBqMlpLV1JvggELSDlWV21maEZJN2eCAQszb3dtRWdRUFdTTYIBC2ljaHQ1VmZtaEg4ggELcDdnX2UtU25LNTSCAQtIZG1Lb25DajZzRYIBC2wwbFJGa2hRRU5VggELSmVlcGhnSHJJTzCCAQtjOVVldVhENkpjc4IBC3lsdXZPLXp2c1BzggELSEM4SE0zRkVEd2OCAQtENUVoWl9yaXFWVYIBC1VObUJwMUNZLXdJggELcXF2Y240MEVoNEGCAQtxVXpScFJJTE5KOIIBC19KX2t0eFE4RnpFggELSXNXNE55WXliVGuyAQYKBAgUEALqAQQIAhAZ",
+   "next_page_token": "SBSCAQtEREg5eXZqbDB1d4IBC3RvYlBqMlpLV1JvggELSDlWV21maEZJN2eCAQszb3dtRWdRUFdTTYIBC2ljaHQ1VmZtaEg4ggELcDdnX2UtU25LNTSCAQtIZG1Lb25DajZzRYIBC2wwbFJGa2hRRU5VggELSmVlcGhnSHJJTzCCAQtjOVVldVhENkpjc4IBC3lsdXZPLXp2c1BzggELSEM4SE0zRkVEd2OCAQtENUVoWl9yaXFWVYIBC1VObUJwMUNZLXdJggELcXF2Y240MEVoNEGCAQtxVXpScFJJTE5KOIIBC19KX2t0eFE4RnpFggELSXNXNE55WXliVGuyAQYKBAgUEALqAQQIAhAZ"
+  },
+  "serpapi_pagination": {
+   "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Pinni+recipe+traditional",
+   "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Pinni+recipe+traditional&sp=SBSCAQtEREg5eXZqbDB1d4IBC3RvYlBqMlpLV1JvggELSDlWV21maEZJN2eCAQszb3dtRWdRUFdTTYIBC2ljaHQ1VmZtaEg4ggELcDdnX2UtU25LNTSCAQtIZG1Lb25DajZzRYIBC2wwbFJGa2hRRU5VggELSmVlcGhnSHJJTzCCAQtjOVVldVhENkpjc4IBC3lsdXZPLXp2c1BzggELSEM4SE0zRkVEd2OCAQtENUVoWl9yaXFWVYIBC1VObUJwMUNZLXdJggELcXF2Y240MEVoNEGCAQtxVXpScFJJTE5KOIIBC19KX2t0eFE4RnpFggELSXNXNE55WXliVGuyAQYKBAgUEALqAQQIAhAZ",
+   "next_page_token": "SBSCAQtEREg5eXZqbDB1d4IBC3RvYlBqMlpLV1JvggELSDlWV21maEZJN2eCAQszb3dtRWdRUFdTTYIBC2ljaHQ1VmZtaEg4ggELcDdnX2UtU25LNTSCAQtIZG1Lb25DajZzRYIBC2wwbFJGa2hRRU5VggELSmVlcGhnSHJJTzCCAQtjOVVldVhENkpjc4IBC3lsdXZPLXp2c1BzggELSEM4SE0zRkVEd2OCAQtENUVoWl9yaXFWVYIBC1VObUJwMUNZLXdJggELcXF2Y240MEVoNEGCAQtxVXpScFJJTE5KOIIBC19KX2t0eFE4RnpFggELSXNXNE55WXliVGuyAQYKBAgUEALqAQQIAhAZ"
+  }
+ }
+}

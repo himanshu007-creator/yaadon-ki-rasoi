@@ -1,0 +1,490 @@
+{
+ "engine": "google",
+ "params": {
+  "q": "Adhirasam also known as",
+  "gl": "in",
+  "hl": "en",
+  "google_domain": "google.co.in",
+  "device": "mobile"
+ },
+ "recordedAt": "2026-10-02T19:15:46.499Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac002d35922f42970605798",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/IDvm9bMiHuZAuspSvSuhyNuzem_ayX7LK-GGqiOuuwU/6ac002d35922f42970605798.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/IDvm9bMiHuZAuspSvSuhyNuzem_ayX7LK-GGqiOuuwU/6ac002d35922f42970605798.json_with_pixel_position",
+   "created_at": "2026-10-02 19:15:31 UTC",
+   "processed_at": "2026-10-02 19:15:31 UTC",
+   "google_url": "https://www.google.co.in/search?q=Adhirasam+also+known+as&oq=Adhirasam+also+known+as&hl=en&gl=in&sourceid=chrome-mobile&ie=UTF-8",
+   "total_time_taken": 14.67
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Adhirasam also known as",
+   "google_domain": "google.co.in",
+   "hl": "en",
+   "gl": "in",
+   "device": "mobile"
+  },
+  "search_information": {
+   "query_displayed": "Adhirasam also known as"
+  },
+  "inline_images": [
+   {
+    "link": "https://www.google.co.in/search?q=Adhirasam+also+known+as&sca_esv=4d65981f01013b52&hl=en&gl=in&sxsrf=APpeQnsZzYXKYgSmTlGULJTmeuKups14sQ%3A1790968538483&udm=2&sa=X&ved=2ahUKEwjl5KjchZyXAxVfQ_EDHXEtN9wQ9AF6BAg_EAA#imgrc=I5pMQZm-Cbb-0M",
+    "source": "https://www.mycookingjourney.com/athirsam-adhirasam-athirasam-recipe/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaYtRhclLSTZd-aerC94RtcZd6ZLDzsaivRAO2-pXYrA&s",
+    "original": "https://mycookingjourney.com/wp-content/uploads/2016/04/Athirsam-%2835%29-882x1024.jpg",
+    "title": "Adhirasam | Athirasam | Ariselu | Kajjaya | Anarsa | Arisa Pitha ...",
+    "source_name": "My Cooking Journey"
+   },
+   {
+    "link": "https://www.google.co.in/search?q=Adhirasam+also+known+as&sca_esv=4d65981f01013b52&hl=en&gl=in&sxsrf=APpeQnsZzYXKYgSmTlGULJTmeuKups14sQ%3A1790968538483&udm=2&sa=X&ved=2ahUKEwjl5KjchZyXAxVfQ_EDHXEtN9wQ9AF6BAhFEAA#imgrc=UIEE-ZSjIHLhqM",
+    "source": "https://www.mycookingjourney.com/athirsam-adhirasam-athirasam-recipe/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSweyvTGl0G63druG4fUSIVl5e-IeRON4Q4EWhkNroPamtdGGW4IeQiMXc&s",
+    "original": "https://www.mycookingjourney.com/wp-content/uploads/2025/01/Adhirasam-1200x1200-1-480x270.jpg",
+    "title": "Adhirasam | Athirasam | Ariselu | Kajjaya | Anarsa | Arisa Pitha Recipe",
+    "source_name": "My Cooking Journey"
+   }
+  ],
+  "inline_videos": [
+   {
+    "position": 1,
+    "title": "Traditional Adhirasam Recipe | Crispy & Soft Jaggery Sweet | Diwali Special Sweet",
+    "link": "https://www.youtube.com/watch?v=einlsWV9sCg",
+    "thumbnail": "https://serpapi.com/searches/6ac002d35922f42970605798/images/6xh8EoknU50ejSSEtvRBjv4QjqFkF1hcVDa57ZeiT34.jpeg",
+    "channel": "India Sisters Kitchen English",
+    "duration": "7:07",
+    "platform": "YouTube",
+    "date": "9 Oct 2025",
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQiU9oox1yu6kyp5s513vXbS7MreVHprlLeJg"
+   },
+   {
+    "position": 2,
+    "title": "The sweet taste of home, Adhirasam  #indianfood #indiansweets #southindia",
+    "link": "https://www.facebook.com/a2b.officialpage/posts/the-sweet-taste-of-home-adhirasam-indianfood-indiansweets-southindia/1471641274992892/",
+    "thumbnail": "https://serpapi.com/searches/6ac002d35922f42970605798/images/rzjUYsXC1AdhA8Z1PTvAD-K-AJDGnDzeONxEJSrz_MI.jpeg",
+    "channel": "Adyar Ananda Bhavan",
+    "duration": "0:27",
+    "platform": "Facebook",
+    "date": "31 Jul 2026"
+   },
+   {
+    "position": 3,
+    "title": "பாகுபதம் பற்றி கவலை இல்லை! சுலபமான முறையில் அதிரசம் செய்வது எப்படி? ADHIRASAM",
+    "link": "https://www.youtube.com/watch?v=P9B1L9bOjkg",
+    "thumbnail": "https://serpapi.com/searches/6ac002d35922f42970605798/images/h_5gbmCfSTz0qBDxHz8Vg7NnNa0vt0SwnCbxGnh2UEc.jpeg",
+    "channel": "Chef Deena’s Kitchen",
+    "duration": "13:47",
+    "platform": "YouTube",
+    "date": "7 Oct 2025",
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRRESiJjEJmi0D7v6uPHmsxLgGF6ArYYWNljw"
+   },
+   {
+    "position": 4,
+    "title": "Adhirasam's legacy dates back over a thousand years, its roots deeply woven into temple ...",
+    "link": "https://www.facebook.com/SweetKaramCoffee/videos/adhirasams-legacy-dates-back-over-a-thousand-years-its-roots-deeply-woven-into-t/508554995411840/",
+    "thumbnail": "https://serpapi.com/searches/6ac002d35922f42970605798/images/z8DHqFXM0kuQ_sQ-JSCxJRwLVaDQyfyrSwIZX0UyTm0.jpeg",
+    "channel": "sweetkaramcoffee.in",
+    "duration": "0:28",
+    "platform": "Facebook",
+    "date": "19 Mar 2025"
+   }
+  ],
+  "short_videos": [
+   {
+    "position": 1,
+    "title": "Ariselu, also known as Adhirasam in some regions, is a traditional South Indian sweet made ... by Venky Aaron | Fitness coach on Instagram. Play on Instagram. 0:33",
+    "source": "Instagram",
+    "profile_name": "Venky Aaron | Fitness coach",
+    "extensions": [
+     "Venky Aaron | Fitness coach"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "duration": "0:33",
+    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR5oqbNHX5OPqTAHppQ5BFha4pKVlWhiJDI0w",
+    "thumbnail": "https://serpapi.com/searches/6ac002d35922f42970605798/images/_2ykcYrQjoY_lrGCq6-JiNi203NQjidpCK6QoH57_bc.jpeg",
+    "link": "https://www.instagram.com/reel/C2Cw2PKr_R-/?hl=en"
+   },
+   {
+    "position": 2,
+    "title": "The sweet taste of home, Adhirasam 😋 #indianfood #indiansweets #southindia by Adyar Ananda Bhavan on Facebook. Play on Facebook. 0:27",
+    "source": "Facebook",
+    "profile_name": "Adyar Ananda Bhavan",
+    "extensions": [
+     "Adyar Ananda Bhavan"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "duration": "0:27",
+    "thumbnail": "https://serpapi.com/searches/6ac002d35922f42970605798/images/JcsxBQB2bMVPS1tnMsoQgWUlNZO2ozuENVv8T1eF-u4.jpeg",
+    "link": "https://www.facebook.com/a2b.officialpage/posts/the-sweet-taste-of-home-adhirasam-indianfood-indiansweets-southindia/1471641274992892/"
+   },
+   {
+    "position": 3,
+    "title": "Adhirasam's legacy dates back over a thousand years, its roots deeply woven into temple ... by sweetkaramcoffee.in on Facebook. Play on Facebook. 0:28",
+    "source": "Facebook",
+    "profile_name": "sweetkaramcoffee.in",
+    "extensions": [
+     "sweetkaramcoffee.in"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "duration": "0:28",
+    "thumbnail": "https://serpapi.com/searches/6ac002d35922f42970605798/images/tpBS-Lxyw01K5rDyRDAjB3OcxkC7eYzvhlbGztrBRXg.jpeg",
+    "link": "https://www.facebook.com/SweetKaramCoffee/videos/adhirasams-legacy-dates-back-over-a-thousand-years-its-roots-deeply-woven-into-t/508554995411840/"
+   },
+   {
+    "position": 4,
+    "title": "Adhirasam is a traditional South Indian sweet!! The sweet is believed to have originated ... by Hungry food blogger on Instagram. Play on Instagram. 0:47",
+    "source": "Instagram",
+    "profile_name": "Hungry food blogger",
+    "extensions": [
+     "Hungry food blogger"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "duration": "0:47",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsnBkS92SXik4-NBgbKFoLIfQqRuU8soi2HhhLc_aDS6QYUZ9VB6p0ZtU&s=10",
+    "link": "https://www.instagram.com/reel/DAYDjSDyO7Z/?hl=en"
+   },
+   {
+    "position": 5,
+    "title": "Tips for Perfect Adhirasam: Traditional South Indian Diwali Sweet Recipe by Rak's Kitchen on Facebook. Play on Facebook. 1:00",
+    "source": "Facebook",
+    "profile_name": "Rak's Kitchen",
+    "extensions": [
+     "Rak's Kitchen"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "duration": "1:00",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyZNOGgjJoL6sO2Bzqu6bCVCtjlfgcCN7m-W7rvUbotd_XI4AiFkWnqFM&s=10",
+    "link": "https://www.facebook.com/rakskitchen/videos/adhirasam-for-diwali-save-share-ir-20-ir-64-raw-rice-is-a-game-changer-for-me-ca/2271586246612818/"
+   },
+   {
+    "position": 6,
+    "title": "Episode 2 of history of traditional Diwali snacks and it's close relationship with the rice ... by Monks Bouffe on Instagram. Play on Instagram. 0:46",
+    "source": "Instagram",
+    "profile_name": "Monks Bouffe",
+    "extensions": [
+     "Monks Bouffe"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "duration": "0:46",
+    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSqfK3RkSzRLdzMCLKrE8CP0MnfeLnFEBvsxQ",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfSO7-q2ruLfUWZvmIlXj8YMsEKjZ2v0oEw0Q8kDsa4qoahV_BErUuS1Q&s=10",
+    "link": "https://www.instagram.com/reel/Czbz4ISyffJ/?hl=en"
+   },
+   {
+    "position": 7,
+    "title": "Traditional Adhirasam Recipe | Diwali Special Sweet #Shorts",
+    "source": "YouTube",
+    "profile_name": "India Sisters Kitchen English",
+    "extensions": [
+     "India Sisters Kitchen English"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "duration": "1:24",
+    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSIqJJF7mfFaxeEoenkPchmnV4SLLEzL8gXZA",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0hcXPesz1a7Dz1kyKCh3aq6iUVu_xPk1QFgSs4qiW2woJ_Z2eYJEwQD8&s=10",
+    "link": "https://www.youtube.com/shorts/jt4P6-82nBo"
+   },
+   {
+    "position": 8,
+    "title": "Adhirasam is a traditional South Indian sweet treat that's perfect for festivals like Diwali. ... by Bothell Foods LLC on Instagram. Play on Instagram. 0:43",
+    "source": "Instagram",
+    "profile_name": "Bothell Foods LLC",
+    "extensions": [
+     "Bothell Foods LLC"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "duration": "0:43",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE5BcPJw9dlUApDo3GZvjuei1MvSaeZ6Imr28QDVaDXQDtaoE7g_6DlJo&s=10",
+    "link": "https://www.instagram.com/reel/DPmoNL3klZN/?hl=en"
+   },
+   {
+    "position": 9,
+    "title": "Tag & ask your friend \"Adhirasam Vanghithaa ... by Oorla on Instagram. Play on Instagram. 0:43",
+    "source": "Instagram",
+    "profile_name": "Oorla",
+    "extensions": [
+     "Oorla"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "duration": "0:43",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7MUP6zlDOgxnKNF9iQGVZ8ovWwEef3_2O8HgxtnqfGvX0wpnhZAOeOHQ&s=10",
+    "link": "https://www.instagram.com/reel/DPd2Vp0E-5R/"
+   },
+   {
+    "position": 10,
+    "title": "Winter in Odisha hits different when Arisa Pitha is on the plate 🤎 Tradition, taste, and ... by Chinmayee Sahoo on Facebook. Play on Facebook. 2:50",
+    "source": "Facebook",
+    "profile_name": "Chinmayee Sahoo",
+    "extensions": [
+     "Chinmayee Sahoo"
+    ],
+    "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "duration": "2:50",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhSsH08pk9IgpAN_RudN58BJudfmjeQP3tDUFZcuSw0xc-Q-r0W6xcOY8&s=10",
+    "link": "https://www.facebook.com/chinmayee.sahoo.727635/posts/winter-in-odisha-hits-different-when-arisa-pitha-is-on-the-plate-tradition-taste/899056189207447/"
+   }
+  ],
+  "related_questions": [
+   {
+    "question": "Are Adhirasam and ariselu the same thing?",
+    "type": "ai_overview",
+    "page_token": "Twl_OHicHdDbboIwAIDh7GW8VMTDNhOzBC1EYusothxuFmiHCIXirFJ6t3fZU-1pZnb_X3z5v3_Eua1_n3SpVHddTSZ9349PUp7E55jJ8bmdZNehZROWCZFnrF4tn5fTt4KtwW3nbC47JyBdR7fYOrr-hdPUUEtdM1Fi4gmKp46ObS6jStxgJBeoAhY-Aiuo_HdOlMkt1cfGr6jlvieETHPqtKhBdzRzuxyUJQFoQE15SEwpk7hWMPJ33EZV6voab9MqM1DtYzKPIj2Ehl6I4TfcpBncUhe2SCSk0wfPH0L3ZX5sUheKjiD7VYRG1EHsx-GsXkTgakKLF3Qme0bAgKgf5oA7oGRDamkniWlMQFnvCZ8_HMHBw0NiMIaOPAcEG1aJhkxhn9tYslqDKFLi0XoQ6EtuxD218SYQTPN-VLD7ejb6_7n-KBq16r7k6Q9194fm",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Twl_OHicHdDbboIwAIDh7GW8VMTDNhOzBC1EYusothxuFmiHCIXirFJ6t3fZU-1pZnb_X3z5v3_Eua1_n3SpVHddTSZ9349PUp7E55jJ8bmdZNehZROWCZFnrF4tn5fTt4KtwW3nbC47JyBdR7fYOrr-hdPUUEtdM1Fi4gmKp46ObS6jStxgJBeoAhY-Aiuo_HdOlMkt1cfGr6jlvieETHPqtKhBdzRzuxyUJQFoQE15SEwpk7hWMPJ33EZV6voab9MqM1DtYzKPIj2Ehl6I4TfcpBncUhe2SCSk0wfPH0L3ZX5sUheKjiD7VYRG1EHsx-GsXkTgakKLF3Qme0bAgKgf5oA7oGRDamkniWlMQFnvCZ8_HMHBw0NiMIaOPAcEG1aJhkxhn9tYslqDKFLi0XoQ6EtuxD218SYQTPN-VLD7ejb6_7n-KBq16r7k6Q9194fm",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZVUnNNR0pPV2xKSmNIbHZlbXhTTmpCdFZsUXpjVWRhY0VaemVFSkVaRjlPVGpnMWRXRktjMlJDV1RFNFJqWmpWWE5pWnpseFYyaGhlVzkwUjJoYVozaFZUMGRrVDNwWVpVdElObWgwTFV4S1ZFUkxRekZFU0VwRVVSSVhNbWRNUVdGMVYxQklaQzFIZUdNNFVEaGtjbU0wVVRBYUlrRkVjM0k1WmxOZk5rTTFaMFpoVTBGRE9XMWtWVkF0TjJ3MWRWUkJUek0yTjJjIiwiZmN2IjoiMyIsImVpIjoiMmdMQWF1V1BIZC1HeGM4UDhkcmM0UTAiLCJxYyI6IkNoZGhaR2hwY21GellXMGdZV3h6YnlCcmJtOTNiaUJoY3hBQWZSRDRDejgiLCJxdWVzdGlvbiI6IkFyZSBBZGhpcmFzYW0gYW5kIGFyaXNlbHUgdGhlIHNhbWUgdGhpbmc/IiwibGsiOiJjNU9TUzB6SnlDeEtMRTdNVlVqTVMxRklMTW9zVHMwcEJkS3BDa0N4VkFBIiwiYnMiOiJjM1dQVFF1Q1FCQ0c2VHFuaUtEYVF3ejBBVjJGcmkzLUFLR2I1MEZIZDBCZDJWWEVmOS1Xa0JGMW1vX25nWGtIRXJqRWpqSE9qVGp5VkNNMU9aSVR6MVdQbldFTU93Nk5OS1dPVU8zcHAwaHVFdUVHNTlSd21ITExIdU9BQ2VfU0dVTHJwSlNHT3NiQzJWcEhhN1dpRjI0X01DUndUSTFrQnR1S01rYnhXRkJ0LTFDc20wUHE2S1FPdzFfdm5SR3VzRTNOLU1UemcxbTQybzQ2MnFuTk1ESDZZc3ZGQXciLCJpZCI6ImZjXzJnTEFhdVdQSGQtR3hjOFA4ZHJjNFEwXzUifQ==",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZVUnNNR0pPV2xKSmNIbHZlbXhTTmpCdFZsUXpjVWRhY0VaemVFSkVaRjlPVGpnMWRXRktjMlJDV1RFNFJqWmpWWE5pWnpseFYyaGhlVzkwUjJoYVozaFZUMGRrVDNwWVpVdElObWgwTFV4S1ZFUkxRekZFU0VwRVVSSVhNbWRNUVdGMVYxQklaQzFIZUdNNFVEaGtjbU0wVVRBYUlrRkVjM0k1WmxOZk5rTTFaMFpoVTBGRE9XMWtWVkF0TjJ3MWRWUkJUek0yTjJjIiwiZmN2IjoiMyIsImVpIjoiMmdMQWF1V1BIZC1HeGM4UDhkcmM0UTAiLCJxYyI6IkNoZGhaR2hwY21GellXMGdZV3h6YnlCcmJtOTNiaUJoY3hBQWZSRDRDejgiLCJxdWVzdGlvbiI6IkFyZSBBZGhpcmFzYW0gYW5kIGFyaXNlbHUgdGhlIHNhbWUgdGhpbmc%2FIiwibGsiOiJjNU9TUzB6SnlDeEtMRTdNVlVqTVMxRklMTW9zVHMwcEJkS3BDa0N4VkFBIiwiYnMiOiJjM1dQVFF1Q1FCQ0c2VHFuaUtEYVF3ejBBVjJGcmkzLUFLR2I1MEZIZDBCZDJWWEVmOS1Xa0JGMW1vX25nWGtIRXJqRWpqSE9qVGp5VkNNMU9aSVR6MVdQbldFTU93Nk5OS1dPVU8zcHAwaHVFdUVHNTlSd21ITExIdU9BQ2VfU0dVTHJwSlNHT3NiQzJWcEhhN1dpRjI0X01DUndUSTFrQnR1S01rYnhXRkJ0LTFDc20wUHE2S1FPdzFfdm5SR3VzRTNOLU1UemcxbTQybzQ2MnFuTk1ESDZZc3ZGQXciLCJpZCI6ImZjXzJnTEFhdVdQSGQtR3hjOFA4ZHJjNFEwXzUifQ%3D%3D"
+   },
+   {
+    "question": "Where does Arisa Pitha originate from?",
+    "type": "ai_overview",
+    "page_token": "ApuX0HicHdDbTsIwGADg-DJewg6ggYQYi52j4rBl_cd2Y7bWUda1m4rucOe7-FQ-jcY3-PJ9fdcnq38uenU-t-_L6bTrusmxaY71y0Q0k5Od5u-DFVOR13WRC728ur5yb0qxwh8btH7dIMrbFu6YE2MZSZMFhSfvRSKjLZAetILcolRUpKGObMHUOzCdF-NsnQDttzEymUv9YnDb3JN9DODs8GKeG9ikuvEZZpwC7nnI1nvIHqND8EZHYllAvL2uk7RCHg9ov9eyAt2W0aiCArfnxNQ4MuCDZSF14UnekZibWc9tZlK4HcHCdu8tBhorxEJidxxIAeRVgvYYnz8wvPCxEkPm9Cg9wIFjpbdcztJR0d09G9KRsUfUnChno6hqw30yK9ygLDwVJmEGPIkeXio0Z3904SgOVTTPustSfK78y__P1XNpzsv2rTn-Ap-vhCA",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ApuX0HicHdDbTsIwGADg-DJewg6ggYQYi52j4rBl_cd2Y7bWUda1m4rucOe7-FQ-jcY3-PJ9fdcnq38uenU-t-_L6bTrusmxaY71y0Q0k5Od5u-DFVOR13WRC728ur5yb0qxwh8btH7dIMrbFu6YE2MZSZMFhSfvRSKjLZAetILcolRUpKGObMHUOzCdF-NsnQDttzEymUv9YnDb3JN9DODs8GKeG9ikuvEZZpwC7nnI1nvIHqND8EZHYllAvL2uk7RCHg9ov9eyAt2W0aiCArfnxNQ4MuCDZSF14UnekZibWc9tZlK4HcHCdu8tBhorxEJidxxIAeRVgvYYnz8wvPCxEkPm9Cg9wIFjpbdcztJR0d09G9KRsUfUnChno6hqw30yK9ygLDwVJmEGPIkeXio0Z3904SgOVTTPustSfK78y__P1XNpzsv2rTn-Ap-vhCA",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZVUnNNR0pPV2xKSmNIbHZlbXhTTmpCdFZsUXpjVWRhY0VaemVFSkVaRjlPVGpnMWRXRktjMlJDV1RFNFJqWmpWWE5pWnpseFYyaGhlVzkwUjJoYVozaFZUMGRrVDNwWVpVdElObWgwTFV4S1ZFUkxRekZFU0VwRVVSSVhNbWRNUVdGMVYxQklaQzFIZUdNNFVEaGtjbU0wVVRBYUlrRkVjM0k1WmxOZk5rTTFaMFpoVTBGRE9XMWtWVkF0TjJ3MWRWUkJUek0yTjJjIiwiZmN2IjoiMyIsImVpIjoiMmdMQWF1V1BIZC1HeGM4UDhkcmM0UTAiLCJxYyI6IkNoZGhaR2hwY21GellXMGdZV3h6YnlCcmJtOTNiaUJoY3hBQWZSRDRDejgiLCJxdWVzdGlvbiI6IldoZXJlIGRvZXMgQXJpc2EgUGl0aGEgb3JpZ2luYXRlIGZyb20/IiwibGsiOiJHaEpoY21sellTQndhWFJvWVNCdmNtbG5hVzQiLCJicyI6ImMzV1BUUXVDUUJDRzZUcW5pS0RhUXd6MEFWMkZyaTMtQUtHYjUwRkhkMEJkMlZYRWY5LVdrQkYxbW9fbmdYa0hFcmpFampIT2pUanlWQ00xT1pJVHoxV1BuV0VNT3c2Tk5LV09VTzNwcDBodUV1RUc1OVJ3bUhMTEh1T0FDZV9TR1VMcnBKU0dPc2JDMlZwSGE3V2lGMjRfTUNSd1RJMWtCdHVLTWtieFdGQnQtMUNzbTBQcTZLUU93MV92blJHdXNFM04tTVR6ZzFtNDJvNDYycW5OTURINllzdkZBdyIsImlkIjoiZmNfMmdMQWF1V1BIZC1HeGM4UDhkcmM0UTBfNSJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZVUnNNR0pPV2xKSmNIbHZlbXhTTmpCdFZsUXpjVWRhY0VaemVFSkVaRjlPVGpnMWRXRktjMlJDV1RFNFJqWmpWWE5pWnpseFYyaGhlVzkwUjJoYVozaFZUMGRrVDNwWVpVdElObWgwTFV4S1ZFUkxRekZFU0VwRVVSSVhNbWRNUVdGMVYxQklaQzFIZUdNNFVEaGtjbU0wVVRBYUlrRkVjM0k1WmxOZk5rTTFaMFpoVTBGRE9XMWtWVkF0TjJ3MWRWUkJUek0yTjJjIiwiZmN2IjoiMyIsImVpIjoiMmdMQWF1V1BIZC1HeGM4UDhkcmM0UTAiLCJxYyI6IkNoZGhaR2hwY21GellXMGdZV3h6YnlCcmJtOTNiaUJoY3hBQWZSRDRDejgiLCJxdWVzdGlvbiI6IldoZXJlIGRvZXMgQXJpc2EgUGl0aGEgb3JpZ2luYXRlIGZyb20%2FIiwibGsiOiJHaEpoY21sellTQndhWFJvWVNCdmNtbG5hVzQiLCJicyI6ImMzV1BUUXVDUUJDRzZUcW5pS0RhUXd6MEFWMkZyaTMtQUtHYjUwRkhkMEJkMlZYRWY5LVdrQkYxbW9fbmdYa0hFcmpFampIT2pUanlWQ00xT1pJVHoxV1BuV0VNT3c2Tk5LV09VTzNwcDBodUV1RUc1OVJ3bUhMTEh1T0FDZV9TR1VMcnBKU0dPc2JDMlZwSGE3V2lGMjRfTUNSd1RJMWtCdHVLTWtieFdGQnQtMUNzbTBQcTZLUU93MV92blJHdXNFM04tTVR6ZzFtNDJvNDYycW5OTURINllzdkZBdyIsImlkIjoiZmNfMmdMQWF1V1BIZC1HeGM4UDhkcmM0UTBfNSJ9"
+   },
+   {
+    "question": "Which place is famous for Adhirasam?",
+    "type": "ai_overview",
+    "page_token": "ZTwhmXicHdBLbqMwGABg9TJdJkAeo0aKqjqDQ5jEEcY2mM3I2Ekg_nk0oQ2w613mVHOajmb7Lb-vP1DW9u9TX3Rde19Np4_HY3JpmgucJrqZlPVU3YdaT7UCyJW2q-WPpft61mv_Y4c27zsU8bYVP6nDMLwfMTkcMAD1uiypTCccfDsxjDKMURKEiHnZL-KJJMYE4vptcYzdkW7cmwSQJ98uBCvCGEJpKrif0kNnIOoVZL3GQGOnLZVvtprRJMdFLT055jMQYiyk2LgsC8KdCAqIU7LP7cv9n0VESFf5815vTUAHZ0h4h7hd7JMraZl1r6pyHCXoQqdUiKs_z1l4M6l1lIdrv9BD5vRIpiLlfmH33MzlWETHLR3kSOkBNWXE6aivUPHqpdRYQBYQKryMm1o_6AwviXWXBgximAw8ej7rz_Xs-f_n-ve56lbtrbl8A0rYhEM",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ZTwhmXicHdBLbqMwGABg9TJdJkAeo0aKqjqDQ5jEEcY2mM3I2Ekg_nk0oQ2w613mVHOajmb7Lb-vP1DW9u9TX3Rde19Np4_HY3JpmgucJrqZlPVU3YdaT7UCyJW2q-WPpft61mv_Y4c27zsU8bYVP6nDMLwfMTkcMAD1uiypTCccfDsxjDKMURKEiHnZL-KJJMYE4vptcYzdkW7cmwSQJ98uBCvCGEJpKrif0kNnIOoVZL3GQGOnLZVvtprRJMdFLT055jMQYiyk2LgsC8KdCAqIU7LP7cv9n0VESFf5815vTUAHZ0h4h7hd7JMraZl1r6pyHCXoQqdUiKs_z1l4M6l1lIdrv9BD5vRIpiLlfmH33MzlWETHLR3kSOkBNWXE6aivUPHqpdRYQBYQKryMm1o_6AwviXWXBgximAw8ej7rz_Xs-f_n-ve56lbtrbl8A0rYhEM",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZVUnNNR0pPV2xKSmNIbHZlbXhTTmpCdFZsUXpjVWRhY0VaemVFSkVaRjlPVGpnMWRXRktjMlJDV1RFNFJqWmpWWE5pWnpseFYyaGhlVzkwUjJoYVozaFZUMGRrVDNwWVpVdElObWgwTFV4S1ZFUkxRekZFU0VwRVVSSVhNbWRNUVdGMVYxQklaQzFIZUdNNFVEaGtjbU0wVVRBYUlrRkVjM0k1WmxOZk5rTTFaMFpoVTBGRE9XMWtWVkF0TjJ3MWRWUkJUek0yTjJjIiwiZmN2IjoiMyIsImVpIjoiMmdMQWF1V1BIZC1HeGM4UDhkcmM0UTAiLCJxYyI6IkNoZGhaR2hwY21GellXMGdZV3h6YnlCcmJtOTNiaUJoY3hBQWZSRDRDejgiLCJxdWVzdGlvbiI6IldoaWNoIHBsYWNlIGlzIGZhbW91cyBmb3IgQWRoaXJhc2FtPyIsImxrIjoiR2lOM2FHbGphQ0J3YkdGalpTQnBjeUJtWVcxdmRYTWdabTl5SUdGa2FHbHlZWE5oYlEiLCJicyI6ImMzV1BUUXVDUUJDRzZUcW5pS0RhUXd6MEFWMkZyaTMtQUtHYjUwRkhkMEJkMlZYRWY5LVdrQkYxbW9fbmdYa0hFcmpFampIT2pUanlWQ00xT1pJVHoxV1BuV0VNT3c2Tk5LV09VTzNwcDBodUV1RUc1OVJ3bUhMTEh1T0FDZV9TR1VMcnBKU0dPc2JDMlZwSGE3V2lGMjRfTUNSd1RJMWtCdHVLTWtieFdGQnQtMUNzbTBQcTZLUU93MV92blJHdXNFM04tTVR6ZzFtNDJvNDYycW5OTURINllzdkZBdyIsImlkIjoiZmNfMmdMQWF1V1BIZC1HeGM4UDhkcmM0UTBfNSJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZVUnNNR0pPV2xKSmNIbHZlbXhTTmpCdFZsUXpjVWRhY0VaemVFSkVaRjlPVGpnMWRXRktjMlJDV1RFNFJqWmpWWE5pWnpseFYyaGhlVzkwUjJoYVozaFZUMGRrVDNwWVpVdElObWgwTFV4S1ZFUkxRekZFU0VwRVVSSVhNbWRNUVdGMVYxQklaQzFIZUdNNFVEaGtjbU0wVVRBYUlrRkVjM0k1WmxOZk5rTTFaMFpoVTBGRE9XMWtWVkF0TjJ3MWRWUkJUek0yTjJjIiwiZmN2IjoiMyIsImVpIjoiMmdMQWF1V1BIZC1HeGM4UDhkcmM0UTAiLCJxYyI6IkNoZGhaR2hwY21GellXMGdZV3h6YnlCcmJtOTNiaUJoY3hBQWZSRDRDejgiLCJxdWVzdGlvbiI6IldoaWNoIHBsYWNlIGlzIGZhbW91cyBmb3IgQWRoaXJhc2FtPyIsImxrIjoiR2lOM2FHbGphQ0J3YkdGalpTQnBjeUJtWVcxdmRYTWdabTl5SUdGa2FHbHlZWE5oYlEiLCJicyI6ImMzV1BUUXVDUUJDRzZUcW5pS0RhUXd6MEFWMkZyaTMtQUtHYjUwRkhkMEJkMlZYRWY5LVdrQkYxbW9fbmdYa0hFcmpFampIT2pUanlWQ00xT1pJVHoxV1BuV0VNT3c2Tk5LV09VTzNwcDBodUV1RUc1OVJ3bUhMTEh1T0FDZV9TR1VMcnBKU0dPc2JDMlZwSGE3V2lGMjRfTUNSd1RJMWtCdHVLTWtieFdGQnQtMUNzbTBQcTZLUU93MV92blJHdXNFM04tTVR6ZzFtNDJvNDYycW5OTURINllzdkZBdyIsImlkIjoiZmNfMmdMQWF1V1BIZC1HeGM4UDhkcmM0UTBfNSJ9"
+   },
+   {
+    "question": "Why is Adhirasam crispy?",
+    "type": "ai_overview",
+    "page_token": "FKQp3nicHdDbToMwGADg-DK73KjbNFuyGDvoCIZ_4R-UtDcGy6GwctCh3bjzXXwqn8bE7xG-7x9Td-ffO6nHcbhsFwtr7bzq-8oUc9XP626RXW6dWqjMmLdMnbcPjw_kqVQ772Lpvrc0SoaBu-icnIjIeylUilnYXkiRbtaFTw33qZ81YuQMScG0WzSsRk8uJYeAG1zlbeXgntC4E5Z7UGMKL_mkbB7D5_Fw3UtHjzCBhvY6vrl0Cl2kRQNh0ph96FUkc_WU-YkVjrqPHWTgbTB00BfxeQ2EBxBTGZLhphLOwYDkHK980kwQcWJT0MUe0znPo9MhGnGpmyN7Xkk_aIB59lAHFH24HVOZRA6KIuUltrqM2xFC5pHisH5XEzTCBABM4qxUX7vl7H9s91q243b46Ks_syN4rg",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=FKQp3nicHdDbToMwGADg-DK73KjbNFuyGDvoCIZ_4R-UtDcGy6GwctCh3bjzXXwqn8bE7xG-7x9Td-ffO6nHcbhsFwtr7bzq-8oUc9XP626RXW6dWqjMmLdMnbcPjw_kqVQ772Lpvrc0SoaBu-icnIjIeylUilnYXkiRbtaFTw33qZ81YuQMScG0WzSsRk8uJYeAG1zlbeXgntC4E5Z7UGMKL_mkbB7D5_Fw3UtHjzCBhvY6vrl0Cl2kRQNh0ph96FUkc_WU-YkVjrqPHWTgbTB00BfxeQ2EBxBTGZLhphLOwYDkHK980kwQcWJT0MUe0znPo9MhGnGpmyN7Xkk_aIB59lAHFH24HVOZRA6KIuUltrqM2xFC5pHisH5XEzTCBABM4qxUX7vl7H9s91q243b46Ks_syN4rg",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZVUnNNR0pPV2xKSmNIbHZlbXhTTmpCdFZsUXpjVWRhY0VaemVFSkVaRjlPVGpnMWRXRktjMlJDV1RFNFJqWmpWWE5pWnpseFYyaGhlVzkwUjJoYVozaFZUMGRrVDNwWVpVdElObWgwTFV4S1ZFUkxRekZFU0VwRVVSSVhNbWRNUVdGMVYxQklaQzFIZUdNNFVEaGtjbU0wVVRBYUlrRkVjM0k1WmxOZk5rTTFaMFpoVTBGRE9XMWtWVkF0TjJ3MWRWUkJUek0yTjJjIiwiZmN2IjoiMyIsImVpIjoiMmdMQWF1V1BIZC1HeGM4UDhkcmM0UTAiLCJxYyI6IkNoZGhaR2hwY21GellXMGdZV3h6YnlCcmJtOTNiaUJoY3hBQWZSRDRDejgiLCJxdWVzdGlvbiI6IldoeSBpcyBBZGhpcmFzYW0gY3Jpc3B5PyIsImxrIjoiR2hkM2FIa2dhWE1nWVdSb2FYSmhjMkZ0SUdOeWFYTndlUSIsImJzIjoiYzNXUFRRdUNRQkNHNlRxbmlLRGFRd3owQVYyRnJpMy1BS0diNTBGSGQwQmQyVlhFZjktV2tCRjFtb19uZ1hrSEVyakVqakhPalRqeVZDTTFPWklUejFXUG5XRU1PdzZOTktXT1VPM3BwMGh1RXVFRzU5UndtSExMSHVPQUNlX1NHVUxycEpTR09zYkMyVnBIYTdXaUYyNF9NQ1J3VEkxa0J0dUtNa2J4V0ZCdC0xQ3NtMFBxNktRT3cxX3ZuUkd1c0UzTi1NVHpnMW00Mm80NjJxbk5NREg2WXN2RkF3IiwiaWQiOiJmY18yZ0xBYXVXUEhkLUd4YzhQOGRyYzRRMF81In0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVZVUnNNR0pPV2xKSmNIbHZlbXhTTmpCdFZsUXpjVWRhY0VaemVFSkVaRjlPVGpnMWRXRktjMlJDV1RFNFJqWmpWWE5pWnpseFYyaGhlVzkwUjJoYVozaFZUMGRrVDNwWVpVdElObWgwTFV4S1ZFUkxRekZFU0VwRVVSSVhNbWRNUVdGMVYxQklaQzFIZUdNNFVEaGtjbU0wVVRBYUlrRkVjM0k1WmxOZk5rTTFaMFpoVTBGRE9XMWtWVkF0TjJ3MWRWUkJUek0yTjJjIiwiZmN2IjoiMyIsImVpIjoiMmdMQWF1V1BIZC1HeGM4UDhkcmM0UTAiLCJxYyI6IkNoZGhaR2hwY21GellXMGdZV3h6YnlCcmJtOTNiaUJoY3hBQWZSRDRDejgiLCJxdWVzdGlvbiI6IldoeSBpcyBBZGhpcmFzYW0gY3Jpc3B5PyIsImxrIjoiR2hkM2FIa2dhWE1nWVdSb2FYSmhjMkZ0SUdOeWFYTndlUSIsImJzIjoiYzNXUFRRdUNRQkNHNlRxbmlLRGFRd3owQVYyRnJpMy1BS0diNTBGSGQwQmQyVlhFZjktV2tCRjFtb19uZ1hrSEVyakVqakhPalRqeVZDTTFPWklUejFXUG5XRU1PdzZOTktXT1VPM3BwMGh1RXVFRzU5UndtSExMSHVPQUNlX1NHVUxycEpTR09zYkMyVnBIYTdXaUYyNF9NQ1J3VEkxa0J0dUtNa2J4V0ZCdC0xQ3NtMFBxNktRT3cxX3ZuUkd1c0UzTi1NVHpnMW00Mm80NjJxbk5NREg2WXN2RkF3IiwiaWQiOiJmY18yZ0xBYXVXUEhkLUd4YzhQOGRyYzRRMF81In0%3D"
+   }
+  ],
+  "ai_overview": {
+   "page_token": "jMRay3iczZVdcuI4EIAPsOdYvyRgm58EUuWakoQhJiRBhIQhL5SxjWywrWABhrzNXfYUe5Q9zQr_gE1wJjMPW9tV_lGr1WpJ_al__OU6_uKfP_62V6s3diOKYRiWCaXEtcoGLTu-qLOdb4gz6rLAsL_ZrmL5AqPrwLAcUzHsgHpWyaNTx7UE4iqOL-w2SlUwmCIJlqNUSA_o61H_1ix1tkaj3zADo4YlIfKqTKY6s-Z82u2ciRORvxZ_Vlu8UV6ysuVPOrC8vZWCyQLIgxYpV6RKtfwo6h43Av-pIJW_IGjxB2ifGn7NH8b8RY5tCNR49NF5KzaAsQaSonn3M5K9O6SFqdN-bRDCRdqxl6fiWGDOcZjOg8f7sLgL7hGfGXZe8HEHcOYdy8kK1OwOHCVWto_xkXP9eYHRVGFeaUTWanbEMYIoLidrfjySRwyspz6wCfn0rGsAjGsgbJLzMWVEQ3c1ICUNNBZNwjNYEqcB_8iiY9hG9BOwfWKjYVOiHdW06Avdzpyrd-1Fl4M3vdacPUOPMCAaU27nUt20zIk9kb5Fbbki16Vm9bpxGVFlsANWLIdV6bXvbrTq-1CVyr3ySM4AdVithtM9TbQqPpcDqsqTjh_4IqPL7MQ-pRE_vnGmG8LnrAeUmuN4pJq17ca6LobgvCRoxMNjXtR0Hv6HDjimC0uAirRa_NU-hI0QSNOWRDmaO9wz20A-9A147sXaFowmu6XjQ6wnyaJCjfCRaYgJdSgNfcfvnmc-hDdxOzZC4D7NJYDu91eTFrtMF4_5HyYQJvuwyG-CegpUvBng4UmLIwZokFwKidv0fI0Pi4dFlxJPGIDRF2_Dk1h-RlNsldJzAkMOorU9XurV-X17VXJba3lk-cuHV_X1tt4B56Gh3vQXi5Hxv0MrrVUkqVWFaKGvoYVxAVrawbCVQwtSTStG61CrErQ-rVWnaEEti9ZuP8UerYJa9ato4Qxa2ilaJInjDFrtQrRIEVpJrcqjlatVsKBWHdD6jVpV-51aFVFmxZ984VrPSWEBa8_1zXAeXn_32fDNLLUfVtoU0qCksRH-aQGbeasbTzfdy4lj3sBKd7UzLydcQW8sU1gqwLSdQGe6d6G7jF4sfBr6FzoTPDegiqRfvYD7pTyaj5pPPUnTV52haTRb40q3hGy3P343wbRFr3bd7vh1HbY329AdetWZLQeN3uR7t7d9MLfSbFOv7YZv9a7RCM3B3bRiN5t1HDy1GtXO8nXwrgLXgI-9-1XDqoNl2JO33cb7XXtnr2UPrbYvdbdPoniY4mnrOdrRzrUzFrzAUDg4tSrpYjAiPJcRz15eBTGi_An5cwWwCis8twRm6BOLbZSaeVVvNuSZJEtydVqvCB5Z7d6UpiQwP1DkfwGHc1Mu",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jMRay3iczZVdcuI4EIAPsOdYvyRgm58EUuWakoQhJiRBhIQhL5SxjWywrWABhrzNXfYUe5Q9zQr_gE1wJjMPW9tV_lGr1WpJ_al__OU6_uKfP_62V6s3diOKYRiWCaXEtcoGLTu-qLOdb4gz6rLAsL_ZrmL5AqPrwLAcUzHsgHpWyaNTx7UE4iqOL-w2SlUwmCIJlqNUSA_o61H_1ix1tkaj3zADo4YlIfKqTKY6s-Z82u2ciRORvxZ_Vlu8UV6ysuVPOrC8vZWCyQLIgxYpV6RKtfwo6h43Av-pIJW_IGjxB2ifGn7NH8b8RY5tCNR49NF5KzaAsQaSonn3M5K9O6SFqdN-bRDCRdqxl6fiWGDOcZjOg8f7sLgL7hGfGXZe8HEHcOYdy8kK1OwOHCVWto_xkXP9eYHRVGFeaUTWanbEMYIoLidrfjySRwyspz6wCfn0rGsAjGsgbJLzMWVEQ3c1ICUNNBZNwjNYEqcB_8iiY9hG9BOwfWKjYVOiHdW06Avdzpyrd-1Fl4M3vdacPUOPMCAaU27nUt20zIk9kb5Fbbki16Vm9bpxGVFlsANWLIdV6bXvbrTq-1CVyr3ySM4AdVithtM9TbQqPpcDqsqTjh_4IqPL7MQ-pRE_vnGmG8LnrAeUmuN4pJq17ca6LobgvCRoxMNjXtR0Hv6HDjimC0uAirRa_NU-hI0QSNOWRDmaO9wz20A-9A147sXaFowmu6XjQ6wnyaJCjfCRaYgJdSgNfcfvnmc-hDdxOzZC4D7NJYDu91eTFrtMF4_5HyYQJvuwyG-CegpUvBng4UmLIwZokFwKidv0fI0Pi4dFlxJPGIDRF2_Dk1h-RlNsldJzAkMOorU9XurV-X17VXJba3lk-cuHV_X1tt4B56Gh3vQXi5Hxv0MrrVUkqVWFaKGvoYVxAVrawbCVQwtSTStG61CrErQ-rVWnaEEti9ZuP8UerYJa9ato4Qxa2ilaJInjDFrtQrRIEVpJrcqjlatVsKBWHdD6jVpV-51aFVFmxZ984VrPSWEBa8_1zXAeXn_32fDNLLUfVtoU0qCksRH-aQGbeasbTzfdy4lj3sBKd7UzLydcQW8sU1gqwLSdQGe6d6G7jF4sfBr6FzoTPDegiqRfvYD7pTyaj5pPPUnTV52haTRb40q3hGy3P343wbRFr3bd7vh1HbY329AdetWZLQeN3uR7t7d9MLfSbFOv7YZv9a7RCM3B3bRiN5t1HDy1GtXO8nXwrgLXgI-9-1XDqoNl2JO33cb7XXtnr2UPrbYvdbdPoniY4mnrOdrRzrUzFrzAUDg4tSrpYjAiPJcRz15eBTGi_An5cwWwCis8twRm6BOLbZSaeVVvNuSZJEtydVqvCB5Z7d6UpiQwP1DkfwGHc1Mu"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Adhirasam is an addictive sweet delicacy from #TamilNadu. Made of rice flour and Jaggery, ...",
+    "link": "https://www.facebook.com/incredibleindia/posts/adhirasam-is-an-addictive-sweet-delicacy-from-tamilnadu-made-of-rice-flour-and-j/2393694543979280/?locale=fo_FO",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAES1wEB6zswFY2tfI86KXel8eZSFjmrtHWLjAZgCWlfGjwbVM3VokEzOROiaUlIhS2pAfiXUNSsOTlOXkVJHVofvvf0MULDSSdXdWdXWUKbXot0yKensnfisJUSgkbrDxWV7ydqje-Bs81ENeKv9RQAkKgwWNfWJAZPdLM9X8KEiiV9yzGt4MhR3rkXNnD-skDHhI3SRL2OUR1O4dgL1r4IKAUNc-0l8bAaKJuFu5CYf_C2vxtJuF50m_hhtDy003wHZzqf6PPGsWf2yH-U165GuKlByr4JbWpkRA&ved=2ahUKEwjl5KjchZyXAxVfQ_EDHXEtN9wQFnoECFYQAQ&uoh=1",
+    "displayed_link": "300+ reactions · 7 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "Adhirasam is an addictive sweet delicacy from #TamilNadu. Made of rice flour and Jaggery, this fried sweet is a traditional favourite in Tamil ...",
+    "about_this_result": {
+     "source": {
+      "description": "Adhirasam is an addictive sweet delicacy from #TamilNadu. Made of rice flour and Jaggery, this fried sweet is a traditional favourite in Tamil ...",
+      "source_info_link": "https://www.facebook.com/incredibleindia/posts/adhirasam-is-an-addictive-sweet-delicacy-from-tamilnadu-made-of-rice-flour-and-j/2393694543979280/?locale=fo_FO",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrACL2dvdG8_dXJsPUNBRVMxd0VCNnpzd0ZZMnRmSTg2S1hlbDhlWlNGam1ydEhXTGpBWmdDV2xmR2p3YlZNM1Zva0V6T1JPaWFVbEloUzJwQWZpWFVOU3NPVGxPWGtWSkhWb2Z2dmYwTVVMRFNTZFhkV2RYV1VLYlhvdDB5S2Vuc25maXNKVVNna2JyRHhXVjd5ZHFqZS1CczgxRU5lS3Y5UlFBa0tnd1dOZldKQVpQZExNOVg4S0VpaVY5eXpHdDRNaFIzcmtYTm5ELXNrREhoSTNTUkwyT1VSMU80ZGdMMXI0SUtBVU5jLTBsOGJBYUtKdUZ1NUNZZl9DMnZ4dEp1RjUwbV9oaHREeTAwM3dIWnpxZjZQUEdzV2YyeUgtVTE2NUd1S2xCeXI0SmJXcGtSQRIEGgIIABqdBhIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkD5BQgAEAAYACAAKiAKCWFkaGlyYXNhbRW4tRhAGg5pdjtwO2FkaGlyYXNhbSooCgRhbHNvFQAAAAAaBmJldHRlchoIY29tbW9ubHkaCWFsc29rbm93bipCCgVrbm93bhUAAAAAGgZjYWxsZWQaBGtub3caCHJlZmVycmVkGglhbHNva25vd24aBmZhbW91cxoJd2lraXBlZGlhKhYKAmFzFVVbZj4aBmNhbGxlZBoDZm9yMrACL2dvdG8_dXJsPUNBRVMxd0VCNnpzd0ZZMnRmSTg2S1hlbDhlWlNGam1ydEhXTGpBWmdDV2xmR2p3YlZNM1Zva0V6T1JPaWFVbEloUzJwQWZpWFVOU3NPVGxPWGtWSkhWb2Z2dmYwTVVMRFNTZFhkV2RYV1VLYlhvdDB5S2Vuc25maXNKVVNna2JyRHhXVjd5ZHFqZS1CczgxRU5lS3Y5UlFBa0tnd1dOZldKQVpQZExNOVg4S0VpaVY5eXpHdDRNaFIzcmtYTm5ELXNrREhoSTNTUkwyT1VSMU80ZGdMMXI0SUtBVU5jLTBsOGJBYUtKdUZ1NUNZZl9DMnZ4dEp1RjUwbV9oaHREeTAwM3dIWnpxZjZQUEdzV2YyeUgtVTE2NUd1S2xCeXI0SmJXcGtSQTpuPGI-QWRoaXJhc2FtPC9iPiBpcyBhbiBhZGRpY3RpdmUgc3dlZXQgZGVsaWNhY3kgZnJvbSAjVGFtaWxOYWR1LiBNYWRlIG9mIHJpY2UgZmxvdXIgYW5kIEphZ2dlcnkgLi4uIC0gRmFjZWJvb2tCngE8Yj5BZGhpcmFzYW0gaXMgYW4gYWRkaWN0aXZlIHN3ZWV0IGRlbGljYWN5IGZyb20gI1RhbWlsTmFkdTwvYj4uIE1hZGUgb2YgcmljZSBmbG91ciBhbmQgSmFnZ2VyeSwgdGhpcyBmcmllZCBzd2VldCBpcyBhIHRyYWRpdGlvbmFsIGZhdm91cml0ZSBpbiBUYW1pbCZuYnNwOy4uLlIDZm9yIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrACL2dvdG8_dXJsPUNBRVMxd0VCNnpzd0ZZMnRmSTg2S1hlbDhlWlNGam1ydEhXTGpBWmdDV2xmR2p3YlZNM1Zva0V6T1JPaWFVbEloUzJwQWZpWFVOU3NPVGxPWGtWSkhWb2Z2dmYwTVVMRFNTZFhkV2RYV1VLYlhvdDB5S2Vuc25maXNKVVNna2JyRHhXVjd5ZHFqZS1CczgxRU5lS3Y5UlFBa0tnd1dOZldKQVpQZExNOVg4S0VpaVY5eXpHdDRNaFIzcmtYTm5ELXNrREhoSTNTUkwyT1VSMU80ZGdMMXI0SUtBVU5jLTBsOGJBYUtKdUZ1NUNZZl9DMnZ4dEp1RjUwbV9oaHREeTAwM3dIWnpxZjZQUEdzV2YyeUgtVTE2NUd1S2xCeXI0SmJXcGtSQRIEGgIIABqdBhIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkD5BQgAEAAYACAAKiAKCWFkaGlyYXNhbRW4tRhAGg5pdjtwO2FkaGlyYXNhbSooCgRhbHNvFQAAAAAaBmJldHRlchoIY29tbW9ubHkaCWFsc29rbm93bipCCgVrbm93bhUAAAAAGgZjYWxsZWQaBGtub3caCHJlZmVycmVkGglhbHNva25vd24aBmZhbW91cxoJd2lraXBlZGlhKhYKAmFzFVVbZj4aBmNhbGxlZBoDZm9yMrACL2dvdG8_dXJsPUNBRVMxd0VCNnpzd0ZZMnRmSTg2S1hlbDhlWlNGam1ydEhXTGpBWmdDV2xmR2p3YlZNM1Zva0V6T1JPaWFVbEloUzJwQWZpWFVOU3NPVGxPWGtWSkhWb2Z2dmYwTVVMRFNTZFhkV2RYV1VLYlhvdDB5S2Vuc25maXNKVVNna2JyRHhXVjd5ZHFqZS1CczgxRU5lS3Y5UlFBa0tnd1dOZldKQVpQZExNOVg4S0VpaVY5eXpHdDRNaFIzcmtYTm5ELXNrREhoSTNTUkwyT1VSMU80ZGdMMXI0SUtBVU5jLTBsOGJBYUtKdUZ1NUNZZl9DMnZ4dEp1RjUwbV9oaHREeTAwM3dIWnpxZjZQUEdzV2YyeUgtVTE2NUd1S2xCeXI0SmJXcGtSQTpuPGI-QWRoaXJhc2FtPC9iPiBpcyBhbiBhZGRpY3RpdmUgc3dlZXQgZGVsaWNhY3kgZnJvbSAjVGFtaWxOYWR1LiBNYWRlIG9mIHJpY2UgZmxvdXIgYW5kIEphZ2dlcnkgLi4uIC0gRmFjZWJvb2tCngE8Yj5BZGhpcmFzYW0gaXMgYW4gYWRkaWN0aXZlIHN3ZWV0IGRlbGljYWN5IGZyb20gI1RhbWlsTmFkdTwvYj4uIE1hZGUgb2YgcmljZSBmbG91ciBhbmQgSmFnZ2VyeSwgdGhpcyBmcmllZCBzd2VldCBpcyBhIHRyYWRpdGlvbmFsIGZhdm91cml0ZSBpbiBUYW1pbCZuYnNwOy4uLlIDZm9yIgIQAUgAWABoAA",
+    "source": "Facebook · Incredible India"
+   },
+   {
+    "position": 2,
+    "title": "ARISALU/ADHIRASAM Arisalu are very popular traditional sweet dish in Andhra and Tamil ...",
+    "link": "https://www.facebook.com/groups/1474503486133407/posts/2036558899927860/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFeoSNjkabghiilzjtWslTPICAdZs9NXr4rGO_5CdmULsHiLeHCpol0hYoPpqPBQ9W93MfGDXBCE0hL7iytbxL4T9B0jZVCaHyaYnJN14x7pqE1TBNgSt7rTnPhxuw3-pU8I0lR7ovwm804lJ87_K_0xmKNbG0B49LVI4sg&ved=2ahUKEwjl5KjchZyXAxVfQ_EDHXEtN9wQFnoECEMQAQ&uoh=1",
+    "displayed_link": "1 comment · 8 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "Checkout this quick and easy recipe to make traditional sweet Ariselu, also known as Adhirasam, kajjaya or Andarsa in different languages from ...",
+    "about_this_result": {
+     "source": {
+      "description": "Checkout this quick and easy recipe to make traditional sweet Ariselu, also known as Adhirasam, kajjaya or Andarsa in different languages from ...",
+      "source_info_link": "https://www.facebook.com/groups/1474503486133407/posts/2036558899927860/",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0Zlb1NOamthYmdoaWlsemp0V3NsVFBJQ0FkWnM5TlhyNHJHT181Q2RtVUxzSGlMZUhDcG9sMGhZb1BwcVBCUTlXOTNNZkdEWEJDRTBoTDdpeXRieEw0VDlCMGpaVkNhSHlhWW5KTjE0eDdwcUUxVEJOZ1N0N3JUblBoeHV3My1wVThJMGxSN292d204MDRsSjg3X0tfMHhtS05iRzBCNDlMVkk0c2cSBBoCCAAapgUSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAggUIABAAGAAgACogCglhZGhpcmFzYW0V7QNvQBoOaXY7cDthZGhpcmFzYW0qKAoEYWxzbxVnaMs-GgZiZXR0ZXIaCGNvbW1vbmx5GglhbHNva25vd24qQgoFa25vd24VZ2jLPhoGY2FsbGVkGgRrbm93GghyZWZlcnJlZBoJYWxzb2tub3duGgZmYW1vdXMaCXdpa2lwZWRpYSoWCgJhcxXdhZA_GgZjYWxsZWQaA2ZvcjK8AS9nb3RvP3VybD1DQUVTZ0FFQjZ6c3dGZW9TTmprYWJnaGlpbHpqdFdzbFRQSUNBZFpzOU5YcjRyR09fNUNkbVVMc0hpTGVIQ3BvbDBoWW9QcHFQQlE5VzkzTWZHRFhCQ0UwaEw3aXl0YnhMNFQ5QjBqWlZDYUh5YVluSk4xNHg3cHFFMVRCTmdTdDdyVG5QaHh1dzMtcFU4STBsUjdvdndtODA0bEo4N19LXzB4bUtOYkcwQjQ5TFZJNHNnOmtBUklTQUxVLzxiPkFESElSQVNBTTwvYj4gQXJpc2FsdSBhcmUgdmVyeSBwb3B1bGFyIHRyYWRpdGlvbmFsIHN3ZWV0IGRpc2ggaW4gQW5kaHJhIGFuZCBUYW1pbCAuLi4gLSBGYWNlYm9va0KeAUNoZWNrb3V0IHRoaXMgcXVpY2sgYW5kIGVhc3kgcmVjaXBlIHRvIG1ha2UgdHJhZGl0aW9uYWwgPGI-c3dlZXQgQXJpc2VsdSwgYWxzbyBrbm93biBhcyBBZGhpcmFzYW08L2I-LCBrYWpqYXlhIG9yIEFuZGFyc2EgaW4gZGlmZmVyZW50IGxhbmd1YWdlcyBmcm9tJm5ic3A7Li4uUgNmb3IiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0Zlb1NOamthYmdoaWlsemp0V3NsVFBJQ0FkWnM5TlhyNHJHT181Q2RtVUxzSGlMZUhDcG9sMGhZb1BwcVBCUTlXOTNNZkdEWEJDRTBoTDdpeXRieEw0VDlCMGpaVkNhSHlhWW5KTjE0eDdwcUUxVEJOZ1N0N3JUblBoeHV3My1wVThJMGxSN292d204MDRsSjg3X0tfMHhtS05iRzBCNDlMVkk0c2cSBBoCCAAapgUSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAggUIABAAGAAgACogCglhZGhpcmFzYW0V7QNvQBoOaXY7cDthZGhpcmFzYW0qKAoEYWxzbxVnaMs-GgZiZXR0ZXIaCGNvbW1vbmx5GglhbHNva25vd24qQgoFa25vd24VZ2jLPhoGY2FsbGVkGgRrbm93GghyZWZlcnJlZBoJYWxzb2tub3duGgZmYW1vdXMaCXdpa2lwZWRpYSoWCgJhcxXdhZA_GgZjYWxsZWQaA2ZvcjK8AS9nb3RvP3VybD1DQUVTZ0FFQjZ6c3dGZW9TTmprYWJnaGlpbHpqdFdzbFRQSUNBZFpzOU5YcjRyR09fNUNkbVVMc0hpTGVIQ3BvbDBoWW9QcHFQQlE5VzkzTWZHRFhCQ0UwaEw3aXl0YnhMNFQ5QjBqWlZDYUh5YVluSk4xNHg3cHFFMVRCTmdTdDdyVG5QaHh1dzMtcFU4STBsUjdvdndtODA0bEo4N19LXzB4bUtOYkcwQjQ5TFZJNHNnOmtBUklTQUxVLzxiPkFESElSQVNBTTwvYj4gQXJpc2FsdSBhcmUgdmVyeSBwb3B1bGFyIHRyYWRpdGlvbmFsIHN3ZWV0IGRpc2ggaW4gQW5kaHJhIGFuZCBUYW1pbCAuLi4gLSBGYWNlYm9va0KeAUNoZWNrb3V0IHRoaXMgcXVpY2sgYW5kIGVhc3kgcmVjaXBlIHRvIG1ha2UgdHJhZGl0aW9uYWwgPGI-c3dlZXQgQXJpc2VsdSwgYWxzbyBrbm93biBhcyBBZGhpcmFzYW08L2I-LCBrYWpqYXlhIG9yIEFuZGFyc2EgaW4gZGlmZmVyZW50IGxhbmd1YWdlcyBmcm9tJm5ic3A7Li4uUgNmb3IiAhABSABYAGgA",
+    "source": "Facebook · Sanaa's Recipe Note Book (Group)"
+   },
+   {
+    "position": 3,
+    "title": "Athirasam | Adhirasam Recipe | An ancient recipe of South India",
+    "link": "https://www.youtube.com/watch?v=AsHWjD46cW0",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVq1_78Sc-_nGosuvBDuYq71fK3R0GlBedjuaK693oeP6KwUHCWjgnQaNIAFnj1vNcI1UWsHbhT_FI27oIcMyCgL8tgPTVn3iYoZcVD6dR7lQwB8tyt7G5aiSf_IRVxw&ved=2ahUKEwjl5KjchZyXAxVfQ_EDHXEtN9wQtwJ6BAg0EAE&uoh=1",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpvz1ArBb13Zu7yjUz7Ni5IXJUm0Deez9_vYWYtoZsGRuFrTmP-Yq47g&s",
+    "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "duration": "6:57",
+    "snippet": "Adhirasam or jaggery doughnut is a type of Indian sweet from Tamil cuisine. This recipe as a long history of popularity in Tamil ...",
+    "about_this_result": {
+     "source": {
+      "description": "Adhirasam or jaggery doughnut is a type of Indian sweet from Tamil cuisine. This recipe as a long history of popularity in Tamil ...",
+      "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnExXzc4U2MtX25Hb3N1dkJEdVlxNzFmSzNSMEdsQmVkanVhSzY5M29lUDZLd1VIQ1dqZ25RYU5JQUZuajF2TmNJMVVXc0hiaFRfRkkyN29JY015Q2dMOHRnUFRWbjNpWW9aY1ZENmRSN2xRd0I4dHl0N0c1YWlTZl9JUlZ4dxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnExXzc4U2MtX25Hb3N1dkJEdVlxNzFmSzNSMEdsQmVkanVhSzY5M29lUDZLd1VIQ1dqZ25RYU5JQUZuajF2TmNJMVVXc0hiaFRfRkkyN29JY015Q2dMOHRnUFRWbjNpWW9aY1ZENmRSN2xRd0I4dHl0N0c1YWlTZl9JUlZ4dxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTRMG7DLim405cLDkShcsJCfkcnRyxhLz-9Uw",
+    "source": "YouTube · Tasty Indian",
+    "key_moments": [
+     {
+      "time": "00:23",
+      "title": "Soak long grain rice in water for about 60 mins",
+      "link": "https://www.youtube.com/watch?v=AsHWjD46cW0&t=23"
+     },
+     {
+      "time": "00:54",
+      "title": "Rice should be still moist to touch",
+      "link": "https://www.youtube.com/watch?v=AsHWjD46cW0&t=54"
+     },
+     {
+      "time": "01:07",
+      "title": "Sift the rice flour using a fine sifter",
+      "link": "https://www.youtube.com/watch?v=AsHWjD46cW0&t=67"
+     },
+     {
+      "time": "01:44",
+      "title": "post Add both the spices into the grinder",
+      "link": "https://www.youtube.com/watch?v=AsHWjD46cW0&t=104"
+     },
+     {
+      "time": "02:10",
+      "title": "Add 750 grams of dark muscovado sugar or jaggery",
+      "link": "https://www.youtube.com/watch?v=AsHWjD46cW0&t=130"
+     },
+     {
+      "time": "03:37",
+      "title": "Add 2 tbsp ghee or oil",
+      "link": "https://www.youtube.com/watch?v=AsHWjD46cW0&t=217"
+     },
+     {
+      "time": "04:30",
+      "title": "Leave the Ahtirasam dough to set overnight or longer",
+      "link": "https://www.youtube.com/watch?v=AsHWjD46cW0&t=270"
+     },
+     {
+      "time": "04:41",
+      "title": "Apply oil on both side of the dough for better result",
+      "link": "https://www.youtube.com/watch?v=AsHWjD46cW0&t=281"
+     },
+     {
+      "time": "05:27",
+      "title": "Each Ahtirasam should take 2-3 mins to cook",
+      "link": "https://www.youtube.com/watch?v=AsHWjD46cW0&t=327"
+     },
+     {
+      "time": "06:34",
+      "title": "Adhirasam",
+      "link": "https://www.youtube.com/watch?v=AsHWjD46cW0&t=394"
+     }
+    ]
+   },
+   {
+    "position": 4,
+    "title": "History Of Adirasam & Its Benefits – The Traditional South Indian Sweet That Stands The Test Of Time",
+    "link": "https://vccspices.in/history-of-adirasam-and-its-benefits-vccspices/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVi5JqsrnG8RjyrRT0iNwyfqRV-zPo5Mvz2vrQMUF2Xj9PSnuevpmf4sMrQNimry3olZUvRFXOlhgkI13Qw0RB7OTQPRZfQzyG047iw7UcilBGQ7TILy_GjWMRt3Ogy-wMIUEKbVLsBODB6-dWImzt6TWKD4rj45s&ved=2ahUKEwjl5KjchZyXAxVfQ_EDHXEtN9wQFnoECEQQAQ&uoh=1",
+    "displayed_link": "https://vccspices.in",
+    "favicon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAAAwBwCdASocABwAPtE8tFooIigoFAEAGglpABEVV6Ax1f-79FX_K8k2oB-qm-S_tUHZqtAXnTFUflBTVyHPVhwuAAAA_vYC_o7cRnVUvt_ZOTuiTrYVPkM_z6mLS5S5uPPMbSGyr-1Tj-bXVWYH2d44zNjA7sK-UM7H-6ZavhcMSyNlTw3wJ9u_6mJPqWfYIwBqe1fBDFOT7NNswz_h4V0Y9zVFGMzA-28tz4WGyRcb1N_-k9nqkLSPLzoHyyu8L1SmIp_DaXkB_-A_P67zrDppSvRrxJB-f90GFwvFfHw-qC_-5HrKn7Xb5fLVMcXcE33gt8h2sWjvi5n1Kesl02-WgNh0pJP8jl_CPoKTf98v7rUqhnhKoj_H4iQ_qV5ROhlO4A6_zreCYoB0SRuhLLlvLRkYbyiXhRf4zGm_dvYI7mE-AAAAAA.webp",
+    "date": "16 Oct 2025",
+    "snippet": "Few Indian sweets carry as much tradition and nostalgia as Adirasam – a golden, deep-fried delicacy made from rice flour and jaggery.",
+    "about_this_result": {
+     "source": {
+      "description": "Few Indian sweets carry as much tradition and nostalgia as Adirasam – a golden, deep-fried delicacy made from rice flour and jaggery.",
+      "source_info_link": "https://vccspices.in/history-of-adirasam-and-its-benefits-vccspices/",
+      "icon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAAAwBwCdASocABwAPtE8tFooIigoFAEAGglpABEVV6Ax1f-79FX_K8k2oB-qm-S_tUHZqtAXnTFUflBTVyHPVhwuAAAA_vYC_o7cRnVUvt_ZOTuiTrYVPkM_z6mLS5S5uPPMbSGyr-1Tj-bXVWYH2d44zNjA7sK-UM7H-6ZavhcMSyNlTw3wJ9u_6mJPqWfYIwBqe1fBDFOT7NNswz_h4V0Y9zVFGMzA-28tz4WGyRcb1N_-k9nqkLSPLzoHyyu8L1SmIp_DaXkB_-A_P67zrDppSvRrxJB-f90GFwvFfHw-qC_-5HrKn7Xb5fLVMcXcE33gt8h2sWjvi5n1Kesl02-WgNh0pJP8jl_CPoKTf98v7rUqhnhKoj_H4iQ_qV5ROhlO4A6_zreCYoB0SRuhLLlvLRkYbyiXhRf4zGm_dvYI7mE-AAAAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVmk1SnFzcm5HOFJqeXJSVDBpTnd5ZnFSVi16UG81TXZ6MnZyUU1VRjJYajlQU251ZXZwbWY0c01yUU5pbXJ5M29sWlV2UkZYT2xoZ2tJMTNRdzBSQjdPVFFQUlpmUXp5RzA0N2l3N1VjaWxCR1E3VElMeV9HaldNUnQzT2d5LXdNSVVFS2JWTHNCT0RCNi1kV0ltenQ2VFdLRDRyajQ1cxIEGgIIABqQBRICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQOoECAAQABgAIAAqIAoJYWRoaXJhc2FtFRDr-j4aDml2O3A7YWRoaXJhc2FtKigKBGFsc28VwirwPhoGYmV0dGVyGghjb21tb25seRoJYWxzb2tub3duKkIKBWtub3duFYAShD4aBmNhbGxlZBoEa25vdxoIcmVmZXJyZWQaCWFsc29rbm93bhoGZmFtb3VzGgl3aWtpcGVkaWEqFgoCYXMVDTaUPxoGY2FsbGVkGgNmb3IytQEvZ290bz91cmw9Q0FFU2ZBSHJPekFWaTVKcXNybkc4Ump5clJUMGlOd3lmcVJWLXpQbzVNdnoydnJRTVVGMlhqOVBTbnVldnBtZjRzTXJRTmltcnkzb2xaVXZSRlhPbGhna0kxM1F3MFJCN09UUVBSWmZRenlHMDQ3aXc3VWNpbEJHUTdUSUx5X0dqV01SdDNPZ3ktd01JVUVLYlZMc0JPREI2LWRXSW16dDZUV0tENHJqNDVzOmpIaXN0b3J5IE9mIEFkaXJhc2FtICZhbXA7IEl0cyBCZW5lZml0cyDigJMgVGhlIFRyYWRpdGlvbmFsIFNvdXRoIEluZGlhbiBTd2VldCBUaGF0IFN0YW5kcyBUaGUgVGVzdCBPZiBUaW1lQo4BRmV3IEluZGlhbiBzd2VldHMgY2FycnkgYXMgbXVjaCB0cmFkaXRpb24gYW5kIG5vc3RhbGdpYSBhcyBBZGlyYXNhbSDigJMgPGI-YSBnb2xkZW4sIGRlZXAtZnJpZWQgZGVsaWNhY3kgbWFkZSBmcm9tIHJpY2UgZmxvdXIgYW5kIGphZ2dlcnk8L2I-LlIDZm9yIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVmk1SnFzcm5HOFJqeXJSVDBpTnd5ZnFSVi16UG81TXZ6MnZyUU1VRjJYajlQU251ZXZwbWY0c01yUU5pbXJ5M29sWlV2UkZYT2xoZ2tJMTNRdzBSQjdPVFFQUlpmUXp5RzA0N2l3N1VjaWxCR1E3VElMeV9HaldNUnQzT2d5LXdNSVVFS2JWTHNCT0RCNi1kV0ltenQ2VFdLRDRyajQ1cxIEGgIIABqQBRICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQOoECAAQABgAIAAqIAoJYWRoaXJhc2FtFRDr-j4aDml2O3A7YWRoaXJhc2FtKigKBGFsc28VwirwPhoGYmV0dGVyGghjb21tb25seRoJYWxzb2tub3duKkIKBWtub3duFYAShD4aBmNhbGxlZBoEa25vdxoIcmVmZXJyZWQaCWFsc29rbm93bhoGZmFtb3VzGgl3aWtpcGVkaWEqFgoCYXMVDTaUPxoGY2FsbGVkGgNmb3IytQEvZ290bz91cmw9Q0FFU2ZBSHJPekFWaTVKcXNybkc4Ump5clJUMGlOd3lmcVJWLXpQbzVNdnoydnJRTVVGMlhqOVBTbnVldnBtZjRzTXJRTmltcnkzb2xaVXZSRlhPbGhna0kxM1F3MFJCN09UUVBSWmZRenlHMDQ3aXc3VWNpbEJHUTdUSUx5X0dqV01SdDNPZ3ktd01JVUVLYlZMc0JPREI2LWRXSW16dDZUV0tENHJqNDVzOmpIaXN0b3J5IE9mIEFkaXJhc2FtICZhbXA7IEl0cyBCZW5lZml0cyDigJMgVGhlIFRyYWRpdGlvbmFsIFNvdXRoIEluZGlhbiBTd2VldCBUaGF0IFN0YW5kcyBUaGUgVGVzdCBPZiBUaW1lQo4BRmV3IEluZGlhbiBzd2VldHMgY2FycnkgYXMgbXVjaCB0cmFkaXRpb24gYW5kIG5vc3RhbGdpYSBhcyBBZGlyYXNhbSDigJMgPGI-YSBnb2xkZW4sIGRlZXAtZnJpZWQgZGVsaWNhY3kgbWFkZSBmcm9tIHJpY2UgZmxvdXIgYW5kIGphZ2dlcnk8L2I-LlIDZm9yIgIQAUgAWABoAA",
+    "source": "vccspices.in"
+   },
+   {
+    "position": 5,
+    "title": "Adhirasam – How to make Athirasam",
+    "link": "https://www.mymagicpan.com/adhirasam-make-athirasam/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVLVw7OtfTz63vQuI4awNPoYW8N74dfiwoe6S44LlSh2iWN4C5X_QRlqvxJnkdC3obE-Z3UCa9rAiBFrwIwcWQMTLXEfWuLF3868GmiGeyawUDRV3mU_fsF42c_LcQs1iKOZlwzxf2CQ&ved=2ahUKEwjl5KjchZyXAxVfQ_EDHXEtN9wQFnoECEYQAQ&uoh=1",
+    "displayed_link": "https://www.mymagicpan.com",
+    "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABwBgCdASogACAAPtEutFooIagoGAEAGglsAJ0ygyIRgN4xNNBXge948eUZET6m-xDYI47qUHMTXGZl-4AA_uihnpw2K-JGVfetdhOU082AEO1wdHKW3GAbQu2V6RFHb8y9fMVTQHnHvp0YbVZJLBGPskC5qe98GXG6Y4DfMENWfBs32EhCtr3emRwFAIpVyPtZxdlJxnPlA4TK0IVov1fNvYE-z5aI3nXw61VFF6Bu_kEC9ZvrMx1An3Toa6plI13Efoml2Byq3bHr3I_nn_jR5HwJ-naiWISzvfVxOD0PyP8G0QYs3VdRq51TqpjdtzTnOm1_NUmI8lI3O-ZQBK_tU9PZEAAA.webp",
+    "date": "9 Dec 2016",
+    "snippet": "Paagu vellam is the best ( the big mandai vellam). Your athirasam's colour depends upon the jaggery u use. Next comes the jaggery syrup. Pls ...",
+    "about_this_result": {
+     "source": {
+      "description": "Paagu vellam is the best ( the big mandai vellam). Your athirasam's colour depends upon the jaggery u use. Next comes the jaggery syrup. Pls ...",
+      "source_info_link": "https://www.mymagicpan.com/adhirasam-make-athirasam/",
+      "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABwBgCdASogACAAPtEutFooIagoGAEAGglsAJ0ygyIRgN4xNNBXge948eUZET6m-xDYI47qUHMTXGZl-4AA_uihnpw2K-JGVfetdhOU082AEO1wdHKW3GAbQu2V6RFHb8y9fMVTQHnHvp0YbVZJLBGPskC5qe98GXG6Y4DfMENWfBs32EhCtr3emRwFAIpVyPtZxdlJxnPlA4TK0IVov1fNvYE-z5aI3nXw61VFF6Bu_kEC9ZvrMx1An3Toa6plI13Efoml2Byq3bHr3I_nn_jR5HwJ-naiWISzvfVxOD0PyP8G0QYs3VdRq51TqpjdtzTnOm1_NUmI8lI3O-ZQBK_tU9PZEAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVkxWdzdPdGZUejYzdlF1STRhd05Qb1lXOE43NGRmaXdvZTZTNDRMbFNoMmlXTjRDNVhfUVJscXZ4Sm5rZEMzb2JFLVozVUNhOXJBaUJGcndJd2NXUU1UTFhFZld1TEYzODY4R21pR2V5YXdVRFJWM21VX2ZzRjQyY19MY1FzMWlLT1psd3p4ZjJDURIEGgIIABrTBBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCvBAgAEAAYACAAKiAKCWFkaGlyYXNhbRWSHxZAGg5pdjtwO2FkaGlyYXNhbSooCgRhbHNvFUU-6TwaBmJldHRlchoIY29tbW9ubHkaCWFsc29rbm93bipCCgVrbm93bhUAAAAAGgZjYWxsZWQaBGtub3caCHJlZmVycmVkGglhbHNva25vd24aBmZhbW91cxoJd2lraXBlZGlhKhYKAmFzFUU-aT0aBmNhbGxlZBoDZm9yMqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVkxWdzdPdGZUejYzdlF1STRhd05Qb1lXOE43NGRmaXdvZTZTNDRMbFNoMmlXTjRDNVhfUVJscXZ4Sm5rZEMzb2JFLVozVUNhOXJBaUJGcndJd2NXUU1UTFhFZld1TEYzODY4R21pR2V5YXdVRFJWM21VX2ZzRjQyY19MY1FzMWlLT1psd3p4ZjJDUTo5PGI-QWRoaXJhc2FtPC9iPiDigJMgSG93IHRvIG1ha2UgQXRoaXJhc2FtIC0gTXkgTWFnaWMgUGFuQpkBUGFhZ3UgdmVsbGFtIGlzIHRoZSBiZXN0ICggdGhlIGJpZyBtYW5kYWkgdmVsbGFtKS4gWW91ciBhdGhpcmFzYW0mIzM5O3MgY29sb3VyIGRlcGVuZHMgdXBvbiB0aGUgamFnZ2VyeSB1IHVzZS4gTmV4dCBjb21lcyB0aGUgamFnZ2VyeSBzeXJ1cC4gUGxzJm5ic3A7Li4uUgNmb3IiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVkxWdzdPdGZUejYzdlF1STRhd05Qb1lXOE43NGRmaXdvZTZTNDRMbFNoMmlXTjRDNVhfUVJscXZ4Sm5rZEMzb2JFLVozVUNhOXJBaUJGcndJd2NXUU1UTFhFZld1TEYzODY4R21pR2V5YXdVRFJWM21VX2ZzRjQyY19MY1FzMWlLT1psd3p4ZjJDURIEGgIIABrTBBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCvBAgAEAAYACAAKiAKCWFkaGlyYXNhbRWSHxZAGg5pdjtwO2FkaGlyYXNhbSooCgRhbHNvFUU-6TwaBmJldHRlchoIY29tbW9ubHkaCWFsc29rbm93bipCCgVrbm93bhUAAAAAGgZjYWxsZWQaBGtub3caCHJlZmVycmVkGglhbHNva25vd24aBmZhbW91cxoJd2lraXBlZGlhKhYKAmFzFUU-aT0aBmNhbGxlZBoDZm9yMqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVkxWdzdPdGZUejYzdlF1STRhd05Qb1lXOE43NGRmaXdvZTZTNDRMbFNoMmlXTjRDNVhfUVJscXZ4Sm5rZEMzb2JFLVozVUNhOXJBaUJGcndJd2NXUU1UTFhFZld1TEYzODY4R21pR2V5YXdVRFJWM21VX2ZzRjQyY19MY1FzMWlLT1psd3p4ZjJDUTo5PGI-QWRoaXJhc2FtPC9iPiDigJMgSG93IHRvIG1ha2UgQXRoaXJhc2FtIC0gTXkgTWFnaWMgUGFuQpkBUGFhZ3UgdmVsbGFtIGlzIHRoZSBiZXN0ICggdGhlIGJpZyBtYW5kYWkgdmVsbGFtKS4gWW91ciBhdGhpcmFzYW0mIzM5O3MgY29sb3VyIGRlcGVuZHMgdXBvbiB0aGUgamFnZ2VyeSB1IHVzZS4gTmV4dCBjb21lcyB0aGUgamFnZ2VyeSBzeXJ1cC4gUGxzJm5ic3A7Li4uUgNmb3IiAhABSABYAGgA",
+    "source": "My Magic Pan"
+   },
+   {
+    "position": 6,
+    "title": "Adhirasam / Athirasam Online | Traditional South Indian Sweet PAN-India & Worldwide",
+    "link": "https://www.nagercoilchips.com/blogs/news/adhirasam-athirasam-online?srsltid=AU7gw4XncBrkChVMlncCyvtNpJIWVqlsPu-gLmByxt3vNrYOaxdZJGfr",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvgEB6zswFTgRU4JFr2qN_7UAi0uMp2IW1J010p5VGJ-wNDOSMoSartfebD-WebA4sa0a03lxkTiShJjQ3cUaC2rpMn8rby14xaQP1vkYFaj68IyzzOgmUP10tZmmzK2x3NFR71RmQTwsO8461yt6FhaNt4BTiJjfmTT0LE3QoSuMIzJig_tDluf012lSmgx9CeIPiiQP2-u1hszOplp7ty5ffKUqANsxTzqCivRP_-eltXhrpeDGOkLymRTaCCJG&ved=2ahUKEwjl5KjchZyXAxVfQ_EDHXEtN9wQFnoECE8QAQ&uoh=1",
+    "displayed_link": "https://www.nagercoilchips.com",
+    "favicon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAADwBgCdASocABsAPtEutFooIagoGAEAGglsAKwvwqQLlJ3jNGghANXSfcForyknrwleRQ5603tN8DHzy20xxQAAAP72E-DtHk7qmTNG76-r7mGG7zcytAjWJ-EiBH8l5yxEcUZs9jAX1JjEf9NAGxoDibPxHQiJyEj-7w8RsoRLNh8MmntQ15M4GdFdnaaZlmdwgwi505ZyL4t1DYJBRwOJs8ZfyW-qZZ6RgVv00ydvxZWlSOqwA9RDesP0yuzXPXSSb_lxTYO-kuBWGnRG59Hb7ER_6Slf0V7psgq3Y6o7l-04ffjurugn8ZRnCRarOxP0dv697tcWHpDbnH0Buz1rfyfzoAGH_pi8djah_n9vKo-sbNwbyV_mFEf4_4--3iaN9iAA.webp",
+    "snippet": "Is Adhirasam and Athirasam the same? Yes. The spelling differs, but the sweet is the same. Is Adhirasam healthy? Yes. Made with rice and jaggery, it provides ...",
+    "about_this_result": {
+     "source": {
+      "description": "Is Adhirasam and Athirasam the same? Yes. The spelling differs, but the sweet is the same. Is Adhirasam healthy? Yes. Made with rice and jaggery, it provides ...",
+      "source_info_link": "https://www.nagercoilchips.com/blogs/news/adhirasam-athirasam-online?srsltid=AU7gw4XncBrkChVMlncCyvtNpJIWVqlsPu-gLmByxt3vNrYOaxdZJGfr",
+      "icon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAADwBgCdASocABsAPtEutFooIagoGAEAGglsAKwvwqQLlJ3jNGghANXSfcForyknrwleRQ5603tN8DHzy20xxQAAAP72E-DtHk7qmTNG76-r7mGG7zcytAjWJ-EiBH8l5yxEcUZs9jAX1JjEf9NAGxoDibPxHQiJyEj-7w8RsoRLNh8MmntQ15M4GdFdnaaZlmdwgwi505ZyL4t1DYJBRwOJs8ZfyW-qZZ6RgVv00ydvxZWlSOqwA9RDesP0yuzXPXSSb_lxTYO-kuBWGnRG59Hb7ER_6Slf0V7psgq3Y6o7l-04ffjurugn8ZRnCRarOxP0dv697tcWHpDbnH0Buz1rfyfzoAGH_pi8djah_n9vKo-sbNwbyV_mFEf4_4--3iaN9iAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Co4CL2dvdG8_dXJsPUNBRVN2Z0VCNnpzd0ZUZ1JVNEpGcjJxTl83VUFpMHVNcDJJVzFKMDEwcDVWR0otd05ET1NNb1NhcnRmZWJELVdlYkE0c2EwYTAzbHhrVGlTaEpqUTNjVWFDMnJwTW44cmJ5MTR4YVFQMXZrWUZhajY4SXl6ek9nbVVQMTB0Wm1teksyeDNORlI3MVJtUVR3c084NDYxeXQ2RmhhTnQ0QlRpSmpmbVRUMExFM1FvU3VNSXpKaWdfdERsdWYwMTJsU21neDlDZUlQaWlRUDItdTFoc3pPcGxwN3R5NWZmS1VxQU5zeFR6cUNpdlJQXy1lbHRYaHJwZURHT2tMeW1SVGFDQ0pHEgQaAggAGqsFEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQIcFCAAQABgAIAAqIAoJYWRoaXJhc2FtFfilQEAaDml2O3A7YWRoaXJhc2FtKigKBGFsc28VAAAAABoGYmV0dGVyGghjb21tb25seRoJYWxzb2tub3duKkIKBWtub3duFQIuaj4aBmNhbGxlZBoEa25vdxoIcmVmZXJyZWQaCWFsc29rbm93bhoGZmFtb3VzGgl3aWtpcGVkaWEqFgoCYXMVRL2LPRoGY2FsbGVkGgNmb3IytQEvZ290bz91cmw9Q0FFU2ZBSHJPekFWMHZuS1FUanVBX0hldFVmUWt3SkpmaFNES1R3aHVldjRnTEFGM0RyTVNNb1I4cjFrcDVUa0N2eUlaRkd2R1BvWUVLSnpObWhBeURub0tMMHdOem1HclpiOEVZLTZEdkZ0UlNMYWxaTmI5LUJmdnZ2SDE0Nkd6WlRRYVdaQlh4QWQ4RHB0akFZdjlJZ2FpZGQwUkdTcDdFOGxzSE95NE1BOm88Yj5BZGhpcmFzYW08L2I-IC8gQXRoaXJhc2FtIE9ubGluZSB8IFRyYWRpdGlvbmFsIFNvdXRoIEluZGlhbiBTd2VldCBQQU4tSW5kaWEgJmFtcDsgV29ybGR3aWRlIHwgTmFnZXJjb2lsQ2hpcHNCpgFJcyBBZGhpcmFzYW0gYW5kIEF0aGlyYXNhbSB0aGUgc2FtZT8gWWVzLiBUaGUgc3BlbGxpbmcgZGlmZmVycywgYnV0IHRoZSBzd2VldCBpcyB0aGUgc2FtZS4gSXMgQWRoaXJhc2FtIGhlYWx0aHk_IFllcy4gTWFkZSB3aXRoIHJpY2UgYW5kIGphZ2dlcnksIGl0IHByb3ZpZGVzJm5ic3A7Li4uUgNmb3IiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Co4CL2dvdG8_dXJsPUNBRVN2Z0VCNnpzd0ZUZ1JVNEpGcjJxTl83VUFpMHVNcDJJVzFKMDEwcDVWR0otd05ET1NNb1NhcnRmZWJELVdlYkE0c2EwYTAzbHhrVGlTaEpqUTNjVWFDMnJwTW44cmJ5MTR4YVFQMXZrWUZhajY4SXl6ek9nbVVQMTB0Wm1teksyeDNORlI3MVJtUVR3c084NDYxeXQ2RmhhTnQ0QlRpSmpmbVRUMExFM1FvU3VNSXpKaWdfdERsdWYwMTJsU21neDlDZUlQaWlRUDItdTFoc3pPcGxwN3R5NWZmS1VxQU5zeFR6cUNpdlJQXy1lbHRYaHJwZURHT2tMeW1SVGFDQ0pHEgQaAggAGqsFEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQIcFCAAQABgAIAAqIAoJYWRoaXJhc2FtFfilQEAaDml2O3A7YWRoaXJhc2FtKigKBGFsc28VAAAAABoGYmV0dGVyGghjb21tb25seRoJYWxzb2tub3duKkIKBWtub3duFQIuaj4aBmNhbGxlZBoEa25vdxoIcmVmZXJyZWQaCWFsc29rbm93bhoGZmFtb3VzGgl3aWtpcGVkaWEqFgoCYXMVRL2LPRoGY2FsbGVkGgNmb3IytQEvZ290bz91cmw9Q0FFU2ZBSHJPekFWMHZuS1FUanVBX0hldFVmUWt3SkpmaFNES1R3aHVldjRnTEFGM0RyTVNNb1I4cjFrcDVUa0N2eUlaRkd2R1BvWUVLSnpObWhBeURub0tMMHdOem1HclpiOEVZLTZEdkZ0UlNMYWxaTmI5LUJmdnZ2SDE0Nkd6WlRRYVdaQlh4QWQ4RHB0akFZdjlJZ2FpZGQwUkdTcDdFOGxzSE95NE1BOm88Yj5BZGhpcmFzYW08L2I-IC8gQXRoaXJhc2FtIE9ubGluZSB8IFRyYWRpdGlvbmFsIFNvdXRoIEluZGlhbiBTd2VldCBQQU4tSW5kaWEgJmFtcDsgV29ybGR3aWRlIHwgTmFnZXJjb2lsQ2hpcHNCpgFJcyBBZGhpcmFzYW0gYW5kIEF0aGlyYXNhbSB0aGUgc2FtZT8gWWVzLiBUaGUgc3BlbGxpbmcgZGlmZmVycywgYnV0IHRoZSBzd2VldCBpcyB0aGUgc2FtZS4gSXMgQWRoaXJhc2FtIGhlYWx0aHk_IFllcy4gTWFkZSB3aXRoIHJpY2UgYW5kIGphZ2dlcnksIGl0IHByb3ZpZGVzJm5ic3A7Li4uUgNmb3IiAhABSABYAGgA",
+    "source": "Nagercoil Chips"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "query": "Adhirasam also known as in english",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&hl=en&gl=in&sxsrf=APpeQnsZzYXKYgSmTlGULJTmeuKups14sQ:1790968538483&q=Adhirasam+also+known+as+in+english&sa=X&ved=2ahUKEwjl5KjchZyXAxVfQ_EDHXEtN9wQ1QJ6BAgvEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=Adhirasam+also+known+as+in+english"
+   },
+   {
+    "block_position": 1,
+    "query": "Adhirasam also known as hebbars kitchen",
+    "link": "https://www.google.co.in/search?sca_esv=4d65981f01013b52&hl=en&gl=in&sxsrf=APpeQnsZzYXKYgSmTlGULJTmeuKups14sQ:1790968538483&q=Adhirasam+also+known+as+hebbars+kitchen&sa=X&ved=2ahUKEwjl5KjchZyXAxVfQ_EDHXEtN9wQ1QJ6BAgwEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=mobile&engine=google&gl=in&google_domain=google.co.in&hl=en&q=Adhirasam+also+known+as+hebbars+kitchen"
+   }
+  ],
+  "pagination": {
+   "current": 1
+  },
+  "serpapi_pagination": {
+   "current": 1
+  }
+ }
+}

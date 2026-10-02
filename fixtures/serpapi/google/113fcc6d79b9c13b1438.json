@@ -1,0 +1,323 @@
+{
+ "engine": "google",
+ "params": {
+  "q": "Diwali sweet recipe deep fried ghee semolina wheat flour khoya",
+  "gl": "in",
+  "hl": "en",
+  "google_domain": "google.co.in",
+  "device": "mobile"
+ },
+ "recordedAt": "2026-10-02T19:11:58.735Z",
+ "data": {
+  "search_metadata": {
+   "id": "6ac001fd1b6c6ef34473dc0c",
+   "status": "Success",
+   "markdown_endpoint": "https://serpapi.com/searches/3thbasSFlT13W0Hu-ZGf_uGW1TrvwoK0xveAnTMQyV8/6ac001fd1b6c6ef34473dc0c.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/3thbasSFlT13W0Hu-ZGf_uGW1TrvwoK0xveAnTMQyV8/6ac001fd1b6c6ef34473dc0c.json_with_pixel_position",
+   "created_at": "2026-10-02 19:11:57 UTC",
+   "processed_at": "2026-10-02 19:11:57 UTC",
+   "google_url": "https://www.google.co.in/search?q=Diwali+sweet+recipe+deep+fried+ghee+semolina+wheat+flour+khoya&oq=Diwali+sweet+recipe+deep+fried+ghee+semolina+wheat+flour+khoya&hl=en&gl=in&sourceid=chrome-mobile&ie=UTF-8",
+   "total_time_taken": 0.67
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "Diwali sweet recipe deep fried ghee semolina wheat flour khoya",
+   "google_domain": "google.co.in",
+   "hl": "en",
+   "gl": "in",
+   "device": "mobile"
+  },
+  "search_information": {
+   "query_displayed": "Diwali sweet recipe deep fried ghee semolina wheat flour khoya"
+  },
+  "recipes_results": [
+   {
+    "title": "Gujiya Recipe for Diwali",
+    "link": "https://www.indianhealthyrecipes.com/gujiya/",
+    "source": "Swasthi's Recipes",
+    "rating": 5,
+    "reviews": 6,
+    "total_time": "1h 15m",
+    "total_ingredients_original": "12 ingredients",
+    "total_ingredients": 12,
+    "images": [
+     "https://serpapi.com/searches/6ac001fd1b6c6ef34473dc0c/images/hwdVG2f4DrBro_jGzGal0DOY32razXaRXcojMAdsGwE.jpeg",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyyEXU-RviTIYTbJekeXPHPBNQ2J9_yYIips6BURszTb3Sz-2bTQy-yQe9QQ&s=10"
+    ]
+   },
+   {
+    "title": "How to make Gujiya - Mawa Gujia Recipe",
+    "link": "https://thetastesofindia.com/how-to-make-gujiya/",
+    "source": "thetastesofindia.com",
+    "total_time": "3h 15m",
+    "total_ingredients_original": "11 ingredients",
+    "total_ingredients": 11,
+    "thumbnail": "https://serpapi.com/searches/6ac001fd1b6c6ef34473dc0c/images/hwdVG2f4DrBro_jGzGal0ApEa8Z6a2OfyJqZkbN33Gc.jpeg"
+   },
+   {
+    "title": "Gujarati Ghughra (Gujiya / Karanji)",
+    "link": "https://www.dessarts.com/traditional-diwali-treats-ghugra-karanji/",
+    "source": "The Art of Dessert",
+    "rating": 5,
+    "reviews": 1,
+    "total_time": "1h 30m",
+    "total_ingredients_original": "14 ingredients",
+    "total_ingredients": 14,
+    "images": [
+     "https://serpapi.com/searches/6ac001fd1b6c6ef34473dc0c/images/hwdVG2f4DrBro_jGzGal0IaMltTV_W2si7rYAsa1W98.jpeg",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWry40vmmTuydnuNJKnIGVyooqGiosvG0LXW-PDrogZr2O3ZBI_3x9rcTVMQ&s=10",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFqV3PZUaB0UPTPciKp46cjhkbntuVHYRRkoqvxjL99q1mYZCTPLEsCKp3PE4&s=10",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpvNfhu7wxUyimks3_29djxfJc5CX3B-8dVedTeB58GzeZq5O3abyS9-HHz0U&s=10"
+    ]
+   },
+   {
+    "title": "Shankarpali | Shakarpara recipe",
+    "link": "https://www.cookingcarnival.com/shankarpali-shakarpara-recipe/",
+    "source": "Cooking Carnival",
+    "rating": 5,
+    "reviews": 4,
+    "total_time": "20m",
+    "total_ingredients_original": "7 ingredients",
+    "total_ingredients": 7,
+    "images": [
+     "https://serpapi.com/searches/6ac001fd1b6c6ef34473dc0c/images/hwdVG2f4DrBro_jGzGal0IMHE06JbxB-ZV-tY60Wib0.jpeg",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTbBkqgxf-JJcXw5Hb4b7anzve4UThxFq_Rfrlb75ElJXAd2TR9G7fqTVaOA&s=10",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBj_sts8jDWqPC4q6LA90zRcac31Q3Y5y_QtUrtGMqr6J4du6FIHUFQBPTcQ&s=10",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA7AeghWhjR3gJsM5XGVPAU0wdnFxGD8NfFL93n-1n_tgSXVtni48n7RwDqQ&s=10"
+    ]
+   }
+  ],
+  "inline_videos": [
+   {
+    "position": 1,
+    "title": "Combine Fried Semolina with sheera,and khoya,result will surprise you|Suji ka Halwa",
+    "link": "https://www.youtube.com/watch?v=oyLyuoDf1QU",
+    "thumbnail": "https://serpapi.com/searches/6ac001fd1b6c6ef34473dc0c/images/CFb-Nm8BQgco2-KJ3_IHPTpYNAOyAdG_rhuBvI7xzPQ.jpeg",
+    "channel": "cooking with sehir",
+    "duration": "8:05",
+    "platform": "YouTube",
+    "date": "7 Feb 2024",
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTvHEZTsrmjmrt7DpaMJSyo4hPTUfNT4LT2rA"
+   },
+   {
+    "position": 2,
+    "title": "A soft, rich, and comforting sweet made with semolina, ghee, and sugar. Whether you enjoy ...",
+    "link": "https://www.facebook.com/kidstiffinbox/videos/a-soft-rich-and-comforting-sweet-made-with-semolina-ghee-and-sugar-whether-you-e/913002508532900/",
+    "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIAEwAhwMBIgACEQEDEQH_xAAYAAEBAQEBAAAAAAAAAAAAAAAAAQMCB__EABwQAQACAQUAAAAAAAAAAAAAAAABESECEjFBUf_EABQBAQAAAAAAAAAAAAAAAAAAAAD_xAAUEQEAAAAAAAAAAAAAAAAAAAAA_9oADAMBAAIRAxEAPwDyRFAQVACgBKFAKAAAAc6oy6KBnm0zbXbCTp8BxHIu2elBoigIKgJQoCCgIKAgoBAAAoCCgAAAAAAAAIKAAAAAAAAAoAAAAAIKAgqAAAAAAACwgKAAAAAAAAAAioAAAACgA__Z.jpeg",
+    "channel": "Tiffin Box",
+    "duration": "4:12",
+    "platform": "Facebook",
+    "date": "1 month ago"
+   },
+   {
+    "position": 3,
+    "title": "#2610 Ingredients: For the dough: 2 cups all-purpose flour (maida) 4 tablespoons ghee ( ...",
+    "link": "https://www.instagram.com/reel/C4u5m1Oy2_r/",
+    "thumbnail": "https://serpapi.com/searches/6ac001fd1b6c6ef34473dc0c/images/n957qRa2AMDcxNusBClBstQEgwtOSYWrK0Z7NqNZHWI.jpeg",
+    "channel": "Richa Singh",
+    "duration": "0:39",
+    "platform": "Instagram",
+    "date": "20 Mar 2024",
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQphg9lJ8ZU_IsKA3gJr-30KoJseQnFEw0dSg"
+   }
+  ],
+  "related_questions": [
+   {
+    "question": "What are some easy sweet recipes using khoya?",
+    "type": "ai_overview",
+    "page_token": "5djWU3icHdDbToMwGADg-DJebrQDdUsWEzbAoaC0_cvhxpQC66Acprg57nwXn8qn0fgGX76vb33omp-rTzWOw_tqPj-fz7N93-91OZP97NDNxfulk3MptM6FbFY3tzfovpJr52Nnb447O4Jh4Fti0NplFMgFNugDktAs4_EouNrEYKLQK2igicN42BS1jVJ8Z1LsLxIjwGKrFrRd1rSBBRhWx7Wa0iRrxQaJ0jMshpZmxKNLCdoJsAWsU33aFVPMwhq0LzhkE4kDK4qLR4GHneApzlrSCmy1wuMgE42Yd2fyxj0VjbuTTYBiz5mkS06lE1iZVkw2DqLxaOdxZuSI95n-w6qiAlB2mvhPAkwDcHh-3pIo3wKmTJH0sz9EQCZZ6xYS9wlqfuStPxIcPlBjGeUGCllHXgLHr4jnv0B0XcnTenH9_7l-rdpxNbz1-19K0YFW",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5djWU3icHdDbToMwGADg-DJebrQDdUsWEzbAoaC0_cvhxpQC66Acprg57nwXn8qn0fgGX76vb33omp-rTzWOw_tqPj-fz7N93-91OZP97NDNxfulk3MptM6FbFY3tzfovpJr52Nnb447O4Jh4Fti0NplFMgFNugDktAs4_EouNrEYKLQK2igicN42BS1jVJ8Z1LsLxIjwGKrFrRd1rSBBRhWx7Wa0iRrxQaJ0jMshpZmxKNLCdoJsAWsU33aFVPMwhq0LzhkE4kDK4qLR4GHneApzlrSCmy1wuMgE42Yd2fyxj0VjbuTTYBiz5mkS06lE1iZVkw2DqLxaOdxZuSI95n-w6qiAlB2mvhPAkwDcHh-3pIo3wKmTJH0sz9EQCZZ6xYS9wlqfuStPxIcPlBjGeUGCllHXgLHr4jnv0B0XcnTenH9_7l-rdpxNbz1-19K0YFW",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVYQlJWbU56YkhKMWVYaHVaMU0wY1dwc01tMUhRMk56YjFkTmJpMXlNa2hXYW5kTE4wVklVaTEzYW00MGIyaE9XV0pDUkZGTGNqVTFXbDkwUVhvNFExcE1jVmxZTVhWa2RETlJOME10YkVsVFREQnBNemh5UTFSM1p4SVhYMUZJUVdGeVMybE9ORk5qY0RnMFVHdzFOa2s0VVdNYUlrRkVjM0k1WmxSaGJuUnpOek5MVDBadlJXZENURU41Tm1weFJIUk9TVEJsTFVFIiwiZmN2IjoiMyIsImVpIjoiX1FIQWFyS2lONFNjcDg0UGw1Nkk4UWMiLCJxYyI6IkNqNWthWGRoYkdrZ2MzZGxaWFFnY21WamFYQmxJR1JsWlhBZ1puSnBaV1FnWjJobFpTQnpaVzF2YkdsdVlTQjNhR1ZoZENCbWJHOTFjaUJyYUc5NVlSQUFmZDc3M3o0IiwicXVlc3Rpb24iOiJXaGF0IGFyZSBzb21lIGVhc3kgc3dlZXQgcmVjaXBlcyB1c2luZyBraG95YT8iLCJsayI6IkdoMWxZWE41SUhOM1pXVjBJSEpsWTJsd1pYTWdkMmwwYUNCcmFHOTVZUSIsImJzIjoiYzQyUVBRLUNNQkNHNDlySjBUUXhuSU9iSDlnX3dLQ0xtMDdNRjdqWWk5Q1N0a2o0OTJKQkoyTmM3XzE2Y3VJaXRybkdBT2dJdkswSkNIMFB2aU1LNEtqZ2hqeTBuczBON3RyMm1LbEVMcjlZT2c1NmRJaEM3SFBOaFI0ZGcwUkRkWTBsQVJ2b2JldEEyOVlUREtNbjdyRGlUS1Z5MV8wWktXTkVYTVVtWXJPSG9Bbk9wbVEwRTFOazhWdzl5SUUxRUd5VHFaVk0tTGRISE1YNjg0bERta0pqbTdaQzkyWWFTT0pLcHFSY3ZQVHBickNPbUxGLVBuc0MiLCJpZCI6ImZjX19RSEFhcktpTjRTY3A4NFBsNTZJOFFjXzcifQ==",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVYQlJWbU56YkhKMWVYaHVaMU0wY1dwc01tMUhRMk56YjFkTmJpMXlNa2hXYW5kTE4wVklVaTEzYW00MGIyaE9XV0pDUkZGTGNqVTFXbDkwUVhvNFExcE1jVmxZTVhWa2RETlJOME10YkVsVFREQnBNemh5UTFSM1p4SVhYMUZJUVdGeVMybE9ORk5qY0RnMFVHdzFOa2s0VVdNYUlrRkVjM0k1WmxSaGJuUnpOek5MVDBadlJXZENURU41Tm1weFJIUk9TVEJsTFVFIiwiZmN2IjoiMyIsImVpIjoiX1FIQWFyS2lONFNjcDg0UGw1Nkk4UWMiLCJxYyI6IkNqNWthWGRoYkdrZ2MzZGxaWFFnY21WamFYQmxJR1JsWlhBZ1puSnBaV1FnWjJobFpTQnpaVzF2YkdsdVlTQjNhR1ZoZENCbWJHOTFjaUJyYUc5NVlSQUFmZDc3M3o0IiwicXVlc3Rpb24iOiJXaGF0IGFyZSBzb21lIGVhc3kgc3dlZXQgcmVjaXBlcyB1c2luZyBraG95YT8iLCJsayI6IkdoMWxZWE41SUhOM1pXVjBJSEpsWTJsd1pYTWdkMmwwYUNCcmFHOTVZUSIsImJzIjoiYzQyUVBRLUNNQkNHNDlySjBUUXhuSU9iSDlnX3dLQ0xtMDdNRjdqWWk5Q1N0a2o0OTJKQkoyTmM3XzE2Y3VJaXRybkdBT2dJdkswSkNIMFB2aU1LNEtqZ2hqeTBuczBON3RyMm1LbEVMcjlZT2c1NmRJaEM3SFBOaFI0ZGcwUkRkWTBsQVJ2b2JldEEyOVlUREtNbjdyRGlUS1Z5MV8wWktXTkVYTVVtWXJPSG9Bbk9wbVEwRTFOazhWdzl5SUUxRUd5VHFaVk0tTGRISE1YNjg0bERta0pqbTdaQzkyWWFTT0pLcHFSY3ZQVHBickNPbUxGLVBuc0MiLCJpZCI6ImZjX19RSEFhcktpTjRTY3A4NFBsNTZJOFFjXzcifQ%3D%3D"
+   },
+   {
+    "question": "Which sweets were made in your house at Diwali?",
+    "type": "ai_overview",
+    "page_token": "jei6CnicHdDRrpowGADg7GXOpYKoCybmZAiIRCAt7d_CzVLaIygFOg8T8W7vsEfYU-1plux7hO_XH33t279ffjfjaD53y-U0TYt6GGr9sZDD4tovxefcy6UUWldCtrvt1639fpH74CG9w116iBoDPrZyJ_WyqFzRoxwJNFDSDUBbcmWF5wySufJTJGzXI77mysY4CxXDXJvyFjzVq0wL5iaFBaQgHq6sOBd9bGUseFYvuq5ugEvH3ImfJjg6rSQJe8IaUrTtTI6Fg5j5kffqhXU9nzk2pYUj8L9tUhbSM1MPyO0Dak8bStIOoDlV4NoqqG3RoakAxSttth9tfEgs-Ek65FANUEVyZqGLFbUFArVOHYNSAnfJ4BY06kJp4xU8Pgu6tugqnTIfo8qnq5w0uHgOV0TxS950R3mZ57oZEx533HJ9FmKcB2PJopMjjiZEdJjU9HaRj73z9v96__3SjTtzH-p_ckyM0Q",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jei6CnicHdDRrpowGADg7GXOpYKoCybmZAiIRCAt7d_CzVLaIygFOg8T8W7vsEfYU-1plux7hO_XH33t279ffjfjaD53y-U0TYt6GGr9sZDD4tovxefcy6UUWldCtrvt1639fpH74CG9w116iBoDPrZyJ_WyqFzRoxwJNFDSDUBbcmWF5wySufJTJGzXI77mysY4CxXDXJvyFjzVq0wL5iaFBaQgHq6sOBd9bGUseFYvuq5ugEvH3ImfJjg6rSQJe8IaUrTtTI6Fg5j5kffqhXU9nzk2pYUj8L9tUhbSM1MPyO0Dak8bStIOoDlV4NoqqG3RoakAxSttth9tfEgs-Ek65FANUEVyZqGLFbUFArVOHYNSAnfJ4BY06kJp4xU8Pgu6tugqnTIfo8qnq5w0uHgOV0TxS950R3mZ57oZEx533HJ9FmKcB2PJopMjjiZEdJjU9HaRj73z9v96__3SjTtzH-p_ckyM0Q",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVYQlJWbU56YkhKMWVYaHVaMU0wY1dwc01tMUhRMk56YjFkTmJpMXlNa2hXYW5kTE4wVklVaTEzYW00MGIyaE9XV0pDUkZGTGNqVTFXbDkwUVhvNFExcE1jVmxZTVhWa2RETlJOME10YkVsVFREQnBNemh5UTFSM1p4SVhYMUZJUVdGeVMybE9ORk5qY0RnMFVHdzFOa2s0VVdNYUlrRkVjM0k1WmxSaGJuUnpOek5MVDBadlJXZENURU41Tm1weFJIUk9TVEJsTFVFIiwiZmN2IjoiMyIsImVpIjoiX1FIQWFyS2lONFNjcDg0UGw1Nkk4UWMiLCJxYyI6IkNqNWthWGRoYkdrZ2MzZGxaWFFnY21WamFYQmxJR1JsWlhBZ1puSnBaV1FnWjJobFpTQnpaVzF2YkdsdVlTQjNhR1ZoZENCbWJHOTFjaUJyYUc5NVlSQUFmZDc3M3o0IiwicXVlc3Rpb24iOiJXaGljaCBzd2VldHMgd2VyZSBtYWRlIGluIHlvdXIgaG91c2UgYXQgRGl3YWxpPyIsImxrIjoiR2k1M2FHbGphQ0J6ZDJWbGRITWdkMlZ5WlNCdFlXUmxJR2x1SUhsdmRYSWdhRzkxYzJVZ1lYUWdaR2wzWVd4cCIsImJzIjoiYzQyUVBRLUNNQkNHNDlySjBUUXhuSU9iSDlnX3dLQ0xtMDdNRjdqWWk5Q1N0a2o0OTJKQkoyTmM3XzE2Y3VJaXRybkdBT2dJdkswSkNIMFB2aU1LNEtqZ2hqeTBuczBON3RyMm1LbEVMcjlZT2c1NmRJaEM3SFBOaFI0ZGcwUkRkWTBsQVJ2b2JldEEyOVlUREtNbjdyRGlUS1Z5MV8wWktXTkVYTVVtWXJPSG9Bbk9wbVEwRTFOazhWdzl5SUUxRUd5VHFaVk0tTGRISE1YNjg0bERta0pqbTdaQzkyWWFTT0pLcHFSY3ZQVHBickNPbUxGLVBuc0MiLCJpZCI6ImZjX19RSEFhcktpTjRTY3A4NFBsNTZJOFFjXzcifQ==",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVYQlJWbU56YkhKMWVYaHVaMU0wY1dwc01tMUhRMk56YjFkTmJpMXlNa2hXYW5kTE4wVklVaTEzYW00MGIyaE9XV0pDUkZGTGNqVTFXbDkwUVhvNFExcE1jVmxZTVhWa2RETlJOME10YkVsVFREQnBNemh5UTFSM1p4SVhYMUZJUVdGeVMybE9ORk5qY0RnMFVHdzFOa2s0VVdNYUlrRkVjM0k1WmxSaGJuUnpOek5MVDBadlJXZENURU41Tm1weFJIUk9TVEJsTFVFIiwiZmN2IjoiMyIsImVpIjoiX1FIQWFyS2lONFNjcDg0UGw1Nkk4UWMiLCJxYyI6IkNqNWthWGRoYkdrZ2MzZGxaWFFnY21WamFYQmxJR1JsWlhBZ1puSnBaV1FnWjJobFpTQnpaVzF2YkdsdVlTQjNhR1ZoZENCbWJHOTFjaUJyYUc5NVlSQUFmZDc3M3o0IiwicXVlc3Rpb24iOiJXaGljaCBzd2VldHMgd2VyZSBtYWRlIGluIHlvdXIgaG91c2UgYXQgRGl3YWxpPyIsImxrIjoiR2k1M2FHbGphQ0J6ZDJWbGRITWdkMlZ5WlNCdFlXUmxJR2x1SUhsdmRYSWdhRzkxYzJVZ1lYUWdaR2wzWVd4cCIsImJzIjoiYzQyUVBRLUNNQkNHNDlySjBUUXhuSU9iSDlnX3dLQ0xtMDdNRjdqWWk5Q1N0a2o0OTJKQkoyTmM3XzE2Y3VJaXRybkdBT2dJdkswSkNIMFB2aU1LNEtqZ2hqeTBuczBON3RyMm1LbEVMcjlZT2c1NmRJaEM3SFBOaFI0ZGcwUkRkWTBsQVJ2b2JldEEyOVlUREtNbjdyRGlUS1Z5MV8wWktXTkVYTVVtWXJPSG9Bbk9wbVEwRTFOazhWdzl5SUUxRUd5VHFaVk0tTGRISE1YNjg0bERta0pqbTdaQzkyWWFTT0pLcHFSY3ZQVHBickNPbUxGLVBuc0MiLCJpZCI6ImZjX19RSEFhcktpTjRTY3A4NFBsNTZJOFFjXzcifQ%3D%3D"
+   },
+   {
+    "question": "What is the Indian sweet with silver on top?",
+    "type": "ai_overview",
+    "page_token": "9vgMbHicHZDNboJAGADTl_EooGiriWlCYUEqa1h2P34uzboroqyAiqLc-i59qj5NTQ9zm8Nkvn_Uvip_X-5F2zaXuaZ1XTfc1fVObYeiHu4rjV8eldAEV2rDRTmfvk6N91wsnOvS-jgtrZA1DdhEj8qsigAlNIFrFBc59I4ZKYyJ2-QY-TaGt27rqc81gmtmWw0fIbxxJ13Mdg9hZxd2xLqkBcmcSc377EhLaWIDJxSQmSp_JSPDSKEJYrfs5cM4SZf0YSK9oJIeL320hRlAgs_4oHwKkBKPBNJAAaOyp3Gq04OMAhfrcSKeoGlaApJOdgspmTJEVjAOe9HLCdiwXDuSOIXMGSusNPFXnJk6G-FubZNwY7NR9OxM7_U-ZKQXB3VkiqzB8x2RFGXK_NXT4xElsVQzYzNqKznGPOsGubgtxoP_n4uv_NjOm3O9-wMYdINp",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=9vgMbHicHZDNboJAGADTl_EooGiriWlCYUEqa1h2P34uzboroqyAiqLc-i59qj5NTQ9zm8Nkvn_Uvip_X-5F2zaXuaZ1XTfc1fVObYeiHu4rjV8eldAEV2rDRTmfvk6N91wsnOvS-jgtrZA1DdhEj8qsigAlNIFrFBc59I4ZKYyJ2-QY-TaGt27rqc81gmtmWw0fIbxxJ13Mdg9hZxd2xLqkBcmcSc377EhLaWIDJxSQmSp_JSPDSKEJYrfs5cM4SZf0YSK9oJIeL320hRlAgs_4oHwKkBKPBNJAAaOyp3Gq04OMAhfrcSKeoGlaApJOdgspmTJEVjAOe9HLCdiwXDuSOIXMGSusNPFXnJk6G-FubZNwY7NR9OxM7_U-ZKQXB3VkiqzB8x2RFGXK_NXT4xElsVQzYzNqKznGPOsGubgtxoP_n4uv_NjOm3O9-wMYdINp",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVYQlJWbU56YkhKMWVYaHVaMU0wY1dwc01tMUhRMk56YjFkTmJpMXlNa2hXYW5kTE4wVklVaTEzYW00MGIyaE9XV0pDUkZGTGNqVTFXbDkwUVhvNFExcE1jVmxZTVhWa2RETlJOME10YkVsVFREQnBNemh5UTFSM1p4SVhYMUZJUVdGeVMybE9ORk5qY0RnMFVHdzFOa2s0VVdNYUlrRkVjM0k1WmxSaGJuUnpOek5MVDBadlJXZENURU41Tm1weFJIUk9TVEJsTFVFIiwiZmN2IjoiMyIsImVpIjoiX1FIQWFyS2lONFNjcDg0UGw1Nkk4UWMiLCJxYyI6IkNqNWthWGRoYkdrZ2MzZGxaWFFnY21WamFYQmxJR1JsWlhBZ1puSnBaV1FnWjJobFpTQnpaVzF2YkdsdVlTQjNhR1ZoZENCbWJHOTFjaUJyYUc5NVlSQUFmZDc3M3o0IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBJbmRpYW4gc3dlZXQgd2l0aCBzaWx2ZXIgb24gdG9wPyIsImxrIjoiR2g5cGJtUnBZVzRnYzNkbFpYUWdkMmwwYUNCemFXeDJaWElnYjI0Z2RHOXciLCJicyI6ImM0MlFQUS1DTUJDRzQ5ckowVFF4bklPYkg5Z193S0NMbTA3TUY3allpOUNTdGtqNDkySkJKMk5jN18xNmN1SWl0cm5HQU9nSXZLMEpDSDBQdmlNSzRLamdoankwbnMwTjd0cjJtS2xFTHI5WU9nNTZkSWhDN0hQTmhSNGRnMFJEZFkwbEFSdm9iZXRBMjlZVERLTW43ckRpVEtWeTFfMFpLV05FWE1VbVlyT0hvQW5PcG1RMEUxTms4Vnc5eUlFMUVHeVRxWlZNLUxkSEhNWDY4NGxEbWtKam03WkM5MllhU09KS3BxUmN2UFRwYnJDT21MRi1QbnNDIiwiaWQiOiJmY19fUUhBYXJLaU40U2NwODRQbDU2SThRY183In0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVYQlJWbU56YkhKMWVYaHVaMU0wY1dwc01tMUhRMk56YjFkTmJpMXlNa2hXYW5kTE4wVklVaTEzYW00MGIyaE9XV0pDUkZGTGNqVTFXbDkwUVhvNFExcE1jVmxZTVhWa2RETlJOME10YkVsVFREQnBNemh5UTFSM1p4SVhYMUZJUVdGeVMybE9ORk5qY0RnMFVHdzFOa2s0VVdNYUlrRkVjM0k1WmxSaGJuUnpOek5MVDBadlJXZENURU41Tm1weFJIUk9TVEJsTFVFIiwiZmN2IjoiMyIsImVpIjoiX1FIQWFyS2lONFNjcDg0UGw1Nkk4UWMiLCJxYyI6IkNqNWthWGRoYkdrZ2MzZGxaWFFnY21WamFYQmxJR1JsWlhBZ1puSnBaV1FnWjJobFpTQnpaVzF2YkdsdVlTQjNhR1ZoZENCbWJHOTFjaUJyYUc5NVlSQUFmZDc3M3o0IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBJbmRpYW4gc3dlZXQgd2l0aCBzaWx2ZXIgb24gdG9wPyIsImxrIjoiR2g5cGJtUnBZVzRnYzNkbFpYUWdkMmwwYUNCemFXeDJaWElnYjI0Z2RHOXciLCJicyI6ImM0MlFQUS1DTUJDRzQ5ckowVFF4bklPYkg5Z193S0NMbTA3TUY3allpOUNTdGtqNDkySkJKMk5jN18xNmN1SWl0cm5HQU9nSXZLMEpDSDBQdmlNSzRLamdoankwbnMwTjd0cjJtS2xFTHI5WU9nNTZkSWhDN0hQTmhSNGRnMFJEZFkwbEFSdm9iZXRBMjlZVERLTW43ckRpVEtWeTFfMFpLV05FWE1VbVlyT0hvQW5PcG1RMEUxTms4Vnc5eUlFMUVHeVRxWlZNLUxkSEhNWDY4NGxEbWtKam03WkM5MllhU09KS3BxUmN2UFRwYnJDT21MRi1QbnNDIiwiaWQiOiJmY19fUUhBYXJLaU40U2NwODRQbDU2SThRY183In0%3D"
+   },
+   {
+    "question": "What are 100 popular sweets in India?",
+    "type": "ai_overview",
+    "page_token": "TwGJzHicHdBRToMwGADgeBkft7ZsU5csJgyYWwZKaf9CXwy0bgwK1A3H5pt38VSeRuMFvofv69sc2vrn5lL2vT3Nx-NhGEb7rtubt5HqRod2nJ-urRqr3JgiV_V8djfDjzu18D_W7vJ97cbcWvAoSoTGIgjcwgEWGfkiWouAaBz6UxaTe0em5UXV_TlBZSabPtTYTjMDGTXxp0QTolpL-GqCWONfVSArTaDOjV4x0OcQRyKsDGxTc0qIbLaMLnPyMANTkrjRlrd6qUQkKLdCsv2U1SXoxkJEcJXV0hMr6egahwXXiRQXVhBJMqCNSnAlIfDC2iexY6JcoCFFNIvSDfVLveO8dLN0s835BHESDc8ejQuPk4SVNLt0h5jTT1WZBlbymAjqArJQ4BADD154AEFSySfwN_TPIHK43anzwrn9_1y87pp-bo_d_hcW0IIE",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=TwGJzHicHdBRToMwGADgeBkft7ZsU5csJgyYWwZKaf9CXwy0bgwK1A3H5pt38VSeRuMFvofv69sc2vrn5lL2vT3Nx-NhGEb7rtubt5HqRod2nJ-urRqr3JgiV_V8djfDjzu18D_W7vJ97cbcWvAoSoTGIgjcwgEWGfkiWouAaBz6UxaTe0em5UXV_TlBZSabPtTYTjMDGTXxp0QTolpL-GqCWONfVSArTaDOjV4x0OcQRyKsDGxTc0qIbLaMLnPyMANTkrjRlrd6qUQkKLdCsv2U1SXoxkJEcJXV0hMr6egahwXXiRQXVhBJMqCNSnAlIfDC2iexY6JcoCFFNIvSDfVLveO8dLN0s835BHESDc8ejQuPk4SVNLt0h5jTT1WZBlbymAjqArJQ4BADD154AEFSySfwN_TPIHK43anzwrn9_1y87pp-bo_d_hcW0IIE",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVYQlJWbU56YkhKMWVYaHVaMU0wY1dwc01tMUhRMk56YjFkTmJpMXlNa2hXYW5kTE4wVklVaTEzYW00MGIyaE9XV0pDUkZGTGNqVTFXbDkwUVhvNFExcE1jVmxZTVhWa2RETlJOME10YkVsVFREQnBNemh5UTFSM1p4SVhYMUZJUVdGeVMybE9ORk5qY0RnMFVHdzFOa2s0VVdNYUlrRkVjM0k1WmxSaGJuUnpOek5MVDBadlJXZENURU41Tm1weFJIUk9TVEJsTFVFIiwiZmN2IjoiMyIsImVpIjoiX1FIQWFyS2lONFNjcDg0UGw1Nkk4UWMiLCJxYyI6IkNqNWthWGRoYkdrZ2MzZGxaWFFnY21WamFYQmxJR1JsWlhBZ1puSnBaV1FnWjJobFpTQnpaVzF2YkdsdVlTQjNhR1ZoZENCbWJHOTFjaUJyYUc5NVlSQUFmZDc3M3o0IiwicXVlc3Rpb24iOiJXaGF0IGFyZSAxMDAgcG9wdWxhciBzd2VldHMgaW4gSW5kaWE/IiwibGsiOiJHaGd4TURBZ2MzZGxaWFJ6SUc1aGJXVWdhVzRnYVc1a2FXRSIsImJzIjoiYzQyUVBRLUNNQkNHNDlySjBUUXhuSU9iSDlnX3dLQ0xtMDdNRjdqWWk5Q1N0a2o0OTJKQkoyTmM3XzE2Y3VJaXRybkdBT2dJdkswSkNIMFB2aU1LNEtqZ2hqeTBuczBON3RyMm1LbEVMcjlZT2c1NmRJaEM3SFBOaFI0ZGcwUkRkWTBsQVJ2b2JldEEyOVlUREtNbjdyRGlUS1Z5MV8wWktXTkVYTVVtWXJPSG9Bbk9wbVEwRTFOazhWdzl5SUUxRUd5VHFaVk0tTGRISE1YNjg0bERta0pqbTdaQzkyWWFTT0pLcHFSY3ZQVHBickNPbUxGLVBuc0MiLCJpZCI6ImZjX19RSEFhcktpTjRTY3A4NFBsNTZJOFFjXzcifQ==",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVYQlJWbU56YkhKMWVYaHVaMU0wY1dwc01tMUhRMk56YjFkTmJpMXlNa2hXYW5kTE4wVklVaTEzYW00MGIyaE9XV0pDUkZGTGNqVTFXbDkwUVhvNFExcE1jVmxZTVhWa2RETlJOME10YkVsVFREQnBNemh5UTFSM1p4SVhYMUZJUVdGeVMybE9ORk5qY0RnMFVHdzFOa2s0VVdNYUlrRkVjM0k1WmxSaGJuUnpOek5MVDBadlJXZENURU41Tm1weFJIUk9TVEJsTFVFIiwiZmN2IjoiMyIsImVpIjoiX1FIQWFyS2lONFNjcDg0UGw1Nkk4UWMiLCJxYyI6IkNqNWthWGRoYkdrZ2MzZGxaWFFnY21WamFYQmxJR1JsWlhBZ1puSnBaV1FnWjJobFpTQnpaVzF2YkdsdVlTQjNhR1ZoZENCbWJHOTFjaUJyYUc5NVlSQUFmZDc3M3o0IiwicXVlc3Rpb24iOiJXaGF0IGFyZSAxMDAgcG9wdWxhciBzd2VldHMgaW4gSW5kaWE%2FIiwibGsiOiJHaGd4TURBZ2MzZGxaWFJ6SUc1aGJXVWdhVzRnYVc1a2FXRSIsImJzIjoiYzQyUVBRLUNNQkNHNDlySjBUUXhuSU9iSDlnX3dLQ0xtMDdNRjdqWWk5Q1N0a2o0OTJKQkoyTmM3XzE2Y3VJaXRybkdBT2dJdkswSkNIMFB2aU1LNEtqZ2hqeTBuczBON3RyMm1LbEVMcjlZT2c1NmRJaEM3SFBOaFI0ZGcwUkRkWTBsQVJ2b2JldEEyOVlUREtNbjdyRGlUS1Z5MV8wWktXTkVYTVVtWXJPSG9Bbk9wbVEwRTFOazhWdzl5SUUxRUd5VHFaVk0tTGRISE1YNjg0bERta0pqbTdaQzkyWWFTT0pLcHFSY3ZQVHBickNPbUxGLVBuc0MiLCJpZCI6ImZjX19RSEFhcktpTjRTY3A4NFBsNTZJOFFjXzcifQ%3D%3D"
+   }
+  ],
+  "ai_overview": {
+   "page_token": "pdK1IHiczZbdcqJKEIAf4DzHcmMi-JeVVFFbM0jiaDRi4hq8oRDGAUEwoCF4t-9yXuW8xHmaMwyikGiyuxdbp6tgwkx3T_dMf3Z-_O05vvvvX__Ym806uub5OI6rJAiIh6tmUHV83ogS3-QXgReFpv2NeJLjc7YnYZ9LXqQGZ0aSwGFH0tUuMMK-M2w-mOt2c-S1rlBbNTlmLulzI8JL6v91GfE6T1_ul0aHflSfoyr29VtYFe_E0BnUh7u4Xa0L9Ub1njdWVAn8UYFy-gJKDMhHavLPeVMUNqiFKcJM6Q7HLUmm4NIHpcoKOCkw9cTWnMH-s43aYEcDVdFep_dBMKjs-C4bVC2LlJBynJ8IYvsXDgIVFst-0Ol8MnvQP0y8velTF8CM1Lg8F7M41OKlkJKBXAwOHqNuAdhCbflW_vCyU_-tBMLdIeazEsi9JsijgwPeIrSABX4e0qHGO6Ztsj_CKK1r-VEUgptoZC4nD6u5cznwsNHZJBO3U1tOEleLeXNO9bzAsLCl27rwjX3X6rWWIDa-ti8YVGZ0oCoqUaWi-nA8BeJUiap31WmtwNPhOJAKjkmls4p6qghoGdMjlFmF5nJQI_mpxoPjKgKkD4oS5EZMXSvsgrLKByp0wUmRDxumhZSerlq4LsoTPOSQV9qeJ7gPHh6XCtnB43TKwLi4Z7FgSnlmlvlg5eFBmSUfIPMQSbmk2OH1jgTGmUe4r2igEVtBrIaDPKgO6Rzq7UajqznduZP0SugNpuTKMoKonCF698sps7SGD0yxY6cpZ0aEZSHvLeHru9yVM3ygcZoCOnFan4v6GUzZDjk8b1goMnSrb2-wKAqvynzyMhtaahDF3X4XD24t9TQzwWr-i63I_N-RlXeqJtM7S5b8c2TRQM6RxcqNvY6dCqbOJ4pynqx9pzJBRtZHneodWQgqRbLSTkXJGp_uVL9MFiqQpZbIQh-S1T9LFjlHVtqp3pJV7lTKmU6Vk_U7nWr8O52KQYazody2tktytn0pBJJFmKxai9Fz93F3rz-q95N259E3PfXT9rVYba5XhuVd6I51Deu9TWJd6HQiuMYW9yx1nNjwnEoUY7yphNh01rhiYbyuLEIHWxViY1yJ8Cqg_8AaldjGxqay8IJtWHHtIDG4lRcGkmB8fZVn4fdnbTmSI62nal1hLYymE9vztVvfao6G9jOoL_v9xt297ugySVy0S8Ke0fzuvpjbe8eoDWEfzK6Myx540G42_U7L74azXR-iqTibPj0NH5tj1426M7IQLpWtNhefVHvrLF-7N5uH5iwGpjNesGgiafC0U8fO_KoVRtwqNCVaN816PFTBlAATyBRemSImB_SJ6XNFKYJ1WrRcZBo6jl6kpnXVEtu1hVATao15q86tyCZZS6LARX4o1f4Dw2FWxg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=pdK1IHiczZbdcqJKEIAf4DzHcmMi-JeVVFFbM0jiaDRi4hq8oRDGAUEwoCF4t-9yXuW8xHmaMwyikGiyuxdbp6tgwkx3T_dMf3Z-_O05vvvvX__Ym806uub5OI6rJAiIh6tmUHV83ogS3-QXgReFpv2NeJLjc7YnYZ9LXqQGZ0aSwGFH0tUuMMK-M2w-mOt2c-S1rlBbNTlmLulzI8JL6v91GfE6T1_ul0aHflSfoyr29VtYFe_E0BnUh7u4Xa0L9Ub1njdWVAn8UYFy-gJKDMhHavLPeVMUNqiFKcJM6Q7HLUmm4NIHpcoKOCkw9cTWnMH-s43aYEcDVdFep_dBMKjs-C4bVC2LlJBynJ8IYvsXDgIVFst-0Ol8MnvQP0y8velTF8CM1Lg8F7M41OKlkJKBXAwOHqNuAdhCbflW_vCyU_-tBMLdIeazEsi9JsijgwPeIrSABX4e0qHGO6Ztsj_CKK1r-VEUgptoZC4nD6u5cznwsNHZJBO3U1tOEleLeXNO9bzAsLCl27rwjX3X6rWWIDa-ti8YVGZ0oCoqUaWi-nA8BeJUiap31WmtwNPhOJAKjkmls4p6qghoGdMjlFmF5nJQI_mpxoPjKgKkD4oS5EZMXSvsgrLKByp0wUmRDxumhZSerlq4LsoTPOSQV9qeJ7gPHh6XCtnB43TKwLi4Z7FgSnlmlvlg5eFBmSUfIPMQSbmk2OH1jgTGmUe4r2igEVtBrIaDPKgO6Rzq7UajqznduZP0SugNpuTKMoKonCF698sps7SGD0yxY6cpZ0aEZSHvLeHru9yVM3ygcZoCOnFan4v6GUzZDjk8b1goMnSrb2-wKAqvynzyMhtaahDF3X4XD24t9TQzwWr-i63I_N-RlXeqJtM7S5b8c2TRQM6RxcqNvY6dCqbOJ4pynqx9pzJBRtZHneodWQgqRbLSTkXJGp_uVL9MFiqQpZbIQh-S1T9LFjlHVtqp3pJV7lTKmU6Vk_U7nWr8O52KQYazody2tktytn0pBJJFmKxai9Fz93F3rz-q95N259E3PfXT9rVYba5XhuVd6I51Deu9TWJd6HQiuMYW9yx1nNjwnEoUY7yphNh01rhiYbyuLEIHWxViY1yJ8Cqg_8AaldjGxqay8IJtWHHtIDG4lRcGkmB8fZVn4fdnbTmSI62nal1hLYymE9vztVvfao6G9jOoL_v9xt297ugySVy0S8Ke0fzuvpjbe8eoDWEfzK6Myx540G42_U7L74azXR-iqTibPj0NH5tj1426M7IQLpWtNhefVHvrLF-7N5uH5iwGpjNesGgiafC0U8fO_KoVRtwqNCVaN816PFTBlAATyBRemSImB_SJ6XNFKYJ1WrRcZBo6jl6kpnXVEtu1hVATao15q86tyCZZS6LARX4o1f4Dw2FWxg"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Sooji Halwa is a rich and aromatic Indian dessert made with roasted semolina, ghee, sugar, ...",
+    "link": "https://www.facebook.com/Meenukitchen/videos/sooji-halwa-is-a-rich-and-aromatic-indian-dessert-made-with-roasted-semolina-ghe/1672410160350154/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESyAEB6zswFRhIgSqMUsSED9vUb16nRTiSYMazVohJtCZNsGTCW3VNT9WOExzYpMO1Bav3IPiR8C4XWVxXe6wIxIIpRz5qZrqksOaUXPzPtAzX3e_g48eD2B4AQdF8mXr1q-UWb86yxLaAXYWwkaWRKjVVyxrbTA-htq5YV5NFywuZLHhUjHYfPhvzMIFTFAUx0kT2LUNUlbt5ogP5iKKiAEPDYmV-xr_Ufu9LwR2oMznpfHk73ix0U3QtLxinp8aH3e1qhzoMpRJRfg&ved=2ahUKEwjylJLzhJyXAxUEzskDHRcPIn4QtwJ6BAgNEAE&uoh=1",
+    "thumbnail": "https://serpapi.com/searches/6ac001fd1b6c6ef34473dc0c/images/_KEvywJ1pjhF0LvF59h76P5GPvOZWBHooBLaR8WsWjw.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "duration": "0:44",
+    "snippet": "Sooji Halwa is a rich and aromatic Indian dessert made with roasted semolina, ghee, sugar, and nuts. Its warm, melt-in-the-mouth texture ...",
+    "about_this_result": {
+     "source": {
+      "description": "Sooji Halwa is a rich and aromatic Indian dessert made with roasted semolina, ghee, sugar, and nuts. Its warm, melt-in-the-mouth texture ...",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpwCL2dvdG8_dXJsPUNBRVN5QUVCNnpzd0ZSaElnU3FNVXNTRUQ5dlViMTZuUlRpU1lNYXpWb2hKdENaTnNHVENXM1ZOVDlXT0V4ellwTU8xQmF2M0lQaVI4QzRYV1Z4WGU2d0l4SUlwUno1cVpycWtzT2FVWFB6UHRBelgzZV9nNDhlRDJCNEFRZEY4bVhyMXEtVVdiODZ5eExhQVhZV3drYVdSS2pWVnl4cmJUQS1odHE1WVY1TkZ5d3VaTEhoVWpIWWZQaHZ6TUlGVEZBVXgwa1QyTFVOVWxidDVvZ1A1aUtLaUFFUERZbVYteHJfVWZ1OUx3UjJvTXpucGZIazczaXgwVTNRdEx4aW5wOGFIM2UxcWh6b01wUkpSZmcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpwCL2dvdG8_dXJsPUNBRVN5QUVCNnpzd0ZSaElnU3FNVXNTRUQ5dlViMTZuUlRpU1lNYXpWb2hKdENaTnNHVENXM1ZOVDlXT0V4ellwTU8xQmF2M0lQaVI4QzRYV1Z4WGU2d0l4SUlwUno1cVpycWtzT2FVWFB6UHRBelgzZV9nNDhlRDJCNEFRZEY4bVhyMXEtVVdiODZ5eExhQVhZV3drYVdSS2pWVnl4cmJUQS1odHE1WVY1TkZ5d3VaTEhoVWpIWWZQaHZ6TUlGVEZBVXgwa1QyTFVOVWxidDVvZ1A1aUtLaUFFUERZbVYteHJfVWZ1OUx3UjJvTXpucGZIazczaXgwVTNRdEx4aW5wOGFIM2UxcWh6b01wUkpSZmcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+    "source": "Facebook · Meenu's Kitchen"
+   },
+   {
+    "position": 2,
+    "title": "Makhandi Halwa Recipe | Desi Ghee Caramelized Semolina Sweet | Energy, Strong Bones & Digestion Fix",
+    "link": "https://www.instagram.com/reel/DdQ9FJhETCz/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV2M-f-atTbJO2JzyXVEJ-1VR9Qjh3ZMVuiuIQ04K0YgIIwLqA0COSsY3Cyqu6Co8_2N8PFBxgmywUv3-3ec4uZX8kVnKsaYSfiKwIdpbdk_qJwTs9ekiK3pUUfR_dnA&ved=2ahUKEwjylJLzhJyXAxUEzskDHRcPIn4QtwJ6BAgMEAE&uoh=1",
+    "thumbnail": "https://serpapi.com/searches/6ac001fd1b6c6ef34473dc0c/images/_KEvywJ1pjhF0LvF59h76MttiBLMFfWzOJ4skdtzYmg.jpeg",
+    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "duration": "2:23",
+    "snippet": "Makhandi Halwa Recipe | Desi Ghee Caramelized Semolina Sweet | Energy, Strong Bones & Digestion Fix | Doodh Halwa Recipe",
+    "about_this_result": {
+     "source": {
+      "description": "Makhandi Halwa Recipe | Desi Ghee Caramelized Semolina Sweet | Energy, Strong Bones & Digestion Fix | Doodh Halwa Recipe",
+      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjJNLWYtYXRUYkpPMkp6eVhWRUotMVZSOVFqaDNaTVZ1aXVJUTA0SzBZZ0lJd0xxQTBDT1NzWTNDeXF1NkNvOF8yTjhQRkJ4Z215d1V2My0zZWM0dVpYOGtWbktzYVlTZmlLd0lkcGJka19xSndUczlla2lLM3BVVWZSX2RuQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjJNLWYtYXRUYkpPMkp6eVhWRUotMVZSOVFqaDNaTVZ1aXVJUTA0SzBZZ0lJd0xxQTBDT1NzWTNDeXF1NkNvOF8yTjhQRkJ4Z215d1V2My0zZWM0dVpYOGtWbktzYVlTZmlLd0lkcGJka19xSndUczlla2lLM3BVVWZSX2RuQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "source": "Instagram · easydelightsfamily"
+   },
+   {
+    "position": 3,
+    "title": "Makhandi Halwa most viral recipe The perfect combo of sooji, ghee & caramelized ...",
+    "link": "https://www.instagram.com/reel/DdLSeIIIN0g/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVLueKL3euRJCPGU3re8O-PRCduqZTfj0qHH_GWft4jkWlKaruCsgTUGCHKoG8cA41grVF8H24Iyu4o_hzip0RUGSxnRUem6uTuFl3M2IV5nPlWJxTSBChpmJLHUeVtA&ved=2ahUKEwjylJLzhJyXAxUEzskDHRcPIn4QtwJ6BAgyEAE&uoh=1",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgkZZ95zC56w0oAkLzqc0EI-qyIdjUF5NzhF_9Q1M15ho6KPEsh6CunQ&s",
+    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "duration": "0:35",
+    "snippet": "Ingredients: 1 cup Semolina (Suji/Rava) 11⁄2 cups Milk 1⁄2 cup Ghee 1 cup Sugar 1⁄4 cup chopped Cashews 1⁄4 cup chopped Almonds 2 tbsp Raisins ...",
+    "about_this_result": {
+     "source": {
+      "description": "Ingredients: 1 cup Semolina (Suji/Rava) 11⁄2 cups Milk 1⁄2 cup Ghee 1 cup Sugar 1⁄4 cup chopped Cashews 1⁄4 cup chopped Almonds 2 tbsp Raisins ...",
+      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkx1ZUtMM2V1UkpDUEdVM3JlOE8tUFJDZHVxWlRmajBxSEhfR1dmdDRqa1dsS2FydUNzZ1RVR0NIS29HOGNBNDFnclZGOEgyNEl5dTRvX2h6aXAwUlVHU3huUlVlbTZ1VHVGbDNNMklWNW5QbFdKeFRTQkNocG1KTEhVZVZ0QRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkx1ZUtMM2V1UkpDUEdVM3JlOE8tUFJDZHVxWlRmajBxSEhfR1dmdDRqa1dsS2FydUNzZ1RVR0NIS29HOGNBNDFnclZGOEgyNEl5dTRvX2h6aXAwUlVHU3huUlVlbTZ1VHVGbDNNMklWNW5QbFdKeFRTQkNocG1KTEhVZVZ0QRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTPbkJo5Ze22u5wJtYa0c4QyifNZRezNqE0jA",
+    "source": "Instagram · sona_nayak_"
+   },
+   {
+    "position": 4,
+    "title": "Khajuli Sweet",
+    "link": "https://www.instagram.com/popular/khajuli-sweet/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHrOzAV4MCWlMpkV2aa26Ye4basDyER87mbaEDh5w1-ibD3d2aEUegARJfydvxpp1NihAe7ZC0fjkLMYY8J6uI35EcWH4U5PhtVadzburXdw_hP9oumx6RdvPtr4mCrFNIxsLSY96Ll&ved=2ahUKEwjylJLzhJyXAxUEzskDHRcPIn4QFnoECDwQAQ&uoh=1",
+    "displayed_link": "https://www.instagram.com",
+    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "snippet": "Khajuli, also known as Khaja or Khajuri, is a traditional deep-fried Indian sweet pastry made from refined wheat flour or maida, sugar, and ghee.",
+    "about_this_result": {
+     "source": {
+      "description": "Khajuli, also known as Khaja or Khajuri, is a traditional deep-fried Indian sweet pastry made from refined wheat flour or maida, sugar, and ghee.",
+      "source_info_link": "https://www.instagram.com/popular/khajuli-sweet/",
+      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVjRNQ1dsTXBrVjJhYTI2WWU0YmFzRHlFUjg3bWJhRURoNXcxLWliRDNkMmFFVWVnQVJKZnlkdnhwcDFOaWhBZTdaQzBmamtMTVlZOEo2dUkzNUVjV0g0VTVQaHRWYWR6YnVyWGR3X2hQOW91bXg2UmR2UHRyNG1DckZOSXhzTFNZOTZMbBIEGgIIABrOBxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCqBwgAEAAYACAAKjIKBmRpd2FsaRUAAAAAGgtkaXdhbGlzd2VldBoLaXY7cDtkaXdhbGkaCWRlZXBhdmFsaSpSCgVzd2VldBWTbvtAGgRmb29kGglzd2VldG5lc3MaBnN3ZWV0cxoLZGl3YWxpc3dlZXQaC3N3ZWV0cmVjaXBlGgdkZXNzZXJ0GghkZXNzZXJ0cyp3CgZyZWNpcGUVDkFDQBoHY29va2luZxoEZGlzaBoLaG93IHRvIG1ha2UaBm1ha2luZxoHcmVjaXBlcxoLc3dlZXRyZWNpcGUaC2l2O3A7cmVjaXBlGgRtYWtlGgtpbmdyZWRpZW50cxoIaG9tZW1hZGUaBGVhc3kqMQoEZGVlcBVm6QtAGgNhbmQaBmRlZXBlchoDZm9yGgJvZhoDcGFuGglkZWVwZnJpZWQqNwoFZnJpZWQVmxQrQBoDZnJ5GgVmcnllchoGZnJ5aW5nGglkZWVwZnJpZWQaCml2O3A7ZnJpZWQqFgoEZ2hlZRUfgEBAGglpdjtwO2doZWUqJQoIc2Vtb2xpbmEVAdZEPxoFZHVydW0aDWl2O3A7c2Vtb2xpbmEqKAoFd2hlYXQVqq_KPxoCb2YaCndoZWF0ZmxvdXIaCml2O3A7d2hlYXQqQgoFZmxvdXIVZukLQBoFYnJlYWQaB2Zsb3VyZWQaBmZsb3VycxoEbWVhbBoKd2hlYXRmbG91choKaXY7cDtmbG91cioeCgVraG95YRUAAAAAGgRtYXdhGgppdjtwO2tob3lhMpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVjRNQ1dsTXBrVjJhYTI2WWU0YmFzRHlFUjg3bWJhRURoNXcxLWliRDNkMmFFVWVnQVJKZnlkdnhwcDFOaWhBZTdaQzBmamtMTVlZOEo2dUkzNUVjV0g0VTVQaHRWYWR6YnVyWGR3X2hQOW91bXg2UmR2UHRyNG1DckZOSXhzTFNZOTZMbDogS2hhanVsaSA8Yj5Td2VldDwvYj4gLSBJbnN0YWdyYW1CmAFLaGFqdWxpLCBhbHNvIGtub3duIGFzIEtoYWphIG9yIEtoYWp1cmksIGlzIGEgdHJhZGl0aW9uYWwgPGI-ZGVlcC1mcmllZCBJbmRpYW4gc3dlZXQgcGFzdHJ5PC9iPiBtYWRlIGZyb20gcmVmaW5lZCB3aGVhdCBmbG91ciBvciBtYWlkYSwgc3VnYXIsIGFuZCBnaGVlLlIDZm9yUgNhbmRSAm9mIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVjRNQ1dsTXBrVjJhYTI2WWU0YmFzRHlFUjg3bWJhRURoNXcxLWliRDNkMmFFVWVnQVJKZnlkdnhwcDFOaWhBZTdaQzBmamtMTVlZOEo2dUkzNUVjV0g0VTVQaHRWYWR6YnVyWGR3X2hQOW91bXg2UmR2UHRyNG1DckZOSXhzTFNZOTZMbBIEGgIIABrOBxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCqBwgAEAAYACAAKjIKBmRpd2FsaRUAAAAAGgtkaXdhbGlzd2VldBoLaXY7cDtkaXdhbGkaCWRlZXBhdmFsaSpSCgVzd2VldBWTbvtAGgRmb29kGglzd2VldG5lc3MaBnN3ZWV0cxoLZGl3YWxpc3dlZXQaC3N3ZWV0cmVjaXBlGgdkZXNzZXJ0GghkZXNzZXJ0cyp3CgZyZWNpcGUVDkFDQBoHY29va2luZxoEZGlzaBoLaG93IHRvIG1ha2UaBm1ha2luZxoHcmVjaXBlcxoLc3dlZXRyZWNpcGUaC2l2O3A7cmVjaXBlGgRtYWtlGgtpbmdyZWRpZW50cxoIaG9tZW1hZGUaBGVhc3kqMQoEZGVlcBVm6QtAGgNhbmQaBmRlZXBlchoDZm9yGgJvZhoDcGFuGglkZWVwZnJpZWQqNwoFZnJpZWQVmxQrQBoDZnJ5GgVmcnllchoGZnJ5aW5nGglkZWVwZnJpZWQaCml2O3A7ZnJpZWQqFgoEZ2hlZRUfgEBAGglpdjtwO2doZWUqJQoIc2Vtb2xpbmEVAdZEPxoFZHVydW0aDWl2O3A7c2Vtb2xpbmEqKAoFd2hlYXQVqq_KPxoCb2YaCndoZWF0ZmxvdXIaCml2O3A7d2hlYXQqQgoFZmxvdXIVZukLQBoFYnJlYWQaB2Zsb3VyZWQaBmZsb3VycxoEbWVhbBoKd2hlYXRmbG91choKaXY7cDtmbG91cioeCgVraG95YRUAAAAAGgRtYXdhGgppdjtwO2tob3lhMpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVjRNQ1dsTXBrVjJhYTI2WWU0YmFzRHlFUjg3bWJhRURoNXcxLWliRDNkMmFFVWVnQVJKZnlkdnhwcDFOaWhBZTdaQzBmamtMTVlZOEo2dUkzNUVjV0g0VTVQaHRWYWR6YnVyWGR3X2hQOW91bXg2UmR2UHRyNG1DckZOSXhzTFNZOTZMbDogS2hhanVsaSA8Yj5Td2VldDwvYj4gLSBJbnN0YWdyYW1CmAFLaGFqdWxpLCBhbHNvIGtub3duIGFzIEtoYWphIG9yIEtoYWp1cmksIGlzIGEgdHJhZGl0aW9uYWwgPGI-ZGVlcC1mcmllZCBJbmRpYW4gc3dlZXQgcGFzdHJ5PC9iPiBtYWRlIGZyb20gcmVmaW5lZCB3aGVhdCBmbG91ciBvciBtYWlkYSwgc3VnYXIsIGFuZCBnaGVlLlIDZm9yUgNhbmRSAm9mIgIQAUgAWABoAA",
+    "source": "Instagram"
+   },
+   {
+    "position": 5,
+    "title": "My version of some divali sweets",
+    "link": "https://www.facebook.com/groups/235921823140768/posts/3649865961746320/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVn8W-yQKwCnVoZvNja2ZkMjxcSy1nF77mu27sZLA_wm-fMKXk3VZ9pJ8WTWnDNEENfCb-YfcBOf5sH17jxifqZGfKgkD2emSLnCClkK2WKNBFGmHMrSv8hAMA_PR-EhyRPGu7HzEljtY8bLUUB2EfCw1bT9oOO-u1wW8&ved=2ahUKEwjylJLzhJyXAxUEzskDHRcPIn4QFnoECEoQAQ&uoh=1",
+    "displayed_link": "1 comment · 5 years ago",
+    "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "snippet": "Add ghee. After few seconds add saffron milk and 1 drop yellow food colour. Mix well. Add milk powder, powdered sugar, 1tsp cardamom powder, ...",
+    "about_this_result": {
+     "source": {
+      "description": "Add ghee. After few seconds add saffron milk and 1 drop yellow food colour. Mix well. Add milk powder, powdered sugar, 1tsp cardamom powder, ...",
+      "source_info_link": "https://www.facebook.com/groups/235921823140768/posts/3649865961746320/",
+      "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVm44Vy15UUt3Q25Wb1p2TmphMlprTWp4Y1N5MW5GNzdtdTI3c1pMQV93bS1mTUtYazNWWjlwSjhXVFduRE5FRU5mQ2ItWWZjQk9mNXNIMTdqeGlmcVpHZktna0QyZW1TTG5DQ2xrSzJXS05CRkdtSE1yU3Y4aEFNQV9QUi1FaHlSUEd1N0h6RWxqdFk4YkxVVUIyRWZDdzFiVDlvT08tdTF3VzgSBBoCCAAagwgSABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA3wcIABAAGAAgACoyCgZkaXdhbGkVx11fQBoLZGl3YWxpc3dlZXQaC2l2O3A7ZGl3YWxpGglkZWVwYXZhbGkqUgoFc3dlZXQV2hqnPxoEZm9vZBoJc3dlZXRuZXNzGgZzd2VldHMaC2Rpd2FsaXN3ZWV0Ggtzd2VldHJlY2lwZRoHZGVzc2VydBoIZGVzc2VydHMqdwoGcmVjaXBlFQTcrD4aB2Nvb2tpbmcaBGRpc2gaC2hvdyB0byBtYWtlGgZtYWtpbmcaB3JlY2lwZXMaC3N3ZWV0cmVjaXBlGgtpdjtwO3JlY2lwZRoEbWFrZRoLaW5ncmVkaWVudHMaCGhvbWVtYWRlGgRlYXN5KjEKBGRlZXAVAAAAABoDYW5kGgZkZWVwZXIaA2ZvchoCb2YaA3BhbhoJZGVlcGZyaWVkKjcKBWZyaWVkFdiPgj4aA2ZyeRoFZnJ5ZXIaBmZyeWluZxoJZGVlcGZyaWVkGgppdjtwO2ZyaWVkKhYKBGdoZWUVBsblPxoJaXY7cDtnaGVlKiUKCHNlbW9saW5hFQAAAAAaBWR1cnVtGg1pdjtwO3NlbW9saW5hKigKBXdoZWF0FQAAAAAaAm9mGgp3aGVhdGZsb3VyGgppdjtwO3doZWF0KkIKBWZsb3VyFQOlgT4aBWJyZWFkGgdmbG91cmVkGgZmbG91cnMaBG1lYWwaCndoZWF0ZmxvdXIaCml2O3A7ZmxvdXIqHgoFa2hveWEVAAAAABoEbWF3YRoKaXY7cDtraG95YTK5AS9nb3RvP3VybD1DQUVTZndIck96QVZuOFcteVFLd0NuVm9adk5qYTJaa01qeGNTeTFuRjc3bXUyN3NaTEFfd20tZk1LWGszVlo5cEo4V1RXbkRORUVOZkNiLVlmY0JPZjVzSDE3anhpZnFaR2ZLZ2tEMmVtU0xuQ0Nsa0syV0tOQkZHbUhNclN2OGhBTUFfUFItRWh5UlBHdTdIekVsanRZOGJMVVVCMkVmQ3cxYlQ5b09PLXUxd1c4OjlNeSB2ZXJzaW9uIDxiPm9mPC9iPiBzb21lIGRpdmFsaSA8Yj5zd2VldHM8L2I-IC0gRmFjZWJvb2tClQFBZGQgZ2hlZS4gQWZ0ZXIgZmV3IHNlY29uZHMgYWRkIHNhZmZyb24gbWlsayBhbmQgMSBkcm9wIHllbGxvdyBmb29kIGNvbG91ci4gTWl4IHdlbGwuIEFkZCBtaWxrIHBvd2RlciwgcG93ZGVyZWQgc3VnYXIsIDF0c3AgY2FyZGFtb20gcG93ZGVyLCZuYnNwOy4uLlICb2ZSA2FuZFIDZm9yIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVm44Vy15UUt3Q25Wb1p2TmphMlprTWp4Y1N5MW5GNzdtdTI3c1pMQV93bS1mTUtYazNWWjlwSjhXVFduRE5FRU5mQ2ItWWZjQk9mNXNIMTdqeGlmcVpHZktna0QyZW1TTG5DQ2xrSzJXS05CRkdtSE1yU3Y4aEFNQV9QUi1FaHlSUEd1N0h6RWxqdFk4YkxVVUIyRWZDdzFiVDlvT08tdTF3VzgSBBoCCAAagwgSABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA3wcIABAAGAAgACoyCgZkaXdhbGkVx11fQBoLZGl3YWxpc3dlZXQaC2l2O3A7ZGl3YWxpGglkZWVwYXZhbGkqUgoFc3dlZXQV2hqnPxoEZm9vZBoJc3dlZXRuZXNzGgZzd2VldHMaC2Rpd2FsaXN3ZWV0Ggtzd2VldHJlY2lwZRoHZGVzc2VydBoIZGVzc2VydHMqdwoGcmVjaXBlFQTcrD4aB2Nvb2tpbmcaBGRpc2gaC2hvdyB0byBtYWtlGgZtYWtpbmcaB3JlY2lwZXMaC3N3ZWV0cmVjaXBlGgtpdjtwO3JlY2lwZRoEbWFrZRoLaW5ncmVkaWVudHMaCGhvbWVtYWRlGgRlYXN5KjEKBGRlZXAVAAAAABoDYW5kGgZkZWVwZXIaA2ZvchoCb2YaA3BhbhoJZGVlcGZyaWVkKjcKBWZyaWVkFdiPgj4aA2ZyeRoFZnJ5ZXIaBmZyeWluZxoJZGVlcGZyaWVkGgppdjtwO2ZyaWVkKhYKBGdoZWUVBsblPxoJaXY7cDtnaGVlKiUKCHNlbW9saW5hFQAAAAAaBWR1cnVtGg1pdjtwO3NlbW9saW5hKigKBXdoZWF0FQAAAAAaAm9mGgp3aGVhdGZsb3VyGgppdjtwO3doZWF0KkIKBWZsb3VyFQOlgT4aBWJyZWFkGgdmbG91cmVkGgZmbG91cnMaBG1lYWwaCndoZWF0ZmxvdXIaCml2O3A7ZmxvdXIqHgoFa2hveWEVAAAAABoEbWF3YRoKaXY7cDtraG95YTK5AS9nb3RvP3VybD1DQUVTZndIck96QVZuOFcteVFLd0NuVm9adk5qYTJaa01qeGNTeTFuRjc3bXUyN3NaTEFfd20tZk1LWGszVlo5cEo4V1RXbkRORUVOZkNiLVlmY0JPZjVzSDE3anhpZnFaR2ZLZ2tEMmVtU0xuQ0Nsa0syV0tOQkZHbUhNclN2OGhBTUFfUFItRWh5UlBHdTdIekVsanRZOGJMVVVCMkVmQ3cxYlQ5b09PLXUxd1c4OjlNeSB2ZXJzaW9uIDxiPm9mPC9iPiBzb21lIGRpdmFsaSA8Yj5zd2VldHM8L2I-IC0gRmFjZWJvb2tClQFBZGQgZ2hlZS4gQWZ0ZXIgZmV3IHNlY29uZHMgYWRkIHNhZmZyb24gbWlsayBhbmQgMSBkcm9wIHllbGxvdyBmb29kIGNvbG91ci4gTWl4IHdlbGwuIEFkZCBtaWxrIHBvd2RlciwgcG93ZGVyZWQgc3VnYXIsIDF0c3AgY2FyZGFtb20gcG93ZGVyLCZuYnNwOy4uLlICb2ZSA2FuZFIDZm9yIgIQAUgAWABoAA",
+    "source": "Facebook · True Trini Food and Recipes."
+   },
+   {
+    "position": 6,
+    "title": "Pure ghee, roasted semolina, caramelised sugar, and a generous crunch of almonds—proof ...",
+    "link": "https://www.instagram.com/reel/DcrJRGYzt9i/",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV8FuS1E9Z6-6CWekGpier9QgKwQ0LRHjTC0H9bEfdhPSKr0ge5qBA2IMpQOrXGZGG7u_Oid_9twdG0GkKsmKChYuENYNlCjSyDrjXHMwqWFboThODElVWfMuuK-wmow&ved=2ahUKEwjylJLzhJyXAxUEzskDHRcPIn4QtwJ6BAgxEAE&uoh=1",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokNhWlkqtPYDn9RiIKNmwhYGwuvIK1aSC9rOanfvj4C5aV97oul6l0A&s",
+    "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+    "duration": "0:59",
+    "snippet": "Roasted the flour patiently in ghee until beautifully aromatic, then soaked in milk.Separately, fry the nuts in ghee. Add sugar and milk ...",
+    "about_this_result": {
+     "source": {
+      "description": "Roasted the flour patiently in ghee until beautifully aromatic, then soaked in milk.Separately, fry the nuts in ghee. Add sugar and milk ...",
+      "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+     }
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjhGdVMxRTlaNi02Q1dla0dwaWVyOVFnS3dRMExSSGpUQzBIOWJFZmRoUFNLcjBnZTVxQkEySU1wUU9yWEdaR0c3dV9PaWRfOXR3ZEcwR2tLc21LQ2hZdUVOWU5sQ2pTeURyalhITXdxV0Zib1RoT0RFbFZXZk11dUstd21vdxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjhGdVMxRTlaNi02Q1dla0dwaWVyOVFnS3dRMExSSGpUQzBIOWJFZmRoUFNLcjBnZTVxQkEySU1wUU9yWEdaR0c3dV9PaWRfOXR3ZEcwR2tLc21LQ2hZdUVOWU5sQ2pTeURyalhITXdxV0Zib1RoT0RFbFZXZk11dUstd21vdxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "source": "Instagram · manas_narayan_"
+   },
+   {
+    "position": 7,
+    "title": "diwali Archives",
+    "link": "https://www.reshkitchen.com/category/diwali",
+    "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV9Eb5rxNLOMMz-vS4HHuwZlM2wzpGsC7-czJwkVcLKH0pqSZyZ1jKQNEtc6qnGhbzFClX9-B4g6-Y9kfpTgKySTrBd-LRmc3JeZiz6HCqb4wYnPUfLlBw7fSnmV_Rog&ved=2ahUKEwjylJLzhJyXAxUEzskDHRcPIn4QFnoECDsQAQ&uoh=1",
+    "displayed_link": "https://www.reshkitchen.com",
+    "favicon": "https://serpapi.com/images/i/UklGRsoAAABXRUJQVlA4IL4AAADQBACdASocABwAPrUurVanIacnG_DgFoljAMkSbAD89qNOKW-30OfZkWpBp3XIAAD-9-YXz_UDPGYlAp8RHSRNf4DHbIQzSj3vbkAj963GxQNJD2Hg8DI0kO34VgZJSC7FaH1JUzQnl49_eqxyGsxxIwYcV4gGPizWi_x8lqE_GINN9Tv0pP8xJPfo9N2W0BWRSVO0IwZqIFwnt2J7LQQY4B4975bwpilbppd_rTRrQ6rNX7-2oT986I7hWAAA.webp",
+    "snippet": "Paneer & condensed milk are the two main ingredients required for this dish. Dhoodh Peda (Milk Peda) is an Indian fudge sweet … using Milk Powder (instead of ...",
+    "about_this_result": {
+     "source": {
+      "description": "Paneer & condensed milk are the two main ingredients required for this dish. Dhoodh Peda (Milk Peda) is an Indian fudge sweet … using Milk Powder (instead of ...",
+      "source_info_link": "https://www.reshkitchen.com/category/diwali",
+      "icon": "https://serpapi.com/images/i/UklGRsoAAABXRUJQVlA4IL4AAADQBACdASocABwAPrUurVanIacnG_DgFoljAMkSbAD89qNOKW-30OfZkWpBp3XIAAD-9-YXz_UDPGYlAp8RHSRNf4DHbIQzSj3vbkAj963GxQNJD2Hg8DI0kO34VgZJSC7FaH1JUzQnl49_eqxyGsxxIwYcV4gGPizWi_x8lqE_GINN9Tv0pP8xJPfo9N2W0BWRSVO0IwZqIFwnt2J7LQQY4B4975bwpilbppd_rTRrQ6rNX7-2oT986I7hWAAA.webp"
+     },
+     "languages": [
+      "en"
+     ],
+     "regions": [
+      "IN"
+     ]
+    },
+    "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjlFYjVyeE5MT01Nei12UzRISHV3WmxNMnd6cEdzQzctY3pKd2tWY0xLSDBwcVNaeVoxaktRTkV0YzZxbkdoYnpGQ2xYOS1CNGc2LVk5a2ZwVGdLeVNUckJkLUxSbWMzSmVaaXo2SENxYjR3WW5QVWZMbEJ3N2ZTbm1WX1JvZxIEGgIIABrjBxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkC_BwgAEAAYACAAKjIKBmRpd2FsaRVhGkZAGgtkaXdhbGlzd2VldBoLaXY7cDtkaXdhbGkaCWRlZXBhdmFsaSpSCgVzd2VldBVqF6Y_GgRmb29kGglzd2VldG5lc3MaBnN3ZWV0cxoLZGl3YWxpc3dlZXQaC3N3ZWV0cmVjaXBlGgdkZXNzZXJ0GghkZXNzZXJ0cyp3CgZyZWNpcGUVFn0oQBoHY29va2luZxoEZGlzaBoLaG93IHRvIG1ha2UaBm1ha2luZxoHcmVjaXBlcxoLc3dlZXRyZWNpcGUaC2l2O3A7cmVjaXBlGgRtYWtlGgtpbmdyZWRpZW50cxoIaG9tZW1hZGUaBGVhc3kqMQoEZGVlcBUAAAAAGgNhbmQaBmRlZXBlchoDZm9yGgJvZhoDcGFuGglkZWVwZnJpZWQqNwoFZnJpZWQVV_L5PhoDZnJ5GgVmcnllchoGZnJ5aW5nGglkZWVwZnJpZWQaCml2O3A7ZnJpZWQqFgoEZ2hlZRUAAAAAGglpdjtwO2doZWUqJQoIc2Vtb2xpbmEVcmQAPhoFZHVydW0aDWl2O3A7c2Vtb2xpbmEqKAoFd2hlYXQVIRbHPhoCb2YaCndoZWF0ZmxvdXIaCml2O3A7d2hlYXQqQgoFZmxvdXIVPnCBPxoFYnJlYWQaB2Zsb3VyZWQaBmZsb3VycxoEbWVhbBoKd2hlYXRmbG91choKaXY7cDtmbG91cioeCgVraG95YRVHZgs-GgRtYXdhGgppdjtwO2tob3lhMpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjlFYjVyeE5MT01Nei12UzRISHV3WmxNMnd6cEdzQzctY3pKd2tWY0xLSDBwcVNaeVoxaktRTkV0YzZxbkdoYnpGQ2xYOS1CNGc2LVk5a2ZwVGdLeVNUckJkLUxSbWMzSmVaaXo2SENxYjR3WW5QVWZMbEJ3N2ZTbm1WX1JvZzokPGI-ZGl3YWxpPC9iPiBBcmNoaXZlcyAtIFJlc2hLaXRjaGVuQq8BPGI-UGFuZWVyICYgY29uZGVuc2VkIG1pbGsgYXJlIHRoZSB0d28gbWFpbiBpbmdyZWRpZW50cyByZXF1aXJlZCBmb3IgdGhpcyBkaXNoPC9iPi4gRGhvb2RoIFBlZGEgKE1pbGsgUGVkYSkgaXMgYW4gSW5kaWFuIGZ1ZGdlIHN3ZWV0IOKApiB1c2luZyBNaWxrIFBvd2RlciAoaW5zdGVhZCBvZiZuYnNwOy4uLlIDZm9yUgNhbmRSAm9mIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjlFYjVyeE5MT01Nei12UzRISHV3WmxNMnd6cEdzQzctY3pKd2tWY0xLSDBwcVNaeVoxaktRTkV0YzZxbkdoYnpGQ2xYOS1CNGc2LVk5a2ZwVGdLeVNUckJkLUxSbWMzSmVaaXo2SENxYjR3WW5QVWZMbEJ3N2ZTbm1WX1JvZxIEGgIIABrjBxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkC_BwgAEAAYACAAKjIKBmRpd2FsaRVhGkZAGgtkaXdhbGlzd2VldBoLaXY7cDtkaXdhbGkaCWRlZXBhdmFsaSpSCgVzd2VldBVqF6Y_GgRmb29kGglzd2VldG5lc3MaBnN3ZWV0cxoLZGl3YWxpc3dlZXQaC3N3ZWV0cmVjaXBlGgdkZXNzZXJ0GghkZXNzZXJ0cyp3CgZyZWNpcGUVFn0oQBoHY29va2luZxoEZGlzaBoLaG93IHRvIG1ha2UaBm1ha2luZxoHcmVjaXBlcxoLc3dlZXRyZWNpcGUaC2l2O3A7cmVjaXBlGgRtYWtlGgtpbmdyZWRpZW50cxoIaG9tZW1hZGUaBGVhc3kqMQoEZGVlcBUAAAAAGgNhbmQaBmRlZXBlchoDZm9yGgJvZhoDcGFuGglkZWVwZnJpZWQqNwoFZnJpZWQVV_L5PhoDZnJ5GgVmcnllchoGZnJ5aW5nGglkZWVwZnJpZWQaCml2O3A7ZnJpZWQqFgoEZ2hlZRUAAAAAGglpdjtwO2doZWUqJQoIc2Vtb2xpbmEVcmQAPhoFZHVydW0aDWl2O3A7c2Vtb2xpbmEqKAoFd2hlYXQVIRbHPhoCb2YaCndoZWF0ZmxvdXIaCml2O3A7d2hlYXQqQgoFZmxvdXIVPnCBPxoFYnJlYWQaB2Zsb3VyZWQaBmZsb3VycxoEbWVhbBoKd2hlYXRmbG91choKaXY7cDtmbG91cioeCgVraG95YRVHZgs-GgRtYXdhGgppdjtwO2tob3lhMpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjlFYjVyeE5MT01Nei12UzRISHV3WmxNMnd6cEdzQzctY3pKd2tWY0xLSDBwcVNaeVoxaktRTkV0YzZxbkdoYnpGQ2xYOS1CNGc2LVk5a2ZwVGdLeVNUckJkLUxSbWMzSmVaaXo2SENxYjR3WW5QVWZMbEJ3N2ZTbm1WX1JvZzokPGI-ZGl3YWxpPC9iPiBBcmNoaXZlcyAtIFJlc2hLaXRjaGVuQq8BPGI-UGFuZWVyICYgY29uZGVuc2VkIG1pbGsgYXJlIHRoZSB0d28gbWFpbiBpbmdyZWRpZW50cyByZXF1aXJlZCBmb3IgdGhpcyBkaXNoPC9iPi4gRGhvb2RoIFBlZGEgKE1pbGsgUGVkYSkgaXMgYW4gSW5kaWFuIGZ1ZGdlIHN3ZWV0IOKApiB1c2luZyBNaWxrIFBvd2RlciAoaW5zdGVhZCBvZiZuYnNwOy4uLlIDZm9yUgNhbmRSAm9mIgIQAUgAWABoAA",
+    "source": "ReshKitchen"
+   }
+  ],
+  "pagination": {
+   "current": 1
+  },
+  "serpapi_pagination": {
+   "current": 1
+  }
+ }
+}
