@@ -12,6 +12,7 @@ export function withUtm(path: string, source: Channel, content: "family" | "resu
   u.searchParams.set("utm_medium", source === "email" ? "email" : "social");
   u.searchParams.set("utm_campaign", CAMPAIGN);
   u.searchParams.set("utm_content", content);
+  u.searchParams.set("ref", "yaadon-ki-rasoi");
   return u.toString();
 }
 

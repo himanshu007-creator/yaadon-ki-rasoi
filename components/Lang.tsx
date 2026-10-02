@@ -7,6 +7,8 @@ import type { Maker, UiLang } from "@/lib/types";
 import { Diya } from "./Diya";
 import { KeyPanel } from "./KeyPanel";
 
+const REPO = "https://github.com/himanshu007-creator/yaadon-ki-rasoi?ref=yaadon-ki-rasoi&utm_source=yaadon-ki-rasoi&utm_medium=header";
+
 const Ctx = createContext<{ lang: UiLang; setLang: (l: UiLang) => void }>({ lang: "hinglish", setLang: () => {} });
 
 export function LangProvider({ initial, children }: { initial: UiLang; children: React.ReactNode }) {
@@ -87,12 +89,18 @@ export function Header() {
   const { t } = useT();
   return (
     <header className="wrap flex items-center justify-between gap-3 pb-3 pt-5 sm:pt-7">
-      <Link href="/" className="flex items-center gap-2 no-underline" aria-label={t("brand")}>
-        <Diya size={34} />
-        <span className="font-display text-[20px] leading-none">
-          {t("brand")}
-        </span>
-      </Link>
+      <div className="flex min-w-0 items-center gap-3">
+        <Link href="/" className="flex items-center gap-2 no-underline" aria-label={t("brand")}>
+          <Diya size={34} />
+          <span className="font-display text-[20px] leading-none">{t("brand")}</span>
+        </Link>
+        <a href={REPO} target="_blank" rel="noopener" className="flex items-center gap-1.5 text-[13px] text-[var(--text-mute)] no-underline hover:text-[var(--marigold)]" aria-label="GitHub repository by Himanshu007-creator">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden>
+            <path d="M12 .5a12 12 0 0 0-3.8 23.4c.6.1.8-.3.8-.6v-2c-3.3.7-4-1.6-4-1.6-.5-1.4-1.3-1.8-1.3-1.8-1.1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1.1 1.8 2.8 1.3 3.5 1 .1-.8.4-1.3.8-1.6-2.7-.3-5.5-1.3-5.5-5.9 0-1.3.5-2.4 1.2-3.2-.1-.3-.5-1.5.1-3.2 0 0 1-.3 3.3 1.2a11.5 11.5 0 0 1 6 0C17.3 4.7 18.3 5 18.3 5c.7 1.7.2 2.9.1 3.2.8.8 1.2 1.9 1.2 3.2 0 4.6-2.8 5.6-5.5 5.9.4.4.8 1.1.8 2.2v3.3c0 .3.2.7.8.6A12 12 0 0 0 12 .5z" />
+          </svg>
+          <span className="hidden md:inline">Himanshu007-creator</span>
+        </a>
+      </div>
       <div className="flex items-center gap-2">
         <div className="hidden sm:block">
           <LangToggle />
