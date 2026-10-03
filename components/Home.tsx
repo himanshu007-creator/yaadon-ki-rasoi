@@ -7,7 +7,8 @@ import { tink } from "@/lib/sound";
 import { startSearch } from "@/lib/stream";
 import { MAKERS, type City, type Maker } from "@/lib/types";
 import { Diya } from "./Diya";
-import { KeyBanner } from "./KeyPanel";
+import { deployMode, getOwnKey } from "@/lib/ownKey";
+import { KeyBanner, openKeyPanel } from "./KeyPanel";
 import { PlacePicker } from "./PlacePicker";
 import { Header, LangToggle, useT } from "./Lang";
 
@@ -117,9 +118,15 @@ function Describe() {
     !city && t("needYourCity"),
   ].filter(Boolean) as string[];
 
-  const submit = async (e: React.FormEvent) => {
+  const submit = (e: React.FormEvent) => {
     e.preventDefault();
     if (missing.length || busy) return;
+    // Public deploy: live search needs the visitor's own key, so ask for it before searching.
+    if (deployMode && !getOwnKey()) return openKeyPanel(() => void search());
+    void search();
+  };
+
+  const search = async () => {
     setBusy(true);
     setErr("");
     // The submit click is the user gesture Chrome's built-in AI needs; it never blocks more than a few seconds.
