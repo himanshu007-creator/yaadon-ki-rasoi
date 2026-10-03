@@ -105,13 +105,20 @@ export function rankVideos(videos: any[], names: string[]) {
       const titleHit = names.some((n) => hasPhrase(v.title ?? "", n)) ? 2 : 0;
       const lenOk = sec === null || (sec >= 120 && sec <= 25 * 60) ? 1 : -3;
       // Transcripts come back in Hindi/English; a Tamil- or Telugu-titled video gets machine-translated badly.
-      const script = /[\u0980-\u0DFF]|\bin (tamil|telugu|kannada|malayalam|bengali|bangla|odia|marathi)\b/i.test(v.title ?? "") ? -3 : 0;
+      const script = /[\u0980-\u0DFF]|\b(tamil|telugu|kannada|malayalam|bengali|bangla|odia|marathi)\b(?! (nadu|style))/i.test(`${v.title ?? ""} ${v.channel?.name ?? ""}`) ? -3 : 0;
       const views = Math.log10(1 + Number(String(v.views ?? 0).replace(/\D/g, "")));
-      return { v, s: titleHit + lenOk + script + views / 3 };
+      const festive = /\b(diwali|deepavali|festive|festival)\b/i.test(v.title ?? "") ? 1 : 0;
+      return { v, s: titleHit + lenOk + script + festive + views / 3 };
     })
     .sort((a, b) => b.s - a.s);
   return scored.map((x) => x.v);
 }
+
+/** Marathi speech auto-captioned as "hi": Marathi says आहे where Hindi says है. */
+export const looksMarathi = (chunks: { text: string }[]) => {
+  const t = chunks.map((c) => c.text).join(" ");
+  return (t.match(/आहे/g)?.length ?? 0) > (t.match(/है/g)?.length ?? 0);
+};
 
 export function chunk(transcript: { start_ms: number; snippet: string }[], windowMs = 20_000) {
   const out: { startMs: number; text: string }[] = [];
@@ -126,6 +133,7 @@ export function chunk(transcript: { start_ms: number; snippet: string }[], windo
 const COOKING = /\b(add|mix|knead|fry|heat|roll|soak|grind|boil|cook|pour|stir|shape|press|roast|dough|ghee|oil|jaggery|sugar|flour|daal\w*|dalen|milao|mila\w*|gundh\w*|tal\w*|garam|bhoon\w*|bhigo\w*|pees\w*|bana\w*|aata|gud|chashni)\b/i;
 
 const COOKING_HI = /डाल|मिला|गूंध|गूँध|तल|गरम|गुड़|चावल|आटा|घी|तेल|पका|भिगो|बना|चीनी|चाशनी|तिल/;
+const AD = /\b(sponsor\w*|vitamin|enriched|brand|discount|coupon|subscribe|link in (the )?description|use code)\b/i;
 const clip = (text: string) => text.split(" ").slice(0, 22).join(" ") + (text.split(" ").length > 22 ? "…" : "");
 
 /** No-LLM path: verbatim lines from the video where cooking happens, spaced out; else evenly spaced lines. */
@@ -135,8 +143,10 @@ export function verbatimMoments(chunks: { startMs: number; text: string }[]) {
     const words = c.text.replace(/\[[^\]]*\]/g, "").split(/\s+/).filter(Boolean);
     return words.length >= 4 && new Set(words).size / words.length > 0.6;
   });
+  // A sponsor read spans a few lines; skip its neighbours too.
+  const ads = chunks.filter((c) => AD.test(c.text)).map((c) => c.startMs);
   for (const c of usable) {
-    if (!COOKING.test(c.text) && !COOKING_HI.test(c.text)) continue;
+    if ((!COOKING.test(c.text) && !COOKING_HI.test(c.text)) || ads.some((t) => Math.abs(t - c.startMs) <= 30_000)) continue;
     if (picked.length && c.startMs - picked[picked.length - 1].startMs < 45_000) continue;
     picked.push({ startMs: c.startMs, text: clip(c.text) });
     if (picked.length === 7) break;
@@ -155,15 +165,21 @@ export function groundSteps(steps: { text: string; startMs: number }[], chunks: 
 export async function steps(c: Candidate, uiLang: UiLang, onCall: OnCall): Promise<StepsPack | null> {
   const yt = await serp("youtube", { search_query: `${c.name} recipe traditional`, gl: "in", hl: "en" }, "yt-search");
   onCall(yt.meta);
-  let video: any;
-  let chunks: { startMs: number; text: string }[] = [];
-  for (video of rankVideos(yt.data.video_results, [c.name, ...c.aliases]).slice(0, 3)) {
-    const v = new URL(video.link).searchParams.get("v")!;
+  const ranked = rankVideos(yt.data.video_results, [c.name, ...c.aliases]).slice(0, 3);
+  let pick: { video: any; chunks: { startMs: number; text: string }[] } | null = null;
+  for (const cand of ranked) {
+    const v = new URL(cand.link).searchParams.get("v")!;
     const tr = await serp("youtube_video_transcript", { v, language_code: uiLang === "en" ? "en" : "hi" }, "yt-transcript");
     onCall(tr.meta);
-    chunks = chunk(tr.data.transcript);
-    if (chunks.length >= 3) break;
+    const ch = chunk(tr.data.transcript);
+    if (ch.length < 3 || looksMarathi(ch)) continue;
+    // Prefer human captions: an auto-generated "hi" track is often another language heard as Hindi.
+    const human = tr.data.available_transcripts?.some((t: any) => t.type !== "asr");
+    if (!pick || human) pick = { video: cand, chunks: ch };
+    if (human) break;
   }
+  const video = pick?.video ?? ranked[0];
+  const chunks = pick?.chunks ?? [];
   if (!video) return null;
   const videoId = new URL(video.link).searchParams.get("v")!;
   const base = { videoId, title: video.title ?? c.name, channel: video.channel?.name ?? "YouTube" };

@@ -1,6 +1,6 @@
 import { llmExtract } from "../llm";
 import { serp, type CallMeta } from "../serp";
-import { stateById } from "../states";
+import { findState, stateById } from "../states";
 import { domainOf, hasPhrase, norm, titleCase, tokenSetRatio, tokens } from "../text";
 import type { Candidate, Doc, ParsedMemory } from "../types";
 import { descriptorsOf } from "./parse";
@@ -38,7 +38,7 @@ const GENERIC = new Set(
   ("diwali deepavali festival festive special sweet sweets mithai recipe recipes easy best top indian india traditional homemade how to make made with " +
     "without quick simple instant snack snacks namkeen dish dishes food foods hindi tamil marathi video step by of and the a in for your you at home " +
     "items treats images royalty free connection benefits plant seeds seed sesame til gud jaggery palm rice flour sugar ghee oil wheat gram besan suji " +
-    "semolina coconut milk khoya mawa nuts dry fruits crispy soft perfect authentic yummy tasty delicious archives tag energy pure proof from " +
+    "semolina coconut milk khoya mawa nuts dry fruits crispy crunchy coated fried deep spicy soft perfect authentic yummy tasty delicious archives tag energy pure proof from " +
     "spiritual practice kitchen blog channel shorts").split(" "),
 );
 const isGeneric = (name: string) => [...tokens(name)].every((t) => GENERIC.has(t) || /^\d+$/.test(t));
@@ -94,15 +94,17 @@ export function aliasesFrom(name: string, docs: Doc[]) {
     const t = `${d.title}. ${d.snippet}`;
     if (!hasPhrase(t, name)) continue;
     for (const [, list] of t.matchAll(NAME_LIST))
-      for (const part of list.split(/\s+(?:in different|across|etc)\b/i)[0].split(/,|\s+or\s+|\s+and\s+/)) {
+      // The list ends where the sentence goes on: '"Chakri" or "Murukku," is a popular snack … Gujarat'.
+      for (const part of list.split(LIST_END)[0].replace(/["“”‘’]/g, "").split(/,|\s+or\s+|\s+and\s+/)) {
         const a = part.replace(/\s+in\s+.*$/i, "").trim();
         if (a.split(/\s+/).length <= 2 && LATIN.test(a)) found.add(titleCase(a.toLowerCase()));
       }
   }
-  return [...found].filter((a) => !same(a) && dishLike(a) && !subsetOf(name, a) && !/^(a|an|the|it)\b/i.test(a)).slice(0, 6);
+  return [...found].filter((a) => !same(a) && dishLike(a) && !subsetOf(name, a) && !/^(a|an|the|it)\b/i.test(a) && !findState(undefined, a)).slice(0, 6);
 }
 const NAME_LIST = /(?:also (?:known|called|referred to) as|known as|also called|names like)\s+([^.;!?]+)/gi;
 const LATIN = /^[A-Za-z][A-Za-z ]*$/;
+const LIST_END = /\s+(?:in different|across|etc|is|are|was|were|which|that|who|especially|from|made|for|a|an|the)\b/i;
 
 type Raw = { name: string; nameNative?: string; aliases: string[]; supportDocIds: string[]; matchedDescriptors: string[] };
 

@@ -188,3 +188,42 @@ describe("Chrome on-device AI hints", async () => {
     expect(p.descriptors).toEqual(expect.arrayContaining(["jaggery", "sesame", "round"]));
   });
 });
+
+describe("aliasesFrom", async () => {
+  const { aliasesFrom } = await import("@/lib/agent/candidates");
+  it("keeps quoted names and stops at the rest of the sentence (real Chakli snippets)", () => {
+    const doc = (title: string, snippet: string) => ({ id: title, kind: "organic", title, snippet, url: "https://x.in", domain: "x.in" }) as any;
+    const docs = [
+      doc("Chakli: A Delectable Indian Savory Snack", 'Chakli, also known as "Chakri" or "Murukku," is a popular savory snack in India, especially in the western states of Maharashtra, Gujarat, ...'),
+      doc("Chakli on a plate", "Chakli, also known as murukku, which is a south Indian traditional, popular and vegetarian snack, on a plate."),
+      doc("Top Chakli Manufacturers", "Chakli, also known as chakali or murukku, is a beloved traditional Indian snack."),
+    ];
+    const a = aliasesFrom("Chakli", docs);
+    expect(a).toEqual(expect.arrayContaining(["Chakri", "Murukku", "Chakali"]));
+    expect(a.map((x) => x.toLowerCase())).not.toEqual(expect.arrayContaining(["popular"]));
+    expect(a.some((x) => /gujarat|especially|popular/i.test(x))).toBe(false);
+  });
+});
+
+describe("looksMarathi", async () => {
+  const { looksMarathi } = await import("@/lib/agent/reveal");
+  it("tells Marathi captions from Hindi", () => {
+    expect(looksMarathi([{ text: "चकली बनवायची तर अचूक प्रमाण अत्यंत गरजेचे आहे तर आज मी इथे" }])).toBe(true);
+    expect(looksMarathi([{ text: "चकली बनाना बहुत आसान है, आटा गूंध लेना है" }])).toBe(false);
+    expect(looksMarathi([{ text: "Welcome, I am Ranveer Brar" }])).toBe(false);
+  });
+});
+
+describe("verbatimMoments", async () => {
+  const { verbatimMoments } = await import("@/lib/agent/reveal");
+  it("skips sponsor reads", () => {
+    const m = verbatimMoments([
+      { startMs: 0, text: "First add the rice flour and the butter to a big bowl" },
+      { startMs: 60_000, text: "This oil is enriched with vitamin A and vitamin D, link in description" },
+      { startMs: 70_000, text: "Your food will be very tasty and crispy with this oil" },
+      { startMs: 120_000, text: "Now knead a soft dough with warm water slowly" },
+      { startMs: 180_000, text: "Heat the oil and fry the chakli on medium flame" },
+    ]);
+    expect(m.map((x) => x.startMs)).toEqual([0, 120_000, 180_000]);
+  });
+});
