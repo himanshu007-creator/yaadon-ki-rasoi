@@ -10,7 +10,7 @@
 | 1:20 | Heartbeat with Diwali peaks | "Aap akele nahi hain. India searches for this every Diwali." |
 | 1:30 | Steps; tap a ⏱ timestamp → video jumps | "Grounded in a real video's transcript." |
 | 1:50 | Shops + a stranger's review line; tap Raasta | "Maps + Reviews filtered by the dish." |
-| 2:05 | Create family page → open `/f/DEMO-NANI` on a phone → light the 3rd diya → **Teen seeti** banner + whistle ×3 → play Nani's voice | "Teen seeti ho gayi. The family recipe is final." |
+| 2:05 | Download the Memory Card → share to WhatsApp → open **📖 My memories** to show it saved in the browser | "Keep it. Share it." |
 | 2:35 | Drawer recipe card: ingredients, credits, cache hits → repo URL | "7 SerpApi engines. Open source." |
 
 Tips: sound on before recording; record at phone size; test the video link in a private window.

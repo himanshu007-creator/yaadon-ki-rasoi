@@ -6,14 +6,12 @@ process.env.DEMO_MODE = "live";
 process.env.RECORD = "1";
 process.env.DAILY_CREDIT_CAP ||= "150";
 
-import fs from "node:fs/promises";
 import path from "node:path";
 import { investigate, reveal } from "../lib/agent/pipeline";
 import type { CallMeta } from "../lib/serp";
 import { PLACES } from "../lib/places";
 import { writeJson } from "../lib/disk";
 import { GATE_A } from "../lib/library";
-import { stateById } from "../lib/states";
 import { norm } from "../lib/text";
 import type { Candidate, DishClass, LibraryEntry, MemoryInput, RevealPayloads } from "../lib/types";
 
@@ -85,22 +83,7 @@ for (const f of FLAGSHIPS.filter((f) => !only || f.slug === only)) {
     calls,
   };
   await writeJson(path.join(process.cwd(), "fixtures", "library", `${f.slug}.json`), entry);
-  if (f.slug === "anarsa") await refreshDemoFamily(entry);
   const credits = calls.reduce((s, c) => s + c.credits, 0);
   console.log(`   ✓ ${pick.name} · states ${Object.keys(rv.aliases?.byState ?? {}).length} · heartbeat ${rv.heartbeat ? "yes" : "no"} · steps ${rv.steps?.steps.length ?? 0} · shops ${rv.shops?.shops.length ?? 0} · ${credits} credits`);
 }
 process.exit(0);
-
-// The seeded demo family shows the real recorded dish, names and steps.
-async function refreshDemoFamily(e: LibraryEntry) {
-  const file = path.join(process.cwd(), "fixtures", "demo-family.json");
-  const fam = JSON.parse(await fs.readFile(file, "utf8"));
-  const c = e.candidates.find((x) => x.id === e.confirmedId)!;
-  fam.dish = { name: c.name, nameNative: c.nameNative, aliases: c.aliases, photo: c.photo };
-  fam.names = Object.entries(e.reveal.aliases?.byState ?? {})
-    .sort((a, b) => b[1].share - a[1].share)
-    .map(([id, v]) => ({ state: stateById(id)?.name ?? id, name: v.name }))
-    .slice(0, 8);
-  fam.steps = e.reveal.steps ?? null;
-  await writeJson(file, fam);
-}

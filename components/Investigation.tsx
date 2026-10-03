@@ -7,6 +7,7 @@ import type { CallMeta } from "@/lib/serp";
 import { haptic, tink, whistle } from "@/lib/sound";
 import { haversineKm } from "@/lib/geo";
 import { stateById } from "@/lib/states";
+import { saveResult } from "@/lib/history";
 import { postStream, startSearch } from "@/lib/stream";
 import { QUESTIONS, type AliasMap, type Candidate, type City, type DishClass, type Heartbeat, type MemoryInput, type Scene, type ShopsPack, type StepsPack } from "@/lib/types";
 import { Diya } from "./Diya";
@@ -17,7 +18,7 @@ import { Doori, HeartbeatChart, NamesMap, Polaroid, SceneShell, Shops, Skeleton,
 import type { CardData } from "./ShareCard";
 import { ShareSheet } from "./ShareSheet";
 
-type Stage = { status: "start" | "ok" | "skip" | "fail"; meta?: { words?: string[]; pages?: number; domains?: string[]; count?: number } };
+type Stage = { status: "start" | "ok" | "skip" | "fail"; meta?: { words?: string[]; pages?: number; domains?: string[]; count?: number; by?: string[] } };
 type RevealState = { payload: unknown; source: "live" | "recorded"; recordedAt?: string; provenance: CallMeta[]; needCity?: boolean };
 type Recorded = { reason: string; recordedAt: string; seed: string };
 
@@ -34,10 +35,11 @@ interface State {
   rejected: string[];
   noMatch: boolean;
   reveal: Partial<Record<Scene, RevealState>>;
+  revealDone: boolean;
   error: string | null;
 }
 
-const initial: State = { stages: {}, calls: [], pool: [], shown: 0, dishClass: "unknown", recorded: null, need: null, asked: false, rejected: [], noMatch: false, reveal: {}, error: null };
+const initial: State = { stages: {}, calls: [], pool: [], shown: 0, dishClass: "unknown", recorded: null, need: null, asked: false, rejected: [], noMatch: false, reveal: {}, revealDone: false, error: null };
 
 type Action = { event: string; data?: any };
 
@@ -55,6 +57,8 @@ function reducer(s: State, { event, data }: Action): State {
       return { ...s, noMatch: true, need: null, pool: [] };
     case "reveal":
       return { ...s, reveal: { ...s.reveal, [data.scene]: data } };
+    case "done":
+      return { ...s, revealDone: true };
     case "error":
       return { ...s, error: data.code ?? "INTERNAL" };
     // Client-side steps: next three cards, the one refine question, a fresh search.
@@ -77,12 +81,25 @@ export interface Flagship {
   text: string;
 }
 
+export { initial as emptyState, type State };
+
 export function Investigation({ input, flagships }: { input: MemoryInput; flagships: Flagship[] }) {
   const [s, dispatch] = useReducer(reducer, initial);
   const { t } = useT();
   const [aha, setAha] = useState<null | "ring" | "still" | "found" | "done">(null);
   const [picked, setPicked] = useState<Candidate | null>(null);
+  const [you, setYou] = useState<City | null>(input.city ?? null);
+  const [home, setHome] = useState<City | null>(input.home ?? null);
+  const [savedId, setSavedId] = useState<string | null>(null);
   const abort = useRef<AbortController | null>(null);
+
+  // Every finished result goes to "My memories" (IndexedDB, this browser only); later changes update the same entry.
+  useEffect(() => {
+    if (!picked || !s.revealDone) return;
+    const id = savedId ?? `${Date.now()}-${picked.id}`;
+    if (!savedId) setSavedId(id);
+    void saveResult({ id, createdAt: Date.now(), input, candidate: picked, dishClass: s.dishClass, reveal: s.reveal, calls: s.calls, you, home });
+  }, [picked, s.revealDone, s.reveal, you, home]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const run = useCallback((url: string, body: unknown) => {
     const ac = new AbortController();
@@ -121,7 +138,17 @@ export function Investigation({ input, flagships }: { input: MemoryInput; flagsh
   let body: React.ReactNode;
   if (s.error) body = <Oops code={s.error} />;
   else if (aha && aha !== "done") body = <Aha phase={aha} c={picked!} />;
-  else if (picked) body = <Reveal s={s} c={picked} input={input} onCity={(city) => reveal(picked, { input: { ...input, city }, only: "shops" })} />;
+  else if (picked)
+    body = (
+      <>
+        <Reveal s={s} c={picked} input={input} you={you} setYou={setYou} home={home} setHome={setHome} onCity={(city) => reveal(picked, { input: { ...input, city }, only: "shops" })} />
+        {savedId && (
+          <p role="status" className="fixed bottom-[max(16px,env(safe-area-inset-bottom))] left-4 z-30 m-0 rounded-full px-4 py-2 text-[14px]" style={{ background: "var(--surface-2)", border: "1px solid var(--line)" }}>
+            📖 <Link href="/history">{t("savedHistory")}</Link>
+          </p>
+        )}
+      </>
+    );
   else if (s.need) body = <Refine need={s.need} onAnswer={refine} />;
   else if (s.noMatch) body = <NoMatch flagships={flagships} />;
   else if (cards.length) body = <Confirm cards={cards} onYes={onYes} onRejectAll={() => dispatch({ event: "rejected", data: { names: cards.map((c) => c.name) } })} />;
@@ -190,6 +217,9 @@ function Theatre({ s, input }: { s: State; input: Pick<MemoryInput, "maker" | "r
       </div>
       <h1 className="text-[clamp(26px,6.5vw,38px)]">{input.remembered ? t("theatreGentle") : t("theatre", { maker: maker(input.maker) })}</h1>
 
+      {s.stages.parse?.meta?.by?.length ? (
+        <p className="tag rise !px-3 !py-1.5 !text-[14px]">🧠 {t("aiUsed")}</p>
+      ) : null}
       {words.length > 0 && (
         <div className="rise flex flex-wrap justify-center gap-2" aria-label={t("words")}>
           {words.map((w) => (
@@ -443,10 +473,8 @@ function Oops({ code }: { code: string }) {
 
 /* ---------------- Reveal: scenes A–F ---------------- */
 
-function Reveal({ s, c, input, onCity }: { s: State; c: Candidate; input: MemoryInput; onCity: (c: City) => void }) {
+export function Reveal({ s, c, input, you, setYou, home, setHome, onCity }: { s: State; c: Candidate; input: MemoryInput; you: City | null; setYou: (c: City | null) => void; home: City | null; setHome: (c: City | null) => void; onCity?: (c: City) => void }) {
   const { t, maker } = useT();
-  const [you, setYou] = useState<City | null>(input.city ?? null);
-  const [home, setHome] = useState<City | null>(input.home ?? null);
   const names = s.reveal.aliases?.payload as AliasMap | null | undefined;
   const hb = s.reveal.heartbeat?.payload as Heartbeat | null | undefined;
   const steps = s.reveal.steps?.payload as StepsPack | null | undefined;
@@ -496,16 +524,14 @@ function Reveal({ s, c, input, onCity }: { s: State; c: Candidate; input: Memory
 
       <SceneShell id="shops" title={t("shopsTitle")} sub={shops ? t("shopsSub", { city: shops.city }) : undefined} chip={chip("shops", "google_maps")}>
         {pending("shops", "st_shops")}
-        {s.reveal.shops?.needCity ? <ShopsCity onPick={(city) => (setYou(city), onCity(city))} /> : shops ? <Shops pack={shops} /> : failed("shops")}
+        {s.reveal.shops?.needCity ? onCity && <ShopsCity onPick={(city) => (setYou(city), onCity(city))} /> : shops ? <Shops pack={shops} /> : failed("shops")}
       </SceneShell>
 
       <DooriScene you={you} setYou={setYou} home={home} setHome={setHome} makerLabel={makerLabel} gentle={!!input.remembered} />
 
-      <FamilyCta
+      <ShareSection
         c={c}
         input={input}
-        names={names}
-        steps={steps}
         card={{
           maker: makerLabel,
           dish: c.name,
@@ -575,101 +601,18 @@ function DooriScene({ you, setYou, home, setHome, makerLabel, gentle }: { you: C
   );
 }
 
-function FamilyCta({ c, input, names, steps, card }: { c: Candidate; input: MemoryInput; names?: AliasMap | null; steps?: StepsPack | null; card: CardData }) {
+function ShareSection({ c, input, card }: { c: Candidate; input: MemoryInput; card: CardData }) {
   const { t, maker } = useT();
-  const [name, setName] = useState("");
-  const [busy, setBusy] = useState(false);
-  const [made, setMade] = useState<{ slug: string; ownerKey: string; url: string } | null>(null);
-  const [err, setErr] = useState("");
-
-  useEffect(() => {
-    try {
-      setName(localStorage.getItem("yr-name") ?? "");
-    } catch {}
-  }, []);
-
-  const create = async (e: React.FormEvent) => {
-    e.preventDefault();
-    if (!name.trim()) return;
-    setBusy(true);
-    setErr("");
-    const res = await fetch("/api/family", {
-      method: "POST",
-      headers: { "content-type": "application/json" },
-      body: JSON.stringify({
-        ownerName: name.trim(),
-        maker: input.maker,
-        remembered: input.remembered,
-        festival: input.festival,
-        dish: { name: c.name, nameNative: c.nameNative, aliases: c.aliases, photo: c.photo },
-        names: Object.entries(names?.byState ?? {})
-          .sort((a, b) => b[1].share - a[1].share)
-          .map(([id, v]) => ({ state: stateById(id)?.name ?? id, name: v.name })),
-        steps: steps ?? null,
-      }),
-    });
-    const j = await res.json().catch(() => null);
-    setBusy(false);
-    if (!res.ok || !j) return setErr(t("error"));
-    try {
-      localStorage.setItem("yr-name", name.trim());
-      localStorage.setItem(`yr-owner-${j.slug}`, j.ownerKey);
-    } catch {}
-    tink();
-    setMade(j);
-  };
-
   return (
-    <section aria-labelledby="family-h" className="py-10">
-      <div className="paper mx-auto max-w-[640px] space-y-5 p-6 sm:p-8">
-        <div className="flex items-center gap-3">
-          <Diya size={48} />
-          <h2 id="family-h" className="text-[32px]">
-            {t("familyTitle")}
-          </h2>
-        </div>
-        <p className="m-0 text-[var(--ink-dim)]">{t("familyBody")}</p>
-        {!made ? (
-          <form onSubmit={create} className="space-y-3">
-            <label htmlFor="owner" className="block font-semibold">
-              {t("yourName")}
-            </label>
-            <input id="owner" className="input !bg-white !text-[var(--ink)]" value={name} onChange={(e) => setName(e.target.value)} maxLength={40} autoComplete="given-name" required />
-            <button className="btn btn-primary btn-block" disabled={busy || !name.trim()}>
-              {busy ? t("creating") : t("createFamily")}
-            </button>
-            {err && <p role="alert" className="m-0 text-[var(--kumkum)]">{err}</p>}
-          </form>
-        ) : (
-          <div className="space-y-4">
-            <Link href={made.url} className="btn btn-block" style={{ background: "var(--ink)", color: "var(--paper)" }}>
-              🪔 {t("openFamily")} →
-            </Link>
-            <p className="m-0 text-[13px] text-[var(--ink-dim)]">
-              {t("ownerSaved")}{" "}
-              <button className="underline" onClick={() => navigator.clipboard?.writeText(`${location.origin}${made.url}#k=${made.ownerKey}`)}>
-                {t("recovery")}
-              </button>
-            </p>
-          </div>
-        )}
-      </div>
-      <div className="mx-auto mt-10 max-w-[900px] space-y-4">
+    <section aria-labelledby="keep-h" className="py-10">
+      <div className="mx-auto max-w-[900px] space-y-4">
         <div className="text-center">
-          <h2 className="text-[30px]">{t("keepTitle")}</h2>
+          <h2 id="keep-h" className="text-[30px]">
+            {t("keepTitle")}
+          </h2>
           <p className="dim m-0">{t("keepSub")}</p>
         </div>
-        <ShareSheet
-          card={card}
-          path={made?.url ?? "/"}
-          content={made ? "family" : "result"}
-          title={t("shareTitle", { maker: maker(input.maker), dish: c.name })}
-          text={
-            made
-              ? t(input.remembered ? "waTextGentle" : "waText", { maker: maker(input.maker), dish: c.name, url: "" }).trim()
-              : t("shareCaption", { maker: maker(input.maker), dish: c.name })
-          }
-        />
+        <ShareSheet card={card} path="/" content="result" title={t("shareTitle", { maker: maker(input.maker), dish: c.name })} text={t("shareCaption", { maker: maker(input.maker), dish: c.name })} />
       </div>
       <div className="mt-8 text-center">
         <Link href="/#describe" className="btn btn-ghost">

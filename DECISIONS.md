@@ -8,6 +8,8 @@
 | Stateless streaming POSTs instead of an in-memory registry + SSE GET | Serverless instances don't share memory; the browser now holds the investigation state. |
 | Card/PDF export with modern-screenshot, not html-to-image | html-to-image hung on this page; modern-screenshot renders the card in about a second. Exports render from untransformed off-screen copies so images are exactly 1080×1350. PDF pages are JPEG (370 KB vs 10 MB as PNG). |
 | Key privacy wording: "never stored, logged or shared; passes through our server only to reach SerpApi" | Literally true for this architecture; "nothing is sent to us" would not be. |
+| Family pages removed | They needed a database to be reliable on Vercel; a static, key-less public deploy is worth more. History lives in the visitor's IndexedDB instead. |
+| Chrome built-in AI as progressive enhancement, not the polyfill | Translator/Language Detector are stable, on-device and free; Prompt API (Gemini Nano) only where Chrome ships it and the model is already downloaded. The official polyfill needs Firebase/Gemini cloud keys, which defeats "free, no key". |
 | Bring-your-own SerpApi key in public mode | The owner can't fund public searches; visitors's keys stay in their browser and bypass the daily cap (their credits). |
 | JSON files in `.data/` instead of Postgres/Redis | Zero-setup local run for judges; adapters are one file each (`lib/store.ts`, `lib/serp.ts` cache) to swap later. |
 | In-memory investigation registry + SSE | One Node process is enough for the demo; reconnects replay from `Last-Event-ID`. |

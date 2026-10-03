@@ -12,7 +12,8 @@ Describe a festive dish you remember but can't name — *"Nani Diwali pe ek gol 
 - **Desh bhar ki naaniyan** — tap a state and a grandmother speaks in that state's language (10 Indian languages, Cartesia AI voices, clearly labelled): *"Ayyo, kannu! Adhirasam nyabagam irukka?…"*
 - **Ghar ki doori** — India's official outline with your exact location and Nani's village (any village/town via OpenStreetMap search, or tap the map): *"Nani ka ghar 1,528 km door hai. Par yeh swaad ab bas ek seeti door hai."*
 - **Yaad sambhalo** — share even when a link can't travel: a 1080×1350 **Memory Card** PNG (dish, lit India map with its names, "17 of 19 Diwalis", distance to Nani's ghar — drawn art only, no scraped photos) and a small **PDF** (card + recipe sheet with timestamped steps). One-tap sharing to WhatsApp, Instagram (sends the card image itself), Reddit, LinkedIn, X, Facebook, Telegram and email; every link carries `utm_source/medium/campaign/content` and each share fires a Vercel Analytics `share` event.
-- **Parivaar ko batao** — a no-login family page where relatives light a diya each. Three confirmations: *"Teen seeti ho gayi! Parivaar ki recipe pakki."* 🍲
+- **Meri yaadein** — every result is saved to a history in your own browser (IndexedDB) and reopens instantly, with no network or credits. Nothing is stored on a server.
+- **Chrome's built-in AI** — on Chrome, a memory typed in Hindi, Tamil, Bengali… is translated on-device (Translator + Language Detector APIs), and where Gemini Nano is available (Prompt API) it turns the memory into search queries on-device. Free, no key, nothing sent to an AI service; skipped silently elsewhere.
 
 ## Quick start
 
@@ -55,7 +56,6 @@ Set these in the Vercel project:
 | Variable | Value | Why |
 |---|---|---|
 | `NEXT_PUBLIC_VERCEL_DEPLOY` | `true` | Public mode: your SerpApi key is never spent. A **🔑 Your key** button explains how to get a free SerpApi key (250 searches/month) and keeps it only in the visitor's browser; it rides along on each search request and is never stored or logged. Without a key, visitors get the recorded investigations. |
-| `KV_REST_API_URL`, `KV_REST_API_TOKEN` | from Vercel KV / Upstash | Durable family pages (serverless instances don't share disk). |
 | `ANTHROPIC_API_KEY` | optional | Better parsing/extraction; rules work without it. |
 
 The backend is stateless: every step is one streaming `POST` (`/api/investigate`, `/api/reveal`) and the browser holds the state, so it works across serverless instances. [Vercel Analytics](https://vercel.com/docs/analytics) is built in (cookie-less). Grandmother voices are static files: a dish-specific line for the recorded flagships and one generic line per language for every other search, so playback never costs Cartesia credits.
@@ -102,7 +102,7 @@ The LLM (optional) may turn a memory into search queries, pick dish names **from
 
 ## Privacy & safety
 
-No accounts. Family links are unguessable; the owner key is shown once and only its hash is stored. Families auto-delete after 120 days; the owner can delete any time. Rate limits on every write. No analytics or trackers. *Yaad mein 🕯* mode softens all copy when the person is no longer with us.
+No accounts and no database: history lives only in the visitor's browser (IndexedDB) and can be deleted there. A visitor's SerpApi key is stored only in their browser and passes through the server per search, never stored or logged. Rate limits on every endpoint. Cookie-less analytics only.
 
 ## Accessibility & devices
 
@@ -112,7 +112,7 @@ Mobile-first (360 px), two-pane on tablet/desktop. 48 px targets, visible focus,
 
 ```bash
 npm test        # cache key, singleflight, redaction, 429 classifier, provenance validator, rank,
-                # state codes, heritage score, quote picker, step grounding, Teen seeti once
+                # state codes, heritage score, quote picker, step grounding, live-first order, voices, on-device AI hints
 ```
 
 ## Known limitations

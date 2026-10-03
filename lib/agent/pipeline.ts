@@ -3,6 +3,7 @@ import { BudgetExhausted, SerpError } from "../budget";
 import { closest, libraryEntry, libraryFor } from "../library";
 import { llmParse } from "../llm";
 import { norm } from "../text";
+import { isByo } from "../context";
 import { mode, ReplayMiss, type CallMeta } from "../serp";
 import { REFINE_OPTIONS, type Candidate, type DishClass, type MemoryInput, type ParsedMemory, type Scene } from "../types";
 import { addPhotos, extract, retrieve } from "./candidates";
@@ -17,7 +18,7 @@ const degradable = (e: unknown) => e instanceof ReplayMiss || e instanceof Budge
 
 function reasonOf(e: unknown) {
   if (e instanceof BudgetExhausted) return "budget";
-  if (e instanceof SerpError) return e.kind === "out-of-credits" ? "budget" : "serpapi";
+  if (e instanceof SerpError) return e.kind === "out-of-credits" ? (isByo() ? "ownbudget" : "budget") : /invalid api key|api key/i.test(e.message) ? "badkey" : "serpapi";
   return "replay";
 }
 
@@ -30,8 +31,11 @@ function fail(emit: Emit, e: unknown) {
 const stage = (emit: Emit, id: string, status: "start" | "ok" | "skip" | "fail", meta?: Record<string, unknown>) => emit("stage", { id, status, meta });
 
 export async function parse(input: MemoryInput): Promise<ParsedMemory> {
-  const dict = dictParse(input);
-  const llm = await llmParse(input);
+  // A memory Chrome translated on-device is parsed in English as well as in its original words.
+  const h = input.hints;
+  const dict = dictParse(h?.translated ? { ...input, text: `${input.text}\n${h.translated}` } : input);
+  const llm = (await llmParse(input)) ?? (h?.queries?.length === 2 ? { dishClass: h.dishClass ?? "unknown", descriptors: h.descriptors ?? [], descriptorsNative: [], queries: h.queries } : null);
+  if (llm) llm.queries = llm.queries.map((q) => (/recipe/i.test(q) ? q : `${q} recipe`));
   if (!llm) return dict;
   const descriptors = [...new Set([...dict.descriptors, ...llm.descriptors.map((d) => d.toLowerCase())])].slice(0, 10);
   return {
@@ -55,7 +59,7 @@ export async function investigate(input: MemoryInput, emit: Emit, opts: { refine
       parsed.descriptors = [...new Set([...parsed.descriptors, opts.refine])];
       parsed.queries = buildQueries(input.festival, parsed.dishClass, parsed.descriptors, parsed.regionHints);
     }
-    stage(emit, "parse", "ok", { words: parsed.descriptorsNative.length ? parsed.descriptorsNative : parsed.descriptors });
+    stage(emit, "parse", "ok", { words: parsed.descriptorsNative.length ? parsed.descriptorsNative : parsed.descriptors, by: input.hints?.by });
     if (opts.forceRecorded) return await playback(input, parsed, emit, opts.forceRecorded);
 
     stage(emit, "retrieve", "start", { queries: parsed.queries });

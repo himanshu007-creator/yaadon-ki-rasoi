@@ -102,6 +102,9 @@ export function Header() {
         </a>
       </div>
       <div className="flex items-center gap-2">
+        <Link href="/history" className="chip !min-h-[44px] no-underline" aria-label={t("navHistory")}>
+          📖 <span className="hidden lg:inline">{t("navHistory")}</span>
+        </Link>
         <div className="hidden sm:block">
           <LangToggle />
         </div>

@@ -14,7 +14,6 @@ const { cacheKey, serp, redact } = await import("@/lib/serp");
 const { validate, rank } = await import("@/lib/agent/candidates");
 const { heritageScore, pickQuote, groundSteps } = await import("@/lib/agent/reveal");
 const { findState } = await import("@/lib/states");
-const { addContribution, createFamily, deleteFamily } = await import("@/lib/store");
 const { classify } = await import("@/lib/budget");
 import type { Doc, ParsedMemory } from "@/lib/types";
 
@@ -113,15 +112,6 @@ describe("reveal helpers", () => {
   });
 });
 
-describe("family", () => {
-  it("fires Teen seeti exactly once", async () => {
-    const { slug } = await createFamily({ ownerName: "T", remembered: false, festival: "diwali", dish: { name: "Anarsa", aliases: [] }, names: [] });
-    const r = [];
-    for (const [i, name] of ["A", "B", "C", "D"].entries()) r.push(await addContribution(slug, { kind: "confirm", name }, `10.0.0.${i}`));
-    expect(r.map((x) => x?.teenSeeti)).toEqual([false, false, true, false]);
-    await deleteFamily(slug);
-  });
-});
 
 describe("map projection", async () => {
   const { toSvg, fromSvg } = await import("@/lib/geo");
@@ -182,5 +172,19 @@ describe("grandmother voices", async () => {
     const g = voiceFor("ta", "Besan Ladoo");
     expect(g.src).toBe("/voices/ta-generic.mp3");
     expect(g.roman).not.toContain("Besan Ladoo");
+  });
+});
+
+describe("Chrome on-device AI hints", async () => {
+  const { parse } = await import("@/lib/agent/pipeline");
+  it("uses on-device queries (forcing 'recipe') and parses the translated text too", async () => {
+    const p = await parse({
+      text: "नानी दिवाली पर गोल मिठाई बनाती थीं",
+      festival: "diwali",
+      uiLang: "hinglish",
+      hints: { translated: "Nani made round sweets with jaggery and sesame on Diwali", queries: ["Diwali jaggery sesame round sweet", "traditional sesame jaggery sweet recipe"], descriptors: ["jaggery", "sesame"], dishClass: "sweet", by: ["translator", "gemini-nano"] },
+    });
+    expect(p.queries).toEqual(["Diwali jaggery sesame round sweet recipe", "traditional sesame jaggery sweet recipe"]);
+    expect(p.descriptors).toEqual(expect.arrayContaining(["jaggery", "sesame", "round"]));
   });
 });

@@ -19,7 +19,7 @@ const CHANNELS: { id: Channel; label: string; color: string; icon: string }[] = 
  * Downloads (PNG card, PDF) work even when a link can't travel; social buttons carry UTM-tagged links.
  * modern-screenshot and jsPDF load only when someone taps download.
  */
-export function ShareSheet({ card, path, content, text, title }: { card: CardData; path: string; content: "family" | "result"; text: string; title: string }) {
+export function ShareSheet({ card, path, content, text, title }: { card: CardData; path: string; content: "result"; text: string; title: string }) {
   const { t } = useT();
   const cardRef = useRef<HTMLDivElement>(null);
   const sheetRef = useRef<HTMLDivElement>(null);

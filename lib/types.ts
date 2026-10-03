@@ -27,6 +27,8 @@ export interface MemoryInput {
   city?: City; // where the user is now
   home?: City; // where the maker lived
   uiLang: UiLang;
+  /** From Chrome's on-device AI in the visitor's browser, if it was available. */
+  hints?: { translated?: string; descriptors?: string[]; queries?: string[]; dishClass?: DishClass; by: string[] };
 }
 
 export type DishClass = "sweet" | "snack" | "savory" | "drink" | "remedy" | "offering" | "unknown";

@@ -43,4 +43,30 @@ export const InputSchema = z.object({
   city: CitySchema.optional(),
   home: CitySchema.optional(),
   uiLang: z.enum(["hinglish", "en"]).default("hinglish"),
+  hints: z
+    .object({
+      translated: z.string().trim().max(1200).optional(),
+      descriptors: z.array(z.string().trim().max(40)).max(10).optional(),
+      queries: z.array(z.string().trim().max(120)).max(2).optional(),
+      dishClass: z.enum(["sweet", "snack", "savory", "drink", "remedy", "offering", "unknown"]).optional(),
+      by: z.array(z.enum(["translator", "gemini-nano"])).max(2),
+    })
+    .optional(),
 });
+
+// ponytail: in-memory sliding window; resets on restart. Upstash ratelimit when multi-instance.
+const hits = new Map<string, number[]>();
+export function rateLimit(key: string, limit: number, windowMs: number) {
+  const now = Date.now();
+  const arr = (hits.get(key) ?? []).filter((t) => now - t < windowMs);
+  if (arr.length >= limit) {
+    hits.set(key, arr);
+    return false;
+  }
+  arr.push(now);
+  hits.set(key, arr);
+  return true;
+}
+
+export const clientIp = (req: Request) =>
+  req.headers.get("x-forwarded-for")?.split(",")[0].trim() || req.headers.get("x-real-ip") || "local";

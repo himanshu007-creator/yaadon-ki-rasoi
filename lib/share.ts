@@ -6,7 +6,7 @@ export type Channel = "whatsapp" | "instagram" | "reddit" | "linkedin" | "x" | "
 const CAMPAIGN = "diwali2026";
 
 /** Absolute URL tagged so Vercel Analytics can tell which share brought people in. */
-export function withUtm(path: string, source: Channel, content: "family" | "result") {
+export function withUtm(path: string, source: Channel, content: "result") {
   const u = new URL(path, location.origin);
   u.searchParams.set("utm_source", source);
   u.searchParams.set("utm_medium", source === "email" ? "email" : "social");

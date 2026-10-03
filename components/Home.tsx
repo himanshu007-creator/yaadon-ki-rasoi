@@ -2,6 +2,7 @@
 import { useRouter } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import { MAKER_LABEL, pick, type CopyKey } from "@/lib/copy";
+import { understandMemory } from "@/lib/browserAI";
 import { tink } from "@/lib/sound";
 import { startSearch } from "@/lib/stream";
 import { MAKERS, type City, type Maker } from "@/lib/types";
@@ -76,6 +77,7 @@ function Describe() {
   const [city, setCity] = useState<City | null>(null);
   const [remembered, setRemembered] = useState(false);
   const [busy, setBusy] = useState(false);
+  const [aiBusy, setAiBusy] = useState(false);
   const [err, setErr] = useState("");
   const [ex, setEx] = useState(0);
 
@@ -108,16 +110,23 @@ function Describe() {
     });
   };
 
+  const makerName = maker === "other" ? t("makerOther") : pick(lang, MAKER_LABEL[maker]);
+  const missing = [
+    text.trim().length < 12 && t("needMemory"),
+    !home && t("needHome", { maker: makerName }),
+    !city && t("needYourCity"),
+  ].filter(Boolean) as string[];
+
   const submit = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (text.trim().length < 8) {
-      setErr(t("tooShort"));
-      ta.current?.focus();
-      return;
-    }
+    if (missing.length || busy) return;
     setBusy(true);
     setErr("");
-    const payload = { text: text.trim(), maker, home: home ?? undefined, remembered, city: city ?? undefined, uiLang: lang };
+    // The submit click is the user gesture Chrome's built-in AI needs; it never blocks more than a few seconds.
+    setAiBusy(true);
+    const hints = await understandMemory(text.trim()).catch(() => null);
+    setAiBusy(false);
+    const payload = { text: text.trim(), maker, home: home ?? undefined, remembered, city: city ?? undefined, uiLang: lang, hints: hints ?? undefined };
     try {
       sessionStorage.setItem("yr-last", JSON.stringify(payload));
     } catch {}
@@ -135,7 +144,7 @@ function Describe() {
         {t("skipToContent")}
       </a>
       <Header />
-      <main id="main" className="wrap narrow pb-40 pt-6 sm:pt-10">
+      <main id="main" className="wrap narrow pb-52 pt-6 sm:pt-10">
         <form onSubmit={submit} noValidate className="space-y-8">
           <div className="rise space-y-2">
             <h1 className="text-[clamp(30px,7.5vw,42px)]">{t("describeTitle")}</h1>
@@ -222,8 +231,11 @@ function Describe() {
           </p>
 
           <div className="fixed inset-x-0 bottom-0 z-20 border-t border-[var(--line)] px-4 pb-[max(16px,env(safe-area-inset-bottom))] pt-4" style={{ background: "linear-gradient(180deg, transparent, var(--night) 30%)", backdropFilter: "blur(8px)" }}>
-            <div className="mx-auto max-w-[640px]">
-              <button type="submit" className="btn btn-primary btn-block text-[19px]" disabled={busy}>
+            <div className="mx-auto max-w-[640px] space-y-2">
+              <p id="still-needed" aria-live="polite" className="m-0 min-h-[1.2em] text-center text-[13px] text-[var(--turmeric)]">
+                {aiBusy ? `🧠 ${t("aiThinking")}` : missing.length ? t("stillNeeded", { items: missing.join(" · ") }) : ""}
+              </p>
+              <button type="submit" className="btn btn-primary btn-block text-[19px]" disabled={busy || missing.length > 0} aria-describedby="still-needed">
                 {busy ? <Diya size={28} /> : null}
                 {t("find")} <span aria-hidden>→</span>
               </button>

@@ -16,7 +16,6 @@ export interface CardData {
   from?: string;
   to?: string;
   steps?: StepsPack | null;
-  notes?: { body: string; name: string }[];
 }
 
 const PALETTE = ["#ff9f1c", "#ef6f7f", "#7cc47f", "#ffd166", "#a99cf5"];
@@ -140,16 +139,6 @@ export const RecipeSheet = forwardRef<HTMLDivElement, { d: CardData }>(function 
         <>
           <h3 className="mt-5 text-[22px]">{t("namesAcross")}</h3>
           <p className="m-0 text-[15px] capitalize">{[...new Set(d.names.map((n) => n.name))].join(" · ")}</p>
-        </>
-      )}
-      {d.notes && d.notes.length > 0 && (
-        <>
-          <h3 className="mt-5 text-[22px]">{t("memories")}</h3>
-          {d.notes.map((n, i) => (
-            <p key={i} className="hand m-0 text-[19px]">
-              “{n.body}” — {n.name}
-            </p>
-          ))}
         </>
       )}
     </div>
